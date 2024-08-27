@@ -315,6 +315,35 @@ quienes están en riesgo financiero.
 #### 2.1.2. Estrategias y tácticas frente a competidores.
 ### 2.2. Entrevistas.
 #### 2.2.1. Diseño de entrevistas
+
+##### Segmento 1:
+
+###### Preguntas de Información General:
+
+1. ¿Cuál es tu nombre?
+2. ¿Cuántos años tienes?
+3. ¿En qué distrito vives?
+4. ¿A qué te dedicas actualmente? (Estudiante, profesional, etc.)
+
+###### Preguntas sobre Hábitos Financieros:
+
+5. ¿Cómo manejas actualmente tus ingresos y gastos?
+6. ¿Cuál es el mayor desafío que enfrentas al gestionar tus finanzas personales?
+7. ¿Sueles establecer un presupuesto mensual? Si es así, ¿qué tan a menudo lo sigues?
+8. ¿Tienes algún sistema o herramienta que te ayude a planificar tus ahorros?
+9. ¿Has solicitado algún tipo de crédito o préstamo? 
+10. ¿Qué tan fácil o difícil te resulta hacer un seguimiento de tus deudas?
+11. ¿Qué características valorarías más en una aplicación de finanzas personales?
+
+###### Preguntas sobre Tecnología y Comportamiento:
+
+12. ¿Qué tipo de dispositivos sueles usar para gestionar tus finanzas?
+13. ¿Qué aplicaciones o plataformas digitales utilizas frecuentemente?
+14. ¿Cómo te sientes respecto a la privacidad y seguridad de tus datos financieros al usar aplicaciones? ¿Te preocupa que tus datos puedan ser comprometidos?
+15. Si pudieras cambiar algo en la forma en que gestionas tus finanzas, ¿qué sería?
+16. ¿Qué tan dispuesto estarías a suscribirte por una aplicación que mejore significativamente tu gestión financiera?
+17. ¿Qué te haría dejar de usar una aplicación de finanzas personales?
+
 #### 2.2.2. Registro de entrevistas
 #### 2.2.3. Análisis de entrevistas
 ### 2.3. Needfinding

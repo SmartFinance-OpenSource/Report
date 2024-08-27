@@ -141,6 +141,25 @@ de audiencia</td>
 
 ### 1.1. Startup Profile
 #### 1.1.1. Descripción de la Startup
+
+Somos SmartFinance, una startup creada por estudiantes de la carrera de Ingeniería de Software
+de la Universidad Peruana de Ciencias Aplicadas del Perú.
+Hemos desarrollado una aplicación web llamada Finzar,
+diseñada para optimizar la gestión de las finanzas personales de los usuarios.
+
+Finzar es una aplicación web diseñada para transformar la gestión de las finanzas personales
+en una experiencia sencilla y efectiva. Con una interfaz intuitiva, permite a los usuarios
+controlar sus ingresos y gastos, establecer metas de ahorro, gestionar deudas y recibir reportes
+detallados sobre sus hábitos financieros. Finzar también ofrece recordatorios y calculadoras
+financieras para facilitar la toma de decisiones informadas, convirtiéndose en un aliado esencial
+para quienes buscan mejorar su bienestar económico.
+
+**Misión:** Nuestra misión es proporcionar a las personas una solución fácil de usar para tomar el
+control de sus finanzas personales.
+
+**Visión:** En SmartFinance nos visualizamos como un referente
+en la creación de soluciones financieras accesibles y prácticas para los peruanos.
+
 #### 1.1.2. Perfiles de integrantes del equipo
 
 <table>

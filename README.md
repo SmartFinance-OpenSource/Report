@@ -311,6 +311,50 @@ quienes están en riesgo financiero.
 ## Capítulo II: Requirements Elicitation & Analysis <a id="cap2"></a>
 
 ### 2.1. Competidores
+
+Considerando los ideales de nuestra empresa y la tecnología que desarrolla, alineados 
+con nuestra misión y visión, es importante reconocer la existencia de otras aplicaciones 
+y herramientas similares en el mercado. 
+A continuación, mencionamos algunas de ellas y cómo se diferencian de nuestra propuesta.
+
+- **Fintonic:**
+
+Fintonic es una aplicación financiera española diseñada para ayudar a los 
+usuarios a gestionar sus finanzas personales de manera integral. Ofrece 
+herramientas para el seguimiento de ingresos y gastos, categorización 
+automática de transacciones, y alertas sobre la situación financiera, 
+todo en una interfaz amigable y visualmente atractiva.
+
+<div style="text-align: center;">
+  <img src="https://play-lh.googleusercontent.com/I0WHCfeCgKbYZPeX2z3NMp54Vr-mAnUASjXkTOMoAmoWT5USIKqaNdycQzEoQrtOumW1" alt="Fintonic" width="300"/>
+</div>
+
+- **CreditKarma:** 
+
+CreditKarma es una popular aplicación estadounidense que centraliza la gestión 
+financiera de sus usuarios, permitiéndoles crear presupuestos, 
+monitorear gastos, y administrar cuentas bancarias y tarjetas de 
+crédito en un solo lugar. Es conocida por su capacidad para ofrecer 
+una visión completa del estado financiero personal con una experiencia 
+de usuario simple y efectiva.
+
+<div style="text-align: center;">
+  <img src="https://play-lh.googleusercontent.com/WL7n2aDlsXO0OpK0UIy87wh3q16IC9Fs_2rxf2Wkng5cjtDara_vtk-b-PRRAe4M7A" alt="CreditKarma" width="300"/>
+</div>
+
+- **Wallet by BudgetBakers:**
+
+Wallet es una aplicación global que permite a los usuarios 
+planificar sus presupuestos y gestionar sus finanzas personales 
+con un enfoque en la personalización y sincronización con cuentas 
+bancarias. Ofrece reportes detallados y herramientas avanzadas 
+para ayudar a los usuarios a tomar decisiones financieras informadas, 
+todo dentro de una plataforma flexible y adaptable.
+
+<div style="text-align: center;">
+  <img src="https://lh3.googleusercontent.com/LBIyqZbsxXWWQWjsWD5moPJhQQ5L0OKUFNNEbNfUAyJR8vBhPTNll4m2Z2-Lu6reuU4" alt="Wallet" width="300"/>
+</div>
+
 #### 2.1.1. Análisis competitivo
 #### 2.1.2. Estrategias y tácticas frente a competidores.
 ### 2.2. Entrevistas.

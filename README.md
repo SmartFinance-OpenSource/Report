@@ -311,6 +311,14 @@ quienes están en riesgo financiero.
 ## Capítulo II: Requirements Elicitation & Analysis <a id="cap2"></a>
 
 ### 2.1. Competidores
+
+Considerando los ideales de nuestra empresa y la tecnología que desarrolla, alineados 
+con nuestra misión y visión, es importante reconocer la existencia de otras aplicaciones 
+y herramientas similares en el mercado. 
+A continuación, mencionamos algunas de ellas y cómo se diferencian de nuestra propuesta.
+
+
+
 #### 2.1.1. Análisis competitivo
 #### 2.1.2. Estrategias y tácticas frente a competidores.
 ### 2.2. Entrevistas.

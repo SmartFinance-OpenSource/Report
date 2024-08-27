@@ -208,6 +208,100 @@ en la creación de soluciones financieras accesibles y prácticas para los perua
 
 ### 1.2. Solution Profile
 #### 1.2.1 Antecedentes y problemática
+
+
+###### What
+
+- ¿Cuál es el problema?
+
+El problema es que los jóvenes adultos peruanos, especialmente estudiantes universitarios
+y jóvenes profesionales, enfrentan dificultades significativas para gestionar sus
+finanzas personales debido a ingresos limitados y falta de experiencia. Esto conlleva
+a problemas como el sobreendeudamiento y la incapacidad para ahorrar de manera efectiva.
+Finzar busca resolver estos problemas proporcionando herramientas prácticas y accesibles
+para mejorar la estabilidad económica y fomentar buenos hábitos financieros desde una edad
+temprana.
+
+- ¿Cuál es la relación con la persona en cuestión?
+
+La relación con la persona en cuestión es directa, ya que Finzar está diseñada
+específicamente para ayudar a jóvenes adultos peruanos a gestionar sus
+finanzas personales. La aplicación les proporciona las herramientas necesarias
+para controlar sus ingresos y gastos, planificar ahorros y evitar problemas financieros,
+mejorando así su estabilidad económica y hábitos financieros.
+
+###### When
+
+- ¿Cuándo sucede el problema?
+
+
+El problema sucede durante una etapa crucial de la vida de los jóvenes adultos,
+entre los 18 y 30 años, cuando están estableciendo sus carreras y asumiendo
+nuevas responsabilidades financieras.
+
+- ¿Cuándo utiliza el cliente el producto?
+
+El cliente utiliza Finzar de manera continua para gestionar sus finanzas personales,
+especialmente cuando realiza actividades financieras diarias como registrar ingresos y gastos,
+planificar ahorros y controlar deudas. También recurren a la aplicación en momentos clave, como
+al preparar un presupuesto mensual, al recibir recordatorios de pagos, o al analizar sus hábitos
+financieros para tomar decisiones económicas informadas.
+
+###### Where
+
+- ¿Dónde está el cliente cuando usa el producto?
+
+El cliente usa Finzar principalmente en su entorno diario, como en casa,
+en la universidad o en el trabajo, donde gestiona sus finanzas personales y
+revisa su situación económica. La aplicación web está diseñada para ser accesible
+desde cualquier lugar con conexión a internet, permitiendo a los usuarios integrar
+la gestión financiera en su rutina diaria, ya sea al registrar gastos, planificar
+presupuestos o analizar reportes financieros.
+
+- ¿Dónde surge el problema?
+
+El problema surge en el entorno cotidiano de los jóvenes adultos, como en el hogar,
+la universidad o el lugar de trabajo, donde enfrentan dificultades para manejar sus
+finanzas personales de manera efectiva.
+
+###### Who
+
+- ¿Quienes se ven involucrados en el problema?
+
+En el problema están involucrados jóvenes adultos peruanos ,
+incluyendo estudiantes universitarios y jóvenes profesionales que están
+empezando sus carreras.
+
+
+###### Why
+
+- ¿Cuáles son las causas del problema?
+
+Las causas del problema incluyen la falta de educación financiera adecuada y
+herramientas accesibles para jóvenes adultos que están comenzando a manejar sus finanzas.
+La combinación de ingresos iniciales limitados, gastos imprevistos y la falta de experiencia
+en la planificación financiera contribuye al sobreendeudamiento y la incapacidad para ahorrar.
+
+
+###### How
+
+- ¿En qué condiciones los clientes usan nuestro producto?
+
+Los clientes usan Finzar en condiciones de acceso regular a internet
+desde sus dispositivos personales, como computadoras portátiles, tablets o smartphones.
+La aplicación está diseñada para ser utilizada de manera intuitiva y accesible
+en cualquier momento del día.
+
+###### How much
+
+En un contexto donde el 32,3% de la población peruana estuvo en riesgo de caer en condición de pobreza en 2022,
+según el Instituto Nacional de Estadística e Informática (2023), Finzar ofrece una solución accesible y asequible
+para jóvenes adultos que buscan mejorar su estabilidad financiera. La aplicación está diseñada para ayudar a este
+segmento vulnerable a gestionar mejor sus recursos y evitar dificultades económicas, ofreciendo una versión gratuita
+con funcionalidades esenciales y una suscripción premium a bajo costo, adaptada a las necesidades económicas de
+quienes están en riesgo financiero.
+
+
 #### 1.2.2 Lean UX Process
 ##### 1.2.2.1. Lean UX Problem Statements
 ##### 1.2.2.2. Lean UX Assumptions
@@ -292,5 +386,6 @@ en la creación de soluciones financieras accesibles y prácticas para los perua
 
 ## Bibliografía
 
+- INEI [Instituto Nacional de Estadística e Informática]. (2023, 11 mayo). *Pobreza monetaria afectó al 27,5% de la población del país en el año 2022*. Recuperado 23 de agosto de 2024, de [https://m.inei.gob.pe/prensa/noticias/pobreza-monetaria-afecto-al-275-de-la-poblacion-del-pais-en-el-ano-2022-14391/](https://m.inei.gob.pe/prensa/noticias/pobreza-monetaria-afecto-al-275-de-la-poblacion-del-pais-en-el-ano-2022-14391/)
 
 ## Anexos

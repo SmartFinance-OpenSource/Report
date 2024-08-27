@@ -325,6 +325,10 @@ herramientas para el seguimiento de ingresos y gastos, categorización
 automática de transacciones, y alertas sobre la situación financiera, 
 todo en una interfaz amigable y visualmente atractiva.
 
+<div style="text-align: center;">
+  <img src="https://play-lh.googleusercontent.com/I0WHCfeCgKbYZPeX2z3NMp54Vr-mAnUASjXkTOMoAmoWT5USIKqaNdycQzEoQrtOumW1" alt="Fintonic" width="300"/>
+</div>
+
 - **CreditKarma:** 
 
 CreditKarma es una popular aplicación estadounidense que centraliza la gestión 
@@ -334,6 +338,10 @@ crédito en un solo lugar. Es conocida por su capacidad para ofrecer
 una visión completa del estado financiero personal con una experiencia 
 de usuario simple y efectiva.
 
+<div style="text-align: center;">
+  <img src="https://play-lh.googleusercontent.com/WL7n2aDlsXO0OpK0UIy87wh3q16IC9Fs_2rxf2Wkng5cjtDara_vtk-b-PRRAe4M7A" alt="CreditKarma" width="300"/>
+</div>
+
 - **Wallet by BudgetBakers:**
 
 Wallet es una aplicación global que permite a los usuarios 
@@ -342,6 +350,10 @@ con un enfoque en la personalización y sincronización con cuentas
 bancarias. Ofrece reportes detallados y herramientas avanzadas 
 para ayudar a los usuarios a tomar decisiones financieras informadas, 
 todo dentro de una plataforma flexible y adaptable.
+
+<div style="text-align: center;">
+  <img src="https://lh3.googleusercontent.com/LBIyqZbsxXWWQWjsWD5moPJhQQ5L0OKUFNNEbNfUAyJR8vBhPTNll4m2Z2-Lu6reuU4" alt="Wallet" width="300"/>
+</div>
 
 #### 2.1.1. Análisis competitivo
 #### 2.1.2. Estrategias y tácticas frente a competidores.

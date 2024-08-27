@@ -317,7 +317,31 @@ con nuestra misión y visión, es importante reconocer la existencia de otras ap
 y herramientas similares en el mercado. 
 A continuación, mencionamos algunas de ellas y cómo se diferencian de nuestra propuesta.
 
+- **Fintonic:**
 
+Fintonic es una aplicación financiera española diseñada para ayudar a los 
+usuarios a gestionar sus finanzas personales de manera integral. Ofrece 
+herramientas para el seguimiento de ingresos y gastos, categorización 
+automática de transacciones, y alertas sobre la situación financiera, 
+todo en una interfaz amigable y visualmente atractiva.
+
+- **CreditKarma:** 
+
+CreditKarma es una popular aplicación estadounidense que centraliza la gestión 
+financiera de sus usuarios, permitiéndoles crear presupuestos, 
+monitorear gastos, y administrar cuentas bancarias y tarjetas de 
+crédito en un solo lugar. Es conocida por su capacidad para ofrecer 
+una visión completa del estado financiero personal con una experiencia 
+de usuario simple y efectiva.
+
+- **Wallet by BudgetBakers:**
+
+Wallet es una aplicación global que permite a los usuarios 
+planificar sus presupuestos y gestionar sus finanzas personales 
+con un enfoque en la personalización y sincronización con cuentas 
+bancarias. Ofrece reportes detallados y herramientas avanzadas 
+para ayudar a los usuarios a tomar decisiones financieras informadas, 
+todo dentro de una plataforma flexible y adaptable.
 
 #### 2.1.1. Análisis competitivo
 #### 2.1.2. Estrategias y tácticas frente a competidores.

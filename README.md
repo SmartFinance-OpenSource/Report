@@ -339,6 +339,24 @@ Nuestra aplicación, Finzar, fue diseñada para proporcionar a los usuarios una 
 ##### 1.2.2.4. Lean UX Canvas
 ### 1.3. Segmentos objetivo
 
+**Segmento objetivo #1: Jóvenes Adultos Peruanos**
+
+Este grupo está compuesto por jóvenes adultos de entre 18 y 30 años, 
+que incluyen tanto estudiantes universitarios como jóvenes 
+profesionales al inicio de sus carreras. Estos individuos 
+enfrentan desafíos significativos en la gestión de sus finanzas 
+personales, tales como el sobreendeudamiento y la falta de ahorro. 
+La realidad económica de este segmento se caracteriza por ingresos 
+iniciales limitados y una alta exposición a gastos imprevistos, 
+lo que puede dificultar la creación de un colchón financiero estable.
+
+Características clave de este segmento:
+
+- Enfrentan desafíos en la gestión de sus finanzas debido a ingresos iniciales bajos y gastos imprevistos.
+- Buscan herramientas prácticas y accesibles para mejorar su estabilidad económica y evitar el sobreendeudamiento.
+- Desean desarrollar buenos hábitos financieros desde una edad temprana para asegurar un futuro económico sólido.
+- Valoran soluciones que sean fáciles de usar y que se adapten a su estilo de vida dinámico
+
 ## Capítulo II: Requirements Elicitation & Analysis <a id="cap2"></a>
 
 ### 2.1. Competidores

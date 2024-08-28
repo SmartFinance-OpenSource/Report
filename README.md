@@ -304,6 +304,7 @@ quienes están en riesgo financiero.
 
 #### 1.2.2 Lean UX Process
 ##### 1.2.2.1. Lean UX Problem Statements
+Nuestra aplicación, Finzar, fue diseñada para proporcionar a los usuarios una herramienta integral para organizar sus finanzas personales. Hemos observado que muchos jóvenes peruanos, particularmente aquellos con una edad promedio de 21 años, enfrentan dificultades para gestionar su dinero de manera eficiente. Esta falta de habilidades en la gestión financiera está llevando a problemas como el sobreendeudamiento, la falta de ahorros, y una limitada capacidad para alcanzar sus metas económicas a largo plazo. ¿Cómo podríamos mejorar Finzar para que estos jóvenes puedan manejar mejor sus finanzas, medido a través de un aumento en el ahorro personal, una reducción en la deuda y una mayor satisfacción en la planificación financiera?
 ##### 1.2.2.2. Lean UX Assumptions
 ##### 1.2.2.4. Lean UX Canvas
 ### 1.3. Segmentos objetivo

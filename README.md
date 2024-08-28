@@ -306,7 +306,7 @@ quienes están en riesgo financiero.
 ##### 1.2.2.1. Lean UX Problem Statements
 Nuestra aplicación, Finzar, fue diseñada para proporcionar a los usuarios una herramienta integral para organizar sus finanzas personales. Hemos observado que muchos jóvenes peruanos, particularmente aquellos con una edad promedio de 21 años, enfrentan dificultades para gestionar su dinero de manera eficiente. Esta falta de habilidades en la gestión financiera está llevando a problemas como el sobreendeudamiento, la falta de ahorros, y una limitada capacidad para alcanzar sus metas económicas a largo plazo. ¿Cómo podríamos mejorar Finzar para que estos jóvenes puedan manejar mejor sus finanzas, medido a través de un aumento en el ahorro personal, una reducción en la deuda y una mayor satisfacción en la planificación financiera?
 ##### 1.2.2.2. Lean UX Assumptions
-#### **Supuestos del Negocio:**
+###### **Supuestos del Negocio:**
 1. **Creo que mis clientes tienen la necesidad de:** Gestionar mejor sus finanzas personales para lograr estabilidad económica.
 2. **Estas necesidades pueden resolverse con:** Una aplicación intuitiva que permita organizar ingresos, gastos, ahorros e inversiones.
 3. **Mis clientes iniciales son (o serán):** Jóvenes adultos peruanos, entre 18 y 30 años, interesados en mejorar su salud financiera.
@@ -319,7 +319,7 @@ Nuestra aplicación, Finzar, fue diseñada para proporcionar a los usuarios una 
 8. **El mayor riesgo de mi producto es:** Falta de adopción por parte de los usuarios.  
    **Lo resolveremos mediante:** Mejora continua del producto basada en el feedback de los usuarios.
 9. **Otras suposiciones que, si se demuestran falsas, harán que nuestro negocio fracase:** Los jóvenes peruanos no están dispuestos a pagar por servicios financieros adicionales o no confían en las apps para gestionar sus finanzas.
-#### **Supuestos del Cliente:**
+###### **Supuestos del Cliente:**
 1. **¿Quién es el cliente?** Jóvenes adultos peruanos, entre 18 y 30 años.
 2. **¿Dónde encaja nuestro producto en su vida?** Como una herramienta esencial para gestionar sus finanzas diariamente.
 3. **¿Qué problemas soluciona nuestro producto?** Evita el sobreendeudamiento, facilita el ahorro y mejora la planificación financiera.

@@ -327,13 +327,13 @@ Nuestra aplicación, Finzar, fue diseñada para proporcionar a los usuarios una 
 5. **¿Qué características son importantes?** Presupuestos personalizados, alertas de gasto, análisis financiero y una interfaz fácil de usar.
 6. **¿Cómo debería verse y comportarse nuestro producto?** Con una interfaz moderna, limpia y fácil de navegar, enfocada en la simplicidad y eficiencia.
 ##### 1.2.2.3. Lean UX Hypothesis Statements
-#### **Hipótesis 1:**
+###### **Hipótesis 1:**
 **Creemos que** incorporar una función de alertas personalizadas para gastos excesivos ayudará a los jóvenes adultos peruanos a evitar sobreendeudamiento y a mantener un control más riguroso de sus gastos.  
 **Sabremos que esto es cierto cuando veamos** una reducción en la cantidad de gastos excesivos reportados por los usuarios, así como un aumento en el número de usuarios que configuran y utilizan las alertas. Además, esperamos recibir feedback positivo sobre la utilidad y eficacia de esta función en las reseñas de la aplicación.
-#### **Hipótesis 2:**
+###### **Hipótesis 2:**
 **Creemos que** ofrecer recomendaciones personalizadas basadas en los hábitos de gasto y objetivos financieros de los usuarios mejorará su capacidad para ahorrar y planificar a largo plazo.  
 **Sabremos que esto es cierto cuando veamos** un aumento en el monto promedio de ahorro mensual de los usuarios, un incremento en la cantidad de metas financieras alcanzadas y comentarios positivos sobre la relevancia de las recomendaciones recibidas en la aplicación.
-#### **Hipótesis 3:**
+###### **Hipótesis 3:**
 **Creemos que** simplificar el proceso de creación de presupuestos mediante una interfaz más intuitiva y fácil de usar aumentará la adopción de esta función entre nuestros usuarios jóvenes adultos peruanos.  
 **Sabremos que esto es cierto cuando veamos** un incremento en la tasa de usuarios que crean y ajustan presupuestos dentro de la aplicación, junto con una mejora en las calificaciones de usabilidad y facilidad de uso en las reseñas de la aplicación.
 ##### 1.2.2.4. Lean UX Canvas

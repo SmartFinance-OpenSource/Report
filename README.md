@@ -456,6 +456,7 @@ todo dentro de una plataforma flexible y adaptable.
 | **Consultar asesoría financiera**                 | Baja           | Baja            | Media          | Media           |
 
 #### 2.3.3. User Journey Mapping
+![User Jorney Mapping](https://github.com/user-attachments/assets/5c8dcf3b-a8f5-40c2-94c3-3768e58c8e34)
 #### 2.3.4. Empathy Mapping
 ![Empathy map](https://github.com/user-attachments/assets/d5217f32-d4f5-4097-ab3c-5ec9b07e43a0)
 #### 2.3.5. As-is Scenario Mapping

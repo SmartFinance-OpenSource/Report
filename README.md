@@ -456,6 +456,7 @@ todo dentro de una plataforma flexible y adaptable.
 
 #### 2.3.3. User Journey Mapping
 #### 2.3.4. Empathy Mapping
+![Empathy map](https://github.com/user-attachments/assets/d5217f32-d4f5-4097-ab3c-5ec9b07e43a0)
 #### 2.3.5. As-is Scenario Mapping
 ### 2.4. Ubiquitous Language
 

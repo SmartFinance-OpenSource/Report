@@ -515,6 +515,22 @@ todo dentro de una plataforma flexible y adaptable.
 ### 3.3. Impact Mapping
 ![Impact mapping](https://github.com/user-attachments/assets/976952a8-dc3b-4fa3-97de-983bd5c11eb7)
 ### 3.4. Product Backlog
+| **#Orden** | **User Story Id** | **Título**                        | **Descripción**                                                                                                                               | **Story Points** |
+|-------------|-------------------|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|------------------|
+| 1           | US-01             | Registro de Usuario               | Como visitante, quiero registrarme en la aplicación para empezar a gestionar mis finanzas personales.                                    | 3                |
+| 2           | US-02             | Inicio de Sesión                  | Como usuario, quiero iniciar sesión en la aplicación para acceder a mi cuenta y gestionar mis finanzas.                                        | 3                |
+| 3           | US-03             | Recuperación de Contraseña        | Como usuario, quiero recuperar mi contraseña en caso de olvidarla para poder acceder nuevamente a mi cuenta.                                   | 3                |
+| 4           | US-04             | Ingreso de Transacciones          | Como usuario, quiero ingresar mis transacciones diarias para llevar un control detallado de mis ingresos y gastos.                             | 5                |
+| 5           | US-05             | Categorizar Transacciones         | Como usuario, quiero categorizar mis transacciones para entender en qué áreas estoy gastando más dinero.                                       | 5                |
+| 6           | US-06             | Visualización del Estado Financiero | Como usuario, quiero visualizar mi estado financiero en un tablero para entender mi situación económica en tiempo real.                         | 8                |
+| 7           | US-07             | Configuración de Presupuestos     | Como usuario, quiero establecer un presupuesto mensual para controlar mejor mis gastos.                                                        | 8                |
+| 8           | US-08             | Alertas de Gastos                 | Como usuario, quiero recibir alertas cuando me acerco al límite de mi presupuesto para evitar sobrepasarlo.                                    | 8                |
+| 9           | US-09             | Exportar Reportes                 | Como usuario, quiero exportar mis reportes financieros para poder analizarlos fuera de la aplicación.                                          | 5                |
+| 10          | US-10             | Recomendaciones Personalizadas    | Como usuario, quiero recibir recomendaciones personalizadas basadas en mis hábitos de gasto para mejorar mi salud financiera.                  | 8                |
+| 11          | US-11             | Visualización de Metas Financieras | Como usuario, quiero poder visualizar mis metas financieras y el progreso hacia ellas para mantenerme motivado.                                 | 5                |
+| 12          | US-12             | Personalización de la Experiencia | Como usuario, quiero poder personalizar la interfaz de la aplicación para que se ajuste a mis preferencias y necesidades.                      | 5                |
+
+![Product backlog](https://github.com/user-attachments/assets/3b947560-bc6a-44d0-835c-85a9b7a382fc)
 
 ## Capítulo IV: Product Design <a id="cap4"></a>
 

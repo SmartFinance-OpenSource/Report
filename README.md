@@ -513,6 +513,7 @@ todo dentro de una plataforma flexible y adaptable.
 | US-12        | Personalización de la Experiencia |
 
 ### 3.3. Impact Mapping
+![Impact map](https://github.com/user-attachments/assets/6b685461-3908-4fa3-9f35-181d34c0d87b)
 ### 3.4. Product Backlog
 
 ## Capítulo IV: Product Design <a id="cap4"></a>

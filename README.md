@@ -467,6 +467,7 @@ todo dentro de una plataforma flexible y adaptable.
 ## Capítulo III: Requirements Specification <a id="cap3"></a>
 
 ### 3.1. To-Be Scenario Mapping
+![To-be scenario mapping](https://github.com/user-attachments/assets/b508fd0f-66cb-470c-bb00-a31099a649bd)
 ### 3.2. User Stories
 ### 3.3. Impact Mapping
 ### 3.4. Product Backlog

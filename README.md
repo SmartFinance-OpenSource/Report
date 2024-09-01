@@ -469,6 +469,49 @@ todo dentro de una plataforma flexible y adaptable.
 ### 3.1. To-Be Scenario Mapping
 ![To-be scenario mapping](https://github.com/user-attachments/assets/b508fd0f-66cb-470c-bb00-a31099a649bd)
 ### 3.2. User Stories
+| **Epic / Story ID** | **Título**                        | **Descripción**                                                                                                                               | **Criterios de Aceptación**                                                                                                                                                      | **Relacionado con (Epic ID)** |
+|---------------------|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
+| US-01               | Registro de Usuario               | Como visitante, quiero registrarme en la aplicación para empezar a gestionar mis finanzas personales.                                    | **Given** el visitante está en la página de registro, **when** completa los campos obligatorios y hace clic en "Registrarse", **then** el sistema debe crear una cuenta.            | EP-01                         |
+| US-02               | Inicio de Sesión                  | Como usuario, quiero iniciar sesión en la aplicación para acceder a mi cuenta y gestionar mis finanzas.                                        | **Given** el usuario está registrado, **when** ingresa sus credenciales correctas, **then** debe poder acceder a su cuenta.                                                       | EP-01                         |
+| US-03               | Recuperación de Contraseña        | Como usuario, quiero recuperar mi contraseña en caso de olvidarla para poder acceder nuevamente a mi cuenta.                                   | **Given** el usuario ha olvidado su contraseña, **when** solicita la recuperación, **then** debe recibir un enlace para restablecerla por correo electrónico.                    | EP-01                         |
+| US-04               | Ingreso de Transacciones          | Como usuario, quiero ingresar mis transacciones diarias para llevar un control detallado de mis ingresos y gastos.                             | **Given** el usuario está logueado, **when** ingresa una nueva transacción con todos los detalles requeridos, **then** la transacción debe ser registrada correctamente.         | EP-02                         |
+| US-05               | Categorizar Transacciones         | Como usuario, quiero categorizar mis transacciones para entender en qué áreas estoy gastando más dinero.                                       | **Given** el usuario ha ingresado transacciones, **when** asigna categorías a cada transacción, **then** debería poder ver un desglose por categorías en su historial.           | EP-02                         |
+| US-06               | Visualización del Estado Financiero | Como usuario, quiero visualizar mi estado financiero en un tablero para entender mi situación económica en tiempo real.                         | **Given** el usuario tiene transacciones registradas, **when** accede al tablero, **then** debe ver un resumen claro de sus ingresos, gastos y saldo actual.                     | EP-03                         |
+| US-07               | Configuración de Presupuestos     | Como usuario, quiero establecer un presupuesto mensual para controlar mejor mis gastos.                                                        | **Given** el usuario está logueado, **when** establece un presupuesto para una categoría, **then** el sistema debe notificarle cuando esté cerca de alcanzar el límite.          | EP-03                         |
+| US-08               | Alertas de Gastos                 | Como usuario, quiero recibir alertas cuando me acerco al límite de mi presupuesto para evitar sobrepasarlo.                                    | **Given** el usuario ha configurado un presupuesto, **when** sus gastos se acercan al límite, **then** debería recibir una notificación en la aplicación.                        | EP-03                         |
+| US-09               | Exportar Reportes                 | Como usuario, quiero exportar mis reportes financieros para poder analizarlos fuera de la aplicación.                                          | **Given** el usuario tiene transacciones registradas, **when** solicita un reporte, **then** debería poder descargarlo en formato PDF o Excel.                                   | EP-03                         |
+| US-10               | Recomendaciones Personalizadas    | Como usuario, quiero recibir recomendaciones personalizadas basadas en mis hábitos de gasto para mejorar mi salud financiera.                  | **Given** el usuario tiene un historial de transacciones, **when** revisa las recomendaciones, **then** debe ver sugerencias específicas según su comportamiento.                | EP-04                         |
+| US-11               | Visualización de Metas Financieras | Como usuario, quiero poder visualizar mis metas financieras y el progreso hacia ellas para mantenerme motivado.                                 | **Given** el usuario ha configurado metas financieras, **when** accede a la sección de metas, **then** debería ver el progreso y cuánto falta para alcanzarlas.                 | EP-04                         |
+| US-12               | Personalización de la Experiencia | Como usuario, quiero poder personalizar la interfaz de la aplicación para que se ajuste a mis preferencias y necesidades.                      | **Given** el usuario está logueado, **when** accede a la configuración, **then** debería poder cambiar temas, organización de elementos y otras opciones de personalización.     | EP-04                         |
+
+### **Epic 01: Gestión de Usuarios**
+| **Story ID** | **Título**                 |
+|--------------|----------------------------|
+| US-01        | Registro de Usuario        |
+| US-02        | Inicio de Sesión           |
+| US-03        | Recuperación de Contraseña |
+
+### **Epic 02: Registro y Organización de Transacciones**
+| **Story ID** | **Título**                        |
+|--------------|-----------------------------------|
+| US-04        | Ingreso de Transacciones           |
+| US-05        | Categorizar Transacciones          |
+
+### **Epic 03: Control y Monitoreo Financiero**
+| **Story ID** | **Título**                        |
+|--------------|-----------------------------------|
+| US-06        | Visualización del Estado Financiero |
+| US-07        | Configuración de Presupuestos     |
+| US-08        | Alertas de Gastos                 |
+| US-09        | Exportar Reportes                 |
+
+### **Epic 04: Personalización y Mejora de la Experiencia**
+| **Story ID** | **Título**                        |
+|--------------|-----------------------------------|
+| US-10        | Recomendaciones Personalizadas    |
+| US-11        | Visualización de Metas Financieras |
+| US-12        | Personalización de la Experiencia |
+
 ### 3.3. Impact Mapping
 ### 3.4. Product Backlog
 

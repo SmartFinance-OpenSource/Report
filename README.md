@@ -441,7 +441,7 @@ todo dentro de una plataforma flexible y adaptable.
 #### 2.2.3. Análisis de entrevistas
 ### 2.3. Needfinding
 #### 2.3.1. User Personas
-![User personas](https://github.com/user-attachments/assets/e88e6492-9aaf-4918-8b3b-1e21d553f26c)
+![User personas](https://github.com/user-attachments/assets/bb847986-d273-43e9-94d1-28dc325337c9)
 #### 2.3.2. User Task Matrix
 ######  Jóvenes  Adultos Peruanos
 | **Tareas (Tasks)**                                   | **Frecuencia** | **Importancia** |

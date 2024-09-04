@@ -366,29 +366,20 @@ con nuestra misión y visión, es importante reconocer la existencia de otras ap
 y herramientas similares en el mercado. 
 A continuación, mencionamos algunas de ellas y cómo se diferencian de nuestra propuesta.
 
-- **Fintonic:**
+- **Monefy:**
 
-Fintonic es una aplicación financiera española diseñada para ayudar a los 
-usuarios a gestionar sus finanzas personales de manera integral. Ofrece 
-herramientas para el seguimiento de ingresos y gastos, categorización 
-automática de transacciones, y alertas sobre la situación financiera, 
-todo en una interfaz amigable y visualmente atractiva.
+Monefy es la aplicación líder en el sector de finanzas tanto en web como móvil, se trata de una herramienta muy completa que le permite al usuario llevar un registro diario de sus gastos, establecer metas, etc. Todo acompañado de una excelente interfaz y una gran variedad de personalización.
 
 <div style="text-align: center;">
-  <img src="https://play-lh.googleusercontent.com/I0WHCfeCgKbYZPeX2z3NMp54Vr-mAnUASjXkTOMoAmoWT5USIKqaNdycQzEoQrtOumW1" alt="Fintonic" width="300"/>
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6a/d9/fe/6ad9fe61-1093-9e6d-3255-31c4ad760334/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.webp" alt="Fintonic" width="300"/>
 </div>
 
-- **CreditKarma:** 
+- **BlueCoins:** 
 
-CreditKarma es una popular aplicación estadounidense que centraliza la gestión 
-financiera de sus usuarios, permitiéndoles crear presupuestos, 
-monitorear gastos, y administrar cuentas bancarias y tarjetas de 
-crédito en un solo lugar. Es conocida por su capacidad para ofrecer 
-una visión completa del estado financiero personal con una experiencia 
-de usuario simple y efectiva.
+BlueCoins es una alternativa mas simple y limpia visualmente que aplicaciones mas predominantes en el sector como Monefy por ejemplo, ayuda a la lectura de gastos con gráficos vistosos que se pueden importar en gran variedad de formatos, se diferencia de sus competidores con su sistema de pago, pues es de pago unico a diferencia de sus rivales que cuentan con sistema de suscripción.
 
 <div style="text-align: center;">
-  <img src="https://play-lh.googleusercontent.com/WL7n2aDlsXO0OpK0UIy87wh3q16IC9Fs_2rxf2Wkng5cjtDara_vtk-b-PRRAe4M7A" alt="CreditKarma" width="300"/>
+  <img src="https://play-lh.googleusercontent.com/-aqnLAv6P5doG6C7mKFYDjeuANbbMhPwYpgGzPk7irE4-3Q5jUCu1KkbGmTNl5ijvsM=w240-h480-rw" alt="BlueCoins" width="300"/>
 </div>
 
 - **Wallet by BudgetBakers:**
@@ -405,6 +396,183 @@ todo dentro de una plataforma flexible y adaptable.
 </div>
 
 #### 2.1.1. Análisis competitivo
+<table border="1" style="text-align: center;">
+	<tbody>
+		<tr>
+			<td colspan="6">Análisis de competidores</td>
+		</tr>
+		<tr>
+			<td colspan="2"></td>
+			<td>SmartFinance</td>
+			<td>Wallet</td>
+			<td>Monefy</td>
+			<td>Bluecoins</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Perfil</td>
+			<td>Resumen</td>
+			<td>Una aplicacion que busca apoyar al usuario en la gestion de sus finanzas, el usuario podra establecer presupuestos personalizados, recibir alertas, etc.</td>
+			<td>Se trata de una aplicación de planificación financiera, donde el usuario puede establecer sus objetivos, sus presupuestos y llevar control de los gastos que realizo durante el dia</td>
+			<td>Es la aplicación líder en finanzas, Monefy ofrece una interfaz simple pero llena de poderosas herramientas orientadas al control de los gastos diarios y de los objetivos del usuario.</td>
+			<td>Es una aplicación sencilla que le permite al usuario llevar seguimiento de sus gastos e ingresos, la informacion recolectada puede ser exportada en diferentes formatos.</td>
+		</tr>
+		<tr>
+			<td>Ventaja competitiva</td>
+			<td>Buscamos integrar una gran cantidad de herramientas bajo una misma aplicación, manteniendo una interfaz limpia para facilitar la experiencia al usuario.</td>
+			<td>Otra aplicación top en el sector de finanzas personales, orientada sobre todo al ahorro de dinero.</td>
+			<td>Líder en el sector de finanzas personales y con una excelente reputacion debido a las multiples herramientas que ofrece
+      </td>
+			<td>Interfaz amigable y funcionamiento rápido y sencillo, muy amigable con nuevos usuarios. </td>
+		</tr>
+		<tr>
+			<td rowspan="2">Perfil de Marketing</td>
+			<td>Mercado objetivo</td>
+			<td>Jovenes peruanos, entre los 18 y 30 años.</td>
+			<td>Adultos que cuentan con multiples gastos diarios.</td>
+			<td>Adultos que ya se encuentran en su vida laboral y buscan ahorrar dinero cada mes.</td>
+			<td>Cualquier joven o adulto que desee ordenar sus ingresos mensuales de una manera rápida.</td>
+		</tr>
+		<tr>
+			<td>Estrategias de marketing</td>
+			<td>Marketing digital en redes sociales y colaboraciones con influencers.</td>
+			<td>Alianza con Google Ads, tanto en Youtube como Chrome.</td>
+			<td>Marketing online, tanto en artículos online como video reseñas por parte de influencers.</td>
+			<td>Promociones realizadas por influencers en Youtube.</td>
+		</tr>
+		<tr>
+			<td rowspan="3">Perfil de Producto</td>
+			<td>Productos y Servicios</td>
+			<td>Aplicación con herramientas que permiten registrar ingresos y gastos, planificar ahorros, recibir recordatorios, etc.</td>
+			<td>Aplicación móvil y web que cuenta con presupuestos, registro diario de gastos y graficos para seguir nuestro progreso</td>
+			<td>Aplicación móvil que invita al usuario a ser transparente con sus gastos diarios y lo alienta a empezar a ahorrar dinero.</td>
+			<td>Aplicación móvil facil de usar que permite llevar un seguimiento de los gastos diarios con gran variedad de gráficas y métodos de exportación.</td>
+		</tr>
+		<tr>
+			<td>Precios y Costos</td>
+			<td>Modelo de suscripción mensual para acceder a los servicios de coaching y planes alimentarios personalizados.</td>
+			<td>Modelo gratuito con suscripción anual.</td>
+			<td>Modelo gratuito con suscripción anual.</td>
+			<td>Inicio gratuito con la posibilidad de mejorar la cuenta a una cuenta premium permanente.</td>
+		</tr>
+		<tr>
+			<td>Canales de distribución</td>
+			<td>Disponible en línea a través de la aplicación web.</td>
+			<td>Descargable en Google Play y App Store y la plataforma web.</td>
+			<td>Descargable en Google Play y App Store.</td>
+			<td>Descargable en Google Play y App Store.</td>
+		</tr>
+		<tr>
+			<td rowspan="4">Análisis SWOT</td>
+			<td>Fortalezas</td>
+			<td>
+                <ul>
+                    <li>Orientado a jóvenes peruanos</li>
+                    <li>Multiples herramientas incluidas</li>
+                    <li>Herramientas gratuitas y otras de pago</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Gran cantidad de usuarios</li>
+                    <li>Buena variedad de herramientas</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Orientado al ahorro de dinero</li>
+                    <li>Líder en el sector finanzas con gran cantidad de reseñas positivas</li>
+                    <li>Herramientas poderosas e interfaz vistosa</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Mejora asequible y de pago único</li>
+                    <li>Rápida de usar y facilidad para exportar reportes</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Debilidades</td>
+			<td>
+                <ul>
+                    <li>Nuevo competidor</li>
+                    <li>Sector con competidores fuertes ya establecidos</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Suscripción anual con un precio no muy asequible</li>
+                    <li>Requiere de mucha atención por parte del usuario</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Version gratuita muy limitada</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Es la aplicación con menos base de usuarios</li>
+                    <li>Poca variedad de herramientas</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Oportunidades</td>
+			<td>
+                <ul>
+                    <li>Sin competidores a nivel nacional</li>
+                    <li>Puede resultar muy útil para el sector elegido debido a sus posibilidades economicas</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Aplicación en crecimiento</li>
+                    <li>Soporte para múltiples monedas</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Poderosas herramientas en constante actualización</li>
+                    <li>Membresía asequible</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Pago único y asequible</li>
+                    <li>Excelente interfaz</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Amenazas</td>
+			<td>
+                <ul>
+                    <li>Competencia ya establecidos</li>
+                    <li>Sector muy competitivo</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Poca cantidad de usuarios premium</li>
+                    <li>Membresía anual muy alta</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Soporte tecnico en ingles</li>
+                    <li>Precio inconsistente debido a las diferentes promociones</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Se ve opacado por la competencia</li>
+                    <li>Escala mas sencilla comparado con sus competidores</li>
+                </ul>
+            </td>
+		</tr>
+	</tbody>
+</table>
 #### 2.1.2. Estrategias y tácticas frente a competidores.
 ### 2.2. Entrevistas.
 #### 2.2.1. Diseño de entrevistas

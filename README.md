@@ -631,6 +631,55 @@ todo dentro de una plataforma flexible y adaptable.
 ![As-is scenario mapping](https://github.com/user-attachments/assets/e702fcf0-9dfc-4415-8e24-2c3fedf505eb)
 ### 2.4. Ubiquitous Language
 
+#### **Términos Generales**
+
+1. **User (Usuario):**
+   - Jóvenes adultos peruanos entre 18 y 30 años, incluyendo estudiantes universitarios y jóvenes profesionales, que utilizan Finzar para gestionar sus finanzas personales.
+
+2. **User Profile (Perfil de Usuario):**
+   - Información personal y preferencias financieras del usuario, que Finzar utiliza para personalizar la experiencia y ofrecer recomendaciones adecuadas.
+
+3. **Intuitive Interface (Interfaz Intuitiva):**
+   - Diseño de la aplicación Finzar que facilita la navegación y uso, permitiendo a los usuarios manejar sus finanzas de manera sencilla.
+
+4. **Service Cost (Costo de Servicio):**
+   - Comisiones o tarifas aplicadas a los usuarios por servicios premium ofrecidos por Finzar, como reportes avanzados o asistencia personalizada.
+
+---
+
+#### **Perfiles de Usuario**
+
+1. **Financial Goal (Meta Financiera):**
+   - Objetivo que el usuario establece en Finzar para ahorrar o reducir deudas, como la compra de un bien o la creación de un fondo de emergencia.
+
+4. **Balance (Saldo):**
+   - Cantidad de dinero con la que trabaja el usuario, declarada por el mismo o ligada a su cuenta bancaria.
+
+2. **Income (Ingreso):**
+   - Cantidad de dinero que un usuario recibe de diversas fuentes, como salario, becas, o trabajos independientes, y que se registra en Finzar para su gestión.
+
+3. **Expense (Gasto):**
+   - Dinero que el usuario destina a cubrir sus necesidades y deseos, como pagos de servicios, compras personales o entretenimiento.
+
+
+---
+
+#### **Proceso de Gestión Financiera**
+
+1. **Budget (Presupuesto):**
+   - Plan financiero que el usuario crea en Finzar para asignar sus ingresos a diferentes categorías de gastos y ahorro, asegurando un equilibrio entre ambos.
+
+2. **Saving Plan (Plan de Ahorro):**
+   - Estrategia desarrollada por el usuario dentro de Finzar para apartar una parte de sus ingresos con el fin de alcanzar sus metas financieras.
+
+3. **Financial Report (Reporte Financiero):**
+   - Informe detallado generado por Finzar que muestra los hábitos financieros del usuario, incluyendo ingresos, gastos, ahorros y deudas.
+
+4. **Financial Reminder (Recordatorio Financiero):**
+   - Notificación que Finzar envía al usuario para alertarle sobre pagos próximos, plazos de deuda, o revisiones presupuestarias necesarias.
+
+5. **Debt Management (Gestión de Deudas):**
+   - Herramienta en Finzar que ayuda a los usuarios a controlar y pagar sus deudas de manera efectiva.
 
 ## Capítulo III: Requirements Specification <a id="cap3"></a>
 

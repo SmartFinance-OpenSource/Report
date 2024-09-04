@@ -721,9 +721,63 @@ todo dentro de una plataforma flexible y adaptable.
 #### 4.4.4. Web Applications User Flow Diagrams
 ### 4.5. Web Applications Prototyping
 ### 4.6. Domain-Driven Software Architecture
+La arquitectura de software orientada al dominio proporciona una imagen de lo que se quiere en la estructura de software de nuestro producto. Tal imagen refleja lo que nosotros, Finzar, planteamos para SmartFinance: identificar las funcionalidades de la solución y cómo se van a estructurar adaptándose a los elementos a usar.
 #### 4.6.1. Software Architecture Context Diagram
+Los elementos presentes son:
+
+* Visitor (Visitante): Visualiza el landing page.
+* Client (Cliente): Accede a la aplicación web.
+* Administrator (Administrador): Accede a la aplicación web y supervisa su funcionamiento.
+* SmartFinance: Software que los usuarios utilizarán.
+* Stripe: Software de pago que SmartFinance utilizará.
+<br>
+
+![SmartFinance-SystemContext](assets/dsl/structurizr-SystemContext-001.png)
 #### 4.6.2. Software Architecture Container Diagrams
+Los elementos presentes son:
+
+* Landing Page: Página que presenta el producto.
+* Web App: Frontend donde los usuarios interactúan con la aplicación.
+* API: Conexión entre el frontend y backend.
+* Bounded Contexts: Las funcionalidades que el sistema proporciona a los usuarios.
+* Bases de datos: Almacenará datos como cuentas de usuario, reportes, transacciones, ajustes, etc.
+<br>
+
+![SmartFinance-Container](assets/dsl/structurizr-Container-001.png)
 #### 4.6.3. Software Architecture Components Diagrams
+**Account Management**
+Los elementos presentes son:
+* Controllers: Controlan un conjunto de funcionalidades.
+* Managers: Realizan una secuencia para llevar a cabo una acción.
+* Repositories: Permiten el acceso a una base de datos o un servicio externo.
+![AccountManagement-Component](assets/dsl/structurizr-Component-001.png)
+
+**Transaction Management**
+Los elementos presentes son:
+* Controller: Controla un conjunto de funcionalidades.
+* Managers: Realizan una secuencia para llevar a cabo una acción.
+* Repository: Permite el acceso a una base de datos.
+![TransactionManagement-Component](assets/dsl/structurizr-Component-002.png)
+
+**Finance Monitoring**
+Los elementos presentes son:
+* Controller: Controla un conjunto de funcionalidades.
+* Configurator: Permite que el usuario realize una configuración de una funcionalidad.
+* Exporter: Permite la exportación de un archivo almacenado en la base de datos.
+* Observer: Supervisa una funcionalidad, ejecutando una acción si cumple una condición.
+* Notifier: Al ser ejecutado, notifica al usuario.
+* Repository: Permite el acceso a una base de datos o un servicio externo.
+![FinanceMonitoring-Component](assets/dsl/structurizr-Component-003.png)
+
+**Application Personalizer**
+Los elementos presentes son:
+* Controller: Controla un conjunto de funcionalidades.
+* Engine: Mini sistema que retorna resultados después de procesarse.
+* Visualizer: Interfaz de una funcionalidad que el usuario puede visualizar
+* Personalizer: Funciona como un controller, pero se enfoca en cambiar elementos de la interfaz.
+* Repository: Permite el acceso a una base de datos o un servicio externo.
+![ApplicationPersonalization-Component](assets/dsl/structurizr-Component-004.png)
+
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
 #### 4.7.2. Class Dictionary

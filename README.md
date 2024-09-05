@@ -772,6 +772,7 @@ Como ya establecimos, el color verde es importante para el tipo de aplicación q
 ![Color1](https://github.com/JosuePaiva02/files/blob/main/images%20(1).png?raw=true) ![Color2](https://github.com/JosuePaiva02/files/blob/main/images.png?raw=true)
 ![Color3](https://github.com/JosuePaiva02/files/blob/main/images%20(2).png?raw=true) ![Color4](https://github.com/JosuePaiva02/files/blob/main/images%20(3).png?raw=true)
 #### 4.1.2. Web Style Guidelines
+Empezaremos trabajando SmartFinance como una aplicación web, por ello es importante elegir el tipo de diseño correcto para facilitar la experiencia de usuario, por ello elegimos el diseño web adaptable o responsive web en ingles, este diseño permite al usuario tener una experiencia adaptada a la pantalla de su dispositivo, por lo que el usuario podra acceder a nuestra aplicación comodamente tanto en su celular como su PC o Laptop.
 ### 4.2. Information Architecture
 #### 4.2.1. Organization Systems
 #### 4.2.2. Labeling Systems

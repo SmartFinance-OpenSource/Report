@@ -774,7 +774,42 @@ Como ya establecimos, el color verde es importante para el tipo de aplicación q
 #### 4.1.2. Web Style Guidelines
 Empezaremos trabajando SmartFinance como una aplicación web, por ello es importante elegir el tipo de diseño correcto para facilitar la experiencia de usuario, por ello elegimos el diseño web adaptable o responsive web en ingles, este diseño permite al usuario tener una experiencia adaptada a la pantalla de su dispositivo, por lo que el usuario podra acceder a nuestra aplicación comodamente tanto en su celular como su PC o Laptop.
 ### 4.2. Information Architecture
+A continuación presentaremos la arquitectura de la aplicación, ordenando primordialmente en tablas el contenido de la misma.
 #### 4.2.1. Organization Systems
+**Menú de Inicio**
+<table style="text-align:center">
+    <thead>
+        <tr>
+            <th style="text-align:center">Sección</th>
+            <th style="text-align:center">Contenido</th>
+        </tr>
+    </thead>
+    <body>
+        <tr>
+            <td>Home</td>
+            <td style="text-align: left">En inicio presentamos SmartFinance mencionando nuestra funcion y misión.</td>
+        </tr>
+        <tr>
+            <td>About</td>
+            <td style="text-align: left">En About, profundizamos en las herramientas incorporadas en la aplicación, explicando su funcionamiento y propósito.</td>
+        </tr>
+        <tr>
+            <td>Upgrade</td>
+            <td style="text-align: left">En Upgrade el usuario puede conocer las características premium de nuestra aplicación y las diferencias clave con la versión estándar.</td>
+        </tr>
+        <tr>
+            <td>Contact</td>
+            <td style="text-align: left">En esta página incluiremos nuestras redes sociales, asi como un correo de soporte técnico y otro correo de negocios.</td>
+        </tr>
+        <tr>
+            <td>Log In</td>
+            <td style="text-align: left">Aqui el usuario podrá iniciar sesión en su cuenta, de no tenerla le ofreceremos la posibilidad de crear una gratuitamente.</td>
+        </tr>
+    </body>
+</table>
+<br><br>
+
+
 #### 4.2.2. Labeling Systems
 #### 4.2.3. SEO Tags and Meta Tags
 #### 4.2.4. Searching Systems

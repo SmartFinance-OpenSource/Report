@@ -752,7 +752,25 @@ todo dentro de una plataforma flexible y adaptable.
 ## Capítulo IV: Product Design <a id="cap4"></a>
 
 ### 4.1. Style Guidelines
+A continuación presentaremos los Style Guidelines de nuestro proyecto, con el fin de definir los parametros de presentacion de nuestra aplicación.
 #### 4.1.1. General Style Guidelines
+#### Logo
+El logo respeta las dimensiones de los logos para aplicaciones sugeridas por Google (512x512 píxeles), se optó por un verde predominante tanto en la figura como en el fondo, pues se suele asociar al dinero y a la abundancia, en cuanto al dibujo del logo, se trata de una billetera con efectivo, haciendo referencia al ahorro que es de lo que trata nuestra aplicación, finalmente el texto se presentó con Hey Comic para que se vea amigable, limpia y cercana al usuario
+![Logo](https://github.com/JosuePaiva02/files/blob/main/SmartFinanceLogo.jpeg?raw=true)
+
+#### Tipografía
+Como se mencionó anteriormente se utilizo la fuente Hey Comic para la elaboración del logo
+
+![HeyComic!](https://github.com/JosuePaiva02/files/blob/main/Captura%20de%20pantalla%202024-09-04%20191607.png?raw=true)
+
+En cuanto a la propia aplicación elegimos Arciform una fuente Sans-Serif la cual aportará un estilo elegante y limpio a la interfaz del usuario
+![Arciform](https://github.com/JosuePaiva02/files/blob/main/Captura%20de%20pantalla%202024-09-04%20191739.png?raw=true)
+
+#### Colores
+Como ya establecimos, el color verde es importante para el tipo de aplicación que deseamos crear, sin embargo el verde estándar es muy brillante y molesto en ocasiones, por ello optamos por una alternativa pastel acompañado de blanco humo que le dara un aspecto amigable, limpio y moderno a nuestra interfaz
+
+![Color1](https://github.com/JosuePaiva02/files/blob/main/images%20(1).png?raw=true) ![Color2](https://github.com/JosuePaiva02/files/blob/main/images.png?raw=true)
+![Color3](https://github.com/JosuePaiva02/files/blob/main/images%20(2).png?raw=true) ![Color4](https://github.com/JosuePaiva02/files/blob/main/images%20(3).png?raw=true)
 #### 4.1.2. Web Style Guidelines
 ### 4.2. Information Architecture
 #### 4.2.1. Organization Systems

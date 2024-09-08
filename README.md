@@ -606,7 +606,46 @@ todo dentro de una plataforma flexible y adaptable.
 17. ¿Qué te haría dejar de usar una aplicación de finanzas personales?
 
 #### 2.2.2. Registro de entrevistas
+##### Entrevista #1
+Nombre y apellido: Elvia Rodriguez
+Edad: 23
+Distrito: Comas
+![int1](https://github.com/JosuePaiva02/files/blob/main/Entrevista%201%20Finzar%20-%20YouTube%20-%20Google%20Chrome%208_09_2024%2016_09_50.png?raw=true)
+Inicio de la entrevista: 0:26s
+[URL de la entrevista](https://www.youtube.com/watch?v=zLULHrg971A
+)
+
+
+##### Entrevista #2
+Nombre y apellido: Bruno Martinez
+Edad: 19
+Distrito: Comas
+![int1](https://github.com/JosuePaiva02/files/blob/main/Entrevista%201%20Finzar%20-%20YouTube%20-%20Google%20Chrome%208_09_2024%2016_10_10.png?raw=true)
+Inicio de la entrevista: 0:34s
+[URL de la entrevista](https://www.youtube.com/watch?v=H7TcCMm1-CU
+)
+
+
+##### Entrevista #3
+Nombre y apellido: Flavio Gallardo
+Edad: 20
+Distrito: Breña
+![int3](https://github.com/JosuePaiva02/files/blob/main/Entrevista%201%20Finzar%20-%20YouTube%20-%20Google%20Chrome%208_09_2024%2016_23_23.png?raw=true)
+Inicio de la entrevista: 0.20s
+[URL de la entrevista](https://drive.google.com/file/d/1bQi7SGnlGwXWfvCi3nJE4HDy3oBC6-vp/view
+)
+
+
 #### 2.2.3. Análisis de entrevistas
+##### Entrevista 1: Elvia Ridriguez
+Análisis de la entrevista:
+Elvia nos cuenta como gestiona sus ingresos como practicante, cuenta con una deuda de una tarjeta de crédito hace algunos años y por esta misma experiencia le resulta complicado hacer seguimiento de sus finanzas, le gustaría que una aplicación de finanzas sea ágil y no requiera poco tiempo de uso para hacer registro de gastos diarios, se encuentra muy dispuesta a hacer uso de una aplicación para controlar sus finanzas pero la desmotivaría si esta requiere de mucho uso diario.
+
+##### Entrevista 2: Bruno Martinez
+Análisis de la entrevista: Bruno nos comenta como gestiona sus finanzas semanales con excel, el cual sigue al pie de la letra, nunca se ha visto expuesto a deudas, ademas nos cuenta que valoraria mucho el seguimiento de su presupuesto con una app y que le notifique cuando se esta llegando al límite, le gustaría una aplicación eficiente, pero duda si la suscripción llegue a estar en su prespuesto, ademas se alejaría de la app si la suscripción es muy cara o si no es tan eficiente como su modelo de organización anterior
+
+##### Entrevista 3: Flavio Gallardo
+Análisis de la entrevista: Flavio tiene un caso mas simple al tratarse de un estudiante universitario, no ha solicitado deudas y sus finanzas se ven sujetas a su mesada mensual, a veces usa hojas de cálculo para ordenar sus finanzas, usa regularmente aplicaciones como la banca de BCP y Yape para pagos, le preocupa la seguridad de sus datos personales y le gustaría ser mas disciplinado con la regulación de su presupuesto, consideraría pagar una suscripción por una aplicación que le ofrezca algo superior a aplicaciónes gratuitas y la dejaría si considera que no es muy eficiente o si recibe numerosas notificaciones
 ### 2.3. Needfinding
 #### 2.3.1. User Personas
 ![User personas](https://github.com/user-attachments/assets/bb847986-d273-43e9-94d1-28dc325337c9)

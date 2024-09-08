@@ -794,11 +794,11 @@ A continuación presentaremos la arquitectura de la aplicación, ordenando primo
             <td style="text-align: left">En About, profundizamos en las herramientas incorporadas en la aplicación, explicando su funcionamiento y propósito.</td>
         </tr>
         <tr>
-            <td>Upgrade</td>
+            <td>Premium</td>
             <td style="text-align: left">En Upgrade el usuario puede conocer las características premium de nuestra aplicación y las diferencias clave con la versión estándar.</td>
         </tr>
         <tr>
-            <td>Contact</td>
+            <td>Contacto</td>
             <td style="text-align: left">En esta página incluiremos nuestras redes sociales, asi como un correo de soporte técnico y otro correo de negocios.</td>
         </tr>
         <tr>
@@ -807,6 +807,79 @@ A continuación presentaremos la arquitectura de la aplicación, ordenando primo
         </tr>
     </body>
 </table>
+
+##### About
+<table style="text-align:center">
+    <thead>
+        <tr>
+            <th style="text-align:center">Sección</th>
+            <th style="text-align:center">Contenido</th>
+        </tr>
+    </thead>
+    <body>
+        <tr>
+            <td>Sobre Finanzr</td>
+            <td style="text-align: left">Explicación sobre la aplicaición, detallando sus features y la funcionalidad de las mismas.</td>
+        </tr>
+        <tr>
+            <td>Sobre SmartFinance</td>
+            <td style="text-align: left">Presentamos nuestra startup y nuestro equipo</td>
+        </tr>
+    </body>
+</table>
+
+##### Premium
+<table style="text-align:center">
+    <thead>
+        <tr>
+            <th style="text-align:center">Sección</th>
+            <th style="text-align:center">Contenido</th>
+        </tr>
+    </thead>
+    <body>
+        <tr>
+            <td>Premium</td>
+            <td style="text-align: left">Presentación de las suscripciones, sus diferencias, contenido y precios.</td>
+        </tr>
+        <tr>
+            <td>Ventajas de ser Premium</td>
+            <td style="text-align: left">Highlight de las principales diferencias de mejorar la cuenta y las diferencias clave con la cuenta estándar</td>
+        </tr>
+    </body>
+</table>
+
+##### Contacto
+<table style="text-align:center">
+    <thead>
+        <tr>
+            <th style="text-align:center">Sección</th>
+            <th style="text-align:center">Contenido</th>
+        </tr>
+    </thead>
+    <body>
+        <tr>
+            <td>Contactanos</td>
+            <td style="text-align: left">Información de contacto, siendo un correo de contacto con soporte técnico para clientes, como un correo de contacto para ofertas de negocio</td>
+        </tr>
+    </body>
+</table>
+
+##### log In
+<table style="text-align:center">
+    <thead>
+        <tr>
+            <th style="text-align:center">Sección</th>
+            <th style="text-align:center">Contenido</th>
+        </tr>
+    </thead>
+    <body>
+        <tr>
+            <td>Inicia sesion</td>
+            <td style="text-align: left">Pagina de inicio de sesión indicando el correo de la cuenta y la contraseña correspondiente, tambien una opción en la parte inferior para crear una cuenta gratuitamente</td>
+        </tr>
+    </body>
+</table>
+<br><br>
 <br><br>
 
 

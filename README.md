@@ -882,8 +882,39 @@ A continuación presentaremos la arquitectura de la aplicación, ordenando primo
 <br><br>
 <br><br>
 
-
 #### 4.2.2. Labeling Systems
+Los sistemas de etiquetado seran los mismos que presentamos en organization systems, el usuario hara clic en el encabezado que desea navegar y se le redirigira a la sección correspondiente
+<table style="text-align:center">
+    <thead>
+        <tr>
+            <th style="text-align:center">Sección</th>
+            <th style="text-align:center">Contenido</th>
+        </tr>
+    </thead>
+    <body>
+        <tr>
+            <td>Home</td>
+            <td style="text-align: left">El usuario iniciara su navegación aqui por default y podra regresar en cualquier momento si decidio cambiar de sección.</td>
+        </tr>
+        <tr>
+            <td>About</td>
+            <td style="text-align: left">Informacion sobre nuestra startup y producto.</td>
+        </tr>
+        <tr>
+            <td>Premium</td>
+            <td style="text-align: left">Sección que presenta las opciones de suscripción premium y sus mejoras respectivas con respecto a la cuenta estándar.</td>
+        </tr>
+        <tr>
+            <td>Contacto</td>
+            <td style="text-align: left">Información de contacto, tanto de soporte como de negocios.</td>
+        </tr>
+        <tr>
+            <td>Log In</td>
+            <td style="text-align: left">Inicio de sesión para usuarios registrados, o registro de no estarlo.</td>
+        </tr>
+    </body>
+</table>
+
 #### 4.2.3. SEO Tags and Meta Tags
 #### 4.2.4. Searching Systems
 #### 4.2.5. Navigation Systems

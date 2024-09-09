@@ -178,11 +178,11 @@ en la creación de soluciones financieras accesibles y prácticas para los perua
     <td> Me llamo Gianluca Santino Pasquale Barrenechea, con código de alumno u202112078, tengo 20 años y soy estudiante de la carrera de Ingenieria de Software. Como miembro de equipo, me centraré en el desarrollo del frontend y backend de nuestra Startup, utilizare mis habilidades en C++, C#, Python, Java y HTML para lograr esto. Mi objetivo está en tener un código limpio y eficiente. </td>
   </tr>
 <tr>
-    <th colspan="2"> Intengrante 3 </th>
+    <th colspan="2"> Sebastian Pacheco Astiguetta </th>
   </tr>
   <tr>
-    <td>Foto Intengrante 3 </td>
-    <td> desc </td>
+    <td> <img src="assets/teampics/SebastianPacheco.jpg" style="width:300px"> </td>
+    <td> Soy Sebastian Pacheco, alumno de Ingeniería de Software en la UPC. Me considero una persona trabajadora y activa, priorizando las responsabilidades ante todo, pero también destaco en trabajo en equipo, permitiendo a todos que participen. Tengo conocimiento de C++ y Python, los cuales pongo en práctica mediante proyectos personales. </td>
   </tr>
 <tr>
     <th colspan="2"> Intengrante 4 </th>

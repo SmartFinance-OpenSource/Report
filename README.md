@@ -1421,12 +1421,82 @@ git commit -m “<type>[optional scope]: <title>“ -m “<description”
 </table>
 
 ##### 5.2.1.2. Sprint Backlog 1
+
+Para el primer sprint, desarrollamos la estructura y las funcionalidades básicas de la landing page, así como el diseño visual y la barra de navegación.
+
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="7"><strong>Sprint 1</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-Item/task</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Description</strong></td>
+    <td colspan="1"><strong>Estimation(Hrs)</strong></td>
+    <td colspan="1"><strong>Assigned To</strong></td>
+    <td colspan="1"><strong>Status</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1">US01</td>
+    <td colspan="1">Registro de Usuario</td>
+    <td colspan="1">T01</td>
+    <td colspan="1">Crear un sistema de registro de usuarios.</td>
+    <td colspan="1">La página web debe tener una opción para que los usuarios creen una cuenta.</td>
+    <td colspan="1">0.5</td>
+    <td colspan="1">Juan Astonitas</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US02</td>
+    <td colspan="1">Inicio de Sesión</td>
+    <td colspan="1">T02</td>
+    <td colspan="1">Crear un sistema de inicio de sesión para usuarios registrados.</td>
+    <td colspan="1">La página web debe permitir a los usuarios registrados el ingresar sus datos para acceder a sus cuentas.</td>
+    <td colspan="1">0.5</td>
+    <td colspan="1">Juan Astonitas</td>
+    <td colspan="1">Done</td>
+  </tr>
+</table>
+
 ##### 5.2.1.3. Development Evidence for Sprint Review
+
+| Repository          | Branch  | Commit ID                                | Commit Message                           | Commit Message Body                                                                                                                                 | Commited on (Date) |
+|---------------------|---------|------------------------------------------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
+| SmartFinance-OpenSource/Landing-Page | develop | 464433d | feat: add landing page images |  | 08/09/2024  |
+| SmartFinance-OpenSource/Landing-Page | develop  | 8bd63b6 | feat: added first version landing page |  | 08/09/2024 |
+
 ##### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+Se omite esta sección, dado que aún no se tiene el conocimiento necesario para realizar pruebas automatizadas. Esto se llevara a cabo en futuros sprints.
+
 ##### 5.2.1.5. Execution Evidence for Sprint Review
+
+En esta entrega, nuestro equipo ha desplegado con éxito la landing page.
+
+![landing-page-1](/assets/landing-page-screenshots/1.jpg)
+![landing-page-2](/assets/landing-page-screenshots/2.jpg)
+![landing-page-3](/assets/landing-page-screenshots/3.jpg)
+
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Se omite esta sección ya que aún no contamos con Web Application, la cual se desarrollará en Sprints futuros.
+
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Se omite esta sección ya que actualmente no contamos con una Front End App, ya que esta se implementará en Sprints futuros.
+
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
+
+A continuación, se muestra la página de insights proporcionada por Github.
+
+![github-insights](/assets/environment-images/insights.png)
 
 ## Conclusiones
 

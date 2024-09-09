@@ -1192,6 +1192,8 @@ El diseño orientado a objetos del software será esencial para nuestro proyecto
 </tbody></table>
 
 ### 4.8. Database Design
+El diseño de la base de datos será fundamental para nuestro proyecto, ya que proporcionará la estructura subyacente para almacenar y gestionar los datos de manera eficiente y segura. Esto nos permitirá organizar los datos de manera lógica y coherente, facilitando su recuperación y manipulación en respuesta a las solicitudes de los usuarios.
+![Database](assets/software-architecture/finzarDatabase.png)
 #### 4.8.1. Database Diagram
 
 

@@ -1376,6 +1376,14 @@ git commit -m “<type>[optional scope]: <title>“ -m “<description”
 
 ## Conclusiones
 
+- A lo largo del desarrollo de Finzar, se ha identificado y comprendido a fondo a su segmento objetivo: jóvenes adultos peruanos, incluyendo estudiantes universitarios y jóvenes profesionales. Esta comprensión ha permitido adaptar la herramienta para abordar problemas específicos como el sobreendeudamiento y la falta de ahorro, ofreciendo soluciones prácticas y accesibles que mejoran la estabilidad económica y promueven buenos hábitos financieros desde edades tempranas.
+
+- En la evaluación de competidores, Finzar ha demostrado tener ventajas significativas al enfocarse en las necesidades locales y específicas del mercado peruano. A diferencia de otras aplicaciones financieras, Finzar no solo gestiona ingresos y gastos, sino que también prioriza la educación financiera y la personalización del servicio, lo cual la posiciona como una herramienta diferenciada y valiosa en un mercado competitivo.
+
+- A lo largo del proceso, se ha resaltado la importancia de adaptar Finzar a las condiciones y contextos peruanos, lo que incluye desde la integración con bancos locales hasta la alineación con los hábitos y retos financieros específicos de los jóvenes peruanos. Esta adaptación no solo mejora la usabilidad de la aplicación, sino que también la hace más relevante y efectiva para su audiencia objetivo.
+
+- El diseño y la ejecución de entrevistas han sido fundamentales para validar las necesidades y preferencias del segmento objetivo de Finzar. Esta metodología de acercarse a los usuarios reales ha permitido recopilar información valiosa que asegura que la herramienta esté alineada con las expectativas del mercado, fortaleciendo su propuesta de valor y guiando futuras mejoras en el desarrollo del producto.
+
 ## Bibliografía
 
 - INEI [Instituto Nacional de Estadística e Informática]. (2023, 11 mayo). *Pobreza monetaria afectó al 27,5% de la población del país en el año 2022*. Recuperado 23 de agosto de 2024, de [https://m.inei.gob.pe/prensa/noticias/pobreza-monetaria-afecto-al-275-de-la-poblacion-del-pais-en-el-ano-2022-14391/](https://m.inei.gob.pe/prensa/noticias/pobreza-monetaria-afecto-al-275-de-la-poblacion-del-pais-en-el-ano-2022-14391/)

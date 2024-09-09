@@ -211,37 +211,34 @@ en la creación de soluciones financieras accesibles y prácticas para los perua
 
 <table>
   <tr>
-    <th colspan="2"> Foto Intengrante 1 </th>
+    <th colspan="2"> Juan Astonitas </th>
   </tr>
   <tr>
-    <td> 
-    Foto Intengrante 1
-
-</td>
-    <td> desc </td>
+    <td> <img src="assets/teampics/JuanAstonitas.png" width=300px > </td>
+    <td>Mi nombre es Juan Diego Astonitas Diaz, mi código de estudiante es u202110237 ,tengo 20 años, actualmente curso el 5to ciclo de la carrera de Ingeniería de Software, en la UPC en la sede San Miguel. Mis principales cualidades son el liderazgo y el dominio de Python. Haré todo lo que esté a mi alcance para respaldar al equipo en la finalización oportuna y efectiva de las tareas asignadas. </td>
   </tr>
   <tr>
-    <th colspan="2"> Intengrante 2 </th>
+    <th colspan="2"> Gianluca Santino Pasquale Barrenechea </th>
   </tr>
   <tr>
-    <td>Foto Intengrante 2 </td>
-    <td> desc </td>
+    <td> <img src="assets/teampics/GianlucaPasquale.jpg" style="width: 300px"> </td>
+    <td> Me llamo Gianluca Santino Pasquale Barrenechea, con código de alumno u202112078, tengo 20 años y soy estudiante de la carrera de Ingenieria de Software. Como miembro de equipo, me centraré en el desarrollo del frontend y backend de nuestra Startup, utilizare mis habilidades en C++, C#, Python, Java y HTML para lograr esto. Mi objetivo está en tener un código limpio y eficiente. </td>
   </tr>
 <tr>
-    <th colspan="2"> Intengrante 3 </th>
+    <th colspan="2"> Sebastian Pacheco Astiguetta </th>
   </tr>
   <tr>
-    <td>Foto Intengrante 3 </td>
-    <td> desc </td>
+    <td> <img src="assets/teampics/SebastianPacheco.jpg" style="width:300px"> </td>
+    <td> Soy Sebastian Pacheco, tengo 21 años y soy alumno de Ingeniería de Software en la UPC. Me considero una persona trabajadora y activa, priorizando las responsabilidades ante todo, pero también destaco en trabajo en equipo, permitiendo a todos que participen. Tengo conocimiento de C++ y Python, los cuales pongo en práctica mediante proyectos personales. </td>
   </tr>
 <tr>
-    <th colspan="2"> Intengrante 4 </th>
+    <th colspan="2"> Sebastián Omar Real Calderón </th>
   </tr>
   <tr>
     <td>
-        Foto Intengrante 4
+        <img src="assets/teampics/SebastianReal.jpg" style="width:300px">
     </td>
-    <td> desc </td>
+    <td> Soy Sebastián Real Calderón, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software. Tengo conocimientos sobre lenguajes de programación como C++, C# y Java. Principalmente me dedico al desarrollo de proyectos que me permitan desarrollar mis habilidades de programación, tales como videojuegos o programas sencillos, ya que apunto a volverme desarrollador. </td>
   </tr>
 <tr>
     <th colspan="2"> Intengrante 5 </th>

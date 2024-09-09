@@ -1032,6 +1032,93 @@ Los elementos presentes son:
 
 ### 5.1. Software Configuration Management
 #### 5.1.1. Software Development Environment Configuration
+
+* ### Project Management
+    * ### Trello
+    Plataforma de gestión de proyectos que permite seguir el proceso de las tareas a desarrollar.
+
+    [[Link de la herramienta]](https://trello.com/)
+
+    Imagen de evidencia de uso:
+
+    ![trello-evidence](/assets/environment-images/trello.jpg)
+
+* ### Requirement Management
+    * ### UXPressia
+
+    Herramienta en linea que ayuda en el proceso de mapeo. En este proyecto ha sido utilizado para el Impact Mapping.
+
+    [[Link de la herramienta]](https://uxpressia.com/)
+
+    Imagen de evidencia de uso:
+
+    ![uxpressia-evidence](/assets/environment-images/uxpressia.jpg)
+
+    * ### Structurizr
+
+    Herramienta que facilita la creación de modelos C4 para representar de forma gráfica la estructura del producto.
+
+    [[Link de la herramienta]](https://www.structurizr.com/)
+
+    Imagen de evidencia de uso:
+
+    ![structurizr-evidence](/assets/environment-images/structurizr.jpg)
+
+* ### Product UX/UI Design
+    * ### Figma
+
+    Plataforma colaborativa de diseño que facilita la creación de wireframes y mockups para la landing page.
+
+    [[Link de la herramienta]](https://www.figma.com/)
+
+    ![figma-evidence](/assets/environment-images/figma.jpg)
+
+* ### Software Development
+    * ### HTML
+    Lenguaje de etiquetado utilizado para crear la estructura de páginas web.
+
+    Imagen de evidencia de uso:
+
+    ![html-evidence](/assets/environment-images/html-evidence.jpg)
+
+    * ### CSS
+    Lenguaje de diseño gráfico usado para dar formato y estilo a la página web escrita en HTML
+
+    Imagen de evidencia de uso:
+
+    ![css-evidence](/assets/environment-images/css-evidence.jpg)
+
+    * ### JavaScript
+    Lenguaje de programación orientado a objetos. Utilizado para definir el comportamiento de la página web e implementar funcionalidades.
+
+    Imagen de evidencia de uso:
+
+    ![javascript-evidence](/assets/environment-images/javascript-evidence.jpg)
+
+* ### Software Testing
+    * ### Gherkin Language
+    Lenguaje específico de dominio (DSL) diseñado para ser comprensible para los desarrolladores y utilizado definir tests de aceptación.
+
+    [[Más información]](https://cucumber.io/docs/gherkin/reference/)
+
+    Imagen de evidencia de uso:
+
+    ![gherkin-evidence](/assets/environment-images/gherkin-evidence.jpg)
+
+* ### Software Documentation
+    * ### Github
+    Plataforma utilizada para alojar multiples versiones del código fuente de un proyecto. Muy popular en el trabajo colaborativo entre programadores.
+
+    [[Link de la página]](https://github.com/)
+
+    Imagen de evidencia de uso:
+
+    ![github-evidence](/assets/environment-images/github.jpg)
+
+* ### Software Deployment
+    * ### Github Pages
+    Servicio de Github que permite la realización de despliegues simples desde un repositorio.
+
 #### 5.1.2. Source Code Management
 #### 5.1.3. Source Code Style Guide & Conventions
 #### 5.1.4. Software Deployment Configuration

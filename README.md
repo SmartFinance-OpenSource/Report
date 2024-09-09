@@ -1327,6 +1327,17 @@ git commit -m “<type>[optional scope]: <title>“ -m “<description”
       ~~~
 
 #### 5.1.4. Software Deployment Configuration
+
+### Creación de la Landing Page
+
+1. Creación de repositorio de la Landing Page.
+
+![landing-page-repository](/assets/deployment-images/landing-page-repository.jpg)
+
+2. Habilitar Github Pages para el despliegue.
+
+![github-pages-repository](/assets/deployment-images/github-pages.jpg)
+
 ### 5.2. Landing Page, Services & Applications Implementation
 #### 5.2.1. Sprint 1
 ##### 5.2.1.1. Sprint Planning 1

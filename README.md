@@ -122,14 +122,20 @@ del ABET – EAC - Student Outcome 3.
     <td>Comunica oralmente con
 efectividad a diferentes rangos
 de audiencia.</td>
-    <td>  </td>
+    <td>
+	Sebastian Pacheco<br>TB1<br>
+	En el desarrollo del proyecto, he participado en la realización de actividades asignadas y promoviendo la participación de otros en las actividades de compañeros, permitiendo que haya un círculo de confianza y se logre afinar el producto gracias a la recepción del punto de vista del resto.<br>
+    </td>
     <td> </td>
   </tr>
   <tr>
     <td>Comunica por escrito con
 efectividad a diferentes rangos
 de audiencia</td>
-    <td>  </td>
+    <td>
+	Sebastian Pacheco<br>TB1<br>
+	Para promover la participación de otros en un trabajo colaborativo, he desarrollado las actividades asignadas y he buscado la experiencia de mis compañeros para poder mejorar el producto, así como dando ideas propias hacia las actividades de otros y asistiendo en ello.<br>
+    </td>
     <td>  </td>
   </tr>
 

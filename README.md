@@ -185,13 +185,13 @@ en la creación de soluciones financieras accesibles y prácticas para los perua
     <td> Soy Sebastian Pacheco, alumno de Ingeniería de Software en la UPC. Me considero una persona trabajadora y activa, priorizando las responsabilidades ante todo, pero también destaco en trabajo en equipo, permitiendo a todos que participen. Tengo conocimiento de C++ y Python, los cuales pongo en práctica mediante proyectos personales. </td>
   </tr>
 <tr>
-    <th colspan="2"> Intengrante 4 </th>
+    <th colspan="2"> Sebastián Omar Real Calderón </th>
   </tr>
   <tr>
     <td>
-        Foto Intengrante 4
+        <img src="assets/teampics/SebastianReal.jpg" style="width:300px">
     </td>
-    <td> desc </td>
+    <td> Soy Sebastián Real Calderón, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software. Tengo conocimientos sobre lenguajes de programación como C++, C# y Java. Principalmente me dedico al desarrollo de proyectos que me permitan desarrollar mis habilidades de programación, tales como videojuegos o programas sencillos, ya que apunto a volverme desarrollador. </td>
   </tr>
 <tr>
     <th colspan="2"> Intengrante 5 </th>

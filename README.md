@@ -962,7 +962,10 @@ Meta Keyowords: finanzas personales. registro de gastos, ahorro, objetivos finan
 
 Meta Author: SmartFinance
 #### 4.2.4. Searching Systems
+Para facilitar la navegación cuando se accede a una pestaña que no cuente con la barra de navegación o en caso el usuario la haya desactivado, el usuario cuenta con un botón de búsqueda rápida que ofrece la posibilidad de regresar a home, about,premium y log in. 
+
 #### 4.2.5. Navigation Systems
+Para navegar por la aplicación el usuario cuenta con una barra de navegación con todas las secciones clave de nuestro producto: home, about us, premium y log in.
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
 #### 4.3.2. Landing Page Mock-up

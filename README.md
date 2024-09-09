@@ -182,7 +182,7 @@ en la creación de soluciones financieras accesibles y prácticas para los perua
   </tr>
   <tr>
     <td> <img src="assets/teampics/SebastianPacheco.jpg" style="width:300px"> </td>
-    <td> Soy Sebastian Pacheco, alumno de Ingeniería de Software en la UPC. Me considero una persona trabajadora y activa, priorizando las responsabilidades ante todo, pero también destaco en trabajo en equipo, permitiendo a todos que participen. Tengo conocimiento de C++ y Python, los cuales pongo en práctica mediante proyectos personales. </td>
+    <td> Soy Sebastian Pacheco, tengo 21 años y soy alumno de Ingeniería de Software en la UPC. Me considero una persona trabajadora y activa, priorizando las responsabilidades ante todo, pero también destaco en trabajo en equipo, permitiendo a todos que participen. Tengo conocimiento de C++ y Python, los cuales pongo en práctica mediante proyectos personales. </td>
   </tr>
 <tr>
     <th colspan="2"> Sebastián Omar Real Calderón </th>

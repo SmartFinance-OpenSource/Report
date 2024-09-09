@@ -125,6 +125,8 @@ de audiencia.</td>
     <td>
 	Sebastian Pacheco<br>TB1<br>
 	En el desarrollo del proyecto, he participado en la realización de actividades asignadas y promoviendo la participación de otros en las actividades de compañeros, permitiendo que haya un círculo de confianza y se logre afinar el producto gracias a la recepción del punto de vista del resto.<br>
+    Josue Paiva TB1 <br>
+    En el entregable 1 he mantenido una comunicación constante con mis compañeros, pues se buscó un aporte constante por parte de todos los integrantes, en general tuvimos buena comunicación y buena aportación a partes iguaes
     </td>
     <td> </td>
   </tr>
@@ -135,6 +137,8 @@ de audiencia</td>
     <td>
 	Sebastian Pacheco<br>TB1<br>
 	Para promover la participación de otros en un trabajo colaborativo, he desarrollado las actividades asignadas y he buscado la experiencia de mis compañeros para poder mejorar el producto, así como dando ideas propias hacia las actividades de otros y asistiendo en ello.<br>
+    Josue Paiva TB1 <br>
+    Durante las semanas de plazo he completado las tareas delegadas, asi como las que surgían inesperadamente siempre que pude, las mismas se pueden ver reflejadas en mis commits, ademas de aportar con mis compañeros siempre que se necesito.
     </td>
     <td>  </td>
   </tr>

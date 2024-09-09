@@ -1515,7 +1515,7 @@ Se omite esta sección ya que actualmente no contamos con una Front End App, ya 
 
 A continuación, se muestra la página de insights proporcionada por Github.
 
-![github-insights](/assets/environment-images/insights.png)
+![github-insights](/assets/githubpics/insights_cap1.jpg)
 
 ## Conclusiones
 

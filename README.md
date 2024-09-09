@@ -1368,7 +1368,7 @@ git commit -m “<type>[optional scope]: <title>“ -m “<description”
   </tr>
   <tr>
     <td colspan="1"><strong>Attendees (to planning meeting)</strong></td>
-    <td colspan="1">Juan Astonitas, Sebastián Real, Gianluca Pasquale, Josue Paiva, Sebastián Astiguetta</td>
+    <td colspan="1">Juan Astonitas, Sebastián Real, Gianluca Pasquale, Josue Paiva, Sebastián Pacheco</td>
   </tr>
   <tr>
     <td colspan="1"><strong>Sprint n – 1 Review Summary</strong></td>

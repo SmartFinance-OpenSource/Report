@@ -952,6 +952,15 @@ Los sistemas de etiquetado seran los mismos que presentamos en organization syst
 </table>
 
 #### 4.2.3. SEO Tags and Meta Tags
+Para mejorar la visibilidad de la aplicación contamos con SEO tags:
+
+Title: Finzar-Gestiona tus finanzas
+
+Meta Description: Finzar te permitira gestionar tus finanzas personales de manera rapida y eficiente, registra tus gastos, ponte límites y cumple tus objetivos.
+
+Meta Keyowords: finanzas personales. registro de gastos, ahorro, objetivos financieros
+
+Meta Author: SmartFinance
 #### 4.2.4. Searching Systems
 #### 4.2.5. Navigation Systems
 ### 4.3. Landing Page UI Design

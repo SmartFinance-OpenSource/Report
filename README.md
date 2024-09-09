@@ -164,14 +164,11 @@ en la creación de soluciones financieras accesibles y prácticas para los perua
 
 <table>
   <tr>
-    <th colspan="2"> Foto Intengrante 1 </th>
+    <th colspan="2"> Juan Astonitas </th>
   </tr>
   <tr>
-    <td> 
-    Foto Intengrante 1
-
-</td>
-    <td> desc </td>
+    <td> <img src="assets/teampics/JuanAstonitas.png" width=300px > </td>
+    <td>Mi nombre es Juan Diego Astonitas Diaz, mi código de estudiante es u202110237 ,tengo 20 años, actualmente curso el 5to ciclo de la carrera de Ingeniería de Software, en la UPC en la sede San Miguel. Mis principales cualidades son el liderazgo y el dominio de Python. Haré todo lo que esté a mi alcance para respaldar al equipo en la finalización oportuna y efectiva de las tareas asignadas. </td>
   </tr>
   <tr>
     <th colspan="2"> Intengrante 2 </th>

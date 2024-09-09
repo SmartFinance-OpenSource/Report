@@ -171,11 +171,11 @@ en la creación de soluciones financieras accesibles y prácticas para los perua
     <td>Mi nombre es Juan Diego Astonitas Diaz, mi código de estudiante es u202110237 ,tengo 20 años, actualmente curso el 5to ciclo de la carrera de Ingeniería de Software, en la UPC en la sede San Miguel. Mis principales cualidades son el liderazgo y el dominio de Python. Haré todo lo que esté a mi alcance para respaldar al equipo en la finalización oportuna y efectiva de las tareas asignadas. </td>
   </tr>
   <tr>
-    <th colspan="2"> Intengrante 2 </th>
+    <th colspan="2"> Gianluca Santino Pasquale Barrenechea </th>
   </tr>
   <tr>
-    <td>Foto Intengrante 2 </td>
-    <td> desc </td>
+    <td> <img src="assets/teampics/GianlucaPasquale.jpg" style="width: 300px"> </td>
+    <td> Me llamo Gianluca Santino Pasquale Barrenechea, con código de alumno u202112078, tengo 20 años y soy estudiante de la carrera de Ingenieria de Software. Como miembro de equipo, me centraré en el desarrollo del frontend y backend de nuestra Startup, utilizare mis habilidades en C++, C#, Python, Java y HTML para lograr esto. Mi objetivo está en tener un código limpio y eficiente. </td>
   </tr>
 <tr>
     <th colspan="2"> Intengrante 3 </th>

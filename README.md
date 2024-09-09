@@ -123,6 +123,8 @@ del ABET – EAC - Student Outcome 3.
 efectividad a diferentes rangos
 de audiencia.</td>
     <td>
+	Juan Astonitas<br>TB1<br>
+	A lo largo del desarrollo del proyecto Bliss, he participado activamente en la toma de decisiones estratégicas y en la definición de la dirección del equipo, promoviendo la comunicación abierta y la responsabilidad compartida para garantizar un liderazgo efectivo y colectivo.<br>
 	Sebastian Pacheco<br>TB1<br>
 	En el desarrollo del proyecto, he participado en la realización de actividades asignadas y promoviendo la participación de otros en las actividades de compañeros, permitiendo que haya un círculo de confianza y se logre afinar el producto gracias a la recepción del punto de vista del resto.<br>
     Josue Paiva TB1 <br>
@@ -135,6 +137,8 @@ de audiencia.</td>
 efectividad a diferentes rangos
 de audiencia</td>
     <td>
+	Juan Astonitas<br>TB1<br>
+	Durante el proyecto, he contribuido a la creación de un entorno inclusivo y colaborativo, fomentando la participación de todos los miembros del equipo. He trabajado en la definición de metas claras, la planificación de tareas detalladas, y el seguimiento del cumplimiento de los objetivos, asegurando que cada miembro se sienta valorado y comprometido con los resultados.<br>
 	Sebastian Pacheco<br>TB1<br>
 	Para promover la participación de otros en un trabajo colaborativo, he desarrollado las actividades asignadas y he buscado la experiencia de mis compañeros para poder mejorar el producto, así como dando ideas propias hacia las actividades de otros y asistiendo en ello.<br>
     Josue Paiva TB1 <br>

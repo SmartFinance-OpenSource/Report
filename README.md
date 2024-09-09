@@ -131,10 +131,10 @@ de audiencia.</td>
     En el entregable 1 he mantenido una comunicación constante con mis compañeros, pues se buscó un aporte constante por parte de todos los integrantes, en general tuvimos buena comunicación y buena aportación a partes iguales.<br>
     Gianluca Pasquale<br>TB1<br>
 	He contribuido activamente en el liderazgo compartido, facilitando la toma de decisiones y promoviendo la responsabilidad colectiva.<br>
-    Sebastián Real TB1 <br>
+    Sebastián Real <br>TB1 <br>
     En el desarrollo de la primera etapa del proyecto, hubo una comunicación constante entre los integrantes del equipo, lo que llevo a que la realización de las actividades designadas fuera lo más fluida posible, y logrando eliminar cualquier posibilidad de malentendidos o fallas por falta de comunicación.
     </td>
-    <td> </td>
+    <td> TB1<br>En el desarrollo de nuestro proyecto, cada uno ha participado en sus actividades asignadas, también dando su retroalimentación con experiencia como ingenieros. Todos han aportado de manera activa, siempre comunicando cualquier cambio que desarrollen, manteniendo una comunicación entre todos y de esa manera afinando la confianza mutua. Esto ha fortalecido el valor del trabajo en equipo, el cual es de vital importancia para proyectos colaborativos en donde todos son importantes y logran cumplir las responsabilidades propuestas eficientemente.</td>
   </tr>
   <tr>
     <td>Comunica por escrito con
@@ -145,14 +145,14 @@ de audiencia</td>
 	Durante el proyecto, he contribuido a la creación de un entorno inclusivo y colaborativo, fomentando la participación de todos los miembros del equipo. He trabajado en la definición de metas claras, la planificación de tareas detalladas, y el seguimiento del cumplimiento de los objetivos, asegurando que cada miembro se sienta valorado y comprometido con los resultados.<br>
 	Sebastian Pacheco<br>TB1<br>
 	Para promover la participación de otros en un trabajo colaborativo, he desarrollado las actividades asignadas y he buscado la experiencia de mis compañeros para poder mejorar el producto, así como dando ideas propias hacia las actividades de otros y asistiendo en ello.<br>
-    Josue Paiva TB1 <br>
+    Josue Paiva <br>TB1 <br>
     Durante las semanas de plazo he completado las tareas delegadas, asi como las que surgían inesperadamente siempre que pude, las mismas se pueden ver reflejadas en mis commits, ademas de aportar con mis compañeros siempre que se necesito.
     <br>Gianluca Pasquale<br>TB1<br>
 	He fomentado un entorno inclusivo, definiendo metas claras, planificando tareas, y asegurando el cumplimiento de los objetivos del proyecto.<br>
-    Sebastián Real TB1<br>
+    Sebastián Real <br>TB1<br>
     Durante las semanas de trabajo, he completado las tareas que se me encomendaron, y busqué oportunidades para aportar en el desarrollo del producto con ideas o al cumplir tareas específicas. Me comuniqué con el resto de mi grupo, y entre todos documentamos nuestros avances para garantizar un seguimiento efectivo del progreso del proyecto.
     </td>
-    <td>  </td>
+    <td> TB1<br>En el desarrollo de nuestro proyecto, todos han participado sin falta y asistido en actividades en donde otros tenían complicaciones. Se han establecido responsabilidades y planificado entregas en donde cada uno formó parte, logrando un progreso efectivo y cumpliendo los objetivos dados. El hecho de que exista una participación activa de todos los miembros fomenta valores de trabajo en equipo, el cual es punto clave para el progreso y cumplimiento de los objetivos propuestos.  </td>
   </tr>
 
 </table>

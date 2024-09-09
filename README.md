@@ -1,12 +1,37 @@
-# upc-pre-202401-si729-WS51-SmartFinance-report
+<div align = "center">
+  <h1>Universidad Peruana de Ciencias Aplicadas</h1>
+  <img style="height: 200px" src=https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png>
+  <h2 >Carrera: de Ingeniería de Software</h2>
+  <h2 >Ciclo: 2024-02</h2>
+  <br>
+  <h2 >Curso: Desarrollo de Aplicaciones Open Source </h2>
+  <h2 >Sección: WS51</h2>
+  <br>
+  <h2 >Informe del TB1</h2>
+  <h2 >Startup: SmartFinance</h2>
+  <h2 >Producto: Finzar </h2>
+  <br>
+  <h2 >Integrantes:</h2>
+  <ul style="list-style: none; padding: 0;">
+      <li><h3>Juan Diego Astonitas Díaz</h3></li>
+      <li><h3></h3></li>
+      <li><h3></h3></li>
+      <li><h3>Gianluca Santino Pasquale Barrenechea</h3></li>
+      <li><h3></h3></li>
+  </ul>
+  <br>
+  <h4>Septiembre del 2024</h4>
+</div>
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha | Autor | Descripción de modificación |
-|---------|-------|-------|-----------------------------|
-| TB1     |       |       |                             |
+| Versión | Fecha      | Autor                 | Descripción de modificación |
+|---------|------------|-----------------------|-----------------------------|
+| TB1     | 08/09/2024 | Todos los integrantes | Desarrollo de la TB1        |
 
 ## Project Report Collaboration Insights
+Se han realizado todas las tareas asignadas para la entrega de la TB1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el 
+enlace [https://github.com/NRG3-appweb.](https://github.com/SmartFinance-OpenSource) Para elaborar el informe, cada miembro ha redactado y creado gráficos en formato Markdown según los puntos asignados, realizando commits para registrar el avance en el repositorio. 
 
 ## Contenido
 

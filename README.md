@@ -17,7 +17,7 @@
       <li><h3>Sebastián Omar Real Calderón</h3></li>
       <li><h3>Sebastian Pacheco Astiguetta</h3></li>
       <li><h3>Gianluca Santino Pasquale Barrenechea</h3></li>
-      <li><h3></h3></li>
+      <li><h3>Josue Gonzalo Paiva Quispe</h3></li>
   </ul>
   <br>
   <h4>Septiembre del 2024</h4>

@@ -968,7 +968,9 @@ Para facilitar la navegación cuando se accede a una pestaña que no cuente con 
 Para navegar por la aplicación el usuario cuenta con una barra de navegación con todas las secciones clave de nuestro producto: home, about us, premium y log in.
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
+![landing-page-wireframe](assets/LandingPageDesign/finzarLandingPageWireframe.png)
 #### 4.3.2. Landing Page Mock-up
+![landing-page-mockup](assets/LandingPageDesign/finzarLandingPageMockUp.png)
 ### 4.4. Web Applications UX/UI Design
 #### 4.4.1. Web Applications Wireframes
 #### 4.4.2. Web Applications Wireflow Diagrams

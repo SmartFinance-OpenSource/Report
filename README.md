@@ -1022,8 +1022,175 @@ Los elementos presentes son:
 ![ApplicationPersonalization-Component](assets/dsl/structurizr-Component-004.png)
 
 ### 4.7. Software Object-Oriented Design
+El diseño orientado a objetos del software será esencial para nuestro proyecto. Estructuramos nuestro software de acuerdo a nuestras reglas de negocio para poder crear componentes que puedan ser entendibles para su desarrollo en un sistema real, y sean fáciles de modificar para nosotros.
 #### 4.7.1. Class Diagrams
+![ClassDiagram](assets/software-architecture/finzarClassDiagram.png)
 #### 4.7.2. Class Dictionary
+<table><tbody>
+    <tr>
+        <th>Clase</th>
+        <th>Nombre de atributo</th>
+        <th>Descripción</th>
+        <th>Tipo de dato</th>
+    </tr>
+    <tr>
+        <th rowspan="6">Person</th>
+        <th>firstName</th>
+        <th>Primer nombre del cliente.</th>
+        <th>String</th>
+    </tr>
+    <tr>
+        <th>lastName</th>
+        <th>Apellido del usuario.</th>
+        <th>String</th>
+    </tr>
+    <tr>
+        <th>DNI</th>
+        <th>DNI del usuario.</th>
+        <th>Int</th>
+    </tr>
+    <tr>
+        <th>address</th>
+        <th>Dirección del usuario.</th>
+        <th>String</th>
+    </tr>
+    <tr>
+        <th>city</th>
+        <th>Ciudad de residencia del usuario.</th>
+        <th>String</th>
+    </tr>
+    <tr>
+        <th>birthDate</th>
+        <th>Fecha de nacimiento del usuario.</th>
+        <th>Date</th>
+    </tr>
+    <tr>
+        <th rowspan="6">Account</th>
+        <th>username</th>
+        <th>Apodo del usuario</th>
+        <th>String</th>
+    </tr>
+    <tr>
+        <th>email</th>
+        <th>Correo electrónico del usuario</th>
+        <th>String</th>
+    </tr>
+    <tr>
+        <th>password</th>
+        <th>Contraseña del usuario</th>
+        <th>String</th>
+    </tr>
+    <tr>
+        <th>person</th>
+        <th>Persona asociada a la cuenta</th>
+        <th>Person</th>
+    </tr>
+    <tr>
+        <th>preference</th>
+        <th>Preferencias de la cuenta</th>
+        <th>AccountPreferences</th>
+    </tr>
+    <tr>
+        <th>history</th>
+        <th>Historial de transacciones de la cuenta</th>
+        <th>History</th>
+    </tr>
+    <tr>
+        <th rowspan="2">AccountPreferences</th>
+        <th>theme</th>
+        <th>Tema de la interfaz</th>
+        <th>String</th>
+    </tr>
+    <tr>
+        <th>elementDisplay</th>
+        <th>Ajuste de visualización de elementos</th>
+        <th>String</th>
+    </tr>
+    <tr>
+        <th>History</th>
+        <th>transactions</th>
+        <th>Lista de transacciones realizadas por la cuenta</th>
+        <th>Transaction[]</th>
+    </tr>
+    <tr>
+        <th rowspan="4">Transaction</th>
+        <th>transactionDate</th>
+        <th>Fecha de la transacción</th>
+        <th>Date</th>
+    </tr>
+    <tr>
+        <th>amount</th>
+        <th>Monto de la transacción</th>
+        <th>Double</th>
+    </tr>
+    <tr>
+        <th>type</th>
+        <th>Tipo de transacción</th>
+        <th>String</th>
+    </tr>
+    <tr>
+        <th>category</th>
+        <th>Categoría de la transacción</th>
+        <th>Category</th>
+    </tr>
+    <tr>
+        <th>Category</th>   
+        <th>categoryName</th>
+        <th>Nombre de la categoría</th>
+        <th>String</th>
+    </tr>
+    <tr>
+        <th rowspan="2">Report</th>
+        <th>format</th>
+        <th>Formato del reporte</th>
+        <th>String</th>
+    </tr>
+    <tr>
+        <th>dateGenerated</th>
+        <th>Fecha de generación</th>
+        <th>Date</th>
+    </tr>
+    <tr>
+        <th>Recommendation</th>
+        <th>keywords</th>
+        <th>Palabras claves para la generación.</th>
+        <th>String[]</th>
+    </tr>
+    <tr>
+        <th rowspan="3">Repository</th>
+        <th>totalIncome</th>
+        <th>Ingreso total del usuario.</th>
+        <th>Double</th>
+    </tr>
+    <tr>
+        <th>totalExpense</th>
+        <th>Gasto total del usuario.</th>
+        <th>Double</th>
+    </tr>
+    <tr>
+        <th>currentMoney</th>
+        <th>Dinero actual del usuario.</th>
+        <th>Double</th>
+    </tr>
+    <tr>
+        <th rowspan="2">Budget</th>
+        <th>limitAmount</th>
+        <th>Monto límite establecido por el usuario.</th>
+        <th>Double</th>
+    </tr>
+    <tr>
+        <th>dateStart</th>
+        <th>Fecha de establecimiento del límite.</th>
+        <th>Date</th>
+    </tr>
+    <tr>
+        <th>Notification</th>
+        <th>message</th>
+        <th>Mensaje generado para la notificación.</th>
+        <th>String</th>
+    </tr>
+</tbody></table>
+
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram
 

@@ -834,7 +834,12 @@ El siguiente User Task Matrix detalla las tareas realizadas por expertos en fina
 ## Capítulo III: Requirements Specification <a id="cap3"></a>
 
 ### 3.1. To-Be Scenario Mapping
-![To-be scenario mapping](https://github.com/user-attachments/assets/b508fd0f-66cb-470c-bb00-a31099a649bd)
+###### Segmento Objetivo #1
+![To-be Scenario Mapping UserPersona01 FINZAR](https://github.com/user-attachments/assets/96796f9f-2c6b-418b-bcc0-3d8aa8447dee)
+
+###### Segmento Objetivo #2
+![To-be Scenario Mapping UserPersona02 FINZAR](https://github.com/user-attachments/assets/7391cff1-d51d-4957-8939-ec33d1442a2c)
+
 ### 3.2. User Stories
 | **Epic / Story ID** | **Título**                        | **Descripción**                                                                                                                               | **Criterios de Aceptación**                                                                                                                                                      | **Relacionado con (Epic ID)** |
 |---------------------|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|

@@ -703,7 +703,11 @@ Análisis de la entrevista: Bruno nos comenta como gestiona sus finanzas semanal
 Análisis de la entrevista: Flavio tiene un caso mas simple al tratarse de un estudiante universitario, no ha solicitado deudas y sus finanzas se ven sujetas a su mesada mensual, a veces usa hojas de cálculo para ordenar sus finanzas, usa regularmente aplicaciones como la banca de BCP y Yape para pagos, le preocupa la seguridad de sus datos personales y le gustaría ser mas disciplinado con la regulación de su presupuesto, consideraría pagar una suscripción por una aplicación que le ofrezca algo superior a aplicaciónes gratuitas y la dejaría si considera que no es muy eficiente o si recibe numerosas notificaciones
 ### 2.3. Needfinding
 #### 2.3.1. User Personas
+###### Segmento Objetivo 1
 ![User personas](https://github.com/user-attachments/assets/bb847986-d273-43e9-94d1-28dc325337c9)
+###### Segmento Objetivo 2
+![User Persona 2 FINZAR](https://github.com/user-attachments/assets/a3cf00b8-8ded-4e8c-90cb-f60e8f640869)
+
 #### 2.3.2. User Task Matrix
 ######  Jóvenes  Adultos Peruanos
 | **Tareas (Tasks)**                                   | **Frecuencia** | **Importancia** |

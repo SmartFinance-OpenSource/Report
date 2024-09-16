@@ -711,6 +711,10 @@ Análisis de la entrevista: Flavio tiene un caso mas simple al tratarse de un es
 
 #### 2.3.2. User Task Matrix
 ######  Jóvenes  Adultos Peruanos
+
+Introducción:
+El siguiente User Task Matrix detalla las tareas que los jóvenes adultos peruanos suelen realizar en la gestión de sus finanzas personales. Este segmento incluye estudiantes universitarios y jóvenes profesionales que enfrentan desafíos significativos en la administración de su dinero debido a ingresos limitados y falta de experiencia. Las tareas están clasificadas según su frecuencia e importancia para este grupo, proporcionando una visión clara de las áreas en las que se concentran y las que requieren más atención.
+
 | **Tareas (Tasks)**                                   | **Frecuencia** | **Importancia** |
 |------------------------------------------------------|:---------------------------------:|:----------------------:|                                                      
 | **Registrar ingresos y gastos**                   | Alta           | Alta            | Alta           | Alta            |
@@ -721,6 +725,47 @@ Análisis de la entrevista: Flavio tiene un caso mas simple al tratarse de un es
 | **Buscar información financiera y educación**     | Alta           | Alta            | Media          | Media           |
 | **Evaluar y seleccionar herramientas financieras**| Media          | Media           | Media          | Alta            |
 | **Consultar asesoría financiera**                 | Baja           | Baja            | Media          | Media           |
+
+Explicación:
+
+- **Registrar ingresos y gastos**: Es crucial y frecuente, ya que permite a los jóvenes adultos tener un control básico de sus finanzas.
+- **Crear y ajustar un presupuesto mensual**: Importante para planificar gastos y evitar el sobreendeudamiento, realizado con frecuencia media.
+- **Planificar y seguir metas de ahorro**: Ayuda a establecer objetivos financieros y es vital para la estabilidad económica, con frecuencia media.
+- **Controlar y pagar deudas**: Aunque menos frecuente, es esencial para evitar problemas financieros graves.
+- **Revisar y analizar reportes financieros**: Proporciona una visión clara de la situación financiera, con frecuencia e importancia medias.
+- **Buscar información financiera y educación**: Es de alta frecuencia e importancia, dado que muchos jóvenes necesitan aprender y mejorar sus habilidades financieras.
+- **Evaluar y seleccionar herramientas financieras**: Importante para adaptar soluciones a las necesidades personales, con frecuencia media.
+- **Consultar asesoría financiera**: Menos frecuente e importante, pero útil para quienes buscan orientación profesional específica.
+
+###### Expertos en finanzas
+
+Introducción:
+El siguiente User Task Matrix detalla las tareas realizadas por expertos en finanzas en la gestión de sus finanzas personales y profesionales. Este segmento incluye consultores financieros, asesores de inversiones y planificadores financieros. Las tareas están clasificadas por frecuencia e importancia para entender sus prioridades y áreas de enfoque.
+
+
+| **Tareas (Tasks)**                                   | **Frecuencia** | **Importancia** |
+|------------------------------------------------------|:--------------:|:---------------:|
+| **Registrar ingresos y gastos**                     | Media          | Alta            |
+| **Crear y ajustar un presupuesto mensual**          | Baja           | Alta            |
+| **Planificar y seguir metas de ahorro**             | Baja           | Media           |
+| **Controlar y pagar deudas**                        | Baja           | Media           |
+| **Revisar y analizar reportes financieros**          | Alta           | Alta            |
+| **Buscar información financiera y educación**       | Media          | Media           |
+| **Evaluar y seleccionar herramientas financieras**   | Media          | Alta            |
+| **Consultar asesoría financiera**                    | Baja           | Baja            |
+
+**Explicación:**
+
+- **Registrar ingresos y gastos**: Frecuente y de alta importancia para mantener el control financiero personal.
+- **Crear y ajustar un presupuesto mensual**: Menos frecuente pero crucial para la planificación de gastos.
+- **Planificar y seguir metas de ahorro**: Menos frecuente, importancia media para mantener estrategias de ahorro.
+- **Controlar y pagar deudas**: Menos frecuente e importante, los expertos suelen gestionar bien sus deudas.
+- **Revisar y analizar reportes financieros**: Alta frecuencia e importancia para evaluar el desempeño financiero.
+- **Buscar información financiera y educación**: Frecuencia e importancia medias, para actualizar conocimientos.
+- **Evaluar y seleccionar herramientas financieras**: Frecuencia e importancia medias para adaptar herramientas a sus necesidades.
+- **Consultar asesoría financiera**: Menos frecuente e importante, ya que generalmente tienen el conocimiento necesario.
+
+
 
 #### 2.3.3. User Journey Mapping
 ![User Jorney Mapping](https://github.com/user-attachments/assets/5c8dcf3b-a8f5-40c2-94c3-3768e58c8e34)

@@ -773,7 +773,12 @@ El siguiente User Task Matrix detalla las tareas realizadas por expertos en fina
 #### 2.3.4. Empathy Mapping
 ![Empathy map](https://github.com/user-attachments/assets/d5217f32-d4f5-4097-ab3c-5ec9b07e43a0)
 #### 2.3.5. As-is Scenario Mapping
-![As-is scenario mapping](https://github.com/user-attachments/assets/e702fcf0-9dfc-4415-8e24-2c3fedf505eb)
+###### Segmento Objetivo #1
+![As-is Scenario Mapping UserPersona01 FINZAR](https://github.com/user-attachments/assets/6c3afd26-1760-4f87-b9a5-d6e9bd5f1089)
+
+###### Segmento Objetivo #2
+![As-is Scenario Mapping UserPersona02 FINZAR](https://github.com/user-attachments/assets/f61c8b64-d343-4c9a-a37b-d3470e8c2712)
+
 ### 2.4. Ubiquitous Language
 
 #### **Términos Generales**

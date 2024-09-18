@@ -1335,91 +1335,49 @@ En esta sección se definiran las reglas y procesos que seguimos en el proyecto 
 
 #### 5.1.1. Software Development Environment Configuration
 
-* ### Project Management
-    * ### Trello
-    Plataforma de gestión de proyectos que permite seguir el proceso de las tareas a desarrollar.
+### Project Management
 
-    [[Link de la herramienta]](https://trello.com/)
+Para la organizacion del proyecto requerimos de un sistema de de asignación de tareas, palataformas y puntos de reunión y un repositorio dónde trabajaremos en conjunto cada avance del proyecto. A continuación se menciona los nombres de los productos y el propósito de uso en el proyecto:
 
-    Imagen de evidencia de uso:
+- **Centro de organización de trabajo:** Github
+- **Planificación de tareas:** Trello
+- **Reuniones de equipo:** Google Meet
+- **Coordinación grupal:** WhatsApp
 
-    ![trello-evidence](/assets/environment-images/trello.jpg)
+### Requirement Management
 
-* ### Requirement Management
-    * ### UXPressia
+| Herramienta | Descripción | Enlace |
+|-|-|-|
+| Trello | Plataforma de gestión de proyectos que permite seguir el proceso de las tareas a desarrollar. Utilizado para designar tareas a cada integrante del grupo. | https://trello.com/ |
+| Uxpressia | Herramienta en linea que ayuda en el proceso de mapeo. En este proyecto ha sido utilizado para el Impact Mapping. | https://uxpressia.com/ |
+| Structurizr | Herramienta que facilita la creación de modelos C4 para representar de forma gráfica la estructura del producto. | https://www.structurizr.com/ |
 
-    Herramienta en linea que ayuda en el proceso de mapeo. En este proyecto ha sido utilizado para el Impact Mapping.
+### Product UX/UI Design
 
-    [[Link de la herramienta]](https://uxpressia.com/)
+| Herramienta | Descripción | Enlace |
+|-|-|-|
+| Figma | Plataforma colaborativa de diseño que facilita la creación de wireframes y mockups para la landing page. | https://www.figma.com/ |
 
-    Imagen de evidencia de uso:
+### Software Development
 
-    ![uxpressia-evidence](/assets/environment-images/uxpressia.jpg)
+| Herramienta | Descripción | Enlace |
+|-|-|-|
+| HTML | Lenguaje de etiquetado utilizado para crear la estructura de la página web. | https://www.w3schools.com/html/default.asp |
+| CSS | Lenguaje de diseño gráfico usado para dar formato y estilo a la página web escrita en HTML | https://www.w3schools.com/css/default.asp |
+| Javascript | Lenguaje de programación orientado a objetos. Utilizado para definir el comportamiento de la página web e implementar funcionalidades. | https://www.w3schools.com/js/default.asp |
 
-    * ### Structurizr
+### Software Documentation
 
-    Herramienta que facilita la creación de modelos C4 para representar de forma gráfica la estructura del producto.
+| Herramienta | Descripción | Enlace |
+|-|-|-|
+| Github | Para la gestión de la documentación del proyecto. | https://github.com/SmartFinance-OpenSource/Report |
+| Markdown | Formato para la documentación del proyecto. | https://markdown.es/ |
 
-    [[Link de la herramienta]](https://www.structurizr.com/)
+### Software Deployment
 
-    Imagen de evidencia de uso:
-
-    ![structurizr-evidence](/assets/environment-images/structurizr.jpg)
-
-* ### Product UX/UI Design
-    * ### Figma
-
-    Plataforma colaborativa de diseño que facilita la creación de wireframes y mockups para la landing page.
-
-    [[Link de la herramienta]](https://www.figma.com/)
-
-    ![figma-evidence](/assets/environment-images/figma.jpg)
-
-* ### Software Development
-    * ### HTML
-    Lenguaje de etiquetado utilizado para crear la estructura de páginas web.
-
-    Imagen de evidencia de uso:
-
-    ![html-evidence](/assets/environment-images/html-evidence.jpg)
-
-    * ### CSS
-    Lenguaje de diseño gráfico usado para dar formato y estilo a la página web escrita en HTML
-
-    Imagen de evidencia de uso:
-
-    ![css-evidence](/assets/environment-images/css-evidence.jpg)
-
-    * ### JavaScript
-    Lenguaje de programación orientado a objetos. Utilizado para definir el comportamiento de la página web e implementar funcionalidades.
-
-    Imagen de evidencia de uso:
-
-    ![javascript-evidence](/assets/environment-images/javascript-evidence.jpg)
-
-* ### Software Testing
-    * ### Gherkin Language
-    Lenguaje específico de dominio (DSL) diseñado para ser comprensible para los desarrolladores y utilizado definir tests de aceptación.
-
-    [[Más información]](https://cucumber.io/docs/gherkin/reference/)
-
-    Imagen de evidencia de uso:
-
-    ![gherkin-evidence](/assets/environment-images/gherkin-evidence.jpg)
-
-* ### Software Documentation
-    * ### Github
-    Plataforma utilizada para alojar multiples versiones del código fuente de un proyecto. Muy popular en el trabajo colaborativo entre programadores.
-
-    [[Link de la página]](https://github.com/)
-
-    Imagen de evidencia de uso:
-
-    ![github-evidence](/assets/environment-images/github.jpg)
-
-* ### Software Deployment
-    * ### Github Pages
-    Servicio de Github que permite la realización de despliegues simples desde un repositorio.
+| Herramienta | Descripción | Enlace |
+|-|-|-|
+| Github Pages | Para el despliegue de la landign page desde un repositorio. | https://pages.github.com/ |
 
 #### 5.1.2. Source Code Management
 

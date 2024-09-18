@@ -928,6 +928,7 @@ Empezaremos trabajando SmartFinance como una aplicación web, por ello es import
 ### 4.2. Information Architecture
 A continuación presentaremos la arquitectura de la aplicación, ordenando primordialmente en tablas el contenido de la misma.
 #### 4.2.1. Organization Systems
+Los sistemas de organización de nuestra landing page estaran organizados en la barra de navegación en la parte superior de la aplicación, esta albergara el contenido mas importante de la landing page, que se destaca a continuación:
 **Menú de Inicio**
 <table style="text-align:center">
     <thead>
@@ -997,6 +998,10 @@ A continuación presentaremos la arquitectura de la aplicación, ordenando primo
             <td>Ventajas de ser Premium</td>
             <td style="text-align: left">Highlight de las principales diferencias de mejorar la cuenta y las diferencias clave con la cuenta estándar</td>
         </tr>
+                <tr>
+            <td>Obtén Premium</td>
+            <td style="text-align: left">Aquí el usuario podra adquirir una suscripción premium para mejorar su experiencia en la aplicación, eligidiendo la suscripción y el periodo (1, 3, 6 meses o 1 año)</td>
+        </tr>
     </body>
 </table>
 
@@ -1016,7 +1021,7 @@ A continuación presentaremos la arquitectura de la aplicación, ordenando primo
     </body>
 </table>
 
-##### log In
+##### Log In
 <table style="text-align:center">
     <thead>
         <tr>
@@ -1029,8 +1034,13 @@ A continuación presentaremos la arquitectura de la aplicación, ordenando primo
             <td>Inicia sesion</td>
             <td style="text-align: left">Pagina de inicio de sesión indicando el correo de la cuenta y la contraseña correspondiente, tambien una opción en la parte inferior para crear una cuenta gratuitamente</td>
         </tr>
+         <tr>
+            <td>Registro</td>
+            <td style="text-align: left">Pagina de registro, aqui el usuario podrá registrarse usando su información personal para poder acceder a la aplicación</td>
+        </tr>
     </body>
 </table>
+Consideramos el Responsive design en las diferentes secciones de la landing page, pues es importante que el contenido se adapte a cualquier tipo de pantalla para facilitar la navegación del usuario.
 <br><br>
 <br><br>
 

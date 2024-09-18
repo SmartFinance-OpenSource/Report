@@ -1330,6 +1330,9 @@ El diseño de la base de datos será fundamental para nuestro proyecto, ya que p
 ## Capítulo V: Product Implementation, Validation & Deployment <a id="cap5"></a>
 
 ### 5.1. Software Configuration Management
+
+En esta sección se definiran las reglas y procesos que seguimos en el proyecto para la creación y despliegue de la página web de Finzar. Esto con el objetivo de garantizar la consistencia del software desde el inicio hasta el despliegue y mantenimiento.
+
 #### 5.1.1. Software Development Environment Configuration
 
 * ### Project Management

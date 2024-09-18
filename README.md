@@ -1381,46 +1381,39 @@ Para la organizacion del proyecto requerimos de un sistema de de asignación de 
 
 #### 5.1.2. Source Code Management
 
-Landing Page Repository: [Landing Page Repository](https://github.com/SmartFinance-OpenSource/Landing-Page/tree/develop)
+| Producto | Repositorio | URL |
+|-|-|-|
+| Landing Page | Finzar-landing-page | https://github.com/SmartFinance-OpenSource/Landing-Page |
 
-* Gitflow Implementation
-Implementamos el flujo de trabajo Gitflow a través de ramas(branches) para separar el desarrollo en paralelo de diversas secciones del proyecto.
+Flujo de trabajo GitFlow
 
-![gitflow](/assets/environment-images/gitflow.jpg)
+Usaremos el flujo de trabajo planteado por Vincent Driessen en "A successful Git branching model" con los siguientes parámetros:
 
-### **Main branch**
-La rama principal de desarrollo del proyecto es la Main branch. En esta rama reside el código que actualmente se encuentra en producción.
+- Una rama de producción.
+- Una rama de pruebas.
+- Una rama en la que se solucionen los bugs rapidamente y vuelvan a producción.
+- Ramas de features a implementar.
+- Cada cambio en producción debe establecerse como una nueva versión.
+- Para este proyecto en concreto consideramos que los cambios en la rama de producción y de pruebas deben tener autorización de un compa­ñero de equipo.
 
-#### Notación: main
+Teniendo en cuenta la información anterior nos inclinamos por este tipo de organización en los branches:
 
-### **Develop branch**
-La rama "Develop" albergará las más recientes actualizaciones y cambios agregados que serán incluidos en la próxima versión del proyecto. Esta rama sirve como un espacio para la prueba continua de los cambios antes de ser fusionados con la rama principal "Main" para su posterior despliegue.
+- Main branch: Esta rama esta destinada a la producción de la aplicación, cada cambio deberá tener autorización de un compañero de equipo para evitar cambios sin verificar.
+- Hotfix branch: En esta rama se incluirán todas las versiones que poseen errores identificados y que con cada arreglo de este se despliegue otra vez a Main Branch además de implementarla en lo que será Develop Branch.
+- Develop branch: Esta rama está destinada a las constantes implementaciones en caliente de los features,
+- Features branch: Cada feature poseerá su respectiva rama, una vez que se encuentre correctamente implementada será fusionada con Develop branch.
 
-#### Notación: develop
+Con cada deployment de la aplicación debe establecerse como una nueva versión. Nomenclatura de numeración de las versiones:
 
-### **Release branch**
-La rama de lanzamiento (Release branch) facilitará la preparación de una nueva versión del producto. Esta rama permitirá la corrección de errores y permitirá que la rama Develop reciba más actualizaciones.
+- Major changes: Cuando el código o versión nueva del proyecto a implementar presenta cambios significativos con la versión anterior, estos cambios llegan a ser incompatibles con la versión anterior. Esto se evidenciará en el numero de la versión ej: versión 1.0.0 -> versión 2.0.0.
+- Minor changes: Cuando el código o versión nueva del proyecto a implementar presenta cambios con respecto a alguna característica, ya sea añadir o modificar, de la versión anterior; estos cambios no llegan a ser incompatibles con la versión anterior. Esto se evidenciará en el numero de la versión ej: versión 1.1.0 -> versión 1.2.0.
+- Patch: Cuando se solucionan bugs menores. Esto se evidenciará en el numero de la versión ej: versión 1.1.3 -> versión 1.1.4.
 
-#### Notación: release
+Sufijos asignados a las versiones:
 
-### **Conventional Commits**
-"Conventional Commits" es una convención para estructurar los mensajes de confirmación (commits) en un formato estándar y semántico. Este formato ayuda a comunicar claramente los cambios realizados en el código y facilita la generación de registros de cambios automáticos. Los "Conventional Commits" suelen seguir un formato que incluye un encabezado, un cuerpo opcional y un pie de página opcional, y se utilizan para describir de manera sucinta y clara los cambios realizados en el código, lo que facilita su seguimiento y comprensión por parte de los desarrolladores y otros miembros del equipo.
-<br>
-La estructura de un commit debe seguir las siguientes pautas:
-~~~
-git commit -m “<type>[optional scope]: <title>“ -m “<description”
-~~~
-**Tipos De Conventional Commits**
-~~~
-1. feat: Used to describe a new feature or functionality added to the code.
-2. fix: Indicates a bug fix or solution to a problem.
-3. docs: Employed for changes or improvements in code documentation.
-4. style: Describes changes related to the code's formatting, such as whitespace, indentation, etc., that do not affect its functionality.
-5. refactor: Used for modifications to the code that do not fix bugs or add new features, but rather improve its structure or readability.
-6. test: Indicates the addition or modification of unit tests or functional tests.
-7. chore: Used for changes in the build process or maintenance tasks that are not directly related to the code itself.
-8. perf: Describes performance improvements in the code.
-~~~
+- -alpha: versión no estable con características básicas o no funcionales, ejemplo : versión 1.0.0 -alpha.
+- -beta: versión no apta para la publicación, aún así ya presenta características funcionales en el estado base, ejemplo versión 1.0.0 –beta.
+- -rc: versión apta para la publicación y uso de los usuarios, es candidata para publicar, ejemplo versión 1.0.0 -rc.
 
 #### 5.1.3. Source Code Style Guide & Conventions
 

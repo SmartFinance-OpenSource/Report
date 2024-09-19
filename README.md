@@ -706,8 +706,6 @@ Análisis de la entrevista: Flavio tiene un caso mas simple al tratarse de un es
 #### 2.3.1. User Personas
 ###### Segmento Objetivo 1
 ![User personas](https://github.com/user-attachments/assets/bb847986-d273-43e9-94d1-28dc325337c9)
-###### Segmento Objetivo 2
-![User Persona 2 FINZAR](https://github.com/user-attachments/assets/a3cf00b8-8ded-4e8c-90cb-f60e8f640869)
 
 #### 2.3.2. User Task Matrix
 ######  Jóvenes  Adultos Peruanos

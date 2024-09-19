@@ -726,36 +726,6 @@ Explicación:
 - **Consultar asesoría financiera**: Menos frecuente e importante, pero útil para quienes buscan orientación profesional específica.
 
 
-###### Expertos en finanzas
-
-Introducción:
-El siguiente User Task Matrix detalla las tareas realizadas por expertos en finanzas en la gestión de sus finanzas personales y profesionales. Este segmento incluye consultores financieros, asesores de inversiones y planificadores financieros. Las tareas están clasificadas por frecuencia e importancia para entender sus prioridades y áreas de enfoque.
-
-
-| **Tareas (Tasks)**                                   | **Frecuencia** | **Importancia** |
-|------------------------------------------------------|:--------------:|:---------------:|
-| **Registrar ingresos y gastos**                     | Media          | Alta            |
-| **Crear y ajustar un presupuesto mensual**          | Baja           | Alta            |
-| **Planificar y seguir metas de ahorro**             | Baja           | Media           |
-| **Controlar y pagar deudas**                        | Baja           | Media           |
-| **Revisar y analizar reportes financieros**          | Alta           | Alta            |
-| **Buscar información financiera y educación**       | Media          | Media           |
-| **Evaluar y seleccionar herramientas financieras**   | Media          | Alta            |
-| **Consultar asesoría financiera**                    | Baja           | Baja            |
-
-**Explicación:**
-
-- **Registrar ingresos y gastos**: Frecuente y de alta importancia para mantener el control financiero personal.
-- **Crear y ajustar un presupuesto mensual**: Menos frecuente pero crucial para la planificación de gastos.
-- **Planificar y seguir metas de ahorro**: Menos frecuente, importancia media para mantener estrategias de ahorro.
-- **Controlar y pagar deudas**: Menos frecuente e importante, los expertos suelen gestionar bien sus deudas.
-- **Revisar y analizar reportes financieros**: Alta frecuencia e importancia para evaluar el desempeño financiero.
-- **Buscar información financiera y educación**: Frecuencia e importancia medias, para actualizar conocimientos.
-- **Evaluar y seleccionar herramientas financieras**: Frecuencia e importancia medias para adaptar herramientas a sus necesidades.
-- **Consultar asesoría financiera**: Menos frecuente e importante, ya que generalmente tienen el conocimiento necesario.
-
-
-
 #### 2.3.3. User Journey Mapping
 ![User Jorney Mapping](https://github.com/user-attachments/assets/5c8dcf3b-a8f5-40c2-94c3-3768e58c8e34)
 #### 2.3.4. Empathy Mapping

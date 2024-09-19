@@ -792,9 +792,6 @@ Explicación:
 ###### Segmento Objetivo #1
 ![To-be Scenario Mapping UserPersona01 FINZAR](https://github.com/user-attachments/assets/96796f9f-2c6b-418b-bcc0-3d8aa8447dee)
 
-###### Segmento Objetivo #2
-![To-be Scenario Mapping UserPersona02 FINZAR](https://github.com/user-attachments/assets/7391cff1-d51d-4957-8939-ec33d1442a2c)
-
 ### 3.2. User Stories
 | **Epic / Story ID** | **Título**                        | **Descripción**                                                                                                                               | **Criterios de Aceptación**                                                                                                                                                      | **Relacionado con (Epic ID)** |
 |---------------------|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|

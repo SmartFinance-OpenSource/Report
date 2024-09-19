@@ -1571,46 +1571,17 @@ Con cada actualización e implementación del repositorio se harán pruebas que 
 
 Para el primer sprint, desarrollamos la estructura y las funcionalidades básicas de la landing page, así como el diseño visual y la barra de navegación.
 
-<table>
-  <tr>
-    <td colspan="1"><strong>Sprint #</strong></td>
-    <td colspan="7"><strong>Sprint 1</strong></td>
-  </tr>
-  <tr>
-    <td colspan="2"><strong>User Story</strong></td>
-    <td colspan="6"><strong>Work-Item/task</strong></td>
-  </tr>
-  <tr>
-    <td colspan="1"><strong>Id</strong></td>
-    <td colspan="1"><strong>Title</strong></td>
-    <td colspan="1"><strong>Id</strong></td>
-    <td colspan="1"><strong>Title</strong></td>
-    <td colspan="1"><strong>Description</strong></td>
-    <td colspan="1"><strong>Estimation(Hrs)</strong></td>
-    <td colspan="1"><strong>Assigned To</strong></td>
-    <td colspan="1"><strong>Status</strong></td>
-  </tr>
-  <tr>
-    <td colspan="1">US01</td>
-    <td colspan="1">Registro de Usuario</td>
-    <td colspan="1">T01</td>
-    <td colspan="1">Crear un sistema de registro de usuarios.</td>
-    <td colspan="1">La página web debe tener una opción para que los usuarios creen una cuenta.</td>
-    <td colspan="1">0.5</td>
-    <td colspan="1">Juan Astonitas</td>
-    <td colspan="1">Done</td>
-  </tr>
-  <tr>
-    <td colspan="1">US02</td>
-    <td colspan="1">Inicio de Sesión</td>
-    <td colspan="1">T02</td>
-    <td colspan="1">Crear un sistema de inicio de sesión para usuarios registrados.</td>
-    <td colspan="1">La página web debe permitir a los usuarios registrados el ingresar sus datos para acceder a sus cuentas.</td>
-    <td colspan="1">0.5</td>
-    <td colspan="1">Juan Astonitas</td>
-    <td colspan="1">Done</td>
-  </tr>
-</table>
+| **Sprint #** | **Sprint 1** | | | | | | |
+|-|-|-|-|-|-|-|-|
+| **User Story** | | **Work-Item/task** | | | | | |
+| **ID** | **Title** | **Id** | **Title** | **Description** | **Estimation(Hrs)** | **Assigned To** | **Status** |
+| US-01 | Registro de Usuario | T01 | Crear un sistema de registro de usuarios. | La página web debe tener una opción para que los usuarios creen una cuenta. | 0.5 | Juan Astonitas | Done |
+| US-02 | Inicio de Sesión | T02 | Crear un sistema de inicio de sesión para usuarios registrados. | La página web debe permitir a los usuarios registrados el ingresar sus datos para acceder a sus cuentas. | 0.5 | Juan Astonitas | Done |
+| US-29 | Navegación por el Landing Page | T03 | Crear una página web | Se debe crear una página web navegable y sin errores, sobre la cual se construirá la landing page de Finzar. | 0.5 | Juan Astonitas | Done |
+| US-30 | Ver Información del Startup | T04 | Se debe agregar una sección con información sobre el equipo de desarrollo de Finzar. | 1 | Juan Astonitas | Done |
+| US-31 | Conocer la Misión de la Startup | T05 | Agregar una sección con la visión, misión y objetivos de la startup. | 0.5 | Juan Astonitas | Done |
+| US-32 | Cambiar el Idioma de la Landing Page. | T06 | Implementar un sistema de internacionalización en la landing page que permita cambiar el idioma de los contenidos. | 2.5 | Juan Astonitas | Done |
+| US-33 | Contactar al equipo de soporte. | T07 | Agregar un formulario en la landing page que permita enviar un mensaje al equipo de soporte. | 3 | Juan Astonitas | Done |
 
 ##### 5.2.1.3. Development Evidence for Sprint Review
 

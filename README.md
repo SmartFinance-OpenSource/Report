@@ -1600,6 +1600,8 @@ Se omite esta sección, dado que aún no se tiene el conocimiento necesario para
 
 En esta entrega, nuestro equipo ha desplegado con éxito la landing page.
 
+Enlace de la Landing Page: https://smartfinance-opensource.github.io/Landing-Page/
+
 ![landing-page-1](/assets/landing-page-screenshots/1.jpg)
 ![landing-page-2](/assets/landing-page-screenshots/2.jpg)
 ![landing-page-3](/assets/landing-page-screenshots/3.jpg)

@@ -1118,170 +1118,44 @@ El diseño orientado a objetos del software será esencial para nuestro proyecto
 #### 4.7.1. Class Diagrams
 ![ClassDiagram](assets/software-architecture/finzarClassDiagram.png)
 #### 4.7.2. Class Dictionary
-<table><tbody>
-    <tr>
-        <th>Clase</th>
-        <th>Nombre de atributo</th>
-        <th>Descripción</th>
-        <th>Tipo de dato</th>
-    </tr>
-    <tr>
-        <th rowspan="6">Person</th>
-        <th>firstName</th>
-        <th>Primer nombre del cliente.</th>
-        <th>String</th>
-    </tr>
-    <tr>
-        <th>lastName</th>
-        <th>Apellido del usuario.</th>
-        <th>String</th>
-    </tr>
-    <tr>
-        <th>DNI</th>
-        <th>DNI del usuario.</th>
-        <th>Int</th>
-    </tr>
-    <tr>
-        <th>address</th>
-        <th>Dirección del usuario.</th>
-        <th>String</th>
-    </tr>
-    <tr>
-        <th>city</th>
-        <th>Ciudad de residencia del usuario.</th>
-        <th>String</th>
-    </tr>
-    <tr>
-        <th>birthDate</th>
-        <th>Fecha de nacimiento del usuario.</th>
-        <th>Date</th>
-    </tr>
-    <tr>
-        <th rowspan="6">Account</th>
-        <th>username</th>
-        <th>Apodo del usuario</th>
-        <th>String</th>
-    </tr>
-    <tr>
-        <th>email</th>
-        <th>Correo electrónico del usuario</th>
-        <th>String</th>
-    </tr>
-    <tr>
-        <th>password</th>
-        <th>Contraseña del usuario</th>
-        <th>String</th>
-    </tr>
-    <tr>
-        <th>person</th>
-        <th>Persona asociada a la cuenta</th>
-        <th>Person</th>
-    </tr>
-    <tr>
-        <th>preference</th>
-        <th>Preferencias de la cuenta</th>
-        <th>AccountPreferences</th>
-    </tr>
-    <tr>
-        <th>history</th>
-        <th>Historial de transacciones de la cuenta</th>
-        <th>History</th>
-    </tr>
-    <tr>
-        <th rowspan="2">AccountPreferences</th>
-        <th>theme</th>
-        <th>Tema de la interfaz</th>
-        <th>String</th>
-    </tr>
-    <tr>
-        <th>elementDisplay</th>
-        <th>Ajuste de visualización de elementos</th>
-        <th>String</th>
-    </tr>
-    <tr>
-        <th>History</th>
-        <th>transactions</th>
-        <th>Lista de transacciones realizadas por la cuenta</th>
-        <th>Transaction[]</th>
-    </tr>
-    <tr>
-        <th rowspan="4">Transaction</th>
-        <th>transactionDate</th>
-        <th>Fecha de la transacción</th>
-        <th>Date</th>
-    </tr>
-    <tr>
-        <th>amount</th>
-        <th>Monto de la transacción</th>
-        <th>Double</th>
-    </tr>
-    <tr>
-        <th>type</th>
-        <th>Tipo de transacción</th>
-        <th>String</th>
-    </tr>
-    <tr>
-        <th>category</th>
-        <th>Categoría de la transacción</th>
-        <th>Category</th>
-    </tr>
-    <tr>
-        <th>Category</th>   
-        <th>categoryName</th>
-        <th>Nombre de la categoría</th>
-        <th>String</th>
-    </tr>
-    <tr>
-        <th rowspan="2">Report</th>
-        <th>format</th>
-        <th>Formato del reporte</th>
-        <th>String</th>
-    </tr>
-    <tr>
-        <th>dateGenerated</th>
-        <th>Fecha de generación</th>
-        <th>Date</th>
-    </tr>
-    <tr>
-        <th>Recommendation</th>
-        <th>keywords</th>
-        <th>Palabras claves para la generación.</th>
-        <th>String[]</th>
-    </tr>
-    <tr>
-        <th rowspan="3">Repository</th>
-        <th>totalIncome</th>
-        <th>Ingreso total del usuario.</th>
-        <th>Double</th>
-    </tr>
-    <tr>
-        <th>totalExpense</th>
-        <th>Gasto total del usuario.</th>
-        <th>Double</th>
-    </tr>
-    <tr>
-        <th>currentMoney</th>
-        <th>Dinero actual del usuario.</th>
-        <th>Double</th>
-    </tr>
-    <tr>
-        <th rowspan="2">Budget</th>
-        <th>limitAmount</th>
-        <th>Monto límite establecido por el usuario.</th>
-        <th>Double</th>
-    </tr>
-    <tr>
-        <th>dateStart</th>
-        <th>Fecha de establecimiento del límite.</th>
-        <th>Date</th>
-    </tr>
-    <tr>
-        <th>Notification</th>
-        <th>message</th>
-        <th>Mensaje generado para la notificación.</th>
-        <th>String</th>
-    </tr>
-</tbody></table>
+| **Clase**       | **Nombre de Atributo** | **Descripción**                             | **Tipo de Dato** |
+|-----------------|------------------------|---------------------------------------------|------------------|
+| User            | username               | Nombre de usuario del usuario               | String           |
+| User            | email                  | Correo electrónico del usuario              | String           |
+| User            | password_hash          | Contraseña del usuario encriptada           | String           |
+| Wallet          | user                   | Usuario al que pertenece la billetera       | User             |
+| Wallet          | balance                | Saldo actual de la billetera                | Double           |
+| Wallet          | total_balance          | Saldo total de la billetera                 | Double           |
+| Wallet          | budget                 | Perfil de presupuesto de la billetera       | Budget           |
+| Wallet          | savings                | Perfil de ahorro de la billetera            | Savings          |
+| History         | transaction            | Transacción realizada por el usuario        | Transaction      |
+| History         | wallet                 | Billetera a la que pertenece la transacción | Wallet           |
+| Transaction     | transaction_type       | Tipo de transacción (ingreso o gasto)       | TransactionType  |
+| Transaction     | wallet                 | Billetera donde se realiza la transacción   | Wallet           |
+| Transaction     | amount                 | Monto de la transacción                     | Double           |
+| Transaction     | date                   | Fecha en la que se realiza la transacción   | Date             |
+| Transaction     | note                   | Nota o descripción de la transacción        | String           |
+| Transaction     | recurrence             | Frecuencia de la transacción                | Recurrence       |
+| TransactionType | name                   | Nombre del tipo de transacción              | String           |
+| TransactionType | category               | Categoría de la transacción                 | String           |
+| Recurrence      | name                   | Nombre de la recurrencia                    | String           |
+| Budget          | name                   | Nombre del presupuesto                      | String           |
+| Budget          | amount                 | Monto del presupuesto                       | Double           |
+| Budget          | category               | Categorías asignadas al presupuesto         | String           |
+| Budget          | recurrence             | Frecuencia de revisión del presupuesto      | Recurrence       |
+| Savings         | name                   | Nombre del ahorro                           | String           |
+| Savings         | amount                 | Monto del ahorro                            | Double           |
+| Savings         | category               | Categorías asignadas al ahorro              | String           |
+| Savings         | recurrence             | Frecuencia de revisión del ahorro           | Recurrence       |
+| Expenses        | wallet                 | Billetera a la que pertenecen los gastos    | Wallet           |
+| Expenses        | money_lost             | Monto total gastado                         | Double           |
+| Expenses        | category               | Categoría de los gastos                     | String           |
+| Expenses        | date                   | Fecha en la que se realizan los gastos      | Date             |
+| Earnings        | wallet                 | Billetera a la que pertenecen los ingresos  | Wallet           |
+| Earnings        | money_earned           | Monto total ganado                          | Double           |
+| Earnings        | category               | Categoría de los ingresos                   | String           |
+| Earnings        | date                   | Fecha en la que se realizan los ingresos    | Date             |
+| Category        | name                   | Nombre de la categoría                      | String           |
 
 ### 4.8. Database Design
 El diseño de la base de datos será fundamental para nuestro proyecto, ya que proporcionará la estructura subyacente para almacenar y gestionar los datos de manera eficiente y segura. Esto nos permitirá organizar los datos de manera lógica y coherente, facilitando su recuperación y manipulación en respuesta a las solicitudes de los usuarios.

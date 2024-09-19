@@ -911,7 +911,7 @@ El siguiente User Task Matrix detalla las tareas realizadas por expertos en fina
 | US-20        | Editar Plan de Ahorro           |
 | US-21        | Ver Progreso del Ahorro         |
 
-### **Epic 04: Visualización de la Interfaz del Usuario**
+### **Epic 04: Interacción con la Landing Page**
 | **Story ID** | **Título**                           |
 |--------------|--------------------------------------|
 | US-22        | Navegación por el Landing Page       |

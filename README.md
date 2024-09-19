@@ -402,16 +402,6 @@ Características clave de este segmento:
 - Desean desarrollar buenos hábitos financieros desde una edad temprana para asegurar un futuro económico sólido.
 - Valoran soluciones que sean fáciles de usar y que se adapten a su estilo de vida dinámico
 
-**Segmento objetivo #2: Expertos en Finanzas**
-
-Este grupo está compuesto por profesionales de las finanzas con varios años de experiencia, como consultores financieros, asesores de inversiones y planificadores financieros. Estos individuos tienen un profundo conocimiento en la gestión de finanzas avanzadas y buscan herramientas que no solo optimicen su propia gestión financiera, sino que también puedan recomendar a sus clientes. Aunque manejan herramientas complejas en su día a día, valoran la simplicidad y la eficiencia para gestionar sus finanzas personales de manera rápida y efectiva.
-
-Características clave de este segmento:
-- Conocen profundamente las finanzas, pero buscan herramientas que les ahorren tiempo en tareas rutinarias como la gestión de ingresos, gastos, deudas y ahorros personales.
-- Valoran el análisis financiero avanzado y reportes detallados que les permitan un seguimiento preciso tanto para ellos como para sus clientes.
-- Desean soluciones que sean accesibles y prácticas para recomendar a sus clientes, facilitando la educación financiera.
-- Buscan automatización y simplicidad, dado que su tiempo es limitado y prefieren que ciertas tareas financieras se manejen de manera automática.
-- Prefieren herramientas que integren tanto finanzas personales como profesionales, para gestionar su dinero y el de sus clientes sin complicaciones adicionales.
 
 ## Capítulo II: Requirements Elicitation & Analysis <a id="cap2"></a>
 

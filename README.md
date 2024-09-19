@@ -692,6 +692,23 @@ Análisis de la entrevista: Bruno nos comenta como gestiona sus finanzas semanal
 
 ##### Entrevista 3: Flavio Gallardo
 Análisis de la entrevista: Flavio tiene un caso mas simple al tratarse de un estudiante universitario, no ha solicitado deudas y sus finanzas se ven sujetas a su mesada mensual, a veces usa hojas de cálculo para ordenar sus finanzas, usa regularmente aplicaciones como la banca de BCP y Yape para pagos, le preocupa la seguridad de sus datos personales y le gustaría ser mas disciplinado con la regulación de su presupuesto, consideraría pagar una suscripción por una aplicación que le ofrezca algo superior a aplicaciónes gratuitas y la dejaría si considera que no es muy eficiente o si recibe numerosas notificaciones
+
+Resultados de las entrevistas:
+
+![graph1](https://github.com/JosuePaiva02/files/blob/main/grafico1.png?raw=true)
+Preguntar a un posible usuario sobre si utiliza herramientas para controlar sus gastos nos permite entender la necesidad que existe de una herramienta sencilla y eficaz, y para el único entrevistado que contesto "no" la ausencia de una aplicación asi es la razon por la que no hace seguimiento de sus gastos.
+
+![graph2](https://github.com/JosuePaiva02/files/blob/main/grafico2.png?raw=true)
+En la pregunta sobre el crédito era esperable encontrar una mayoria que no ha solicitado este tipo de préstamo, pues los entrevistados son estudiantes universitarios.
+
+![graph3](https://github.com/JosuePaiva02/files/blob/main/grafico3.png?raw=true)
+Los entrevistados se mostraron muy abiertos a adoptar e incluso pagar por una aplicación que le permita ordenar sus finanzas de manera rápida y efectiva, el usuario que se encontraba en duda fue en gran parte debido a que no sabia si podría incluir una suscripción en su presupuesto mensual
+
+![graph4](https://github.com/JosuePaiva02/files/blob/main/5.png?raw=true)
+Todos los entrevistados contestaron positivamente sobre si establecen un presupuesto mensual, esto es un indicador de que existe un interés en mantener en orden las finanzas de cada uno y obtener margenes de ahorro, por ello concluimos de que nuestra aplicación si seria de interés para nuestro público objetivo.
+
+
+
 ### 2.3. Needfinding
 #### 2.3.1. User Personas
 ###### Segmento Objetivo 1

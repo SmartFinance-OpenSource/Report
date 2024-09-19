@@ -1585,10 +1585,12 @@ Para el primer sprint, desarrollamos la estructura y las funcionalidades básica
 
 ##### 5.2.1.3. Development Evidence for Sprint Review
 
-| Repository          | Branch  | Commit ID                                | Commit Message                           | Commit Message Body                                                                                                                                 | Commited on (Date) |
-|---------------------|---------|------------------------------------------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
-| SmartFinance-OpenSource/Landing-Page | develop | 464433d | feat: add landing page images |  | 08/09/2024  |
-| SmartFinance-OpenSource/Landing-Page | develop  | 8bd63b6 | feat: added first version landing page |  | 08/09/2024 |
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date) |
+|-|-|-|-|-|-|
+| SmartFinance-OpenSource/Landing-Page | main  | 78a1dbb | Initial Commit |  | 19/08/2024 |
+| SmartFinance-OpenSource/Landing-Page | develop | 464433d | feat: add landing page images |  | 09/09/2024  |
+| SmartFinance-OpenSource/Landing-Page | develop  | 8bd63b6 | feat: added first version landing page |  | 09/09/2024 |
+| SmartFinance-OpenSource/Landing-Page | develop | be2226e | fix: fixed header redirectors |  | 09/09/2024 |
 
 ##### 5.2.1.4. Testing Suite Evidence for Sprint Review
 

@@ -734,9 +734,6 @@ Explicación:
 ###### Segmento Objetivo #1
 ![As-is Scenario Mapping UserPersona01 FINZAR](https://github.com/user-attachments/assets/6c3afd26-1760-4f87-b9a5-d6e9bd5f1089)
 
-###### Segmento Objetivo #2
-![As-is Scenario Mapping UserPersona02 FINZAR](https://github.com/user-attachments/assets/f61c8b64-d343-4c9a-a37b-d3470e8c2712)
-
 ### 2.4. Ubiquitous Language
 
 #### **Términos Generales**

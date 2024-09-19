@@ -1449,6 +1449,20 @@ Sufijos asignados a las versiones:
       ~~~ 
       <link rel="stylesheet" href="styles.css">
       ~~~ 
+    
+#### **Etiquetas de HTML usadas:**
+Se uso diferentes etiquetas para conformar la estructura del Landing Page del producto:
+* **header**: Esta etiqueta define todo el contenido introductorio de la página web, como por ejemplo la barra de búsquedas.
+* **nav**: Define las secciones de la página que estarán dedicadas a la navegación en la página
+* **div**: Esta etiqueta permite la separación de diferentes objetos dentro de nuestra página, esto nos permitió poder aplicar hojas de estilo específicas para cada parte de los objetos.
+* **img**: Esta etiqueta permite la inserción de imágenes en la página web, se uso en diversas ocasiones dentro de la página.
+* **ul**: Esta etiqueta sirve para definir una lista desordenada, mayor mente se uso para la elaboración del menú interactivo de la página.
+* **li**: Sirve para definir los elementos de las listas que se implementaron en la página, más especifico en la barra de búsqueda y el blog.
+* **a**: También llamado “Anchor”, se usó para definir hipervínculos para mover a los usuarios a través de las diferentes secciones de la página.
+* **p**: Definen los párrafos de texto, separándolos del resto de contenido.
+* **button**: Declaran un botón interactivo modificable que permite a los usuarios realizar una acción en específico.
+* **h1 - h4**: Definen los diferentes títulos y subtítulos de la página siendo h1 el mayor nivel y h4 el más bajo.
+
 - ### CSS
     - #### ID and Class Naming
       Es recomendable utilizar nombres de clases e id's significativos que expresen claramente el propósito del elemento.
@@ -1486,6 +1500,7 @@ Sufijos asignados a las versiones:
         text-align: center;
         text-indent: 2em;
        ~~~  
+
 - ### JAVASCRIPT
      - #### Use expanded syntax
        Cada línea de JavaScript debería estar en una nueva línea, con la llave de apertura en la misma línea de su declaración y la llave de cierre en una nueva línea al final.
@@ -1515,55 +1530,7 @@ Sufijos asignados a las versiones:
        function sayHello() {
        alert('Hello!');
        };
-       ~~~ 
-- ### LENGUAJE GHERKIN
-    - #### Descriptive and concise titles for scenarios
-      Utilizar títulos descriptivos y concisos para los escenarios.
-      ~~~ 
-      Feature: Login
-        Scenario: Successful login
-          Given a user is on the login page     
-          When they enter valid credentials     
-          Then they should be logged in successfully      
-      ~~~
-    - #### Follow the Given-When-Then structure consistently.
-      Seguir la estructura de Given-When-Then de manera consistente.
-      ~~~ 
-      Scenario: Adding items to the shopping cart
-        Given the user is on the shopping page
-        When they add an item to the cart
-        Then the item should appear in the cart 
-      ~~~
-    - #### Focus on business-readable language
-      Centrarse en un lenguaje legible para el negocio, evitando detalles técnicos de implementación.
-      ~~~ 
-      Scenario: Changing user settingst
-        Given the user is logged in
-        When they navigate to the settings page
-        Then they should be able to update their profile
-      ~~~
-    - ####  Utilize Scenario Outline for scenarios with multiple similar cases.
-      Utilizar Scenario Outline para escenarios con múltiples casos similares.
-      ~~~ 
-      Scenario Outline: Searching for products
-        Given the user is on the search page
-        When they search for "<product>"
-        Then they should see search results for "<product>"
-      
-      Examples:
-        | product  |
-        | Laptop   |
-        | Smartphone |
-      ~~~
-    - #### Add comments to provide additional context
-      Agregar comentarios para proporcionar contexto adicional o explicaciones cuando sea necesario.
-      ~~~ 
-      # This scenario checks the functionality of the logout feature
-      Scenario: User logout
-        Given the user is logged in
-        When they click on the logout button
-        Then they should be redirected to the login page      
-      ~~~
+       ~~~
 
 #### 5.1.4. Software Deployment Configuration
 

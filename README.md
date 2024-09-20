@@ -1180,18 +1180,34 @@ Para navegar por la aplicación el usuario cuenta con una barra de navegación c
 #### 4.4.3. Web Applications Mock-ups
 
 
+Esta sección presenta y explica los mockups de Finzar, diseñados para reflejar una experiencia de usuario optimizada y accesible. En la propuesta se aplican principios fundamentales de diseño, como la simplicidad y la usabilidad, integrando elementos visuales consistentes que siguen un enfoque de diseño inclusivo. Asimismo, la arquitectura de información ha sido cuidadosamente organizada para facilitar la navegación y comprensión por parte del usuario. El sistema de diseño establecido asegura coherencia en todos los componentes visuales y funcionales del producto
+
 ![MainMockup](assets/mockups/MainMockup.png)
 
 
+Despues de Logearte en la aplicacion te aparecera un resumen de tus finanzas generales, en donde se tendra en cuenta todas tus billeteras
 ![Main](assets/mockups/Main.png)
+
+Podras ver el resumen de cada billetera por separado
 ![walletview](assets/mockups/walletview.png)
+
+Podras hacer 3 tipos de transacciones: Income, Expense, Transfer
+Income servira para definir que ingresos tienes
+Expense es para definir que gastos tienes
+Transfer es para transferir el dinero de ese wallet a otro
+
+todas estas transacciones pueden ser recurrentes (diario, semanal, mensual, etc)
 ![TransactionView-1](assets/mockups/TransactionView-1.png)
 ![TransactionView](assets/mockups/TransactionView.png)
 ![transferview](assets/mockups/transferview.png)
+
+Se desplegara ese pequeño menu para que el usuario navegue entre sus configuraciones ya sea de usuario, de la wallet o quiera contactar a la empresa por ayuda.
 ![settings](assets/mockups/settings.png)
 ![WalletSettings](assets/mockups/WalletSettings.png)
 ![UserSettings](assets/mockups/UserSettings.png)
 ![ContactUs](assets/mockups/ContactUs.png)
+
+Tambien se podran crear metas de ahorro y presupuestos
 ![NewBugdetWindow-1](assets/mockups/NewBugdetWindow-1.png)
 ![NewBugdetWindow-2](assets/mockups/NewBugdetWindow-2.png)
 ![NewBugdetWindow](assets/mockups/NewBugdetWindow.png)

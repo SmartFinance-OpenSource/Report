@@ -1178,6 +1178,36 @@ Para navegar por la aplicación el usuario cuenta con una barra de navegación c
 #### 4.4.1. Web Applications Wireframes
 #### 4.4.2. Web Applications Wireflow Diagrams
 #### 4.4.3. Web Applications Mock-ups
+
+
+![MainMockup](assets/mockups/MainMockup.png)
+
+
+![Main](assets/mockups/Main.png)
+![walletview](assets/mockups/walletview.png)
+![TransactionView-1](assets/mockups/TransactionView-1.png)
+![TransactionView](assets/mockups/TransactionView.png)
+![transferview](assets/mockups/transferview.png)
+![settings](assets/mockups/settings.png)
+![WalletSettings](assets/mockups/WalletSettings.png)
+![UserSettings](assets/mockups/UserSettings.png)
+![ContactUs](assets/mockups/ContactUs.png)
+![NewBugdetWindow-1](assets/mockups/NewBugdetWindow-1.png)
+![NewBugdetWindow-2](assets/mockups/NewBugdetWindow-2.png)
+![NewBugdetWindow](assets/mockups/NewBugdetWindow.png)
+![budgetDashboard](assets/mockups/budgetDashboard.png)
+![Budgetview](assets/mockups/Budgetview.png)
+![NewSavingsGoalWindow](assets/mockups/NewSavingsGoalWindow.png)
+![SavingsDashboard-1](assets/mockups/SavingsDashboard-1.png)
+![SavingsDashboard](assets/mockups/SavingsDashboard.png)
+![SavingsView](assets/mockups/SavingsView.png)
+
+
+
+
+
+
+
 #### 4.4.4. Web Applications User Flow Diagrams
 ### 4.5. Web Applications Prototyping
 ### 4.6. Domain-Driven Software Architecture

@@ -1176,10 +1176,99 @@ Para navegar por la aplicación el usuario cuenta con una barra de navegación c
 ![landing-page-mockup](assets/LandingPageDesign/finzarLandingPageMockUp.png)
 ### 4.4. Web Applications UX/UI Design
 #### 4.4.1. Web Applications Wireframes
+Esta sección presenta los wireframes de nuestra Startup, diseñados aplicando principios de diseño centrado en el usuario, accesibilidad e inclusión. Se prioriza una arquitectura de información clara y herramientas especializadas para garantizar una experiencia de usuario fluida y eficiente.
+###### Main
+![web-application-wireframes](assets/assets/wireframe/main.png)
+###### User Settings
+![web-application-wireframes](assets/assets/wireframe/usersettings.png)
+###### Contact Us
+![web-application-wireframes](assets/assets/wireframe/contactus.png)
+###### Wallet View
+![web-application-wireframes](assets/assets/wireframe/walletview.png)
+###### Savings Dasshboard
+![web-application-wireframes](assets/assets/wireframe/savingsdashboard.png)
+###### Expenses Dashboard
+![web-application-wireframes](assets/assets/wireframe/expensesdashboard.png)
+###### Transaction View Expenses
+![web-application-wireframes](assets/assets/wireframe/transactionviewexpenses.png)
+###### Transaction View Income
+![web-application-wireframes](assets/assets/wireframe/transactionviewincome.png)
+###### Transfer View
+![web-application-wireframes](assets/assets/wireframe/transferview.png)
+###### Wallet Settings
+![web-application-wireframes](assets/assets/wireframe/walletsettings.png)
+###### Add New Budget
+![web-application-wireframes](assets/assets/wireframe/addnewbudget.png)
+###### Edit New Budget
+![web-application-wireframes](assets/assets/wireframe/editnewbudget.png)
+###### Add New Savings Goal
+![web-application-wireframes](assets/assets/wireframe/addnewsavingsgoal.png)
+###### Edit Savings Goal
+![web-application-wireframes](assets/assets/wireframe/editsavingsgoal.png)
+###### Savings View
+![web-application-wireframes](assets/assets/wireframe/savingsview.png)
+###### Settings
+![web-application-wireframes](assets/assets/wireframe/settings.png)
+
 #### 4.4.2. Web Applications Wireflow Diagrams
+Esta sección presenta los wireflows propuestos para cada User goal, basados en los User Persona correspondientes. Cada diagrama muestra las interacciones y cambios de pantalla a lo largo de los flujos típicos, utilizando las herramientas indicadas para ilustrar el nuevo estado tras cada paso.
+![web-application-wireflow-diagrams](assets//wireflows/wireflows.png)
+
 #### 4.4.3. Web Applications Mock-ups
+
+
+Esta sección presenta y explica los mockups de Finzar, diseñados para reflejar una experiencia de usuario optimizada y accesible. En la propuesta se aplican principios fundamentales de diseño, como la simplicidad y la usabilidad, integrando elementos visuales consistentes que siguen un enfoque de diseño inclusivo. Asimismo, la arquitectura de información ha sido cuidadosamente organizada para facilitar la navegación y comprensión por parte del usuario. El sistema de diseño establecido asegura coherencia en todos los componentes visuales y funcionales del producto
+
+![MainMockup](assets/mockups/MainMockup.png)
+
+
+Despues de Logearte en la aplicacion te aparecera un resumen de tus finanzas generales, en donde se tendra en cuenta todas tus billeteras
+![Main](assets/mockups/Main.png)
+
+Podras ver el resumen de cada billetera por separado
+![walletview](assets/mockups/walletview.png)
+
+Podras hacer 3 tipos de transacciones: Income, Expense, Transfer
+Income servira para definir que ingresos tienes
+Expense es para definir que gastos tienes
+Transfer es para transferir el dinero de ese wallet a otro
+
+todas estas transacciones pueden ser recurrentes (diario, semanal, mensual, etc)
+![TransactionView-1](assets/mockups/TransactionView-1.png)
+![TransactionView](assets/mockups/TransactionView.png)
+![transferview](assets/mockups/transferview.png)
+
+Se desplegara ese pequeño menu para que el usuario navegue entre sus configuraciones ya sea de usuario, de la wallet o quiera contactar a la empresa por ayuda.
+![settings](assets/mockups/settings.png)
+![WalletSettings](assets/mockups/WalletSettings.png)
+![UserSettings](assets/mockups/UserSettings.png)
+![ContactUs](assets/mockups/ContactUs.png)
+
+Tambien se podran crear metas de ahorro y presupuestos
+![NewBugdetWindow-1](assets/mockups/NewBugdetWindow-1.png)
+![NewBugdetWindow-2](assets/mockups/NewBugdetWindow-2.png)
+![NewBugdetWindow](assets/mockups/NewBugdetWindow.png)
+![budgetDashboard](assets/mockups/budgetDashboard.png)
+![Budgetview](assets/mockups/Budgetview.png)
+![NewSavingsGoalWindow](assets/mockups/NewSavingsGoalWindow.png)
+![SavingsDashboard-1](assets/mockups/SavingsDashboard-1.png)
+![SavingsDashboard](assets/mockups/SavingsDashboard.png)
+![SavingsView](assets/mockups/SavingsView.png)
+
+
+
+
+
+
+
 #### 4.4.4. Web Applications User Flow Diagrams
 ### 4.5. Web Applications Prototyping
+
+Esta sección presenta los prototipos de interfaz de usuario , los cuales incluyen simulaciones de interacción y navegación. Las decisiones de interacción se fundamentan en criterios clave, como la facilidad de uso, la accesibilidad y la optimización para distintos dispositivos. 
+
+![prototype](assets/prtootype/prototype.png)
+<https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110237_upc_edu_pe/Ecv3xqi2sihFtU7kelLTNyoBHNyjthmrFf8ypygs491-Lw?e=HZrqhe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
+
 ### 4.6. Domain-Driven Software Architecture
 La arquitectura de software orientada al dominio proporciona una imagen de lo que se quiere en la estructura de software de nuestro producto. Tal imagen refleja lo que nosotros, Finzar, planteamos para SmartFinance: identificar las funcionalidades de la solución y cómo se van a estructurar adaptándose a los elementos a usar.
 #### 4.6.1. Software Architecture Context Diagram

@@ -1660,7 +1660,8 @@ Con esto realizado, se puede dar inicio al trabajo del proyecto.
 
 Para este sprint, las tareas de diseño, implementación y documentación de la landing page se distribuyó entre los integrantes del equipo. La implementación y despliegue de la landing page fue llevado a cabo principalmente por Juan Astonitas.
 
-![github-insights](/assets/githubpics/insights_cap1.jpg)
+![github-insights](/assets/githubpics/insights_1.jpg)
+![github-networks](/assets/githubpics/networks_1.jpg)
 
 ## Conclusiones
 

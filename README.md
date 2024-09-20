@@ -33,6 +33,9 @@
 Se han realizado todas las tareas asignadas para la entrega de la TB1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el 
 enlace [https://github.com/SmartFinance-OpenSource.](https://github.com/SmartFinance-OpenSource) Para elaborar el informe, cada miembro ha redactado y creado gráficos en formato Markdown según los puntos asignados, realizando commits para registrar el avance en el repositorio. 
 
+![insight1](assets/projectColaborationInsigths/insight1.png)
+![insight2](assets/projectColaborationInsigths/insight2.png)
+
 ## Contenido
 
 - [Student Outcome](#student-outcome)

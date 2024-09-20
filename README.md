@@ -33,7 +33,14 @@
 Se han realizado todas las tareas asignadas para la entrega de la TB1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el 
 enlace [https://github.com/SmartFinance-OpenSource.](https://github.com/SmartFinance-OpenSource) Para elaborar el informe, cada miembro ha redactado y creado gráficos en formato Markdown según los puntos asignados, realizando commits para registrar el avance en el repositorio. 
 
+Aqui se pueden aprecion todos los commits hechos en la TB1 evidenciando el trabajo colaborativo.
 ![insight1](assets/projectColaborationInsigths/insight1.png)
+
+Para hacer el desarrollo del trabajo mas simple, hemos decidido que cada subtitulo sea un feature. Un team member crea ese feature para trabajar en el y otros team members pueden trabajar con el en conjunto o supervisar el avance de ese subtitulo.
+Cuando el feature esta completo , entre todos los team members lo revisamos y damos el visto bueno para que se haga merge con la rama de develop y eliminar el branch. Hemos Dividido las tareas por la dificultad por la que estas conllevan haciendo que 
+el trabajo sea equitativo entre todos.
+
+Como Se puede ver a continuacion, durate el desarrollo de la TB1 hemos tenido 70 branches a los que hemos hecho merge con develop, cada uno de estos corresponde a una seccion del trabajo (por ejemplo: Project Report Collaboration Insights). 
 ![insight2](assets/projectColaborationInsigths/insight2.png)
 
 ## Contenido

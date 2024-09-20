@@ -1649,7 +1649,7 @@ Para realizar el diseño de los wireframes y mockups de la Landing Page para est
 ![](/assets/deployment-steps/deployment-step-12.jpg)
 
 - Para nuestro proyecto se crearon 4 repositorios los cuales son:
-    - **Report:** Este repositorio se usa para realizar el informa del proyecto de manera continua.
+    - **Report:** Este repositorio se usa para realizar el informe del proyecto de manera continua.
     - **Landing-Page:** Este repositorio se usa para codificar y desplegar la landingpage del proyecto.
     - **Frontend:** Este repositorio se usará para contener el código de la parte frontend del projecto.
     - **Backend:** Este repositorio se usará para contener el código de la parte backend del projecto.
@@ -1658,7 +1658,7 @@ Con esto realizado, se puede dar inicio al trabajo del proyecto.
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
-A continuación, se muestra la página de insights proporcionada por Github.
+Para este sprint, las tareas de diseño, implementación y documentación de la landing page se distribuyó entre los integrantes del equipo. La implementación y despliegue de la landing page fue llevado a cabo principalmente por Juan Astonitas.
 
 ![github-insights](/assets/githubpics/insights_cap1.jpg)
 

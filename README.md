@@ -1612,7 +1612,49 @@ Se omite esta sección ya que aún no contamos con Web Application, la cual se d
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-Se omite esta sección ya que actualmente no contamos con una Front End App, ya que esta se implementará en Sprints futuros.
+- **Design**
+Para realizar el diseño de los wireframes y mockups de la Landing Page para este Sprint, se hizo uso de la plataforma [Figma](https://www.figma.com/)
+
+- Para el uso de la plataforma, es necesario crear una cuenta, así que nos dirigimos a la página oficial de Figma y se siguen los siguientes pasos para registrarse:
+![](/assets/design-steps/design-step-1.jpg)
+![](/assets/design-steps/design-step-2.jpg)
+
+- Luego se crea un Draft que servirá como base para el proyecto colaborativo.
+![](/assets/design-steps/design-step-3.jpg)
+
+- **Deployment**
+
+- Para la landing page, se utilizará [GitHub](https://github.com/) y [Github Pages]() para la creación del repositorio y el despliegue de la página.
+
+![](/assets/deployment-steps/deployment-step-1.jpg)
+![](/assets/deployment-steps/deployment-step-2.jpg)
+
+- Tras crear la cuenta, se procede a crear una organización.
+
+![](/assets/deployment-steps/deployment-step-3.jpg)
+![](/assets/deployment-steps/deployment-step-4.jpg)
+![](/assets/deployment-steps/deployment-step-5.jpg)
+![](/assets/deployment-steps/deployment-step-6.jpg)
+![](/assets/deployment-steps/deployment-step-7.jpg)
+![](/assets/deployment-steps/deployment-step-8.jpg)
+
+- Se agregan a los demás miembros del equipo a la organización.
+
+![](/assets/deployment-steps/deployment-step-9.jpg)
+![](/assets/deployment-steps/deployment-step-10.jpg)
+
+- Por último, se crean los repositorios necesarios para el trabajo.
+
+![](/assets/deployment-steps/deployment-step-11.jpg)
+![](/assets/deployment-steps/deployment-step-12.jpg)
+
+- Para nuestro proyecto se crearon 4 repositorios los cuales son:
+    - **Report:** Este repositorio se usa para realizar el informa del proyecto de manera continua.
+    - **Landing-Page:** Este repositorio se usa para codificar y desplegar la landingpage del proyecto.
+    - **Frontend:** Este repositorio se usará para contener el código de la parte frontend del projecto.
+    - **Backend:** Este repositorio se usará para contener el código de la parte backend del projecto.
+
+Con esto realizado, se puede dar inicio al trabajo del proyecto.
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 

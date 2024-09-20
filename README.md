@@ -1064,7 +1064,6 @@ Los elementos presentes son:
 * Client (Cliente): Accede a la aplicación web.
 * Administrator (Administrador): Accede a la aplicación web y supervisa su funcionamiento.
 * SmartFinance: Software que los usuarios utilizarán.
-* Stripe: Software de pago que SmartFinance utilizará.
 <br>
 
 ![SmartFinance-SystemContext](assets/dsl/structurizr-SystemContext-001.png)
@@ -1075,43 +1074,51 @@ Los elementos presentes son:
 * Web App: Frontend donde los usuarios interactúan con la aplicación.
 * API: Conexión entre el frontend y backend.
 * Bounded Contexts: Las funcionalidades que el sistema proporciona a los usuarios.
-* Bases de datos: Almacenará datos como cuentas de usuario, reportes, transacciones, ajustes, etc.
+* Bases de datos: Almacenará datos como cuentas, billeteras, presupuestos, transacciones, entre otros.
 <br>
 
 ![SmartFinance-Container](assets/dsl/structurizr-Container-001.png)
 #### 4.6.3. Software Architecture Components Diagrams
-**Account Management**
-Los elementos presentes son:
-* Controllers: Controlan un conjunto de funcionalidades.
-* Managers: Realizan una secuencia para llevar a cabo una acción.
-* Repositories: Permiten el acceso a una base de datos o un servicio externo.
-![AccountManagement-Component](assets/dsl/structurizr-Component-001.png)
+**Bounded Context Account Creation and Management**
 
-**Transaction Management**
 Los elementos presentes son:
 * Controller: Controla un conjunto de funcionalidades.
-* Managers: Realizan una secuencia para llevar a cabo una acción.
+* Components: Partes de la aplicación que realizan una o varias tareas específicas.
 * Repository: Permite el acceso a una base de datos.
-![TransactionManagement-Component](assets/dsl/structurizr-Component-002.png)
+![AccountCreationAndManagement-Component](assets/dsl/structurizr-Component-001.png)
 
-**Finance Monitoring**
+**Bounded Context Visualization of Wallets and Flows**
+
 Los elementos presentes son:
 * Controller: Controla un conjunto de funcionalidades.
-* Configurator: Permite que el usuario realize una configuración de una funcionalidad.
-* Exporter: Permite la exportación de un archivo almacenado en la base de datos.
-* Observer: Supervisa una funcionalidad, ejecutando una acción si cumple una condición.
-* Notifier: Al ser ejecutado, notifica al usuario.
-* Repository: Permite el acceso a una base de datos o un servicio externo.
-![FinanceMonitoring-Component](assets/dsl/structurizr-Component-003.png)
+* Component: Partes de la aplicación que realizan una o varias tareas específicas.
+* Repository: Permite el acceso a una base de datos.
+![VisualizationOfWalletsAndFlows-Component](assets/dsl/structurizr-Component-002.png)
 
-**Application Personalizer**
+**Bounded Context Transaction Register and Categorization**
+
 Los elementos presentes son:
 * Controller: Controla un conjunto de funcionalidades.
-* Engine: Mini sistema que retorna resultados después de procesarse.
-* Visualizer: Interfaz de una funcionalidad que el usuario puede visualizar
-* Personalizer: Funciona como un controller, pero se enfoca en cambiar elementos de la interfaz.
-* Repository: Permite el acceso a una base de datos o un servicio externo.
-![ApplicationPersonalization-Component](assets/dsl/structurizr-Component-004.png)
+* Component: Partes de la aplicación que realizan una o varias tareas específicas.
+* Repository: Permite el acceso a una base de datos.
+![TransactionRegisterAndCategorization-Component](assets/dsl/structurizr-Component-003.png)
+
+**Bounded Context Budgeting Creation and Monitoring**
+
+Los elementos presentes son:
+* Controller: Controla un conjunto de funcionalidades.
+* Component: Partes de la aplicación que realizan una o varias tareas específicas.
+* Observer: Notifica sobre algún cambio en un evento realizado por un componente.
+* Repository: Permite el acceso a una base de datos.
+![BudgetingCreationAndMonitoring-Component](assets/dsl/structurizr-Component-004.png)
+
+**Bounded Context Savings Creation and Monitoring**
+
+Los elementos presentes son:
+* Controller: Controla un conjunto de funcionalidades.
+* Component: Partes de la aplicación que realizan una o varias tareas específicas.
+* Repository: Permite el acceso a una base de datos.
+![SavingsCreationAndMonitoring-Component](assets/dsl/structurizr-Component-005.png)
 
 ### 4.7. Software Object-Oriented Design
 El diseño orientado a objetos del software será esencial para nuestro proyecto. Estructuramos nuestro software de acuerdo a nuestras reglas de negocio para poder crear componentes que puedan ser entendibles para su desarrollo en un sistema real, y sean fáciles de modificar para nosotros.

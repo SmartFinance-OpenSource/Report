@@ -1263,6 +1263,10 @@ Tambien se podran crear metas de ahorro y presupuestos
 
 #### 4.4.4. Web Applications User Flow Diagrams
 ### 4.5. Web Applications Prototyping
+
+
+<https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110237_upc_edu_pe/Ecv3xqi2sihFtU7kelLTNyoBHNyjthmrFf8ypygs491-Lw?e=HZrqhe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
+
 ### 4.6. Domain-Driven Software Architecture
 La arquitectura de software orientada al dominio proporciona una imagen de lo que se quiere en la estructura de software de nuestro producto. Tal imagen refleja lo que nosotros, Finzar, planteamos para SmartFinance: identificar las funcionalidades de la solución y cómo se van a estructurar adaptándose a los elementos a usar.
 #### 4.6.1. Software Architecture Context Diagram

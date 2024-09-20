@@ -1278,7 +1278,6 @@ Los elementos presentes son:
 * Client (Cliente): Accede a la aplicación web.
 * Administrator (Administrador): Accede a la aplicación web y supervisa su funcionamiento.
 * SmartFinance: Software que los usuarios utilizarán.
-* Stripe: Software de pago que SmartFinance utilizará.
 <br>
 
 ![SmartFinance-SystemContext](assets/dsl/structurizr-SystemContext-001.png)
@@ -1289,219 +1288,100 @@ Los elementos presentes son:
 * Web App: Frontend donde los usuarios interactúan con la aplicación.
 * API: Conexión entre el frontend y backend.
 * Bounded Contexts: Las funcionalidades que el sistema proporciona a los usuarios.
-* Bases de datos: Almacenará datos como cuentas de usuario, reportes, transacciones, ajustes, etc.
+* Bases de datos: Almacenará datos como cuentas, billeteras, presupuestos, transacciones, entre otros.
 <br>
 
 ![SmartFinance-Container](assets/dsl/structurizr-Container-001.png)
 #### 4.6.3. Software Architecture Components Diagrams
-**Account Management**
-Los elementos presentes son:
-* Controllers: Controlan un conjunto de funcionalidades.
-* Managers: Realizan una secuencia para llevar a cabo una acción.
-* Repositories: Permiten el acceso a una base de datos o un servicio externo.
-![AccountManagement-Component](assets/dsl/structurizr-Component-001.png)
+**Bounded Context Account Creation and Management**
 
-**Transaction Management**
 Los elementos presentes son:
 * Controller: Controla un conjunto de funcionalidades.
-* Managers: Realizan una secuencia para llevar a cabo una acción.
+* Components: Partes de la aplicación que realizan una o varias tareas específicas.
 * Repository: Permite el acceso a una base de datos.
-![TransactionManagement-Component](assets/dsl/structurizr-Component-002.png)
+![AccountCreationAndManagement-Component](assets/dsl/structurizr-Component-001.png)
 
-**Finance Monitoring**
+**Bounded Context Visualization of Wallets and Flows**
+
 Los elementos presentes son:
 * Controller: Controla un conjunto de funcionalidades.
-* Configurator: Permite que el usuario realize una configuración de una funcionalidad.
-* Exporter: Permite la exportación de un archivo almacenado en la base de datos.
-* Observer: Supervisa una funcionalidad, ejecutando una acción si cumple una condición.
-* Notifier: Al ser ejecutado, notifica al usuario.
-* Repository: Permite el acceso a una base de datos o un servicio externo.
-![FinanceMonitoring-Component](assets/dsl/structurizr-Component-003.png)
+* Component: Partes de la aplicación que realizan una o varias tareas específicas.
+* Repository: Permite el acceso a una base de datos.
+![VisualizationOfWalletsAndFlows-Component](assets/dsl/structurizr-Component-002.png)
 
-**Application Personalizer**
+**Bounded Context Transaction Register and Categorization**
+
 Los elementos presentes son:
 * Controller: Controla un conjunto de funcionalidades.
-* Engine: Mini sistema que retorna resultados después de procesarse.
-* Visualizer: Interfaz de una funcionalidad que el usuario puede visualizar
-* Personalizer: Funciona como un controller, pero se enfoca en cambiar elementos de la interfaz.
-* Repository: Permite el acceso a una base de datos o un servicio externo.
-![ApplicationPersonalization-Component](assets/dsl/structurizr-Component-004.png)
+* Component: Partes de la aplicación que realizan una o varias tareas específicas.
+* Repository: Permite el acceso a una base de datos.
+![TransactionRegisterAndCategorization-Component](assets/dsl/structurizr-Component-003.png)
+
+**Bounded Context Budgeting Creation and Monitoring**
+
+Los elementos presentes son:
+* Controller: Controla un conjunto de funcionalidades.
+* Component: Partes de la aplicación que realizan una o varias tareas específicas.
+* Observer: Notifica sobre algún cambio en un evento realizado por un componente.
+* Repository: Permite el acceso a una base de datos.
+![BudgetingCreationAndMonitoring-Component](assets/dsl/structurizr-Component-004.png)
+
+**Bounded Context Savings Creation and Monitoring**
+
+Los elementos presentes son:
+* Controller: Controla un conjunto de funcionalidades.
+* Component: Partes de la aplicación que realizan una o varias tareas específicas.
+* Repository: Permite el acceso a una base de datos.
+![SavingsCreationAndMonitoring-Component](assets/dsl/structurizr-Component-005.png)
 
 ### 4.7. Software Object-Oriented Design
 El diseño orientado a objetos del software será esencial para nuestro proyecto. Estructuramos nuestro software de acuerdo a nuestras reglas de negocio para poder crear componentes que puedan ser entendibles para su desarrollo en un sistema real, y sean fáciles de modificar para nosotros.
 #### 4.7.1. Class Diagrams
 ![ClassDiagram](assets/software-architecture/finzarClassDiagram.png)
 #### 4.7.2. Class Dictionary
-<table><tbody>
-    <tr>
-        <th>Clase</th>
-        <th>Nombre de atributo</th>
-        <th>Descripción</th>
-        <th>Tipo de dato</th>
-    </tr>
-    <tr>
-        <th rowspan="6">Person</th>
-        <th>firstName</th>
-        <th>Primer nombre del cliente.</th>
-        <th>String</th>
-    </tr>
-    <tr>
-        <th>lastName</th>
-        <th>Apellido del usuario.</th>
-        <th>String</th>
-    </tr>
-    <tr>
-        <th>DNI</th>
-        <th>DNI del usuario.</th>
-        <th>Int</th>
-    </tr>
-    <tr>
-        <th>address</th>
-        <th>Dirección del usuario.</th>
-        <th>String</th>
-    </tr>
-    <tr>
-        <th>city</th>
-        <th>Ciudad de residencia del usuario.</th>
-        <th>String</th>
-    </tr>
-    <tr>
-        <th>birthDate</th>
-        <th>Fecha de nacimiento del usuario.</th>
-        <th>Date</th>
-    </tr>
-    <tr>
-        <th rowspan="6">Account</th>
-        <th>username</th>
-        <th>Apodo del usuario</th>
-        <th>String</th>
-    </tr>
-    <tr>
-        <th>email</th>
-        <th>Correo electrónico del usuario</th>
-        <th>String</th>
-    </tr>
-    <tr>
-        <th>password</th>
-        <th>Contraseña del usuario</th>
-        <th>String</th>
-    </tr>
-    <tr>
-        <th>person</th>
-        <th>Persona asociada a la cuenta</th>
-        <th>Person</th>
-    </tr>
-    <tr>
-        <th>preference</th>
-        <th>Preferencias de la cuenta</th>
-        <th>AccountPreferences</th>
-    </tr>
-    <tr>
-        <th>history</th>
-        <th>Historial de transacciones de la cuenta</th>
-        <th>History</th>
-    </tr>
-    <tr>
-        <th rowspan="2">AccountPreferences</th>
-        <th>theme</th>
-        <th>Tema de la interfaz</th>
-        <th>String</th>
-    </tr>
-    <tr>
-        <th>elementDisplay</th>
-        <th>Ajuste de visualización de elementos</th>
-        <th>String</th>
-    </tr>
-    <tr>
-        <th>History</th>
-        <th>transactions</th>
-        <th>Lista de transacciones realizadas por la cuenta</th>
-        <th>Transaction[]</th>
-    </tr>
-    <tr>
-        <th rowspan="4">Transaction</th>
-        <th>transactionDate</th>
-        <th>Fecha de la transacción</th>
-        <th>Date</th>
-    </tr>
-    <tr>
-        <th>amount</th>
-        <th>Monto de la transacción</th>
-        <th>Double</th>
-    </tr>
-    <tr>
-        <th>type</th>
-        <th>Tipo de transacción</th>
-        <th>String</th>
-    </tr>
-    <tr>
-        <th>category</th>
-        <th>Categoría de la transacción</th>
-        <th>Category</th>
-    </tr>
-    <tr>
-        <th>Category</th>   
-        <th>categoryName</th>
-        <th>Nombre de la categoría</th>
-        <th>String</th>
-    </tr>
-    <tr>
-        <th rowspan="2">Report</th>
-        <th>format</th>
-        <th>Formato del reporte</th>
-        <th>String</th>
-    </tr>
-    <tr>
-        <th>dateGenerated</th>
-        <th>Fecha de generación</th>
-        <th>Date</th>
-    </tr>
-    <tr>
-        <th>Recommendation</th>
-        <th>keywords</th>
-        <th>Palabras claves para la generación.</th>
-        <th>String[]</th>
-    </tr>
-    <tr>
-        <th rowspan="3">Repository</th>
-        <th>totalIncome</th>
-        <th>Ingreso total del usuario.</th>
-        <th>Double</th>
-    </tr>
-    <tr>
-        <th>totalExpense</th>
-        <th>Gasto total del usuario.</th>
-        <th>Double</th>
-    </tr>
-    <tr>
-        <th>currentMoney</th>
-        <th>Dinero actual del usuario.</th>
-        <th>Double</th>
-    </tr>
-    <tr>
-        <th rowspan="2">Budget</th>
-        <th>limitAmount</th>
-        <th>Monto límite establecido por el usuario.</th>
-        <th>Double</th>
-    </tr>
-    <tr>
-        <th>dateStart</th>
-        <th>Fecha de establecimiento del límite.</th>
-        <th>Date</th>
-    </tr>
-    <tr>
-        <th>Notification</th>
-        <th>message</th>
-        <th>Mensaje generado para la notificación.</th>
-        <th>String</th>
-    </tr>
-</tbody></table>
+| **Clase**       | **Nombre de Atributo** | **Descripción**                             | **Tipo de Dato** |
+|-----------------|------------------------|---------------------------------------------|------------------|
+| User            | username               | Nombre de usuario del usuario               | String           |
+| User            | email                  | Correo electrónico del usuario              | String           |
+| User            | password_hash          | Contraseña del usuario encriptada           | String           |
+| Wallet          | user                   | Usuario al que pertenece la billetera       | User             |
+| Wallet          | balance                | Saldo actual de la billetera                | Double           |
+| Wallet          | total_balance          | Saldo total de la billetera                 | Double           |
+| Wallet          | budget                 | Perfil de presupuesto de la billetera       | Budget           |
+| Wallet          | savings                | Perfil de ahorro de la billetera            | Savings          |
+| History         | transaction            | Transacción realizada por el usuario        | Transaction      |
+| History         | wallet                 | Billetera a la que pertenece la transacción | Wallet           |
+| Transaction     | transaction_type       | Tipo de transacción (ingreso o gasto)       | TransactionType  |
+| Transaction     | wallet                 | Billetera donde se realiza la transacción   | Wallet           |
+| Transaction     | amount                 | Monto de la transacción                     | Double           |
+| Transaction     | date                   | Fecha en la que se realiza la transacción   | Date             |
+| Transaction     | note                   | Nota o descripción de la transacción        | String           |
+| Transaction     | recurrence             | Frecuencia de la transacción                | Recurrence       |
+| TransactionType | name                   | Nombre del tipo de transacción              | String           |
+| TransactionType | category               | Categoría de la transacción                 | String           |
+| Recurrence      | name                   | Nombre de la recurrencia                    | String           |
+| Budget          | name                   | Nombre del presupuesto                      | String           |
+| Budget          | amount                 | Monto del presupuesto                       | Double           |
+| Budget          | category               | Categorías asignadas al presupuesto         | String           |
+| Budget          | recurrence             | Frecuencia de revisión del presupuesto      | Recurrence       |
+| Savings         | name                   | Nombre del ahorro                           | String           |
+| Savings         | amount                 | Monto del ahorro                            | Double           |
+| Savings         | category               | Categorías asignadas al ahorro              | String           |
+| Savings         | recurrence             | Frecuencia de revisión del ahorro           | Recurrence       |
+| Expenses        | wallet                 | Billetera a la que pertenecen los gastos    | Wallet           |
+| Expenses        | money_lost             | Monto total gastado                         | Double           |
+| Expenses        | category               | Categoría de los gastos                     | String           |
+| Expenses        | date                   | Fecha en la que se realizan los gastos      | Date             |
+| Earnings        | wallet                 | Billetera a la que pertenecen los ingresos  | Wallet           |
+| Earnings        | money_earned           | Monto total ganado                          | Double           |
+| Earnings        | category               | Categoría de los ingresos                   | String           |
+| Earnings        | date                   | Fecha en la que se realizan los ingresos    | Date             |
+| Category        | name                   | Nombre de la categoría                      | String           |
 
 ### 4.8. Database Design
 El diseño de la base de datos será fundamental para nuestro proyecto, ya que proporcionará la estructura subyacente para almacenar y gestionar los datos de manera eficiente y segura. Esto nos permitirá organizar los datos de manera lógica y coherente, facilitando su recuperación y manipulación en respuesta a las solicitudes de los usuarios.
-![Database](assets/software-architecture/finzarDB.jpg)
 #### 4.8.1. Database Diagram
-
+![Database](assets/software-architecture/finzarDatabaseDiagram.png)
 
 ## Capítulo V: Product Implementation, Validation & Deployment <a id="cap5"></a>
 

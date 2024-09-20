@@ -1176,6 +1176,40 @@ Para navegar por la aplicación el usuario cuenta con una barra de navegación c
 ![landing-page-mockup](assets/LandingPageDesign/finzarLandingPageMockUp.png)
 ### 4.4. Web Applications UX/UI Design
 #### 4.4.1. Web Applications Wireframes
+Esta sección presenta los wireframes de nuestra Startup, diseñados aplicando principios de diseño centrado en el usuario, accesibilidad e inclusión. Se prioriza una arquitectura de información clara y herramientas especializadas para garantizar una experiencia de usuario fluida y eficiente.
+###### Main
+![web-application-wireframes](assets/assets/wireframe/main.png)
+###### User Settings
+![web-application-wireframes](assets/assets/wireframe/usersettings.png)
+###### Contact Us
+![web-application-wireframes](assets/assets/wireframe/contactus.png)
+###### Wallet View
+![web-application-wireframes](assets/assets/wireframe/walletview.png)
+###### Savings Dasshboard
+![web-application-wireframes](assets/assets/wireframe/savingsdashboard.png)
+###### Expenses Dashboard
+![web-application-wireframes](assets/assets/wireframe/expensesdashboard.png)
+###### Transaction View Expenses
+![web-application-wireframes](assets/assets/wireframe/transactionviewexpenses.png)
+###### Transaction View Income
+![web-application-wireframes](assets/assets/wireframe/transactionviewincome.png)
+###### Transfer View
+![web-application-wireframes](assets/assets/wireframe/transferview.png)
+###### Wallet Settings
+![web-application-wireframes](assets/assets/wireframe/walletsettings.png)
+###### Add New Budget
+![web-application-wireframes](assets/assets/wireframe/addnewbudget.png)
+###### Edit New Budget
+![web-application-wireframes](assets/assets/wireframe/editnewbudget.png)
+###### Add New Savings Goal
+![web-application-wireframes](assets/assets/wireframe/addnewsavingsgoal.png)
+###### Edit Savings Goal
+![web-application-wireframes](assets/assets/wireframe/editsavingsgoal.png)
+###### Savings View
+![web-application-wireframes](assets/assets/wireframe/savingsview.png)
+###### Settings
+![web-application-wireframes](assets/assets/wireframe/settings.png)
+
 #### 4.4.2. Web Applications Wireflow Diagrams
 #### 4.4.3. Web Applications Mock-ups
 

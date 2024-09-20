@@ -1386,136 +1386,90 @@ El diseño de la base de datos será fundamental para nuestro proyecto, ya que p
 ## Capítulo V: Product Implementation, Validation & Deployment <a id="cap5"></a>
 
 ### 5.1. Software Configuration Management
+
+En esta sección se definiran las reglas y procesos que seguimos en el proyecto para la creación y despliegue de la página web de Finzar. Esto con el objetivo de garantizar la consistencia del software desde el inicio hasta el despliegue y mantenimiento.
+
 #### 5.1.1. Software Development Environment Configuration
 
-* ### Project Management
-    * ### Trello
-    Plataforma de gestión de proyectos que permite seguir el proceso de las tareas a desarrollar.
+### Project Management
 
-    [[Link de la herramienta]](https://trello.com/)
+Para la organizacion del proyecto requerimos de un sistema de de asignación de tareas, palataformas y puntos de reunión y un repositorio dónde trabajaremos en conjunto cada avance del proyecto. A continuación se menciona los nombres de los productos y el propósito de uso en el proyecto:
 
-    Imagen de evidencia de uso:
+- **Centro de organización de trabajo:** Github
+- **Planificación de tareas:** Trello
+- **Reuniones de equipo:** Google Meet
+- **Coordinación grupal:** WhatsApp
 
-    ![trello-evidence](/assets/environment-images/trello.jpg)
+### Requirement Management
 
-* ### Requirement Management
-    * ### UXPressia
+| Herramienta | Descripción | Enlace |
+|-|-|-|
+| Trello | Plataforma de gestión de proyectos que permite seguir el proceso de las tareas a desarrollar. Utilizado para designar tareas a cada integrante del grupo. | https://trello.com/ |
+| Uxpressia | Herramienta en linea que ayuda en el proceso de mapeo. En este proyecto ha sido utilizado para el Impact Mapping. | https://uxpressia.com/ |
+| Structurizr | Herramienta que facilita la creación de modelos C4 para representar de forma gráfica la estructura del producto. | https://www.structurizr.com/ |
 
-    Herramienta en linea que ayuda en el proceso de mapeo. En este proyecto ha sido utilizado para el Impact Mapping.
+### Product UX/UI Design
 
-    [[Link de la herramienta]](https://uxpressia.com/)
+| Herramienta | Descripción | Enlace |
+|-|-|-|
+| Figma | Plataforma colaborativa de diseño que facilita la creación de wireframes y mockups para la landing page. | https://www.figma.com/ |
 
-    Imagen de evidencia de uso:
+### Software Development
 
-    ![uxpressia-evidence](/assets/environment-images/uxpressia.jpg)
+| Herramienta | Descripción | Enlace |
+|-|-|-|
+| HTML | Lenguaje de etiquetado utilizado para crear la estructura de la página web. | https://www.w3schools.com/html/default.asp |
+| CSS | Lenguaje de diseño gráfico usado para dar formato y estilo a la página web escrita en HTML | https://www.w3schools.com/css/default.asp |
+| Javascript | Lenguaje de programación orientado a objetos. Utilizado para definir el comportamiento de la página web e implementar funcionalidades. | https://www.w3schools.com/js/default.asp |
 
-    * ### Structurizr
+### Software Documentation
 
-    Herramienta que facilita la creación de modelos C4 para representar de forma gráfica la estructura del producto.
+| Herramienta | Descripción | Enlace |
+|-|-|-|
+| Github | Para la gestión de la documentación del proyecto. | https://github.com/SmartFinance-OpenSource/Report |
+| Markdown | Formato para la documentación del proyecto. | https://markdown.es/ |
 
-    [[Link de la herramienta]](https://www.structurizr.com/)
+### Software Deployment
 
-    Imagen de evidencia de uso:
-
-    ![structurizr-evidence](/assets/environment-images/structurizr.jpg)
-
-* ### Product UX/UI Design
-    * ### Figma
-
-    Plataforma colaborativa de diseño que facilita la creación de wireframes y mockups para la landing page.
-
-    [[Link de la herramienta]](https://www.figma.com/)
-
-    ![figma-evidence](/assets/environment-images/figma.jpg)
-
-* ### Software Development
-    * ### HTML
-    Lenguaje de etiquetado utilizado para crear la estructura de páginas web.
-
-    Imagen de evidencia de uso:
-
-    ![html-evidence](/assets/environment-images/html-evidence.jpg)
-
-    * ### CSS
-    Lenguaje de diseño gráfico usado para dar formato y estilo a la página web escrita en HTML
-
-    Imagen de evidencia de uso:
-
-    ![css-evidence](/assets/environment-images/css-evidence.jpg)
-
-    * ### JavaScript
-    Lenguaje de programación orientado a objetos. Utilizado para definir el comportamiento de la página web e implementar funcionalidades.
-
-    Imagen de evidencia de uso:
-
-    ![javascript-evidence](/assets/environment-images/javascript-evidence.jpg)
-
-* ### Software Testing
-    * ### Gherkin Language
-    Lenguaje específico de dominio (DSL) diseñado para ser comprensible para los desarrolladores y utilizado definir tests de aceptación.
-
-    [[Más información]](https://cucumber.io/docs/gherkin/reference/)
-
-    Imagen de evidencia de uso:
-
-    ![gherkin-evidence](/assets/environment-images/gherkin-evidence.jpg)
-
-* ### Software Documentation
-    * ### Github
-    Plataforma utilizada para alojar multiples versiones del código fuente de un proyecto. Muy popular en el trabajo colaborativo entre programadores.
-
-    [[Link de la página]](https://github.com/)
-
-    Imagen de evidencia de uso:
-
-    ![github-evidence](/assets/environment-images/github.jpg)
-
-* ### Software Deployment
-    * ### Github Pages
-    Servicio de Github que permite la realización de despliegues simples desde un repositorio.
+| Herramienta | Descripción | Enlace |
+|-|-|-|
+| Github Pages | Para el despliegue de la landign page desde un repositorio. | https://pages.github.com/ |
 
 #### 5.1.2. Source Code Management
 
-Landing Page Repository: [Landing Page Repository](https://github.com/SmartFinance-OpenSource/Landing-Page/tree/develop)
+| Producto | Repositorio | URL |
+|-|-|-|
+| Landing Page | Finzar-landing-page | https://github.com/SmartFinance-OpenSource/Landing-Page |
 
-* Gitflow Implementation
-Implementamos el flujo de trabajo Gitflow a través de ramas(branches) para separar el desarrollo en paralelo de diversas secciones del proyecto.
+Flujo de trabajo GitFlow
 
-![gitflow](/assets/environment-images/gitflow.jpg)
+Usaremos el flujo de trabajo planteado por Vincent Driessen en "A successful Git branching model" con los siguientes parámetros:
 
-### **Main branch**
-La rama principal de desarrollo del proyecto es la Main branch. En esta rama reside el código que actualmente se encuentra en producción.
+- Una rama de producción.
+- Una rama de pruebas.
+- Una rama en la que se solucionen los bugs rapidamente y vuelvan a producción.
+- Ramas de features a implementar.
+- Cada cambio en producción debe establecerse como una nueva versión.
+- Para este proyecto en concreto consideramos que los cambios en la rama de producción y de pruebas deben tener autorización de un compa­ñero de equipo.
 
-#### Notación: main
+Teniendo en cuenta la información anterior nos inclinamos por este tipo de organización en los branches:
 
-### **Develop branch**
-La rama "Develop" albergará las más recientes actualizaciones y cambios agregados que serán incluidos en la próxima versión del proyecto. Esta rama sirve como un espacio para la prueba continua de los cambios antes de ser fusionados con la rama principal "Main" para su posterior despliegue.
+- Main branch: Esta rama esta destinada a la producción de la aplicación, cada cambio deberá tener autorización de un compañero de equipo para evitar cambios sin verificar.
+- Hotfix branch: En esta rama se incluirán todas las versiones que poseen errores identificados y que con cada arreglo de este se despliegue otra vez a Main Branch además de implementarla en lo que será Develop Branch.
+- Develop branch: Esta rama está destinada a las constantes implementaciones en caliente de los features,
+- Features branch: Cada feature poseerá su respectiva rama, una vez que se encuentre correctamente implementada será fusionada con Develop branch.
 
-#### Notación: develop
+Con cada deployment de la aplicación debe establecerse como una nueva versión. Nomenclatura de numeración de las versiones:
 
-### **Release branch**
-La rama de lanzamiento (Release branch) facilitará la preparación de una nueva versión del producto. Esta rama permitirá la corrección de errores y permitirá que la rama Develop reciba más actualizaciones.
+- Major changes: Cuando el código o versión nueva del proyecto a implementar presenta cambios significativos con la versión anterior, estos cambios llegan a ser incompatibles con la versión anterior. Esto se evidenciará en el numero de la versión ej: versión 1.0.0 -> versión 2.0.0.
+- Minor changes: Cuando el código o versión nueva del proyecto a implementar presenta cambios con respecto a alguna característica, ya sea añadir o modificar, de la versión anterior; estos cambios no llegan a ser incompatibles con la versión anterior. Esto se evidenciará en el numero de la versión ej: versión 1.1.0 -> versión 1.2.0.
+- Patch: Cuando se solucionan bugs menores. Esto se evidenciará en el numero de la versión ej: versión 1.1.3 -> versión 1.1.4.
 
-#### Notación: release
+Sufijos asignados a las versiones:
 
-### **Conventional Commits**
-"Conventional Commits" es una convención para estructurar los mensajes de confirmación (commits) en un formato estándar y semántico. Este formato ayuda a comunicar claramente los cambios realizados en el código y facilita la generación de registros de cambios automáticos. Los "Conventional Commits" suelen seguir un formato que incluye un encabezado, un cuerpo opcional y un pie de página opcional, y se utilizan para describir de manera sucinta y clara los cambios realizados en el código, lo que facilita su seguimiento y comprensión por parte de los desarrolladores y otros miembros del equipo.
-<br>
-La estructura de un commit debe seguir las siguientes pautas:
-~~~
-git commit -m “<type>[optional scope]: <title>“ -m “<description”
-~~~
-**Tipos De Conventional Commits**
-~~~
-1. feat: Used to describe a new feature or functionality added to the code.
-2. fix: Indicates a bug fix or solution to a problem.
-3. docs: Employed for changes or improvements in code documentation.
-4. style: Describes changes related to the code's formatting, such as whitespace, indentation, etc., that do not affect its functionality.
-5. refactor: Used for modifications to the code that do not fix bugs or add new features, but rather improve its structure or readability.
-6. test: Indicates the addition or modification of unit tests or functional tests.
-7. chore: Used for changes in the build process or maintenance tasks that are not directly related to the code itself.
-8. perf: Describes performance improvements in the code.
-~~~
+- -alpha: versión no estable con características básicas o no funcionales, ejemplo : versión 1.0.0 -alpha.
+- -beta: versión no apta para la publicación, aún así ya presenta características funcionales en el estado base, ejemplo versión 1.0.0 –beta.
+- -rc: versión apta para la publicación y uso de los usuarios, es candidata para publicar, ejemplo versión 1.0.0 -rc.
 
 #### 5.1.3. Source Code Style Guide & Conventions
 
@@ -1551,6 +1505,20 @@ git commit -m “<type>[optional scope]: <title>“ -m “<description”
       ~~~ 
       <link rel="stylesheet" href="styles.css">
       ~~~ 
+    
+#### **Etiquetas de HTML usadas:**
+Se uso diferentes etiquetas para conformar la estructura del Landing Page del producto:
+* **header**: Esta etiqueta define todo el contenido introductorio de la página web, como por ejemplo la barra de búsquedas.
+* **nav**: Define las secciones de la página que estarán dedicadas a la navegación en la página
+* **div**: Esta etiqueta permite la separación de diferentes objetos dentro de nuestra página, esto nos permitió poder aplicar hojas de estilo específicas para cada parte de los objetos.
+* **img**: Esta etiqueta permite la inserción de imágenes en la página web, se uso en diversas ocasiones dentro de la página.
+* **ul**: Esta etiqueta sirve para definir una lista desordenada, mayor mente se uso para la elaboración del menú interactivo de la página.
+* **li**: Sirve para definir los elementos de las listas que se implementaron en la página, más especifico en la barra de búsqueda y el blog.
+* **a**: También llamado “Anchor”, se usó para definir hipervínculos para mover a los usuarios a través de las diferentes secciones de la página.
+* **p**: Definen los párrafos de texto, separándolos del resto de contenido.
+* **button**: Declaran un botón interactivo modificable que permite a los usuarios realizar una acción en específico.
+* **h1 - h4**: Definen los diferentes títulos y subtítulos de la página siendo h1 el mayor nivel y h4 el más bajo.
+
 - ### CSS
     - #### ID and Class Naming
       Es recomendable utilizar nombres de clases e id's significativos que expresen claramente el propósito del elemento.
@@ -1588,6 +1556,7 @@ git commit -m “<type>[optional scope]: <title>“ -m “<description”
         text-align: center;
         text-indent: 2em;
        ~~~  
+
 - ### JAVASCRIPT
      - #### Use expanded syntax
        Cada línea de JavaScript debería estar en una nueva línea, con la llave de apertura en la misma línea de su declaración y la llave de cierre en una nueva línea al final.
@@ -1617,176 +1586,67 @@ git commit -m “<type>[optional scope]: <title>“ -m “<description”
        function sayHello() {
        alert('Hello!');
        };
-       ~~~ 
-- ### LENGUAJE GHERKIN
-    - #### Descriptive and concise titles for scenarios
-      Utilizar títulos descriptivos y concisos para los escenarios.
-      ~~~ 
-      Feature: Login
-        Scenario: Successful login
-          Given a user is on the login page     
-          When they enter valid credentials     
-          Then they should be logged in successfully      
-      ~~~
-    - #### Follow the Given-When-Then structure consistently.
-      Seguir la estructura de Given-When-Then de manera consistente.
-      ~~~ 
-      Scenario: Adding items to the shopping cart
-        Given the user is on the shopping page
-        When they add an item to the cart
-        Then the item should appear in the cart 
-      ~~~
-    - #### Focus on business-readable language
-      Centrarse en un lenguaje legible para el negocio, evitando detalles técnicos de implementación.
-      ~~~ 
-      Scenario: Changing user settingst
-        Given the user is logged in
-        When they navigate to the settings page
-        Then they should be able to update their profile
-      ~~~
-    - ####  Utilize Scenario Outline for scenarios with multiple similar cases.
-      Utilizar Scenario Outline para escenarios con múltiples casos similares.
-      ~~~ 
-      Scenario Outline: Searching for products
-        Given the user is on the search page
-        When they search for "<product>"
-        Then they should see search results for "<product>"
-      
-      Examples:
-        | product  |
-        | Laptop   |
-        | Smartphone |
-      ~~~
-    - #### Add comments to provide additional context
-      Agregar comentarios para proporcionar contexto adicional o explicaciones cuando sea necesario.
-      ~~~ 
-      # This scenario checks the functionality of the logout feature
-      Scenario: User logout
-        Given the user is logged in
-        When they click on the logout button
-        Then they should be redirected to the login page      
-      ~~~
+       ~~~
 
 #### 5.1.4. Software Deployment Configuration
 
-### Creación de la Landing Page
+**Landing Page**
 
-1. Creación de repositorio de la Landing Page.
+**Consideraciones antes del despliegue**
+1. **Archivos HTML, CSS y JS**
+Asegurse que todos los archivos de la página web sean implementados en HTML, CSS y JS para un correcto funcionamiento de la página. En el caso de la imágenes, nos permitimos usar los distintos formatos existentes (jpg, png, webp, etc).
+2. **Publicación de archivos**
+Debido al funcionamiento del servicio de Github Pages, todos los archivos correspondientes al funcionamiento de nuestra aplicación será subidos al repositorio compartido de Github para poder trabajar de manera simultanea entre los integrantes del grupo.
+3. **Pruebas de funcionamiento**
+Con cada actualización e implementación del repositorio se harán pruebas que garanticen el correcto funcionamiento de la página, además la página también será probada por usuarios externos al grupo de trabajo para evitar opiniones influenciadas por la propiedad del proyecto.
 
-![landing-page-repository](/assets/deployment-images/landing-page-repository.jpg)
+**Requerimientos para realizar del despliegue:**
 
-2. Habilitar Github Pages para el despliegue.
+* Repositorio en nuestra organización de GitHub
+* Repositorio con visibilidad pública
+* Permisos de Github
+* Código Fuente de nuestra Landing Page
 
-![github-pages-repository](/assets/deployment-images/github-pages.jpg)
+**Pasos realizados para desplegar nuestra Landing Page:**
+  
+1) Subir el código fuente de nuestra Landig Page a nuestro repositorio destino en GitHub.
+2) Ir a la página de configuración de nuestro repositorio de GitHub.
+3) Seleccionar el apartado de Pages.
+4) Elegir la rama main y folder(/root).
+5) Una vez hecho el paso anterior se estaría contruyendo y poco tiempo después tendriamos que observar la landing desplegada.
 
 ### 5.2. Landing Page, Services & Applications Implementation
 #### 5.2.1. Sprint 1
 ##### 5.2.1.1. Sprint Planning 1
 
-<table>
-  <tr>
-    <td colspan="1"><strong>Sprint #</strong></td>
-    <td colspan="1">1</td>
-  </tr>
-  <tr>
-    <td colspan="2"><strong>Sprint Planning Background</strong></td>
-  </tr>
-  <tr>
-    <td colspan="1"><strong>Date</strong></td>
-    <td colspan="1">2024-09-02</td>
-  </tr>
-  <tr>
-    <td colspan="1"><strong>Time</strong></td>
-    <td colspan="1">1:00 PM</td>
-  </tr>
-  <tr>
-    <td colspan="1"><strong>Location</strong></td>
-    <td colspan="1">Virtual - Google Meet</td>
-  </tr>
-  <tr>
-    <td colspan="1"><strong>Prepared by</strong></td>
-    <td colspan="1">Juan Astonitas</td>
-  </tr>
-  <tr>
-    <td colspan="1"><strong>Attendees (to planning meeting)</strong></td>
-    <td colspan="1">Juan Astonitas, Sebastián Real, Gianluca Pasquale, Josue Paiva, Sebastián Pacheco</td>
-  </tr>
-  <tr>
-    <td colspan="1"><strong>Sprint n – 1 Review Summary</strong></td>
-    <td colspan="1">Se realizó la landing page, implementada con css y html, con base en los mockups y wireframes del diseño realizado en figma y siguiendo los style guidelines.</td>
-  </tr>
-  <tr>
-    <td colspan="1"><strong>Sprint n – 1 Retrospective Summary</strong></td>
-    <td colspan="1">Mejorar la organización y el trabajo en grupo.</td>
-  </tr>
-  <tr>
-    <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
-  </tr>
-  <tr>
-    <td colspan="1"><strong>Sprint 1 Goal</strong></td>
-    <td colspan="1">Implementar la landing page y prepararla para presentar el producto adecuadamente a los visitantes. Esto ayudará a captar su atención e informarlos sobre las funcionalidades de nuestra aplicación.</td>
-  </tr>
-  <tr>
-    <td colspan="1"><strong>Sprint 1 Velocity</strong></td>
-    <td colspan="1"> 25 Story Points.</td>
-  </tr>
-  <tr>
-    <td colspan="1"><strong>Sum of Story Points</strong></td>
-    <td colspan="1"> 18 Story Points atendidos. </td>
-  </tr>
-</table>
+| **Sprint #** | **Date** | **Time** | **Location** | **Prepared by** | **Attendees (to planning meeting)** | **Sprint n – 1 Review Summary** | **Sprint n – 1 Retrospective Summary** | **Sprint 1 Goal** | **Sprint 1 Velocity** | **Sum of Story Points** |
+|-|-|-|-|-|-|-|-|-|-|-|
+| 1 | 2024-09-02 | 1:00 PM  | Virtual - Google Meet | Juan Astonitas | Juan Astonitas, Sebastián Real, Gianluca Pasquale, Josue Paiva, Sebastian Pacheco | Se realizó la landing page, implementada con css y html, con base en los mockups y wireframes del diseño realizado en figma y siguiendo los style guidelines. | Mejorar la organización y el trabajo en grupo. | Implementar la landing page y prepararla para presentar el producto adecuadamente a los visitantes. Esto ayudará a captar su atención e informarlos sobre las funcionalidades de nuestra aplicación. | 25 Story Points | 18 Story Points atendidos. |
 
 ##### 5.2.1.2. Sprint Backlog 1
 
 Para el primer sprint, desarrollamos la estructura y las funcionalidades básicas de la landing page, así como el diseño visual y la barra de navegación.
 
-<table>
-  <tr>
-    <td colspan="1"><strong>Sprint #</strong></td>
-    <td colspan="7"><strong>Sprint 1</strong></td>
-  </tr>
-  <tr>
-    <td colspan="2"><strong>User Story</strong></td>
-    <td colspan="6"><strong>Work-Item/task</strong></td>
-  </tr>
-  <tr>
-    <td colspan="1"><strong>Id</strong></td>
-    <td colspan="1"><strong>Title</strong></td>
-    <td colspan="1"><strong>Id</strong></td>
-    <td colspan="1"><strong>Title</strong></td>
-    <td colspan="1"><strong>Description</strong></td>
-    <td colspan="1"><strong>Estimation(Hrs)</strong></td>
-    <td colspan="1"><strong>Assigned To</strong></td>
-    <td colspan="1"><strong>Status</strong></td>
-  </tr>
-  <tr>
-    <td colspan="1">US01</td>
-    <td colspan="1">Registro de Usuario</td>
-    <td colspan="1">T01</td>
-    <td colspan="1">Crear un sistema de registro de usuarios.</td>
-    <td colspan="1">La página web debe tener una opción para que los usuarios creen una cuenta.</td>
-    <td colspan="1">0.5</td>
-    <td colspan="1">Juan Astonitas</td>
-    <td colspan="1">Done</td>
-  </tr>
-  <tr>
-    <td colspan="1">US02</td>
-    <td colspan="1">Inicio de Sesión</td>
-    <td colspan="1">T02</td>
-    <td colspan="1">Crear un sistema de inicio de sesión para usuarios registrados.</td>
-    <td colspan="1">La página web debe permitir a los usuarios registrados el ingresar sus datos para acceder a sus cuentas.</td>
-    <td colspan="1">0.5</td>
-    <td colspan="1">Juan Astonitas</td>
-    <td colspan="1">Done</td>
-  </tr>
-</table>
+| **Sprint #** | **Sprint 1** | | | | | | |
+|-|-|-|-|-|-|-|-|
+| **User Story** | | **Work-Item/task** | | | | | |
+| **ID** | **Title** | **Id** | **Title** | **Description** | **Estimation(Hrs)** | **Assigned To** | **Status** |
+| US-01 | Registro de Usuario | T01 | Crear un sistema de registro de usuarios. | La página web debe tener una opción para que los usuarios creen una cuenta. | 0.5 | Juan Astonitas | Done |
+| US-02 | Inicio de Sesión | T02 | Crear un sistema de inicio de sesión para usuarios registrados. | La página web debe permitir a los usuarios registrados el ingresar sus datos para acceder a sus cuentas. | 0.5 | Juan Astonitas | Done |
+| US-29 | Navegación por el Landing Page | T03 | Crear una página web | Se debe crear una página web navegable y sin errores, sobre la cual se construirá la landing page de Finzar. | 0.5 | Juan Astonitas | Done |
+| US-30 | Ver Información del Startup | T04 | Se debe agregar una sección con información sobre el equipo de desarrollo de Finzar. | 1 | Juan Astonitas | Done |
+| US-31 | Conocer la Misión de la Startup | T05 | Agregar una sección con la visión, misión y objetivos de la startup. | 0.5 | Juan Astonitas | Done |
+| US-32 | Cambiar el Idioma de la Landing Page. | T06 | Implementar un sistema de internacionalización en la landing page que permita cambiar el idioma de los contenidos. | 2.5 | Juan Astonitas | Done |
+| US-33 | Contactar al equipo de soporte. | T07 | Agregar un formulario en la landing page que permita enviar un mensaje al equipo de soporte. | 3 | Juan Astonitas | Done |
 
 ##### 5.2.1.3. Development Evidence for Sprint Review
 
-| Repository          | Branch  | Commit ID                                | Commit Message                           | Commit Message Body                                                                                                                                 | Commited on (Date) |
-|---------------------|---------|------------------------------------------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
-| SmartFinance-OpenSource/Landing-Page | develop | 464433d | feat: add landing page images |  | 08/09/2024  |
-| SmartFinance-OpenSource/Landing-Page | develop  | 8bd63b6 | feat: added first version landing page |  | 08/09/2024 |
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date) |
+|-|-|-|-|-|-|
+| SmartFinance-OpenSource/Landing-Page | main  | 78a1dbb | Initial Commit |  | 19/08/2024 |
+| SmartFinance-OpenSource/Landing-Page | develop | 464433d | feat: add landing page images |  | 09/09/2024  |
+| SmartFinance-OpenSource/Landing-Page | develop  | 8bd63b6 | feat: added first version landing page |  | 09/09/2024 |
+| SmartFinance-OpenSource/Landing-Page | develop | be2226e | fix: fixed header redirectors |  | 09/09/2024 |
 
 ##### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
@@ -1795,6 +1655,8 @@ Se omite esta sección, dado que aún no se tiene el conocimiento necesario para
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
 En esta entrega, nuestro equipo ha desplegado con éxito la landing page.
+
+Enlace de la Landing Page: https://smartfinance-opensource.github.io/Landing-Page/
 
 ![landing-page-1](/assets/landing-page-screenshots/1.jpg)
 ![landing-page-2](/assets/landing-page-screenshots/2.jpg)
@@ -1806,13 +1668,56 @@ Se omite esta sección ya que aún no contamos con Web Application, la cual se d
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-Se omite esta sección ya que actualmente no contamos con una Front End App, ya que esta se implementará en Sprints futuros.
+- **Design**
+Para realizar el diseño de los wireframes y mockups de la Landing Page para este Sprint, se hizo uso de la plataforma [Figma](https://www.figma.com/)
+
+- Para el uso de la plataforma, es necesario crear una cuenta, así que nos dirigimos a la página oficial de Figma y se siguen los siguientes pasos para registrarse:
+![](/assets/design-steps/design-step-1.jpg)
+![](/assets/design-steps/design-step-2.jpg)
+
+- Luego se crea un Draft que servirá como base para el proyecto colaborativo.
+![](/assets/design-steps/design-step-3.jpg)
+
+- **Deployment**
+
+- Para la landing page, se utilizará [GitHub](https://github.com/) y [Github Pages]() para la creación del repositorio y el despliegue de la página.
+
+![](/assets/deployment-steps/deployment-step-1.jpg)
+![](/assets/deployment-steps/deployment-step-2.jpg)
+
+- Tras crear la cuenta, se procede a crear una organización.
+
+![](/assets/deployment-steps/deployment-step-3.jpg)
+![](/assets/deployment-steps/deployment-step-4.jpg)
+![](/assets/deployment-steps/deployment-step-5.jpg)
+![](/assets/deployment-steps/deployment-step-6.jpg)
+![](/assets/deployment-steps/deployment-step-7.jpg)
+![](/assets/deployment-steps/deployment-step-8.jpg)
+
+- Se agregan a los demás miembros del equipo a la organización.
+
+![](/assets/deployment-steps/deployment-step-9.jpg)
+![](/assets/deployment-steps/deployment-step-10.jpg)
+
+- Por último, se crean los repositorios necesarios para el trabajo.
+
+![](/assets/deployment-steps/deployment-step-11.jpg)
+![](/assets/deployment-steps/deployment-step-12.jpg)
+
+- Para nuestro proyecto se crearon 4 repositorios los cuales son:
+    - **Report:** Este repositorio se usa para realizar el informe del proyecto de manera continua.
+    - **Landing-Page:** Este repositorio se usa para codificar y desplegar la landingpage del proyecto.
+    - **Frontend:** Este repositorio se usará para contener el código de la parte frontend del projecto.
+    - **Backend:** Este repositorio se usará para contener el código de la parte backend del projecto.
+
+Con esto realizado, se puede dar inicio al trabajo del proyecto.
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
-A continuación, se muestra la página de insights proporcionada por Github.
+Para este sprint, las tareas de diseño, implementación y documentación de la landing page se distribuyó entre los integrantes del equipo. La implementación y despliegue de la landing page fue llevado a cabo principalmente por Juan Astonitas.
 
-![github-insights](/assets/githubpics/insights_cap1.jpg)
+![github-insights](/assets/githubpics/insights_1.jpg)
+![github-networks](/assets/githubpics/networks_1.jpg)
 
 ## Conclusiones
 

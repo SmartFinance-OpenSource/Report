@@ -241,11 +241,13 @@ en la creación de soluciones financieras accesibles y prácticas para los perua
     <td> Soy Sebastián Real Calderón, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software. Tengo conocimientos sobre lenguajes de programación como C++, C# y Java. Principalmente me dedico al desarrollo de proyectos que me permitan desarrollar mis habilidades de programación, tales como videojuegos o programas sencillos, ya que apunto a volverme desarrollador. </td>
   </tr>
 <tr>
-    <th colspan="2"> Intengrante 5 </th>
+    <th colspan="2">Josue Paiva</th>
   </tr>
   <tr>
-    <td>Foto Intengrante 5 </td>
-    <td> desc </td>
+    <td>
+    <img src="assets/teampics/JosuePaiva.jpeg" style="width:300px">
+    </td>
+    <td> Soy Josue Paiva, tengo 21 años y soy de la carrera de Ingenieria de Software, tengo conocimiento de C++, Python y SQL, me gusta mantener buena comunicación con mis commpañeros de equipo, cumplir con mis tareas y apoyar al resto cuando se requiera. </td>
   </tr>
 </table>
 

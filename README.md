@@ -1684,37 +1684,37 @@ Se omite esta sección ya que aún no contamos con Web Application, la cual se d
 Para realizar el diseño de los wireframes y mockups de la Landing Page para este Sprint, se hizo uso de la plataforma [Figma](https://www.figma.com/)
 
 - Para el uso de la plataforma, es necesario crear una cuenta, así que nos dirigimos a la página oficial de Figma y se siguen los siguientes pasos para registrarse:
-![](/assets/design-steps/design-step-1.jpg)
-![](/assets/design-steps/design-step-2.jpg)
+![Design-Login-1](/assets/design-steps/design-step-1.jpg)
+![Design-Login-2](/assets/design-steps/design-step-2.jpg)
 
 - Luego se crea un Draft que servirá como base para el proyecto colaborativo.
-![](/assets/design-steps/design-step-3.jpg)
+![Design-Draft-Creation](/assets/design-steps/design-step-3.jpg)
 
 - **Deployment**
 
 - Para la landing page, se utilizará [GitHub](https://github.com/) y [Github Pages]() para la creación del repositorio y el despliegue de la página.
 
-![](/assets/deployment-steps/deployment-step-1.jpg)
-![](/assets/deployment-steps/deployment-step-2.jpg)
+![Deployment-Login-1](/assets/deployment-steps/deployment-step-1.jpg)
+![Deployment-Login-2](/assets/deployment-steps/deployment-step-2.jpg)
 
 - Tras crear la cuenta, se procede a crear una organización.
 
-![](/assets/deployment-steps/deployment-step-3.jpg)
-![](/assets/deployment-steps/deployment-step-4.jpg)
-![](/assets/deployment-steps/deployment-step-5.jpg)
-![](/assets/deployment-steps/deployment-step-6.jpg)
-![](/assets/deployment-steps/deployment-step-7.jpg)
-![](/assets/deployment-steps/deployment-step-8.jpg)
+![Deployment-Organization-1](/assets/deployment-steps/deployment-step-3.jpg)
+![Deployment-Organization-2](/assets/deployment-steps/deployment-step-4.jpg)
+![Deployment-Organization-3](/assets/deployment-steps/deployment-step-5.jpg)
+![Deployment-Organization-4](/assets/deployment-steps/deployment-step-6.jpg)
+![Deployment-Organization-5](/assets/deployment-steps/deployment-step-7.jpg)
+![Deployment-Organization-6](/assets/deployment-steps/deployment-step-8.jpg)
 
 - Se agregan a los demás miembros del equipo a la organización.
 
-![](/assets/deployment-steps/deployment-step-9.jpg)
-![](/assets/deployment-steps/deployment-step-10.jpg)
+![Deployment-Members-1](/assets/deployment-steps/deployment-step-9.jpg)
+![Deployment-Members-2](/assets/deployment-steps/deployment-step-10.jpg)
 
 - Por último, se crean los repositorios necesarios para el trabajo.
 
-![](/assets/deployment-steps/deployment-step-11.jpg)
-![](/assets/deployment-steps/deployment-step-12.jpg)
+![Deployment-Repositories-1](/assets/deployment-steps/deployment-step-11.jpg)
+![Deployment-Repositories-2](/assets/deployment-steps/deployment-step-12.jpg)
 
 - Para nuestro proyecto se crearon 4 repositorios los cuales son:
     - **Report:** Este repositorio se usa para realizar el informe del proyecto de manera continua.

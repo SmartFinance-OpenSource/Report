@@ -384,6 +384,8 @@ Nuestro servicio fue diseñado para ayudar a los jóvenes adultos peruanos a ges
 **Creemos que** simplificar el proceso de creación de presupuestos mediante una interfaz más intuitiva y fácil de usar aumentará la adopción de esta función entre nuestros usuarios jóvenes adultos peruanos.  
 **Sabremos que esto es cierto cuando veamos** un incremento en la tasa de usuarios que crean y ajustan presupuestos dentro de la aplicación, junto con una mejora en las calificaciones de usabilidad y facilidad de uso en las reseñas de la aplicación.
 ##### 1.2.2.4. Lean UX Canvas
+![Canvas](https://github.com/JosuePaiva02/files/blob/main/Empathy%20map.png?raw=true)
+
 ### 1.3. Segmentos objetivo
 
 **Segmento objetivo #1: Jóvenes Adultos Peruanos**

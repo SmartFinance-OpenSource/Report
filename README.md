@@ -1265,6 +1265,7 @@ Tambien se podran crear metas de ahorro y presupuestos
 ### 4.5. Web Applications Prototyping
 
 
+![prototype](assets/prtootype/prototype.png)
 <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110237_upc_edu_pe/Ecv3xqi2sihFtU7kelLTNyoBHNyjthmrFf8ypygs491-Lw?e=HZrqhe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
 
 ### 4.6. Domain-Driven Software Architecture

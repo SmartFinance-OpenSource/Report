@@ -1211,6 +1211,9 @@ Esta sección presenta los wireframes de nuestra Startup, diseñados aplicando p
 ![web-application-wireframes](assets/assets/wireframe/settings.png)
 
 #### 4.4.2. Web Applications Wireflow Diagrams
+Esta sección presenta los wireflows propuestos para cada User goal, basados en los User Persona correspondientes. Cada diagrama muestra las interacciones y cambios de pantalla a lo largo de los flujos típicos, utilizando las herramientas indicadas para ilustrar el nuevo estado tras cada paso.
+![web-application-wireflow-diagrams](assets//wireflows/wireflows.png)
+
 #### 4.4.3. Web Applications Mock-ups
 
 

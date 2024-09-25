@@ -1287,12 +1287,12 @@ La arquitectura de software orientada al dominio proporciona una imagen de lo qu
 Los elementos presentes son:
 
 * Visitor (Visitante): Visualiza el landing page.
-* Client (Cliente): Accede a la aplicación web.
+* Customer (Cliente): Accede a la aplicación web.
 * Administrator (Administrador): Accede a la aplicación web y supervisa su funcionamiento.
 * SmartFinance: Software que los usuarios utilizarán.
 <br>
 
-![SmartFinance-SystemContext](assets/dsl/structurizr-SystemContext-001.png)
+![SmartFinance-SystemContext](assets/dsl/structurizr-94856-SystemContext-001.png)
 #### 4.6.2. Software Architecture Container Diagrams
 Los elementos presentes son:
 
@@ -1303,48 +1303,48 @@ Los elementos presentes son:
 * Bases de datos: Almacenará datos como cuentas, billeteras, presupuestos, transacciones, entre otros.
 <br>
 
-![SmartFinance-Container](assets/dsl/structurizr-Container-001.png)
+![SmartFinance-Container](assets/dsl/structurizr-94856-Container-001.png)
 #### 4.6.3. Software Architecture Components Diagrams
 **Bounded Context Account Creation and Management**
 
 Los elementos presentes son:
 * Controller: Controla un conjunto de funcionalidades.
-* Components: Partes de la aplicación que realizan una o varias tareas específicas.
+* Service: Partes de la aplicación que realizan una o varias tareas específicas.
 * Repository: Permite el acceso a una base de datos.
-![AccountCreationAndManagement-Component](assets/dsl/structurizr-Component-001.png)
+![AccountCreationAndManagement-Component](assets/dsl/structurizr-94856-Component-001.png)
 
 **Bounded Context Visualization of Wallets and Flows**
 
 Los elementos presentes son:
 * Controller: Controla un conjunto de funcionalidades.
-* Component: Partes de la aplicación que realizan una o varias tareas específicas.
+* Service: Partes de la aplicación que realizan una o varias tareas específicas.
 * Repository: Permite el acceso a una base de datos.
-![VisualizationOfWalletsAndFlows-Component](assets/dsl/structurizr-Component-002.png)
+![VisualizationOfWalletsAndFlows-Component](assets/dsl/structurizr-94856-Component-002.png)
 
 **Bounded Context Transaction Register and Categorization**
 
 Los elementos presentes son:
 * Controller: Controla un conjunto de funcionalidades.
-* Component: Partes de la aplicación que realizan una o varias tareas específicas.
+* Service: Partes de la aplicación que realizan una o varias tareas específicas.
 * Repository: Permite el acceso a una base de datos.
-![TransactionRegisterAndCategorization-Component](assets/dsl/structurizr-Component-003.png)
+![TransactionRegisterAndCategorization-Component](assets/dsl/structurizr-94856-Component-003.png)
 
 **Bounded Context Budgeting Creation and Monitoring**
 
 Los elementos presentes son:
 * Controller: Controla un conjunto de funcionalidades.
-* Component: Partes de la aplicación que realizan una o varias tareas específicas.
+* Service: Partes de la aplicación que realizan una o varias tareas específicas.
 * Observer: Notifica sobre algún cambio en un evento realizado por un componente.
 * Repository: Permite el acceso a una base de datos.
-![BudgetingCreationAndMonitoring-Component](assets/dsl/structurizr-Component-004.png)
+![BudgetingCreationAndMonitoring-Component](assets/dsl/structurizr-94856-Component-004.png)
 
 **Bounded Context Savings Creation and Monitoring**
 
 Los elementos presentes son:
 * Controller: Controla un conjunto de funcionalidades.
-* Component: Partes de la aplicación que realizan una o varias tareas específicas.
+* Service: Partes de la aplicación que realizan una o varias tareas específicas.
 * Repository: Permite el acceso a una base de datos.
-![SavingsCreationAndMonitoring-Component](assets/dsl/structurizr-Component-005.png)
+![SavingsCreationAndMonitoring-Component](assets/dsl/structurizr-94856-Component-005.png)
 
 ### 4.7. Software Object-Oriented Design
 El diseño orientado a objetos del software será esencial para nuestro proyecto. Estructuramos nuestro software de acuerdo a nuestras reglas de negocio para poder crear componentes que puedan ser entendibles para su desarrollo en un sistema real, y sean fáciles de modificar para nosotros.

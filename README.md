@@ -1731,6 +1731,121 @@ Para este sprint, las tareas de diseño, implementación y documentación de la 
 ![github-insights](/assets/githubpics/insights_1.jpg)
 ![github-networks](/assets/githubpics/networks_1.jpg)
 
+#### 5.2.2. Sprint 2
+En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo para el Sprint 2.
+
+##### 5.2.2.1. Sprint Planning 2
+| Sprint #                           | Sprint 2                                                                                                                                                                                                                                                            |
+|------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Date**                           | 2024-09-26                                                                                                                                                                                                                                                          |
+| **Time**                           | 6:00 PM                                                                                                                                                                                                                                                             |
+| **Location**                       | Virtual - Discord                                                                                                                                                                                                                                                   |
+| Prepared By                        | Juan Astonitas                                                                                                                                                                                                                                                      |
+| Attendees (to planning meeting)    | Juan Astonitas, Sebastián Real, Sebastian Pacheco                                                                                                                                                                                                                   |
+| Sprint 2 - 1 Review Summary        | Se ha mejorado varios puntos con respecto al reporte con los cambios que el profesor sugirió, además de crear una primera versión y desarrollo de nuestra aplicación Front End, el cual se seguirá desarrollando en futuras entregas.                               |
+| Sprint 2 - 1 Retrospective Summary | Hubo un progreso aceptable con el sprint 2: aunque no tuvimos la cantidad de pantallas que esperábamos, el equipo pudo fortalecer la comunicación y la colaboración, de esta manera se logró un avance que consideramos adecuado en el desarrollo de la aplicación. |
+| Sprint 2 Goal                      | Mejoramiento de información del reporte e implementar la primera versión de la aplicación Front End, con las funcionalidades básicas y el diseño visual de la aplicación.                                                                                           |
+| Sprint 2 Velocity                  | 16 User Stories                                                                                                                                                                                                                                                     |
+| Sum of Story Points                | 10 Story Points Atendidos                                                                                                                                                                                                                                           |
+
+##### 5.2.2.2. Sprint Backlog 2
+En el Sprint 2 el equipo se ha enfocado en las correcciones del reporte y la implementación del Front End Application. Se presenta el backlog de tareas para las correcciones del reporte en el Sprint 2.
+![Sprint 2 Backlog](/assets/sprint-2-assets/sprint-backlog-2-trello.png)
+
+| **Sprint #**   | **Sprint 2**                                                   |                    |                                                                           |                                                                                                                                                            |                     |                   |             |
+|----------------|----------------------------------------------------------------|--------------------|---------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|-------------|
+| **User Story** |                                                                | **Work-Item/task** |                                                                           |                                                                                                                                                            |                     |                   |             |
+| **ID**         | **Title**                                                      | **Id**             | **Title**                                                                 | **Description**                                                                                                                                            | **Estimation(Hrs)** | **Assigned To**   | **Status**  |
+| US-07          | Creación de Billeteras Adicionales                             | T01                | Crear un sistema que permita a los usuarios crear billeteras adicionales. | La página web debe permitir a los usuarios crear billeteras adicionales para organizar sus finanzas de manera más eficiente.                               | 2                   | Juan Astonitas    | Done        |
+| US-08          | Visualizar el Estado de una Billetera                          | T02                | Ver el estado actual de una billetera.                                    | La página web debe mostrar el estado actual de una billetera selecta en donde el usuario conoce el saldo de esa billetera.                                 | 3                   | Juan Astonitas    | Done        |
+| US-09          | Visualizar el Saldo en el mes                                  | T03                | Ver el saldo total de una billetera en un mes.                            | La página web debe mostrar el saldo total de una billetera en un mes específico, permitiendo al usuario conocer su estado financiero en ese periodo.       | 2                   | Sebastian Pacheco | Done        |
+| US-10          | Visualizar los Cambios de Balance en el mes                    | T04                | Ver los cambios de balance de una billetera en un mes.                    | La página web debe mostrar los cambios de balance de una billetera en un mes específico, permitiendo al usuario conocer sus ingresos y gastos.             | 3                   | Juan Astonitas    | In Progress |
+| US-11          | Visualizar los Porcentajes Categorizados de Ingresos en el mes | T05                | Ver los porcentajes de ingresos categorizados en un mes.                  | La página web debe mostrar los porcentajes de ingresos categorizados en un mes específico, permitiendo al usuario conocer la distribución de sus ingresos. | 3                   | Sebastian Pacheco | In Progress |
+
+##### 5.2.2.3. Development Evidence for Sprint Review
+En la tabla a continuación se muestran los commits realizados en el Sprint 2.
+
+| Repository                     | Branch                                        | Commit ID | Commit Message                                   | Commit Message Body                                                                                                                                                | Commited on (Date) |
+|--------------------------------|-----------------------------------------------|-----------|--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
+| SmartFinance-OpenSource/Report | fix/user-stories                              | 4efc002   | fix: evaluated new user stories and their epics. | Added new user stories, landing page related user stories, technical stories and refactored the epics section to accommodate and organize better the user stories. | 2024-09-19         |
+| SmartFinance-OpenSource/Report | fix/student-profile                           | 3c920cf   | feat: added student outcome 5                    | No description provided.                                                                                                                                           | 2024-09-19         |
+| SmartFinance-OpenSource/Report | fix/user-stories                              | 527d0f1   | feat: expanded user stories                      | No description provided.                                                                                                                                           | 2024-09-19         |
+| SmartFinance-OpenSource/Report | feature/web-applications-ux-ui-design         | 4269c14   | Feature/web applications ux UI design            | No description provided.                                                                                                                                           | 2024-09-19         |
+| SmartFinance-OpenSource/Report | fix/software-architecture                     | deb7fa6   | fix: reevaluated software architecture.          | No description provided.                                                                                                                                           | 2024-09-19         |
+| SmartFinance-OpenSource/Report | fix/chapter-5                                 | 5d58e06   | fix/chapter 5                                    | No description provided.                                                                                                                                           | 2024-09-19         |
+| SmartFinance-OpenSource/Report | fix/chapter-5                                 | 34b2a25   | fix: networks image                              | No description provided.                                                                                                                                           | 2024-09-19         |
+| SmartFinance-OpenSource/Report | fix/lean-ux-canvas                            | 9cdf8dd   | feat: added lean ux canvas                       | No description provided.                                                                                                                                           | 2024-09-19         |
+| SmartFinance-OpenSource/Report | feature/project-report-collaboration-insights | 09eba5b   | Feature/project report collaboration insights    | No description provided.                                                                                                                                           | 2024-09-19         |
+| SmartFinance-OpenSource/Report | feature/student-outcome                       | 102d6fa   | feat: added content                              | No description provided.                                                                                                                                           | 2024-09-18         |
+| SmartFinance-OpenSource/Report | fix/software-architecture-c4-model            | a5aa940   | Fix/software architecture c4 model               | No description provided.                                                                                                                                           | 2024-09-25         |
+
+##### 5.2.2.4. Testing Suite Evidence for Sprint Review
+Se omite esta sección, dado que aún no se tiene el conocimiento necesario para realizar pruebas automatizadas. Esto se llevara a cabo en futuros sprints.
+
+##### 5.2.2.5. Execution Evidence for Sprint Review
+En esta entrega, no se realizaron cambios con relación al Landing Page. Por el momento, la Landing Page queda igual a la versión realizada en el Sprint 2.
+Se ha desarrollado un avance con respecto al Frontend, por el momento se dispone de un dashboard donde se muestra las billeteras y cards importantes. Esta página evidencia ello:
+![Execution-Evidence-Frontend](assets/sprint-2-assets/execution-evidence.png)
+
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review
+En este sprint, hemos podido desplegar una Aplicación Web que consume json para mostrar información principal de la base de datos. A continuación, se muestra el código de la aplicación.
+
+| Nombre del Endpoint | Acciones Implementadas | Sintaxis de Llamada                                                                        | Especificación de Parámetros | Ejemplo de Llamada             | Explicación del Response                                    |
+|---------------------|------------------------|--------------------------------------------------------------------------------------------|------------------------------|--------------------------------|-------------------------------------------------------------|
+| base.service.ts     | GET                    | `export const environment = { production: true, apiUrl: 'http://localhost:3000/api/v1' };` | No requiere parámetros       | `http://localhost:3000/api/v1` | Muestra la información de la base de datos en formato JSON. |
+
+Además de capturas que muestran el contenido de db.json
+![db.json](assets/sprint-2-assets/services-evidence.png)
+
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+- **Design**
+  Para realizar el diseño de los wireframes y mockups de la Landing Page para este Sprint, se hizo uso de la plataforma [Figma](https://www.figma.com/)
+
+- Para el uso de la plataforma, es necesario crear una cuenta, así que nos dirigimos a la página oficial de Figma y se siguen los siguientes pasos para registrarse:
+  ![](/assets/design-steps/design-step-1.jpg)
+  ![](/assets/design-steps/design-step-2.jpg)
+
+- Luego se crea un Draft que servirá como base para el proyecto colaborativo.
+  ![](/assets/design-steps/design-step-3.jpg)
+
+- **Deployment**
+
+- Para la landing page, se utilizará [GitHub](https://github.com/) y [Github Pages]() para la creación del repositorio y el despliegue de la página.
+
+![](/assets/deployment-steps/deployment-step-1.jpg)
+![](/assets/deployment-steps/deployment-step-2.jpg)
+
+- Tras crear la cuenta, se procede a crear una organización.
+
+![](/assets/deployment-steps/deployment-step-3.jpg)
+![](/assets/deployment-steps/deployment-step-4.jpg)
+![](/assets/deployment-steps/deployment-step-5.jpg)
+![](/assets/deployment-steps/deployment-step-6.jpg)
+![](/assets/deployment-steps/deployment-step-7.jpg)
+![](/assets/deployment-steps/deployment-step-8.jpg)
+
+- Se agregan a los demás miembros del equipo a la organización.
+
+![](/assets/deployment-steps/deployment-step-9.jpg)
+![](/assets/deployment-steps/deployment-step-10.jpg)
+
+- Por último, se crean los repositorios necesarios para el trabajo.
+
+![](/assets/deployment-steps/deployment-step-11.jpg)
+![](/assets/deployment-steps/deployment-step-12.jpg)
+
+- Para nuestro proyecto se crearon 4 repositorios los cuales son:
+    - **Report:** Este repositorio se usa para realizar el informe del proyecto de manera continua.
+    - **Landing-Page:** Este repositorio se usa para codificar y desplegar la landingpage del proyecto.
+    - **Frontend:** Este repositorio se usará para contener el código de la parte frontend del projecto.
+    - **Backend:** Este repositorio se usará para contener el código de la parte backend del projecto.
+
+##### 5.2.2.8. Team Collaboration Insights during Sprint
+A continuación se muestra evidencia de la coolaboración del equipo mediante insights de GitHub.
+![github-insights-1](/assets/sprint-2-assets/insights-1.png)
+![github-insights-2](/assets/sprint-2-assets/insights-2.png)
+
 ## Conclusiones
 
 - A lo largo del desarrollo de Finzar, se ha identificado y comprendido a fondo a su segmento objetivo: jóvenes adultos peruanos, incluyendo estudiantes universitarios y jóvenes profesionales. Esta comprensión ha permitido adaptar la herramienta para abordar problemas específicos como el sobreendeudamiento y la falta de ahorro, ofreciendo soluciones prácticas y accesibles que mejoran la estabilidad económica y promueven buenos hábitos financieros desde edades tempranas.

@@ -1647,11 +1647,11 @@ Con cada actualización e implementación del repositorio se harán pruebas que 
 | **Location** | Virtual - Meet |
 | **Prepared By** | Juan Astonitas |
 | **Attendees (to planning meeting)** | Juan Astonitas, Sebastián Real, Gianluca Pasquale, Josue Paiva, Sebastian Pacheco |
-| **Sprint n - 1 Review Summary** | Se realizó la landing page, implementada con css y html, con base en los mockups y wireframes del diseño realizado en figma y siguiendo los style guidelines. |
-| **Sprint n - 1 Retrospective Summary** | Mejorar la organización y el trabajo en grupo. |
+| **Sprint n - 1 Review Summary** | Este es el primer Sprint, por lo que ete campo no aplica. |
+| **Sprint n - 1 Retrospective Summary** | Este es el primer Sprint, por lo que este campo no aplica. |
 | **Sprint 1 Goal** | Nuestra prioridad en este sprint es implementar la landing page de nuestra aplicación. Creemos que esto brindará una presentación satisfactoria de nuestro producto a los posibles usuarios. Esto se confirmará cuando las visitas a nuestra landing page superen un cierto índice. |
 | **Sprint 1 Velocity** | Nuestro equipo puede aceptar hasta 20 story points |
-| **Sum of Story Points** |  |
+| **Sum of Story Points** | La suma de Story Points atendidos es de 19 story points |
 
 ##### 5.2.1.2. Sprint Backlog 1
 

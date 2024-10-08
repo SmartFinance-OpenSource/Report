@@ -1651,7 +1651,7 @@ Con cada actualización e implementación del repositorio se harán pruebas que 
 | **Sprint n - 1 Retrospective Summary** | Mejorar la organización y el trabajo en grupo. |
 | **Sprint 1 Goal** | Nuestra prioridad en este sprint es implementar la landing page de nuestra aplicación. Creemos que esto brindará una presentación satisfactoria de nuestro producto a los posibles usuarios. Esto se confirmará cuando las visitas a nuestra landing page superen un cierto índice. |
 | **Sprint 1 Velocity** | Nuestro equipo puede aceptar hasta 20 story points |
-| **Sum of Story Points** | 18 Story Points atendidos. |
+| **Sum of Story Points** |  |
 
 ##### 5.2.1.2. Sprint Backlog 1
 

@@ -1661,14 +1661,13 @@ Para el primer sprint, desarrollamos la estructura y las funcionalidades básica
 | US-33          | Contactar al equipo de soporte.       | T07                | Agregar un formulario en la landing page que permita enviar un mensaje al equipo de soporte.                       | 3                                                                                                            | Juan Astonitas      | Done            |
 
 ##### 5.2.1.3. Development Evidence for Sprint Review
-
+En esta sección presentamos el flujo de trabajo para la creación y actuallización de la landing page
 | Repository                           | Branch  | Commit ID | Commit Message                         | Commit Message Body | Commited on (Date) |
 |--------------------------------------|---------|-----------|----------------------------------------|---------------------|--------------------|
-| SmartFinance-OpenSource/Landing-Page | main    | 78a1dbb   | Initial Commit                         |                     | 19/08/2024         |
-| SmartFinance-OpenSource/Landing-Page | develop | 464433d   | feat: add landing page images          |                     | 09/09/2024         |
-| SmartFinance-OpenSource/Landing-Page | develop | 8bd63b6   | feat: added first version landing page |                     | 09/09/2024         |
-| SmartFinance-OpenSource/Landing-Page | develop | be2226e   | fix: fixed header redirectors          |                     | 09/09/2024         |
-
+| SmartFinance-OpenSource/Landing-Page | develop | 464433d   | feat: add landing page images          |                     | 08/09/2024         |
+| SmartFinance-OpenSource/Landing-Page | develop | 8bd63b6   | feat: added first version landing page |                     | 08/09/2024         |
+| SmartFinance-OpenSource/Landing-Page | develop | be2226e   | fix: fixed header redirectors          |                     | 08/09/2024         |
+| SmartFinance-OpenSource/Landing-Page | develop | 3ad4671   | chore: added landing page files        |                     | 07/09/2024         |
 ##### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 Se omite esta sección, dado que aún no se tiene el conocimiento necesario para realizar pruebas automatizadas. Esto se llevara a cabo en futuros sprints.

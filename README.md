@@ -1640,9 +1640,18 @@ Con cada actualización e implementación del repositorio se harán pruebas que 
 #### 5.2.1. Sprint 1
 ##### 5.2.1.1. Sprint Planning 1
 
-| **Sprint #** | **Date**   | **Time** | **Location**          | **Prepared by** | **Attendees (to planning meeting)**                                               | **Sprint n – 1 Review Summary**                                                                                                                               | **Sprint n – 1 Retrospective Summary**         | **Sprint 1 Goal**                                                                                                                                                                                    | **Sprint 1 Velocity** | **Sum of Story Points**    |
-|--------------|------------|----------|-----------------------|-----------------|-----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|----------------------------|
-| 1            | 2024-09-02 | 1:00 PM  | Virtual - Google Meet | Juan Astonitas  | Juan Astonitas, Sebastián Real, Gianluca Pasquale, Josue Paiva, Sebastian Pacheco | Se realizó la landing page, implementada con css y html, con base en los mockups y wireframes del diseño realizado en figma y siguiendo los style guidelines. | Mejorar la organización y el trabajo en grupo. | Implementar la landing page y prepararla para presentar el producto adecuadamente a los visitantes. Esto ayudará a captar su atención e informarlos sobre las funcionalidades de nuestra aplicación. | 25 Story Points       | 18 Story Points atendidos. |
+| Sprint # | Sprint 1 |
+|-|-|
+| **Date** | 2024-09-02 |
+| **Time** | 1:00 PM |
+| **Location** | Virtual - Meet |
+| **Prepared By** | Juan Astonitas |
+| **Attendees (to planning meeting)** | Juan Astonitas, Sebastián Real, Gianluca Pasquale, Josue Paiva, Sebastian Pacheco |
+| **Sprint n - 1 Review Summary** | Este es el primer Sprint, por lo que ete campo no aplica. |
+| **Sprint n - 1 Retrospective Summary** | Este es el primer Sprint, por lo que este campo no aplica. |
+| **Sprint 1 Goal** | Nuestra prioridad en este sprint es implementar la landing page de nuestra aplicación. Creemos que esto brindará una presentación satisfactoria de nuestro producto a los posibles usuarios. Esto se confirmará cuando las visitas a nuestra landing page superen un cierto índice. |
+| **Sprint 1 Velocity** | Nuestro equipo puede aceptar hasta 20 story points |
+| **Sum of Story Points** | La suma de Story Points atendidos es de 19 story points |
 
 ##### 5.2.1.2. Sprint Backlog 1
 

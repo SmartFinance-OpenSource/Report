@@ -1460,7 +1460,9 @@ Para la organizacion del proyecto requerimos de un sistema de de asignación de 
 
 | Producto     | Repositorio         | URL                                                     |
 |--------------|---------------------|---------------------------------------------------------|
-| Landing Page | Finzar-landing-page | https://github.com/SmartFinance-OpenSource/Landing-Page |
+| Landing Page | Finzar-landing-page | |
+| Web Services | Finzar-Web Services |https://github.com/SmartFinance-OpenSource/Backend|
+| Front Web Application | Finzar-Frontend |https://github.com/SmartFinance-OpenSource/Frontend|
 
 Flujo de trabajo GitFlow
 

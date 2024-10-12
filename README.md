@@ -1771,7 +1771,7 @@ En esta sección se resumen los puntos clave del Sprint Planning, incluyendo los
 ##### 5.2.2.2. Sprint Backlog 2
 En esta sección se presenta un resumen del objetivo principal del sprint, destacando las metas a alcanzar y las funcionalidades a implementar. A continuación, se muestra un screenshot del Board del sprint en la herramienta de control seleccionada, Trello, junto con el enlace público correspondiente. Además, se incluye una tabla con las User Stories asignadas al sprint y los Work-items/Tasks derivados, así como las tareas adicionales necesarias para cumplir con los objetivos generales del sprint.
 
-https://trello.com/invite/b/6703fc437ffe81d568259f04/ATTIf2bbf0d616f458ad5bcefb1e1be4b0861373D99A/si729-2402-ws53-grupo-2 
+Este es nuestro link de invitación a nuestro Trello: https://trello.com/invite/b/6703fc437ffe81d568259f04/ATTIf2bbf0d616f458ad5bcefb1e1be4b0861373D99A/si729-2402-ws53-grupo-2 
 
 
 ![Sprint 2 Backlog](/assets/sprint-2-assets/trellosprint2.png)

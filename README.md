@@ -1870,6 +1870,24 @@ A continuación se muestra evidencia de la coolaboración del equipo mediante in
 ![github-insights-1](/assets/sprint-2-assets/insights-1.png)
 ![github-insights-2](/assets/sprint-2-assets/insights-2.png)
 
+#### 5.2.3. Sprint 3
+
+##### 5.2.3.1. Sprint Planning 3
+
+##### 5.2.3.2. Sprint Backlog 3
+
+##### 5.2.3.3. Development Evidence for Sprint Review
+
+##### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+##### 5.2.3.5. Execution Evidence for Sprint Review
+
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+##### 5.2.3.8. Team Collaboration Insights during Sprint
+
 ## Conclusiones
 
 - A lo largo del desarrollo de Finzar, se ha identificado y comprendido a fondo a su segmento objetivo: jóvenes adultos peruanos, incluyendo estudiantes universitarios y jóvenes profesionales. Esta comprensión ha permitido adaptar la herramienta para abordar problemas específicos como el sobreendeudamiento y la falta de ahorro, ofreciendo soluciones prácticas y accesibles que mejoran la estabilidad económica y promueven buenos hábitos financieros desde edades tempranas.

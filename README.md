@@ -1787,7 +1787,8 @@ Este es nuestro link de invitación a nuestro Trello: https://trello.com/invite/
 | US-11          | Visualizar los Porcentajes Categorizados de Ingresos en el mes | T05                | Ver los porcentajes de ingresos categorizados en un mes.                  | La página web debe mostrar los porcentajes de ingresos categorizados en un mes específico, permitiendo al usuario conocer la distribución de sus ingresos. | 3                   | Sebastian Pacheco | In Progress |
 
 ##### 5.2.2.3. Development Evidence for Sprint Review
-En la tabla a continuación se muestran los commits realizados en el Sprint 2.
+En la tabla a continuación se muestran los commits realizados en el Sprint 2. 
+En este sprint nos concentramos en ampliar nuestras user stories, incluir elementos ausentes como el student profile, el diseño de los web applications, mejorar elementos como el C4 Model, la arquitectura de software y resolver problemas con la visualización de imagenes como la del Lean UX Canvas
 
 | Repository                     | Branch                                        | Commit ID | Commit Message                                   | Commit Message Body                                                                                                                                                | Commited on (Date) |
 |--------------------------------|-----------------------------------------------|-----------|--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|

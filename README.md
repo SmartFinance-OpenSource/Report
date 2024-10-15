@@ -1919,6 +1919,19 @@ A continuación se muestra evidencia de la coolaboración del equipo mediante in
 
 ##### 5.2.3.1. Sprint Planning 3
 
+| Sprint # | Sprint 3 |
+|-|-|
+| **Date**                           | 2024-14-26 |
+| **Time**                           | 4:00 PM |
+| **Location**                       | Virtual - Discord |
+| Prepared By                        | Juan Astonitas |
+| Attendees (to planning meeting)    | Juan Astonitas, Sebastián Real, Sebastian Pacheco, Gianluca Pasquale |
+| Sprint 3 - 1 Review Summary        | En el Sprint 2, logramos implementar una versión funcional de la interfaz de usuario con varias pantallas clave. Se corrigieron algunos problemas y se avanzó en el diseño visual y la estructura básica del frontend. |
+| Sprint 3 - 1 Retrospective Summary | Fortalecimos la comunicación en equipo al desarrollar diferentes pantallas siguiendo los bounded context del modelo de Domain Driven Design |
+| Sprint 3 Goal                      | Nuestra prioridad en este sprint es completar el frontend e implementar la primera versión del backend para la aplicación. Creemos que con esto estará lista una versión funcional de la aplciación con la que los usuarios podrán interactuar con las características principales del sistema. Esto se confirmará cuando consigamos la implementación existosa de las funcionalidades y estas pasen las pruebas necesarias. |
+| Sprint 3 Velocity                  | La Velocity calculada para este sprint es de 14 story points |
+| Sum of Story Points                | La suma de story points atendidos es de 18 story points |
+
 ##### 5.2.3.2. Sprint Backlog 3
 En esta sección se presenta un resumen del objetivo principal del sprint, destacando las metas a alcanzar y las funcionalidades a implementar. A continuación, se muestra un screenshot del Board del sprint en la herramienta de control seleccionada, Trello, junto con el enlace público correspondiente. Además, se incluye una tabla con las User Stories asignadas al sprint y los Work-items/Tasks derivados, así como las tareas adicionales necesarias para cumplir con los objetivos generales del sprint.
 
@@ -1992,9 +2005,6 @@ Este es nuestro link de invitación a nuestro Trello: https://trello.com/invite/
  TS43             | Creación de Plan de Ahorro en Billetera                 | TS110                   | Implementar lógica de plan de ahorro                         | Implementar lógica y creación de plan de ahorro                                                    | 1                        | to-do      |
  TS43             | Creación de Plan de Ahorro en Billetera                 | TS111                   | Probar señal de confirmación 201                             | Probar que devuelve una señal de confirmación 201                                                  | 0.5                      | to-do      |
  TS43             | Creación de Plan de Ahorro en Billetera                 | TS112                   | Probar registro de nuevo plan de ahorro                      | Probar que registra el nuevo plan de ahorro                                                        | 0.5                      | to-do      |
-
-
-
 
 ##### 5.2.3.3. Development Evidence for Sprint Review
 

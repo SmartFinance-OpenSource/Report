@@ -1681,8 +1681,34 @@ En esta sección presentamos el flujo de trabajo para la creación y actuallizac
 | SmartFinance-OpenSource/Landing-Page | develop | 3ad4671   | chore: added landing page files        |                     | 07/09/2024         |
 ##### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
-Se omite esta sección, dado que aún no se tiene el conocimiento necesario para realizar pruebas automatizadas. Esto se llevara a cabo en futuros sprints.
-
+Sprint 1 TB1
+<table>
+  <tr>
+    <th>Epic / Story ID</th>
+        <th>Título</th>
+    <th>Criterios de Aceptación</th>
+  </tr>
+  <tr>
+    <td>US29</td>
+    <td>Navegación por el landing page</td>
+    <td>Given el visitante está en la landing page, when navega por las secciones y contenido, then debe encontrar información clara y relevante sobre las funcionalidades y beneficios del software.</td>
+  </tr>
+  <tr>
+    <td>US30</td>
+    <td>Ver Información del Startup</td>
+    <td>Given el visitante está en la landing page,, when navega por los perfiles de los miembros, then debería ver fotos, nombres y roles de cada miembro del equipo.</td>
+  </tr>
+  <tr>
+    <td>US31</td>
+    <td>Conocer la misión de la Startup</td>
+    <td>Given el visitante está en la landing page, when navega por la sección de misión, visión y valores, then debe encontrar información clara y concisa sobre los principios y objetivos de la startup.</td>
+   <tr>
+    <td>US33</td>
+    <td>Contactar al Equipo de Soporte</td>
+    <td>Given el visitante está en la landing page, when selecciona la opción de contacto, then debe poder enviar un mensaje al equipo de soporte con su consulta o solicitud.</td>
+  </tr>
+  </tr>
+</table>
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
 En esta entrega, nuestro equipo ha desplegado con éxito la landing page.
@@ -1695,8 +1721,79 @@ Enlace de la Landing Page: https://smartfinance-opensource.github.io/Landing-Pag
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-Se omite esta sección ya que aún no contamos con Web Application, la cual se desarrollará en Sprints futuros.
-
+Sprint 2 TP
+<table>
+  <tr>
+  <tr>
+    <th>Epic / Story ID</th>
+    <th>Título</th>
+    <th>Criterios de Aceptación</th>
+  </tr>
+  </tr>
+  <tr>
+    <td>US04</td>
+    <td>Billeteras por Defecto</td>
+    <td>Escenario 1: Given el usuario creó su cuenta, when accede a la sección de billeteras, then debería ver una billetera general y una billetera de emergencia por defecto. Escenario 2: Given el usuario creó su cuenta, when accede a la sección de billeteras, then podra renombrar y gestionar sus billeteras en base a sus necesidades.</td>
+  </tr>
+  <tr>
+    <td>US07</td>
+    <td>Creación de Billeteras Adicionales</td>
+    <td>Escenario 1:Given el usuario está en la sección de billeteras, when selecciona la opción de crear una nueva billetera, then debe poder ingresar un nombre y descripción para la nueva billetera. Escenario 2:Given el usuario está en la sección de billeteras, when selecciona una billetera ya creada, then podra renombrar dicha billetera.</td>
+  </tr>
+  <tr>
+    <td>US08</td>
+    <td>Visualizar el Estado de una Billetera</td>
+    <td>Escenario 1:Given el usuario está en la sección de billeteras, when selecciona una billetera, then debe ver el saldo actual y las transacciones más recientes de la billetera. Escenario 2:Given el usuario está en la sección de billeteras, when selecciona una billetera sin transacciones registradas, then se le indicara que la billetera no presenta un historial de transacciones.</td>
+   <tr>
+    <td>US09</td>
+    <td>Visualizar el Saldo en el mes</td>
+    <td>Escenario 1: Given el usuario está en la sección de una billetera, when accede a la vista de resumen mensual, then debe ver el saldo actual de la billetera en el mes. Escenario 2: Given el usuario está en la sección de una billetera, when accede a la vista de resumen mensual de una billetera reciente, then se le indicará que la billetera aun no ha completado un mes.</td>
+  </tr>
+   <tr>
+    <td>US10</td>
+    <td>Visualizar los Cambios de Balance en el mes</td>
+    <td>Escenario 1:Given el usuario está en la sección de una billetera, when accede a la vista de resumen mensual, then debe ver un gráfico que muestre los cambios de balance en la billetera a lo largo del mes. Escenario 2:Given el usuario está en la sección de una billetera, when elige un grafico de su preferencia, then podra elegir exportar el gráfico en el formato de su preferencia.</td>
+  <tr>
+    <td>US11</td>
+    <td>Visualizar los Porcentajes Categorizados de Ingresos en el mes</td>
+    <td>Escenario 1:Given el usuario está en la sección de una billetera, when accede a la vista de resumen mensual, then debe ver un gráfico que muestre los porcentajes de ingresos categorizados en la billetera en el mes. Escenario 2:Given el usuario está en la sección de una billetera, when accede al gráfico de porcentajes de ingresos, then podrá personalizarlo a su gusto.</td>
+  </tr>
+  <tr>
+    <td>US20</td>
+    <td>Crear Plan de Presupuesto</td>
+    <td>Escenario 1:Given el usuario está en la sección de presupuestos, when selecciona la opción de crear un nuevo plan, then debe poder ingresar un nombre, monto y fechas de inicio y fin para el plan de presupuesto. Escenario 2:Given el usuario ya tiene un presupuesto registrado, when accede al prespuesto de su preferencia, then podra modificar el nombre de su prespuesto para organizarse mas eficientemente.</td>
+  </tr>
+  <tr>
+    <td>US21</td>
+    <td>Editar Plan de Presupuesto</td>
+    <td>Escenario 1:Given el usuario está en la sección de presupuestos, when selecciona un plan de presupuesto existente, then debe poder modificar el nombre, monto y fechas del plan de presupuesto. Escenario 2:Given el usuario ya tiene un presupuesto registrado, when selecciona un plan de presupuesto existente, then podra borrar el prespuesto seleccionado.</td>
+  </tr>
+    <tr>
+    <td>US22</td>
+    <td>Ver Presupuesto Restante</td>
+    <td>Escenario 1:Given el usuario está en la sección de presupuestos, when selecciona un plan de presupuesto, then debe ver el monto restante del presupuesto y una barra de progreso que indica el porcentaje gastado. Escenario 2:Given el usuario desea actualizar un prespuesto, when selecciona un plan de presupuesto, then podra ampliarlo o reducirlo según sus necesidades.</td>
+  </tr>
+  <tr>
+    <td>US26</td>
+    <td>Crear Plan de Ahorro</td>
+    <td>Escenario 1:Given el usuario está en la sección de ahorros, when selecciona la opción de crear un nuevo plan, then debe poder ingresar un nombre, monto y fechas de inicio y fin para el plan de ahorro. Escenario 2:Given el usuario está en la sección de ahorros, when selecciona la opción de renombrar un nuevo plan, then podrá renombrar el plan elejido para ordenar sus planes de ahorro.</td>
+  </tr>
+  <tr>
+    <td>US27</td>
+    <td>Editar Plan de Ahorro</td>
+    <td>Escenario 1:Given el usuario está en la sección de ahorros, when selecciona un plan de ahorro existente, then debe poder modificar el nombre, monto y fechas del plan de ahorro. Escenario 2:Given el usuario está en la sección de ahorros, when selecciona un plan de ahorro existente, then podra eliminarlo de su lista de ahorros existentes.</td>
+  </tr>
+    <tr>
+    <td>US28</td>
+    <td>Ver Progreso del Ahorro</td>
+    <td>Escenario 1:Given el usuario está en la sección de ahorros, when selecciona un plan de ahorro, then debe ver el monto ahorrado, el monto restante y una barra de progreso que indica el porcentaje alcanzado de la meta. Escenario 2:Given el usuario logró su objetivo, when selecciona el plan de ahorro exitoso, then podrá reiniciar el plan de ahorro o se le ofrecera crear uno nuevo en su lugar.</td>
+  </tr>
+  <tr>
+    <td>TS34</td>
+    <td>Configurar Entorno de Desarrollo</td>
+    <td>Given el desarrollador tiene acceso al repositorio del proyecto, when sigue las instrucciones de configuración, then debería poder ejecutar la aplicación localmente.</td>
+  </tr>
+</table>
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 - **Design**
@@ -1849,7 +1946,81 @@ En este sprint nos concentramos en ampliar nuestras user stories, incluir elemen
 | SmartFinance-OpenSource/Report | fix/software-architecture-c4-model            | a5aa940   | Fix/software architecture c4 model               | No description provided.                                                                                                                                           | 2024-09-25         |
 
 ##### 5.2.2.4. Testing Suite Evidence for Sprint Review
-Se omite esta sección, dado que aún no se tiene el conocimiento necesario para realizar pruebas automatizadas. Esto se llevara a cabo en futuros sprints.
+Sprint 3 TB2
+
+<table>
+  <tr>
+    <th>Epic / Story ID</th>
+    <th>Título</th>
+    <th>Criterios de Aceptación</th>
+  </tr>
+  <tr>
+    <td>US06</td>
+    <td>Cambiar el Idioma de la Aplicación</td>
+    <td>Escenario 1: Given el usuario está en la sección de configuración, when selecciona la opción de cambiar el idioma, then debe poder seleccionar un idioma de la lista de opciones disponibles. Escenario 2: Given el usuario ya cambio el idioma por defecto de la aplicación, when selecciona la opción de cambiar el idioma, then debera poder regresar al idioma por defecto.</td>
+  </tr>
+  <tr>
+    <td>US14</td>
+    <td>Ingreso de Transacciones</td>
+    <td>Escenario 1:Given el usuario está en la sección de una billetera, when selecciona la opción de registrar una transacción, then debe poder ingresar los detalles de la transacción, como monto, categoría y nota. Escenario 2:Given el usuario está en la sección de una billetera, when selecciona la opción de registrar una transacción, then de haber cometido un error podra borrar dicha transacción tras el registro.</td>
+  </tr>
+  <tr>
+    <td>US15</td>
+    <td>Categorizar Transacciones</td>
+    <td>Escenario 1:Given el usuario registra una transacción, when selecciona una categoría para la transacción, then la transacción se clasifica automáticamente en la categoría seleccionada. Escenario 2:Given el usuario desea cambiar una categoría, when selecciona las categorías disponibles o elige sin categorias, then el sistema le mostrará las transacciones con la nueva categoría o se revertiran todas las categorías.</td>
+  </tr>
+    <tr>
+    <td>US16</td>
+    <td>Crear Transacciones Recurrentes</td>
+    <td>Escenario 1:Given el usuario está en la sección de una billetera, when selecciona la opción de registrar una transacción and marca la opción de transacción recurrente configurando la frecuencia, then la transacción se registra automáticamente según la configuración. Escenario 2:Given el usuario está en la sección de transacciones recurrentes, when selecciona la opción de modificar transacción then el usuario podrá cambiar el monto, el nombre o eliminar la transacción.</td>
+  </tr>
+  <tr>
+    <td>US19</td>
+    <td>Realizar Transacciones a otra Billetera</td>
+    <td>Escenario 1:Given el usuario está en la sección de una billetera, when selecciona la opción de transferir dinero, then debe poder ingresar el monto and seleccionar la billetera de destino para completar la transferencia. Escenario 2:Given el usuario desea transferir dinero de una billetera a otra, when solo existe una billetera registrada, then el sistema le ofrecerá la opción de crear la billetera de destino.</td>
+  </tr>
+  <tr>
+    <td>US23</td>
+    <td>Alerta de Límite de Presupuesto</td>
+    <td>Escenario 1:Given el usuario está en la sección de presupuestos, when el monto gastado se acerca al límite del plan, then debe recibir una notificación de alerta que le advierte sobre el exceso de gastos. Escenario 2:Given el usuario está en la sección de presupuestos, when desea ampliar o reducir un límite, then deberá modificar el monto límite para el presupuesto elegído.</td>
+  </tr>
+    <tr>
+    <td>US24</td>
+    <td>Ver Periodos Anteriores de un Presupuesto</td>
+    <td>Escenario 1:Given el usuario está en la sección de presupuestos, when selecciona un plan de presupuesto, then debe poder ver los periodos anteriores con sus montos gastados. Escenario 2:Given el usuario está en la sección de presupuestos, when selecciona un plan de presupuesto sin periodos previos, then se le indicará que no existe periodos previos para el presupuesto seleccionado.</td>
+  </tr>
+  <tr>
+    <td>US25</td>
+    <td>Ver Gráfico Anual de Gastos en Periodos Anteriores de un Presupuesto</td>
+    <td>Escenario 1:Given el usuario está en la sección de presupuestos, when selecciona un plan de presupuesto, then debe poder ver un gráfico que muestre los gastos mensuales en periodos anteriores del plan. Escenario 2:Given el usuario consulta un gráfico para un prespuesto, when el usuario elije la opción "exportar", then podra exportar el gráfico en diferentes formatos.</td>
+  </tr>
+  <tr>
+    <td>US32</td>
+    <td>Cambiar el Idioma de la Landing Page</td>
+    <td>Given el visitante está en la landing page, when selecciona un idioma diferente en el menú de idiomas, then la página debe cambiar al idioma seleccionado.</td>
+  </tr>
+    <tr>
+    <td>TS40</td>
+    <td>Integración con Sistema Externo</td>
+    <td>Given el sistema tiene una API disponible, when se establece la conexión con el servicio externo, then el sistema puede acceder a los datos y funcionalidades del servicio externo.</td>
+  </tr>
+  <tr>
+    <td>TS41</td>
+    <td>Creación de Transacciones en Billetera</td>
+    <td>Given el endpoint (/api/v1/transactions) esté disponible, when se envía una solicitud POST con los datos de la transacción al endpoint, then se recibe una señal de confirmación (201) and el sistema registra la transacción en la billetera seleccionada.</td>
+  </tr>
+  <tr>
+    <td>TS42</td>
+    <td>Creación de Plan de Presupuesto en Billetera</td>
+    <td>Given el endpoint (/api/v1/budgets) esté disponible, when se envía una solicitud POST con los datos del plan de presupuesto al endpoint, then se recibe una señal de confirmación (201) and el sistema registra el plan de presupuesto en la billetera seleccionada.</td>
+  </tr>
+    <tr>TS43</td>
+    <td>Creación de Plan de Ahorro en Billetera</td>
+    <td>Given el endpoint (/api/v1/savings) esté disponible, when se envía una solicitud POST con los datos del plan de ahorro al endpoint, then se recibe una señal de confirmación (201) and el sistema registra el plan de ahorro en la billetera seleccionada.</td>
+  </tr>
+</table>
+
+
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 En esta entrega, no se realizaron cambios con relación al Landing Page. Por el momento, la Landing Page queda igual a la versión realizada en el Sprint 2.

@@ -2189,6 +2189,43 @@ Este es nuestro link de invitación a nuestro Trello: https://trello.com/invite/
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
+### 5.3 Validation Interviews
+
+#### 5.3.1 Interview Design
+
+###### 1. Landing Page
+
+Para evaluar la efectividad de la **Landing Page**, se observará cómo los usuarios perciben la información presentada y si esta despierta su interés en Finzar. Esto permite confirmar si la Landing Page es clara y atractiva, motivando a los usuarios a registrarse y explorar más sobre la aplicación.
+
+- **Objetivo de Validación**: Evaluar la claridad y atractivo de la Landing Page, así como su capacidad para captar el interés de los usuarios.
+- **Preguntas de Validación**:
+  - “¿Qué opinas de la información y presentación de la Landing Page? ¿Te parece clara y atractiva?”
+  - “¿Te resulta claro cómo Finzar puede ayudarte a gestionar tus finanzas personales?”
+  - “¿Sientes que te invita a registrarte o explorar más?”
+
+###### 2. User Flows de Validación en la Aplicación Finzar
+
+A continuación, se especifican los flujos de usuario (User Flows) que serán parte del proceso de validación. Estos flujos incluyen las tareas principales que un usuario realizaría en Finzar para gestionar sus finanzas.
+
+- **User Flow 1: Registro de Ingresos y Gastos**
+  - **Objetivo**: Evaluar la facilidad para registrar ingresos y gastos diarios, una funcionalidad clave para los usuarios.
+  - **Preguntas de Validación**:
+    - “¿Te pareció intuitivo el proceso de registro de ingresos/gastos?”
+    - “¿Te gustaría ver alguna mejora en esta sección?”
+
+- **User Flow 2: Creación de Metas de Ahorro**
+  - **Objetivo**: Verificar si la funcionalidad de metas de ahorro es clara y útil para los usuarios.
+  - **Preguntas de Validación**:
+    - “¿Te pareció claro cómo establecer una meta de ahorro?”
+    - “¿Qué tan útil te resultó esta funcionalidad para tus necesidades?”
+
+- **User Flow 3: Visualización de Reportes Financieros**
+  - **Objetivo**: Evaluar si los reportes financieros proporcionan una visión clara de los hábitos de gasto e ingresos.
+  - **Preguntas de Validación**:
+    - “¿Te resultaron claros y útiles los reportes?”
+    - “¿Qué mejorarías en la presentación de la información?”
+
+
 ## Conclusiones
 
 - A lo largo del desarrollo de Finzar, se ha identificado y comprendido a fondo a su segmento objetivo: jóvenes adultos peruanos, incluyendo estudiantes universitarios y jóvenes profesionales. Esta comprensión ha permitido adaptar la herramienta para abordar problemas específicos como el sobreendeudamiento y la falta de ahorro, ofreciendo soluciones prácticas y accesibles que mejoran la estabilidad económica y promueven buenos hábitos financieros desde edades tempranas.

@@ -2663,6 +2663,8 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 About the Product Video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110291_upc_edu_pe/EfCER3yQPs5AsO4Y715HfjkBMhXV68HWy-XOHCBIhGo6Fg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SaCgAm">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110291_upc_edu_pe/EfCER3yQPs5AsO4Y715HfjkBMhXV68HWy-XOHCBIhGo6Fg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SaCgAm</a>
 
+![about-the-product](/assets/AboutTheProduct/abouttheproduct.png)
+
 
 ## Conclusiones
 

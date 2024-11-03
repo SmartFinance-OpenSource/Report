@@ -165,8 +165,7 @@ del ABET – EAC - Student Outcome 3.
   <tr>
     <td>Comunica oralmente con efectividad a diferentes rangos de audiencia.</td>
     <td>
-      Juan Astonitas<br>TB1<br>
-      A lo largo del desarrollo del proyecto Bliss, he participado activamente en la toma de decisiones estratégicas y en la definición de la dirección del equipo, promoviendo la comunicación abierta y la responsabilidad compartida para garantizar un liderazgo efectivo y colectivo.<br>
+      Juan Astonitas<br>TB1<br> Realizé entrevistas a los segmentos objetivos lo que me llevo a tener una comunicación efectiva con los usuarios para poder dar a entender el producto que se esta desarrollando.<br> TP <br> Fui líder para el diseño y funcionalidad del frontend del webapp, lo que me llevo a mejorar la manera de explicar mis ideas a mis compañeros.<br>TB2<br> Realize entrevistas de validacion lo que me llevo a expresar de manera mas simple las ideas de funcionalidad a una audiencia consumidora. <br>
       Sebastian Pacheco<br>TB1<br>
       En el desarrollo del proyecto, he participado en la realización de actividades asignadas y promoviendo la participación de otros en las actividades de compañeros, permitiendo que haya un círculo de confianza y se logre afinar el producto gracias a la recepción del punto de vista del resto.<br>
       Josue Paiva<br>TB1<br>
@@ -188,8 +187,7 @@ del ABET – EAC - Student Outcome 3.
   <tr>
     <td>Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
     <td>
-      Juan Astonitas<br>TB1<br>
-      Durante el proyecto, he contribuido a la creación de un entorno inclusivo y colaborativo, fomentando la participación de todos los miembros del equipo. He trabajado en la definición de metas claras, la planificación de tareas detalladas, y el seguimiento del cumplimiento de los objetivos, asegurando que cada miembro se sienta valorado y comprometido con los resultados.<br>
+      Juan Astonitas<br>TB1<br> Realize el diseño de las entrevistas lo que me llevo a escribir las ideas de desarrollo y funcionalidad del producto de una menra clara y concisa <br> TP <br> Corregi las historias de usuario lo que me llevo a entender que ideas erroneas tenia acerca de los <br> TB2<br> Tuve la direccion y liderazgo del backend lo que me llevo a coordinar las actividades por distintos medios escritos como discord y whatsapp, lo que lleva a expresar las indicaciones, idea y review de desrrollo de manera clara y consica. <br>
       Sebastian Pacheco<br>TB1<br>
       Para promover la participación de otros en un trabajo colaborativo, he desarrollado las actividades asignadas y he buscado la experiencia de mis compañeros para poder mejorar el producto, así como dando ideas propias hacia las actividades de otros y asistiendo en ello.<br>
       Josue Paiva<br>TB1<br>

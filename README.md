@@ -2193,39 +2193,57 @@ Este es nuestro link de invitación a nuestro Trello: https://trello.com/invite/
 
 #### 5.3.1 Interview Design
 
-###### 1. Landing Page
+## Objetivo de la Entrevista
+Validar la usabilidad y efectividad de la landing page y de los flujos de usuario de la aplicación Finzar, asegurando que cada flujo sea claro, atractivo y fomente la interacción de los usuarios con las funcionalidades clave de la plataforma.
 
-Para evaluar la efectividad de la **Landing Page**, se observará cómo los usuarios perciben la información presentada y si esta despierta su interés en Finzar. Esto permite confirmar si la Landing Page es clara y atractiva, motivando a los usuarios a registrarse y explorar más sobre la aplicación.
+## Elementos de Validación
+- **Landing Page**: Se evaluará cómo los usuarios perciben la claridad del mensaje, el atractivo de las llamadas a la acción (CTA) y la estructura de la página para motivarlos a registrarse y explorar más sobre Finzar.
+- **Aplicación**: Se guiará a los usuarios a través de los flujos principales, como el registro de ingresos y gastos, la creación de metas de ahorro y la visualización de reportes financieros, para evaluar su facilidad de uso y efectividad.
 
-- **Objetivo de Validación**: Evaluar la claridad y atractivo de la Landing Page, así como su capacidad para captar el interés de los usuarios.
-- **Preguntas de Validación**:
-  - “¿Qué opinas de la información y presentación de la Landing Page? ¿Te parece clara y atractiva?”
-  - “¿Te resulta claro cómo Finzar puede ayudarte a gestionar tus finanzas personales?”
-  - “¿Sientes que te invita a registrarte o explorar más?”
+## User Flows a Validar
 
-###### 2. User Flows de Validación en la Aplicación Finzar
+### Para el Segmento Usuario
 
-A continuación, se especifican los flujos de usuario (User Flows) que serán parte del proceso de validación. Estos flujos incluyen las tareas principales que un usuario realizaría en Finzar para gestionar sus finanzas.
+1. **Landing Page**: 
+   - Evaluación de la claridad y atractivo de la Landing Page y su efectividad para captar el interés de los usuarios.
 
-- **User Flow 1: Registro de Ingresos y Gastos**
-  - **Objetivo**: Evaluar la facilidad para registrar ingresos y gastos diarios, una funcionalidad clave para los usuarios.
-  - **Preguntas de Validación**:
-    - “¿Te pareció intuitivo el proceso de registro de ingresos/gastos?”
-    - “¿Te gustaría ver alguna mejora en esta sección?”
+2. **Registro de Ingresos y Gastos**:
+   - Evaluación de la facilidad para registrar ingresos y gastos diarios, asegurando que el proceso sea intuitivo y accesible.
 
-- **User Flow 2: Creación de Metas de Ahorro**
-  - **Objetivo**: Verificar si la funcionalidad de metas de ahorro es clara y útil para los usuarios.
-  - **Preguntas de Validación**:
-    - “¿Te pareció claro cómo establecer una meta de ahorro?”
-    - “¿Qué tan útil te resultó esta funcionalidad para tus necesidades?”
+3. **Creación de Metas de Ahorro**:
+   - Evaluación de la claridad y utilidad de la funcionalidad de metas de ahorro, asegurando que los usuarios comprendan su propósito y valor para la gestión de finanzas personales.
 
-- **User Flow 3: Visualización de Reportes Financieros**
-  - **Objetivo**: Evaluar si los reportes financieros proporcionan una visión clara de los hábitos de gasto e ingresos.
-  - **Preguntas de Validación**:
-    - “¿Te resultaron claros y útiles los reportes?”
-    - “¿Qué mejorarías en la presentación de la información?”
+4. **Visualización de Reportes Financieros**:
+   - Evaluación de la presentación de los reportes financieros, garantizando que ofrezcan una visión clara y útil de los hábitos de gasto e ingresos.
 
+## Formato de Registro de la Entrevista
+1. **Datos del Entrevistado**:
+   - Nombre y apellidos
+   - Edad
+   - Ciudad de residencia
+   - Dispositivo utilizado (smartphone, tablet, laptop)
 
+### Preguntas para el Segmento Usuario
+#### Landing Page
+- ¿Fue clara la información presentada en la Landing Page?
+- ¿Te pareció atractiva y te motivó a registrarte?
+- ¿Alguna parte de la Landing Page generó dudas?
+
+#### Registro de Ingresos y Gastos
+- ¿Qué tan intuitivo fue el proceso de registro de ingresos/gastos?
+- Describe si algún paso fue confuso o podría mejorar.
+- ¿El sistema brindó suficiente retroalimentación al registrar un ingreso o gasto?
+
+#### Creación de Metas de Ahorro
+- ¿Fue claro el flujo para crear una meta de ahorro?
+- ¿Hubo algún paso en el proceso que causara confusión?
+- ¿Consideras útil esta funcionalidad para gestionar tus finanzas?
+
+#### Visualización de Reportes Financieros
+- ¿Fue fácil entender la información en los reportes financieros?
+- ¿Qué mejorarías en la presentación de estos reportes?
+- ¿Te ayudó esta sección a comprender mejor tus hábitos financieros?
+  
 ## Conclusiones
 
 - A lo largo del desarrollo de Finzar, se ha identificado y comprendido a fondo a su segmento objetivo: jóvenes adultos peruanos, incluyendo estudiantes universitarios y jóvenes profesionales. Esta comprensión ha permitido adaptar la herramienta para abordar problemas específicos como el sobreendeudamiento y la falta de ahorro, ofreciendo soluciones prácticas y accesibles que mejoran la estabilidad económica y promueven buenos hábitos financieros desde edades tempranas.

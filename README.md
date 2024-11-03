@@ -25,9 +25,20 @@
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha      | Autor                 | Descripción de modificación |
-|---------|------------|-----------------------|-----------------------------|
-| TB1     | 08/09/2024 | Todos los integrantes | Desarrollo de la TB1        |
+| Versión | Fecha      | Autor                           | Descripción de modificación                                              |
+|---------|------------|---------------------------------|--------------------------------------------------------------------------|
+| 0.1     | 26/08/2024 | Juan Astonitas,Gialuca Pasquale | Desarrollo del capitulo 1 y 2                                            |
+| 0.2     | 06/09/2024 | Todos los integrantes           | Desarrollo del capitulo 3                                                |
+| 0.3     | 08/09/2024 | Juan Astonitas                  | Desarrollo del capitulo 4  y sprint 1                                    |
+| 1.0     | 09/09/2024 | Todos los integrantes           | Release TB1                                                              |
+| 1.1     | 12/09/2024 | Todos los integrantes           | Correcciones TB1                                                         |
+| 1.2     | 26/09/2024 | Sebastian pacheco               | Desarrollo sprint 2                                                      |
+| 2.0     | 26/09/2024 | Todos los integrantes           | Release TP                                                               |
+| 2.1     | 19/10/2024 | Josue Paiva,Gialuca Pasquale    | Correciones del sprint 1 y 2                                             |
+| 2.1     | 24/10/2024 | Todos los integrantes           | Desarrollo del sprint planning y backlong 3                              |
+| 2.1     | 02/11/2024 | Todos los integrantes           | Desarrollo de las Evidencias del Sprint 3 y evaluación según heurísticas |
+| 3.0     | 03/11/2024 | Todos los integrantes           | Release TB2                                                              |
+
 
 ## Project Report Collaboration Insights
 Se han realizado todas las tareas asignadas para la entrega de la TB1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el 

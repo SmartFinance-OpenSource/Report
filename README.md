@@ -2208,6 +2208,18 @@ Este es nuestro link de invitación a nuestro Trello: https://trello.com/invite/
 En esta entrega, no se realizaron cambios con relación al Landing Page. Por el momento, la Landing Page queda igual a la versión realizada en el Sprint 3.
 Se ha desarrollado un avance con respecto a la Landing Page, FrontEnd y BackEnd:
 
+###### Landing Page
+
+![execution-landing1](/assets/execution/landingfinzar1.png)
+![execution-landing2](/assets/execution/landingfinzar2.png)
+![execution-landing3](/assets/execution/landingfinzar3.png)
+![execution-landing4](/assets/execution/landingfinzar4.png)
+![execution-landing5](/assets/execution/landingfinzar5.png)
+![execution-landing6](/assets/execution/landingfinzar6.png)
+![execution-landing7](/assets/execution/landingfinzar7.png)
+
+###### FrontEnd
+
 ![execution-front1](/assets/execution/frontfinzar1.png)
 ![execution-front2](/assets/execution/frontfinzar2.png)
 ![execution-front3](/assets/execution/frontfinzar3.png)

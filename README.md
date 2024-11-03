@@ -173,6 +173,10 @@ del ABET – EAC - Student Outcome 3.
       En el entregable 1 he mantenido una comunicación constante con mis compañeros, pues se buscó un aporte constante por parte de todos los integrantes, en general tuvimos buena comunicación y buena aportación a partes iguales.<br>
       Gianluca Pasquale<br>TB1<br>
       He contribuido activamente en el liderazgo compartido, facilitando la toma de decisiones y promoviendo la responsabilidad colectiva.<br>
+	<br> TP1 <br>
+      Diseñe la interfaz gráfica y la page principal para la seccion de Savings, también añadí funcionalidades críticas como tener CRUD dentro de toda la sección. Implementé validaciones para el mostrado de tablas dentro de la page principal de Savings. <br>
+	<br> TB2 <br>
+      Implementé secciones especificas con CRUD en el area de Saving Progress, Saving Details y Saving Transactions para el mostrado de datos segun nuestra base de datos. Colabore con mis compañeros para el desarrollo completo del FrontEnd para tener un proyecto más pulido.	 <br>
       Sebastián Real<br>TB1<br>
       En el desarrollo de la primera etapa del proyecto, hubo una comunicación constante entre los integrantes del equipo, lo que llevó a que la realización de las actividades designadas fuera lo más fluida posible, y logrando eliminar cualquier posibilidad de malentendidos o fallas por falta de comunicación.
     </td>
@@ -192,6 +196,8 @@ del ABET – EAC - Student Outcome 3.
       Durante las semanas de plazo he completado las tareas delegadas, así como las que surgían inesperadamente siempre que pude, las mismas se pueden ver reflejadas en mis commits, además de aportar con mis compañeros siempre que se necesitó.<br>
       Gianluca Pasquale<br>TB1<br>
       He fomentado un entorno inclusivo, definiendo metas claras, planificando tareas, y asegurando el cumplimiento de los objetivos del proyecto.<br>
+      <br> TB2: <br>
+      Desarrolle los endpoints de backend de mi bounded context llamado Savings, la cual fue lograda a travez de las reuniones asistidas formadas por nuestro líder de grupo.	    <br>
       Sebastián Real<br>TB1<br>
       Durante las semanas de trabajo, he completado las tareas que se me encomendaron, y busqué oportunidades para aportar en el desarrollo del producto con ideas o al cumplir tareas específicas. Me comuniqué con el resto de mi grupo, y entre todos documentamos nuestros avances para garantizar un seguimiento efectivo del progreso del proyecto.
     </td>
@@ -201,6 +207,7 @@ del ABET – EAC - Student Outcome 3.
     </td>
   </tr>
 </table>
+
 
 
 ## Capítulo I: Introducción <a id="cap1"></a>

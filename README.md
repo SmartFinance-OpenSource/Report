@@ -2044,20 +2044,9 @@ Sprint 3 TB2
 
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
-En esta entrega, no se realizaron cambios con relación al Landing Page. Por el momento, la Landing Page queda igual a la versión realizada en el Sprint 3.
-Se ha desarrollado un avance con respecto a la Landing Page, FrontEnd y Backend:
-
-![execution-front1](/assets/execution/frontfinzar1.png)
-![execution-front2](/assets/execution/frontfinzar2.png)
-![execution-front3](/assets/execution/frontfinzar3.png)
-![execution-front4](/assets/execution/frontfinzar4.png)
-![execution-front5](/assets/execution/frontfinzar5.png)
-![execution-front6](/assets/execution/frontfinzar6.png)
-![execution-front7](/assets/execution/frontfinzar7.png)
-![execution-front8](/assets/execution/frontfinzar8.png)
-![execution-front9](/assets/execution/frontfinzar9.png)
-![execution-front10](/assets/execution/frontfinzar10.png)
-
+En esta entrega, no se realizaron cambios con relación al Landing Page. Por el momento, la Landing Page queda igual a la versión realizada en el Sprint 2.
+Se ha desarrollado un avance con respecto al Frontend, por el momento se dispone de un dashboard donde se muestra las billeteras y cards importantes. Esta página evidencia ello:
+![Execution-Evidence-Frontend](assets/sprint-2-assets/execution-evidence.png)
 
 
 
@@ -2216,6 +2205,20 @@ Este es nuestro link de invitación a nuestro Trello: https://trello.com/invite/
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review
+En esta entrega, no se realizaron cambios con relación al Landing Page. Por el momento, la Landing Page queda igual a la versión realizada en el Sprint 3.
+Se ha desarrollado un avance con respecto a la Landing Page, FrontEnd y BackEnd:
+
+![execution-front1](/assets/execution/frontfinzar1.png)
+![execution-front2](/assets/execution/frontfinzar2.png)
+![execution-front3](/assets/execution/frontfinzar3.png)
+![execution-front4](/assets/execution/frontfinzar4.png)
+![execution-front5](/assets/execution/frontfinzar5.png)
+![execution-front6](/assets/execution/frontfinzar6.png)
+![execution-front7](/assets/execution/frontfinzar7.png)
+![execution-front8](/assets/execution/frontfinzar8.png)
+![execution-front9](/assets/execution/frontfinzar9.png)
+![execution-front10](/assets/execution/frontfinzar10.png)
+
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review
 

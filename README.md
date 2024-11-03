@@ -2245,6 +2245,44 @@ A continuación se muestran los commits realizados durante el Sprint 3 para docu
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+**Landing Page**
+Para la Landing Page, se utilizó [Vercel](https://vercel.com) para el despliegue de la página.
+
+- Primero nos dirigimos a Import Project, siendo la primera opción.
+![Sprint 3 Landing Deployment Evidence 1](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-1.png)
+- Luego seleccionamos el repositorio de GitHub donde se encuentra el código de la Landing Page. En este caso, Landing-Page.
+![Sprint 3 Landing Deployment Evidence 2](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-2.png)
+- Se nos presenta la siguiente pantalla, donde muestra las opciones por defecto en el despliegue de la página.
+![Sprint 3 Landing Deployment Evidence 3](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-3.png)
+- Como nuestro proyecto es con Vite como framework, ajustamos el Framework Preset, y seleccionamos deploy.
+![Sprint 3 Landing Deployment Evidence 4](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-4.png)
+- Esperamos unos segundos y la página debería desplegarse exitosamente.
+![Sprint 3 Landing Deployment Evidence 5](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-5.png)
+- Podemos apreciar que la página ha sido desplegada con éxito.
+![Sprint 3 Landing Deployment Evidence 6](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-6.png)
+- Con ello, se nos proporciona un link de la página desplegada, donde podemos acceder.
+![Sprint 3 Landing Deployment Evidence 7](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-7.png)
+- Al acceder al link, podemos ver la página desplegada.
+![Sprint 3 Landing Deployment Evidence 8](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-8.png)
+
+**FrontEnd**
+Para el FrontEnd, se utilizó [Vercel](https://vercel.com) para el despliegue de la página.
+
+- Antes del despliegue, debemos crear una cuenta, por lo que continuaremos con GitHub.
+![Sprint 3 FrontEnd Deployment Evidence 1](/assets/sprint-3-deployment/frontend-deploy/evidence-1.png)
+- Primero nos dirigimos a Import Project, siendo la primera opción.
+![Sprint 3 FrontEnd Deployment Evidence 2](/assets/sprint-3-deployment/frontend-deploy/evidence-2.png)
+- Luego seleccionamos el repositorio de GitHub donde se encuentra el código del FrontEnd. En este caso, Frontend-Finzar.
+![Sprint 3 FrontEnd Deployment Evidence 3](/assets/sprint-3-deployment/frontend-deploy/evidence-3.png)
+- Se nos presenta la siguiente pantalla, donde muestra las opciones por defecto en el despliegue de la página. Le damos a deploy.
+![Sprint 3 FrontEnd Deployment Evidence 4](/assets/sprint-3-deployment/frontend-deploy/evidence-4.png)
+- Podemos apreciar que la página ha sido desplegada con éxito.
+![Sprint 3 FrontEnd Deployment Evidence 5](/assets/sprint-3-deployment/frontend-deploy/evidence-5.png)
+- Con ello, se nos proporciona un link de la página desplegada, donde podemos acceder.
+![Sprint 3 FrontEnd Deployment Evidence 6](/assets/sprint-3-deployment/frontend-deploy/evidence-6.png)
+- Al acceder al link, podemos ver la página desplegada.
+![Sprint 3 FrontEnd Deployment Evidence 7](/assets/sprint-3-deployment/frontend-deploy/evidence-7.png)
+
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
 ### 5.3. Validation Interviews

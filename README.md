@@ -2199,6 +2199,63 @@ Este es nuestro link de invitación a nuestro Trello: https://trello.com/invite/
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
+### 5.3. Validation Interviews
+##### 5.3.1. Diseño de entrevistas.
+##### 5.3.2. Registro de entrevistas.
+##### 5.3.3. Evaluaciones según heurísticas.
+UX Heuristics & Principles Evaluation
+Usability - Inclusive Design - Information Architecture
+##### Informacion del proyecto
+- Carrera: Ingenieria de Software
+- Curso: Aplicaciones Open Source
+- Auditor: SmartFinance
+- Cliente: SmartFinance
+- Aplicacion: Finzar
+
+##### Tareas a evaluar
+En esta evaluacion revisaremos la funcionalidad de las siguientes caracteristicas:
+##### Para el segmento cliente:
+- Navegacion dentro de la pestaña Wallet
+- Navegacion dentro de la pestaña Savings
+- Creacion de una nueva Wallet
+- Añadir una nueva transaccion
+- Edicion de la informacion de una Wallet existente
+- Edicion de la informacion de un Saving existente
+
+#### Escala de Severidad
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir con más frecuencia o es más difícil de superar para el usuario. Debería tener una prioridad baja para resolverse en la próxima versión. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Debería tener alta prioridad para corregirse. |
+| 4     | Problema muy grave: error que impide al usuario continuar utilizando la herramienta. Debe corregirse antes del lanzamiento. |
+
+#### Tabla Resumen
+| #  | Problema                                                              | Escala de severidad | Heurística/Principio violado             | Tarea evaluada                                  |
+|----|-----------------------------------------------------------------------|--------------------|-----------------------------------------|-------------------------------------------------|
+| 1  | Datos de Wallet demasiado grandes y poco ordenados           | 2                | Eficiencia y satisfacción del usuario   |   Navegacion dentro de la pestaña Wallet          |
+| 2  | Diseño de la pestaña Savings simple y demasiado parecido a Wallet      | 2                  | Diseño estético y cohesivo     |Navegacion dentro de la pestaña Savings                          |
+| 3  | Cuadros de dialogo muy simples y poco intuitivos       | 2                  | Diseño estético y cohesivo     | Edicion de la informacion de una Wallet existente                            |
+| 4  | No existe una notificacion sobre la eliminacion de un saving       | 3                 | Visibilidad de informacion     | Edicion de la informacion de un Saving existente                            |
+
+##### Problema #1: Datos de Wallet demasiado grandes y poco ordenados
+- **Tarea Evaluada:** Navegacion dentro de la pestaña Wallet
+- **Recomendación:** Modificar el tamaño de la informacion de una Wallet, incluir diferentes colores para los datos mas y menos relevantes.
+
+##### Problema #2: Diseño de la pestaña Savings simple y demasiado parecido a Wallet
+- **Tarea Evaluada:** Navegacion dentro de la pestaña Savings
+- **Recomendación:** Incluir un diseño diferente cambiando algunos colores para permitir una distincion clara con la pestaña Wallet a simple vista.
+##### Problema #3: Cuadros de dialogo muy simples y poco intuitivos
+- **Tarea Evaluada:** Edicion de la informacion de una Wallet existente
+- **Recomendación:** Elegir un color diferente al de las pestañas y ordenar mejor los datos con sus respectivos titulos para facilitar la experiencia de usuario
+##### Problema #4: No existe una notificacion sobre la eliminacion de un saving
+- **Tarea Evaluada:** Edicion de la informacion de un Saving existente
+- **Recomendación:** Incluir una notificacion sobre la eliminacion exitosa de un saving
+
+#### Descripción de Problemas
+
 ## Conclusiones
 
 - A lo largo del desarrollo de Finzar, se ha identificado y comprendido a fondo a su segmento objetivo: jóvenes adultos peruanos, incluyendo estudiantes universitarios y jóvenes profesionales. Esta comprensión ha permitido adaptar la herramienta para abordar problemas específicos como el sobreendeudamiento y la falta de ahorro, ofreciendo soluciones prácticas y accesibles que mejoran la estabilidad económica y promueven buenos hábitos financieros desde edades tempranas.

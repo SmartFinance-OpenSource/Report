@@ -171,6 +171,8 @@ del ABET – EAC - Student Outcome 3.
       En el desarrollo del proyecto, he participado en la realización de actividades asignadas y promoviendo la participación de otros en las actividades de compañeros, permitiendo que haya un círculo de confianza y se logre afinar el producto gracias a la recepción del punto de vista del resto.<br>
       Josue Paiva<br>TB1<br>
       En el entregable 1 he mantenido una comunicación constante con mis compañeros, pues se buscó un aporte constante por parte de todos los integrantes, en general tuvimos buena comunicación y buena aportación a partes iguales.<br>
+      <br>TB1<br>
+      En el entregable 2 me concentre en concluir mi bounded context designado para poder realizar los endpoints del backend que se me designo, fue crucial las reuniones en grupo, asi como consultar con mis compañeros cuando tenia dudas sobre la implementacion.<br>
       Gianluca Pasquale<br>TB1<br>
       He contribuido activamente en el liderazgo compartido, facilitando la toma de decisiones y promoviendo la responsabilidad colectiva.<br>
 	<br> TP1 <br>
@@ -194,6 +196,8 @@ del ABET – EAC - Student Outcome 3.
       Para promover la participación de otros en un trabajo colaborativo, he desarrollado las actividades asignadas y he buscado la experiencia de mis compañeros para poder mejorar el producto, así como dando ideas propias hacia las actividades de otros y asistiendo en ello.<br>
       Josue Paiva<br>TB1<br>
       Durante las semanas de plazo he completado las tareas delegadas, así como las que surgían inesperadamente siempre que pude, las mismas se pueden ver reflejadas en mis commits, además de aportar con mis compañeros siempre que se necesitó.<br>
+      <br>TB2<br>
+      Ademas de concluir la retroalimentacion del TP, tambien aporte con la documentacion en el report, asi como la planficiacion de los sprints pasados y futuros en el trello para ordenar de manera mas eficiente el flujo de trabajo <br>
       Gianluca Pasquale<br>TB1<br>
       He fomentado un entorno inclusivo, definiendo metas claras, planificando tareas, y asegurando el cumplimiento de los objetivos del proyecto.<br>
       <br> TB2: <br>

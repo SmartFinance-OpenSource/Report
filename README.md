@@ -2195,6 +2195,398 @@ Este es nuestro link de invitación a nuestro Trello: https://trello.com/invite/
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
+En el tercer sprint identificamos 22 endpoints provenientes de 7 controladores diferentes. Utilizamos swagger para la presente documentacion.
+
+**Wallet Controller**
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Wallet </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/wallets/{userId} </td>
+        <td colspan="1"> Get a wallet by user id </td>
+        <td colspan="1"> Get a wallet of user </td>
+        <td colspan="1"> GetWalletByUserId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> userId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Wallet </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/wallets/{walletId} </td>
+        <td colspan="1"> Get a wallet by id </td>
+        <td colspan="1"> Get a wallet in a system by its id </td>
+        <td colspan="1"> GetWalletById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> walletId</td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Walllet </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/wallets</td>
+        <td colspan="1"> Create a new wallet</td>
+        <td colspan="1"> Create a new wallet in system </td>
+        <td colspan="1"> CreateWallet </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Walllet </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/wallets/{walletId}</td>
+        <td colspan="1"> Update existing wallet </td>
+        <td colspan="1">Update existing wallet by id</td>
+        <td colspan="1"> UpdateWallet </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> walletId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+</table>
+CategoryController
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Category </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/category/{cateogryId} </td>
+        <td colspan="1"> Get a category by id </td>
+        <td colspan="1"> Get a category in a system by its id </td>
+        <td colspan="1"> GetCategoryById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> categoryId</td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Category </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/category</td>
+        <td colspan="1"> Get all categories</td>
+        <td colspan="1"> Get all categories in system </td>
+        <td colspan="1"> GetAllCategories </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Category </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/category</td>
+        <td colspan="1"> Create new category </td>
+        <td colspan="1">Create new category</td>
+        <td colspan="1"> CreateCategory </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+</table>
+
+TransactionsController
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Transaction </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/transactions/{userId} </td>
+        <td colspan="1"> Get a transaction by user id </td>
+        <td colspan="1"> Get a transaction in a system by its user id </td>
+        <td colspan="1"> GetTransactionByUserId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> userId</td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Transaction </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/transactions/{walletId}</td>
+        <td colspan="1">  Get a transaction by wallet id</td>
+        <td colspan="1"> Get a transaction by wallet id in system </td>
+        <td colspan="1"> GetTransactionByWalletId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2">walletId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Transaction </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/transactions</td>
+        <td colspan="1"> Create new transaction </td>
+        <td colspan="1">Create new transaction</td>
+        <td colspan="1"> CreateCategory </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+</table>
+
+EarningsController
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Earnings </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/earnings/{walletId} </td>
+        <td colspan="1"> Get all earnings by wallet id </td>
+        <td colspan="1"> Get all earning in a system by its wallet id </td>
+        <td colspan="1"> GetEarningsByWalletId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> walletId</td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Earnings </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/earnings/{expenseId}</td>
+        <td colspan="1">  Get a earning by id</td>
+        <td colspan="1"> Get a earning by wallet id in system </td>
+        <td colspan="1"> GetEarningById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2">earningId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Earnings </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/earnings</td>
+        <td colspan="1"> Create new earning </td>
+        <td colspan="1">Create new earning</td>
+        <td colspan="1"> CreateEarning </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+</table>
+
+ExpensesController
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Expenses </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/expenses/{walletId} </td>
+        <td colspan="1"> Get all expenses by wallet id </td>
+        <td colspan="1"> Get all expenses in a system by its wallet id </td>
+        <td colspan="1"> GetExpensesByWalletId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> walletId</td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Expenses </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/expenses/{expenseId}</td>
+        <td colspan="1">  Get a earning by id</td>
+        <td colspan="1"> Get a earning by its id in system </td>
+        <td colspan="1"> GetEarningById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2">earningId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Expenses </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/expenses</td>
+        <td colspan="1"> Create new expense </td>
+        <td colspan="1">Create new expense</td>
+        <td colspan="1"> CreateExpense </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+</table>
+
+UsersController
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Users </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/users/{userId} </td>
+        <td colspan="1"> Get all Users by its id </td>
+        <td colspan="1"> Get all Users in a system by its id </td>
+        <td colspan="1"> GetUserById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> walletId</td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Users </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/users</td>
+        <td colspan="1">  Get all Users</td>
+        <td colspan="1"> Get all Users in system </td>
+        <td colspan="1"> GetEarningById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Users </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/users</td>
+        <td colspan="1"> Create new user </td>
+        <td colspan="1">Create new user</td>
+        <td colspan="1"> CreateUser </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+</table>
+
+RepeatPeriodController
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> repeatPeriod </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/repeatPeriod </td>
+        <td colspan="1"> Get all repeatPeriods </td>
+        <td colspan="1"> Get all repeatPeriod in system </td>
+        <td colspan="1"> GetAllRepeatPeriods </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -</td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> repeatPeriod </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/repeatPeriod</td>
+        <td colspan="1">  Get repeatPeriod by Id</td>
+        <td colspan="1"> Get Get repeatPeriod by Id in system </td>
+        <td colspan="1"> GetRepeatPeriodById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> repeatPeriod </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/repeatPeriod</td>
+        <td colspan="1"> Create new repeatPeriod </td>
+        <td colspan="1">Create new repeatPeriod</td>
+        <td colspan="1"> CreateRepeatPeriod </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+</table>
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint

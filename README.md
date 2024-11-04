@@ -1784,9 +1784,9 @@ En esta entrega, nuestro equipo ha desplegado con éxito la landing page.
 
 Enlace de la Landing Page: https://smartfinance-opensource.github.io/Landing-Page/
 
-![landing-page-1](/assets/landing-page-screenshots/1.jpg)
-![landing-page-2](/assets/landing-page-screenshots/2.jpg)
-![landing-page-3](/assets/landing-page-screenshots/3.jpg)
+![landing-page-1](assets/landing-page-screenshots/1.jpg)
+![landing-page-2](assets/landing-page-screenshots/2.jpg)
+![landing-page-3](assets/landing-page-screenshots/3.jpg)
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -1869,37 +1869,37 @@ Sprint 2 TP
 Para realizar el diseño de los wireframes y mockups de la Landing Page para este Sprint, se hizo uso de la plataforma [Figma](https://www.figma.com/)
 
 - Para el uso de la plataforma, es necesario crear una cuenta, así que nos dirigimos a la página oficial de Figma y se siguen los siguientes pasos para registrarse:
-![Design-Login-1](/assets/design-steps/design-step-1.jpg)
-![Design-Login-2](/assets/design-steps/design-step-2.jpg)
+![Design-Login-1](assets/design-steps/design-step-1.jpg)
+![Design-Login-2](assets/design-steps/design-step-2.jpg)
 
 - Luego se crea un Draft que servirá como base para el proyecto colaborativo.
-![Design-Draft-Creation](/assets/design-steps/design-step-3.jpg)
+![Design-Draft-Creation](assets/design-steps/design-step-3.jpg)
 
 - **Deployment**
 
 - Para la landing page, se utilizará [GitHub](https://github.com/) y [Github Pages]() para la creación del repositorio y el despliegue de la página.
 
-![Deployment-Login-1](/assets/deployment-steps/deployment-step-1.jpg)
-![Deployment-Login-2](/assets/deployment-steps/deployment-step-2.jpg)
+![Deployment-Login-1](assets/deployment-steps/deployment-step-1.jpg)
+![Deployment-Login-2](assets/deployment-steps/deployment-step-2.jpg)
 
 - Tras crear la cuenta, se procede a crear una organización.
 
-![Deployment-Organization-1](/assets/deployment-steps/deployment-step-3.jpg)
-![Deployment-Organization-2](/assets/deployment-steps/deployment-step-4.jpg)
-![Deployment-Organization-3](/assets/deployment-steps/deployment-step-5.jpg)
-![Deployment-Organization-4](/assets/deployment-steps/deployment-step-6.jpg)
-![Deployment-Organization-5](/assets/deployment-steps/deployment-step-7.jpg)
-![Deployment-Organization-6](/assets/deployment-steps/deployment-step-8.jpg)
+![Deployment-Organization-1](assets/deployment-steps/deployment-step-3.jpg)
+![Deployment-Organization-2](assets/deployment-steps/deployment-step-4.jpg)
+![Deployment-Organization-3](assets/deployment-steps/deployment-step-5.jpg)
+![Deployment-Organization-4](assets/deployment-steps/deployment-step-6.jpg)
+![Deployment-Organization-5](assets/deployment-steps/deployment-step-7.jpg)
+![Deployment-Organization-6](assets/deployment-steps/deployment-step-8.jpg)
 
 - Se agregan a los demás miembros del equipo a la organización.
 
-![Deployment-Members-1](/assets/deployment-steps/deployment-step-9.jpg)
-![Deployment-Members-2](/assets/deployment-steps/deployment-step-10.jpg)
+![Deployment-Members-1](assets/deployment-steps/deployment-step-9.jpg)
+![Deployment-Members-2](assets/deployment-steps/deployment-step-10.jpg)
 
 - Por último, se crean los repositorios necesarios para el trabajo.
 
-![Deployment-Repositories-1](/assets/deployment-steps/deployment-step-11.jpg)
-![Deployment-Repositories-2](/assets/deployment-steps/deployment-step-12.jpg)
+![Deployment-Repositories-1](assets/deployment-steps/deployment-step-11.jpg)
+![Deployment-Repositories-2](assets/deployment-steps/deployment-step-12.jpg)
 
 - Para nuestro proyecto se crearon 4 repositorios los cuales son:
     - **Report:** Este repositorio se usa para realizar el informe del proyecto de manera continua.
@@ -1913,8 +1913,8 @@ Con esto realizado, se puede dar inicio al trabajo del proyecto.
 
 Para este sprint, las tareas de diseño, implementación y documentación de la landing page se distribuyó entre los integrantes del equipo. La implementación y despliegue de la landing page fue llevado a cabo principalmente por Juan Astonitas.
 
-![github-insights](/assets/githubpics/insights_1.jpg)
-![github-networks](/assets/githubpics/networks_1.jpg)
+![github-insights](assets/githubpics/insights_1.jpg)
+![github-networks](assets/githubpics/networks_1.jpg)
 
 #### 5.2.2. Sprint 2
 En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo para el Sprint 2.
@@ -1941,7 +1941,7 @@ En esta sección se presenta un resumen del objetivo principal del sprint, desta
 Este es nuestro link de invitación a nuestro Trello: https://trello.com/invite/b/6703fc437ffe81d568259f04/ATTIf2bbf0d616f458ad5bcefb1e1be4b0861373D99A/si729-2402-ws53-grupo-2 
 
 
-![Sprint 2 Backlog](/assets/sprint-2-assets/trellosprint2.png)
+![Sprint 2 Backlog](assets/sprint-2-assets/trellosprint2.png)
 
  **User Story ID** | **User Story**                               | **Work-Item / Task ID** | **Work-Item / Task Title**                                | **Description**                                                                         | **Estimation (Hours)**  | **Status** |
  ----------------- | -------------------------------------------- | ----------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------  |------------|
@@ -2113,37 +2113,37 @@ Además de capturas que muestran el contenido de db.json
   Para realizar el diseño de los wireframes y mockups de la Landing Page para este Sprint, se hizo uso de la plataforma [Figma](https://www.figma.com/)
 
 - Para el uso de la plataforma, es necesario crear una cuenta, así que nos dirigimos a la página oficial de Figma y se siguen los siguientes pasos para registrarse:
-  ![](/assets/design-steps/design-step-1.jpg)
-  ![](/assets/design-steps/design-step-2.jpg)
+  ![](assets/design-steps/design-step-1.jpg)
+  ![](assets/design-steps/design-step-2.jpg)
 
 - Luego se crea un Draft que servirá como base para el proyecto colaborativo.
-  ![](/assets/design-steps/design-step-3.jpg)
+  ![](assets/design-steps/design-step-3.jpg)
 
 - **Deployment**
 
 - Para la landing page, se utilizará [GitHub](https://github.com/) y [Github Pages]() para la creación del repositorio y el despliegue de la página.
 
-![](/assets/deployment-steps/deployment-step-1.jpg)
-![](/assets/deployment-steps/deployment-step-2.jpg)
+![](assets/deployment-steps/deployment-step-1.jpg)
+![](assets/deployment-steps/deployment-step-2.jpg)
 
 - Tras crear la cuenta, se procede a crear una organización.
 
-![](/assets/deployment-steps/deployment-step-3.jpg)
-![](/assets/deployment-steps/deployment-step-4.jpg)
-![](/assets/deployment-steps/deployment-step-5.jpg)
-![](/assets/deployment-steps/deployment-step-6.jpg)
-![](/assets/deployment-steps/deployment-step-7.jpg)
-![](/assets/deployment-steps/deployment-step-8.jpg)
+![](assets/deployment-steps/deployment-step-3.jpg)
+![](assets/deployment-steps/deployment-step-4.jpg)
+![](assets/deployment-steps/deployment-step-5.jpg)
+![](assets/deployment-steps/deployment-step-6.jpg)
+![](assets/deployment-steps/deployment-step-7.jpg)
+![](assets/deployment-steps/deployment-step-8.jpg)
 
 - Se agregan a los demás miembros del equipo a la organización.
 
-![](/assets/deployment-steps/deployment-step-9.jpg)
-![](/assets/deployment-steps/deployment-step-10.jpg)
+![](assets/deployment-steps/deployment-step-9.jpg)
+![](assets/deployment-steps/deployment-step-10.jpg)
 
 - Por último, se crean los repositorios necesarios para el trabajo.
 
-![](/assets/deployment-steps/deployment-step-11.jpg)
-![](/assets/deployment-steps/deployment-step-12.jpg)
+![](assets/deployment-steps/deployment-step-11.jpg)
+![](assets/deployment-steps/deployment-step-12.jpg)
 
 - Para nuestro proyecto se crearon 4 repositorios los cuales son:
     - **Report:** Este repositorio se usa para realizar el informe del proyecto de manera continua.
@@ -2153,8 +2153,8 @@ Además de capturas que muestran el contenido de db.json
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 A continuación se muestra evidencia de la coolaboración del equipo mediante insights de GitHub.
-![github-insights-1](/assets/sprint-2-assets/insights-1.png)
-![github-insights-2](/assets/sprint-2-assets/insights-2.png)
+![github-insights-1](assets/sprint-2-assets/insights-1.png)
+![github-insights-2](assets/sprint-2-assets/insights-2.png)
 
 #### 5.2.3. Sprint 3
 
@@ -2178,7 +2178,7 @@ En esta sección se presenta un resumen del objetivo principal del sprint, desta
 
 Este es nuestro link de invitación a nuestro Trello: https://trello.com/invite/b/6703fc437ffe81d568259f04/ATTIf2bbf0d616f458ad5bcefb1e1be4b0861373D99A/si729-2402-ws53-grupo-2
 
-![Sprint 3 Backlog](/assets/sprint-2-assets/trellosprint2.png)
+![Sprint 3 Backlog](assets/sprint-2-assets/trellosprint2.png)
 
 
  **User Story ID** | **User Story**                                         | **Work-Item / Task ID** | **Work-Item / Task Title**                                   | **Description**                                                                                   | **Estimation (Hours)**  | **Status** |
@@ -2435,31 +2435,31 @@ Se ha desarrollado un avance con respecto a la Landing Page, FrontEnd y BackEnd:
 
 ###### Landing Page
 
-![execution-landing1](/assets/execution/landingfinzar1.png)
-![execution-landing2](/assets/execution/landingfinzar2.png)
-![execution-landing3](/assets/execution/landingfinzar3.png)
-![execution-landing4](/assets/execution/landingfinzar4.png)
-![execution-landing5](/assets/execution/landingfinzar5.png)
-![execution-landing6](/assets/execution/landingfinzar6.png)
-![execution-landing7](/assets/execution/landingfinzar7.png)
+![execution-landing1](assets/execution/landingfinzar1.png)
+![execution-landing2](assets/execution/landingfinzar2.png)
+![execution-landing3](assets/execution/landingfinzar3.png)
+![execution-landing4](assets/execution/landingfinzar4.png)
+![execution-landing5](assets/execution/landingfinzar5.png)
+![execution-landing6](assets/execution/landingfinzar6.png)
+![execution-landing7](assets/execution/landingfinzar7.png)
 
 ###### FrontEnd
 
-![execution-front1](/assets/execution/frontfinzar1.png)
-![execution-front2](/assets/execution/frontfinzar2.png)
-![execution-front3](/assets/execution/frontfinzar3.png)
-![execution-front4](/assets/execution/frontfinzar4.png)
-![execution-front5](/assets/execution/frontfinzar5.png)
-![execution-front6](/assets/execution/frontfinzar6.png)
-![execution-front7](/assets/execution/frontfinzar7.png)
-![execution-front8](/assets/execution/frontfinzar8.png)
-![execution-front9](/assets/execution/frontfinzar9.png)
-![execution-front10](/assets/execution/frontfinzar10.png)
+![execution-front1](assets/execution/frontfinzar1.png)
+![execution-front2](assets/execution/frontfinzar2.png)
+![execution-front3](assets/execution/frontfinzar3.png)
+![execution-front4](assets/execution/frontfinzar4.png)
+![execution-front5](assets/execution/frontfinzar5.png)
+![execution-front6](assets/execution/frontfinzar6.png)
+![execution-front7](assets/execution/frontfinzar7.png)
+![execution-front8](assets/execution/frontfinzar8.png)
+![execution-front9](assets/execution/frontfinzar9.png)
+![execution-front10](assets/execution/frontfinzar10.png)
 
 ###### BackEnd
 
-![execution-backend1](/assets/execution/backendfinzar1.png)
-![execution-backend1](/assets/execution/backendfinzar2.png)
+![execution-backend1](assets/execution/backendfinzar1.png)
+![execution-backend1](assets/execution/backendfinzar2.png)
 
 
 
@@ -3047,39 +3047,39 @@ RepeatPeriodController
 Para la Landing Page, se utilizó [Vercel](https://vercel.com) para el despliegue de la página.
 
 - Primero nos dirigimos a Import Project, siendo la primera opción.
-![Sprint 3 Landing Deployment Evidence 1](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-1.png)
+![Sprint 3 Landing Deployment Evidence 1](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-1.png)
 - Luego seleccionamos el repositorio de GitHub donde se encuentra el código de la Landing Page. En este caso, Landing-Page.
-![Sprint 3 Landing Deployment Evidence 2](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-2.png)
+![Sprint 3 Landing Deployment Evidence 2](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-2.png)
 - Se nos presenta la siguiente pantalla, donde muestra las opciones por defecto en el despliegue de la página.
-![Sprint 3 Landing Deployment Evidence 3](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-3.png)
+![Sprint 3 Landing Deployment Evidence 3](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-3.png)
 - Como nuestro proyecto es con Vite como framework, ajustamos el Framework Preset, y seleccionamos deploy.
-![Sprint 3 Landing Deployment Evidence 4](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-4.png)
+![Sprint 3 Landing Deployment Evidence 4](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-4.png)
 - Esperamos unos segundos y la página debería desplegarse exitosamente.
-![Sprint 3 Landing Deployment Evidence 5](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-5.png)
+![Sprint 3 Landing Deployment Evidence 5](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-5.png)
 - Podemos apreciar que la página ha sido desplegada con éxito.
-![Sprint 3 Landing Deployment Evidence 6](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-6.png)
+![Sprint 3 Landing Deployment Evidence 6](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-6.png)
 - Con ello, se nos proporciona un link de la página desplegada, donde podemos acceder.
-![Sprint 3 Landing Deployment Evidence 7](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-7.png)
+![Sprint 3 Landing Deployment Evidence 7](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-7.png)
 - Al acceder al link, podemos ver la página desplegada.
-![Sprint 3 Landing Deployment Evidence 8](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-8.png)
+![Sprint 3 Landing Deployment Evidence 8](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-8.png)
 
 **FrontEnd**
 Para el FrontEnd, se utilizó [Vercel](https://vercel.com) para el despliegue de la página.
 
 - Antes del despliegue, debemos crear una cuenta, por lo que continuaremos con GitHub.
-![Sprint 3 FrontEnd Deployment Evidence 1](/assets/sprint-3-deployment/frontend-deploy/evidence-1.png)
+![Sprint 3 FrontEnd Deployment Evidence 1](assets/sprint-3-deployment/frontend-deploy/evidence-1.png)
 - Primero nos dirigimos a Import Project, siendo la primera opción.
-![Sprint 3 FrontEnd Deployment Evidence 2](/assets/sprint-3-deployment/frontend-deploy/evidence-2.png)
+![Sprint 3 FrontEnd Deployment Evidence 2](assets/sprint-3-deployment/frontend-deploy/evidence-2.png)
 - Luego seleccionamos el repositorio de GitHub donde se encuentra el código del FrontEnd. En este caso, Frontend-Finzar.
-![Sprint 3 FrontEnd Deployment Evidence 3](/assets/sprint-3-deployment/frontend-deploy/evidence-3.png)
+![Sprint 3 FrontEnd Deployment Evidence 3](assets/sprint-3-deployment/frontend-deploy/evidence-3.png)
 - Se nos presenta la siguiente pantalla, donde muestra las opciones por defecto en el despliegue de la página. Le damos a deploy.
-![Sprint 3 FrontEnd Deployment Evidence 4](/assets/sprint-3-deployment/frontend-deploy/evidence-4.png)
+![Sprint 3 FrontEnd Deployment Evidence 4](assets/sprint-3-deployment/frontend-deploy/evidence-4.png)
 - Podemos apreciar que la página ha sido desplegada con éxito.
-![Sprint 3 FrontEnd Deployment Evidence 5](/assets/sprint-3-deployment/frontend-deploy/evidence-5.png)
+![Sprint 3 FrontEnd Deployment Evidence 5](assets/sprint-3-deployment/frontend-deploy/evidence-5.png)
 - Con ello, se nos proporciona un link de la página desplegada, donde podemos acceder.
-![Sprint 3 FrontEnd Deployment Evidence 6](/assets/sprint-3-deployment/frontend-deploy/evidence-6.png)
+![Sprint 3 FrontEnd Deployment Evidence 6](assets/sprint-3-deployment/frontend-deploy/evidence-6.png)
 - Al acceder al link, podemos ver la página desplegada.
-![Sprint 3 FrontEnd Deployment Evidence 7](/assets/sprint-3-deployment/frontend-deploy/evidence-7.png)
+![Sprint 3 FrontEnd Deployment Evidence 7](assets/sprint-3-deployment/frontend-deploy/evidence-7.png)
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
@@ -3288,7 +3288,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 About the Product Video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110291_upc_edu_pe/EfCER3yQPs5AsO4Y715HfjkBMhXV68HWy-XOHCBIhGo6Fg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SaCgAm">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110291_upc_edu_pe/EfCER3yQPs5AsO4Y715HfjkBMhXV68HWy-XOHCBIhGo6Fg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SaCgAm</a>
 
-![about-the-product](/assets/AboutTheProduct/abouttheproduct.png)
+![about-the-product](assets/AboutTheProduct/abouttheproduct.png)
 
 
 

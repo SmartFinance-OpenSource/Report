@@ -2233,9 +2233,48 @@ A continuación se muestran los commits realizados durante el Sprint 3 para docu
 | SmartFinance-OpenSource/Frontend-Finzar | feat/transaction-service   | ee1d09ab | feat: added transaction entity values                              | No description provided.             | 2024-10-29         |
 | SmartFinance-OpenSource/Frontend-Finzar | feat/transaction-service   | 3108d0c3 | feat: added create transaction service method                      | No description provided.             | 2024-10-29         |
 | SmartFinance-OpenSource/Frontend-Finzar | feat/transaction-dialog    | bea09677 | chore: added create transaction dialog components                  | No description provided.             | 2024-10-29         |
-| SmartFinance-OpenSource/Frontend-Finzar | feat/transaction-table     | b189e3cb | fix: c and adjusted columns         | No description provided.             | 2024-10-29         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/transaction-table     | b189e3cb | fix: removed unnecessary table values, changed column positioning and fixed certain columns showing number instead of their corresponding string value.         | No description provided.             | 2024-10-29         |
 
 ###### Tabla BackEnd
+
+| Repository                          | Branch                 | Commit ID | Commit Message                                   | Commit Message Body                                     | Commited on (Date) |
+|-------------------------------------|------------------------|-----------|--------------------------------------------------|---------------------------------------------------------|---------------------|
+| SmartFinance-OpenSource/Backend-Finzar | feat/jpa              | 55a2c3ee         | feat(jpa): added model for jpa auditing          | feat(jpa): added model for jpa auditing                 | 2024-10-23          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/open-api         | 24d04955         | feat(open-api): added open api documentation     | feat(open-api): added open api documentation            | 2024-10-23          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/shared           | a839a60c         | feat(shared): add MessageResource                | feat(shared): add MessageResource                       | 2024-10-23          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallets          | 5a6bfe59         | feat(rest): added wallet controller              | feat(rest): added wallet controller                     | 2024-10-29          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallets          | bfb85ad3         | feat(services): added wallet query service       | feat(services): added wallet query service              | 2024-10-29          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallets          | f06f2d5f         | feat(aggregates): added wallet aggregate         | feat(aggregates): added wallet aggregate                | 2024-10-29          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallets          | 1100f927        | feat(resources): added create wallet resource    | feat(resources): added create wallet resource           | 2024-10-29          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/resources        | c88360f0         | feat(resources): added wallet resource           | feat(resources): added wallet resource                  | 2024-10-29          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/savings          | 8c662706         | feat: add new attributes to Saving entity        | feat: add new attributes to Saving entity               | 2024-10-29          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/savings          | 8ed7b4ae         | feat: implement GetAllSavingsQuery               | feat: implement GetAllSavingsQuery                      | 2024-10-29          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/savings          | c886e07a         | feat: added new functions for money goals updates| feat: added new functions for money goals updates       | 2024-10-29          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/category         | 96ec5f8b         | feat(rest): added category controller methods    | feat(rest): added category controller methods           | 2024-11-01          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/category         | 900276dc         | feat(queries): added category queries            | feat(queries): added category queries                   | 2024-11-01          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/user             | 7bb4fe8d         | feat(commands): added user manipulation commands | feat(commands): added user manipulation commands        | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/user             | 3dbd451b         | feat(transform): added user commands assembler   | feat(transform): added user commands assembler          | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/user             | 0bb087a8         | feat(resources): added user repository search    | feat(resources): added user repository search           | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/user             | b4d4a30b         | feat(rest): added user controller functionality  | feat(rest): added user controller functionality         | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/saving-graphics  | 86a95330         | feat: implemented class controller for Saving Graphics  | feat: implemented class controller for Saving Graphics         | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/saving-graphics  | f48dc68c         | feat: implemented class facade for graphics      | feat: implemented class facade for graphics             | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallets          | 1f4657c7         | feat(wallets): added transaction types enum      | feat(wallets): added transaction types enum             | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallets          | 81eec0d6         | feat(wallets): added transaction type entity     | feat(wallets): added transaction type entity            | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallets          | 8583fff4         | feat(wallets): added resources for visualization | feat(wallets): added resources for visualization        | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallets          | 79eea283        | feat(wallets): added assemblers for wallet       | feat(wallets): added assemblers for wallet              | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallets          | 816a51c8         | feat(wallet): add wallet resource assembler      | feat(wallet): add wallet resource assembler             | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallet           | 9c0a416a         | feat(wallet): add wallet repository              | feat(wallet): add wallet repository                     | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallet           | e3c36eaa         | feat(wallet): implement wallet services          | feat(wallet): implement wallet services                 | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallet           | 5f41f6e3         | feat(wallet): added functions for api calls      | feat(wallet): added functions for api calls             | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallet           | 7b3825c1         | feat(wallet): added user validation              | feat(wallet): added user validation                     | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallet           | 3ee25337         | feat(wallet): added Transaction Aggregate        | feat(wallet): added Transaction Aggregate               | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallet           | 806c824b         | feat(wallet): added Expense Aggregate            | feat(wallet): added Expense Aggregate                   | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallet           | 73b2b019         | feat(wallet): added Earning Aggregate            | feat(wallet): added Earning Aggregate                   | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/savings          | c81cab7a         | feat: added new query to get saving by user ID   | feat: added new query to get saving by user ID          | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/savings          | 337bbb85         | feat: added new saving query service list        | feat: added new saving query service list               | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/savings          | 5fbfc17b         | feat: added list to find saving by user ID       | feat: added list to find saving by user ID              | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/savings          | 2e338ccd         | feat: added new endpoint on controller           | feat: added new endpoint on controller                  | 2024-11-02          |
+
 
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review
 

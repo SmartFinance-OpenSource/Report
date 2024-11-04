@@ -2006,7 +2006,6 @@ En este sprint nos concentramos en ampliar nuestras user stories, incluir elemen
 | SmartFinance-OpenSource/Report | fix/software-architecture-c4-model            | a5aa940   | Fix/software architecture c4 model               | No description provided.                                                                                                                                           | 2024-09-25         |
 
 ##### 5.2.2.4. Testing Suite Evidence for Sprint Review
-Sprint 3 TB2
 
 <table>
   <tr>
@@ -2015,71 +2014,71 @@ Sprint 3 TB2
     <th>Criterios de Aceptación</th>
   </tr>
   <tr>
-    <td>US06</td>
-    <td>Cambiar el Idioma de la Aplicación</td>
-    <td>Escenario 1: Given el usuario está en la sección de configuración, when selecciona la opción de cambiar el idioma, then debe poder seleccionar un idioma de la lista de opciones disponibles. Escenario 2: Given el usuario ya cambio el idioma por defecto de la aplicación, when selecciona la opción de cambiar el idioma, then debera poder regresar al idioma por defecto.</td>
+    <td>US04</td>
+    <td>Billeteras por Defecto</td>
+    <td>Escenario 1: Dado que el usuario registra una transacción, cuando selecciona una categoría para la transacción, entonces la transacción se clasifica automáticamente en la categoría seleccionada.</td>
   </tr>
   <tr>
-    <td>US14</td>
-    <td>Ingreso de Transacciones</td>
-    <td>Escenario 1:Given el usuario está en la sección de una billetera, when selecciona la opción de registrar una transacción, then debe poder ingresar los detalles de la transacción, como monto, categoría y nota. Escenario 2:Given el usuario está en la sección de una billetera, when selecciona la opción de registrar una transacción, then de haber cometido un error podra borrar dicha transacción tras el registro.</td>
+    <td>US07</td>
+    <td>Creación de Billeteras Adicionales</td>
+    <td>Escenario 1: Dado que el usuario está en la sección de billeteras, cuando selecciona la opción de crear una nueva billetera, entonces debe poder ingresar un nombre y descripción para la nueva billetera.</td>
   </tr>
   <tr>
-    <td>US15</td>
-    <td>Categorizar Transacciones</td>
-    <td>Escenario 1:Given el usuario registra una transacción, when selecciona una categoría para la transacción, then la transacción se clasifica automáticamente en la categoría seleccionada. Escenario 2:Given el usuario desea cambiar una categoría, when selecciona las categorías disponibles o elige sin categorias, then el sistema le mostrará las transacciones con la nueva categoría o se revertiran todas las categorías.</td>
-  </tr>
-    <tr>
-    <td>US16</td>
-    <td>Crear Transacciones Recurrentes</td>
-    <td>Escenario 1:Given el usuario está en la sección de una billetera, when selecciona la opción de registrar una transacción and marca la opción de transacción recurrente configurando la frecuencia, then la transacción se registra automáticamente según la configuración. Escenario 2:Given el usuario está en la sección de transacciones recurrentes, when selecciona la opción de modificar transacción then el usuario podrá cambiar el monto, el nombre o eliminar la transacción.</td>
+    <td>US08</td>
+    <td>Visualizar el Estado de una Billetera</td>
+    <td>Escenario 1: Dado que el usuario está en la sección de billeteras, cuando selecciona una billetera, entonces debe ver el saldo actual y las transacciones más recientes de la billetera.</td>
   </tr>
   <tr>
-    <td>US19</td>
-    <td>Realizar Transacciones a otra Billetera</td>
-    <td>Escenario 1:Given el usuario está en la sección de una billetera, when selecciona la opción de transferir dinero, then debe poder ingresar el monto and seleccionar la billetera de destino para completar la transferencia. Escenario 2:Given el usuario desea transferir dinero de una billetera a otra, when solo existe una billetera registrada, then el sistema le ofrecerá la opción de crear la billetera de destino.</td>
+    <td>US09</td>
+    <td>Visualizar el Saldo en el mes</td>
+    <td>Escenario 1: Dado que el usuario está en la sección de una billetera, cuando accede a la vista de resumen mensual, entonces debe ver el saldo actual de la billetera en el mes.</td>
   </tr>
   <tr>
-    <td>US23</td>
-    <td>Alerta de Límite de Presupuesto</td>
-    <td>Escenario 1:Given el usuario está en la sección de presupuestos, when el monto gastado se acerca al límite del plan, then debe recibir una notificación de alerta que le advierte sobre el exceso de gastos. Escenario 2:Given el usuario está en la sección de presupuestos, when desea ampliar o reducir un límite, then deberá modificar el monto límite para el presupuesto elegído.</td>
-  </tr>
-    <tr>
-    <td>US24</td>
-    <td>Ver Periodos Anteriores de un Presupuesto</td>
-    <td>Escenario 1:Given el usuario está en la sección de presupuestos, when selecciona un plan de presupuesto, then debe poder ver los periodos anteriores con sus montos gastados. Escenario 2:Given el usuario está en la sección de presupuestos, when selecciona un plan de presupuesto sin periodos previos, then se le indicará que no existe periodos previos para el presupuesto seleccionado.</td>
+    <td>US10</td>
+    <td>Visualizar los Cambios de Balance en el mes</td>
+    <td>Escenario 1: Dado que el usuario está en la sección de una billetera, cuando accede a la vista de resumen mensual, entonces debe ver un gráfico que muestre los cambios de balance en la billetera a lo largo del mes.</td>
   </tr>
   <tr>
-    <td>US25</td>
-    <td>Ver Gráfico Anual de Gastos en Periodos Anteriores de un Presupuesto</td>
-    <td>Escenario 1:Given el usuario está en la sección de presupuestos, when selecciona un plan de presupuesto, then debe poder ver un gráfico que muestre los gastos mensuales en periodos anteriores del plan. Escenario 2:Given el usuario consulta un gráfico para un prespuesto, when el usuario elije la opción "exportar", then podra exportar el gráfico en diferentes formatos.</td>
+    <td>US11</td>
+    <td>Visualizar los Porcentajes Categorizados de Ingresos en el mes</td>
+    <td>Escenario 1: Dado que el usuario está en la sección de una billetera, cuando accede a la vista de resumen mensual, entonces debe ver un gráfico que muestre los porcentajes de ingresos categorizados en la billetera en el mes.</td>
   </tr>
   <tr>
-    <td>US32</td>
-    <td>Cambiar el Idioma de la Landing Page</td>
-    <td>Given el visitante está en la landing page, when selecciona un idioma diferente en el menú de idiomas, then la página debe cambiar al idioma seleccionado.</td>
-  </tr>
-    <tr>
-    <td>TS40</td>
-    <td>Integración con Sistema Externo</td>
-    <td>Given el sistema tiene una API disponible, when se establece la conexión con el servicio externo, then el sistema puede acceder a los datos y funcionalidades del servicio externo.</td>
+    <td>US20</td>
+    <td>Crear Plan de Presupuesto</td>
+    <td>Escenario 1: Given el usuario está en la sección de presupuestos, when selecciona la opción de crear un nuevo plan, then debe poder ingresar un nombre, monto y fechas de inicio y fin para el plan de presupuesto.</td>
   </tr>
   <tr>
-    <td>TS41</td>
-    <td>Creación de Transacciones en Billetera</td>
-    <td>Given el endpoint (/api/v1/transactions) esté disponible, when se envía una solicitud POST con los datos de la transacción al endpoint, then se recibe una señal de confirmación (201) and el sistema registra la transacción en la billetera seleccionada.</td>
+    <td>US21</td>
+    <td>Editar Plan de Presupuesto</td>
+    <td>Escenario 1: Given el usuario está en la sección de presupuestos, when selecciona un plan de presupuesto existente, then debe poder modificar el nombre, monto y fechas del plan de presupuesto.</td>
   </tr>
   <tr>
-    <td>TS42</td>
-    <td>Creación de Plan de Presupuesto en Billetera</td>
-    <td>Given el endpoint (/api/v1/budgets) esté disponible, when se envía una solicitud POST con los datos del plan de presupuesto al endpoint, then se recibe una señal de confirmación (201) and el sistema registra el plan de presupuesto en la billetera seleccionada.</td>
+    <td>US22</td>
+    <td>Ver Presupuesto Restante</td>
+    <td>Escenario 1: Given el usuario está en la sección de presupuestos, when selecciona un plan de presupuesto, then debe ver el monto restante del presupuesto y una barra de progreso que indica el porcentaje gastado.</td>
   </tr>
-    <tr>TS43</td>
-    <td>Creación de Plan de Ahorro en Billetera</td>
-    <td>Given el endpoint (/api/v1/savings) esté disponible, when se envía una solicitud POST con los datos del plan de ahorro al endpoint, then se recibe una señal de confirmación (201) and el sistema registra el plan de ahorro en la billetera seleccionada.</td>
+  <tr>
+    <td>US26</td>
+    <td>Crear Plan de Ahorro</td>
+    <td>Escenario 1: Dado que el usuario está en la sección de ahorros, cuando selecciona la opción de crear un nuevo plan, entonces debe poder ingresar un nombre, monto y fechas de inicio y fin para el plan de ahorro.</td>
+  </tr>
+  <tr>
+    <td>US27</td>
+    <td>Editar Plan de Ahorro</td>
+    <td>Escenario 1: Dado que el usuario está en la sección de ahorros, cuando selecciona un plan de ahorro existente, entonces debe poder modificar el nombre, monto y fechas del plan de ahorro.</td>
+  </tr>
+  <tr>
+    <td>US28</td>
+    <td>Ver Progreso del Ahorro</td>
+    <td>Escenario 1: Given el usuario está en la sección de ahorros, when selecciona un plan de ahorro, then debe ver el monto ahorrado, el monto restante y una barra de progreso que indica el porcentaje alcanzado de la meta.</td>
+  </tr>
+  <tr>
+    <td>TS34</td>
+    <td>Configurar Entorno de Desarrollo</td>
+    <td>Escenario 1: Given el desarrollador tiene acceso al repositorio del proyecto, when sigue las instrucciones de configuración, then debería poder ejecutar la aplicación localmente.</td>
   </tr>
 </table>
-
 
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
@@ -2340,142 +2339,85 @@ A continuación se muestran los commits realizados durante el Sprint 3 para docu
 | SmartFinance-OpenSource/Backend-Finzar | chore/documentation   | 2105d183         | chore: added documentation file                      | chore: added documentation file                         | 2024-11-04          |
 
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review
+<h2>Sprint 3 TB2</h2>
 
-## US06 - Cambiar el Idioma de la Aplicación
-**Como** usuario, **quiero** cambiar el idioma de la aplicación **para** poder utilizarla en mi idioma preferido.
-
-**Escenario 1:**  
-- **Given** el usuario está en la sección de configuración,  
-- **When** selecciona la opción de cambiar el idioma,  
-- **Then** debe poder seleccionar un idioma de la lista de opciones disponibles.
-
----
-
-## US14 - Ingreso de Transacciones
-**Como** usuario, **quiero** registrar un ingreso o gasto en una billetera seleccionada **para** llevar un control de mis finanzas.
-
-**Escenario 1:**  
-- **Given** el usuario está en la sección de una billetera,  
-- **When** selecciona la opción de registrar una transacción,  
-- **Then** debe poder ingresar los detalles de la transacción, como monto, categoría y nota.
-
----
-
-## US15 - Categorizar Transacciones
-**Como** usuario, **quiero** categorizar mis transacciones **para** organizar y analizar mis gastos e ingresos.
-
-**Escenario 1:**  
-- **Given** el usuario registra una transacción,  
-- **When** selecciona una categoría para la transacción,  
-- **Then** la transacción se clasifica automáticamente en la categoría seleccionada.
-
----
-
-## US16 - Crear Transacciones Recurrentes
-**Como** usuario, **quiero** crear transacciones recurrentes **para** automatizar el registro de gastos e ingresos periódicos.
-
-**Escenario 1:**  
-- **Given** el usuario está en la sección de una billetera,  
-- **When** selecciona la opción de registrar una transacción **and** marca la opción de transacción recurrente configurando la frecuencia,  
-- **Then** la transacción se registra automáticamente según la configuración.
-
----
-
-## US19 - Realizar Transacciones a otra Billetera
-**Como** usuario, **quiero** transferir dinero de una billetera a otra **para** mover fondos entre mis cuentas.
-
-**Escenario 1:**  
-- **Given** el usuario está en la sección de una billetera,  
-- **When** selecciona la opción de transferir dinero,  
-- **Then** debe poder ingresar el monto **and** seleccionar la billetera de destino para completar la transferencia.
-
----
-
-## US23 - Alerta de Límite de Presupuesto
-**Como** usuario, **quiero** recibir una alerta cuando esté cerca de exceder el límite de un plan de presupuesto **para** evitar gastos innecesarios.
-
-**Escenario 1:**  
-- **Given** el usuario está en la sección de presupuestos,  
-- **When** el monto gastado se acerca al límite del plan,  
-- **Then** debe recibir una notificación de alerta que le advierte sobre el exceso de gastos.
-
----
-
-## US24 - Ver Periodos Anteriores de un Presupuesto
-**Como** usuario, **quiero** ver los periodos anteriores de un plan de presupuesto **para** comparar mis gastos y evaluar mi progreso financiero.
-
-**Escenario 1:**  
-- **Given** el usuario está en la sección de presupuestos,  
-- **When** selecciona un plan de presupuesto,  
-- **Then** debe poder ver los periodos anteriores con sus montos gastados.
-
----
-
-## US25 - Ver Gráfico Anual de Gastos en Periodos Anteriores de un Presupuesto
-**Como** usuario, **quiero** ver un gráfico anual de gastos en periodos anteriores de un plan de presupuesto **para** visualizar mis hábitos de gasto a lo largo del tiempo.
-
-**Escenario 1:**  
-- **Given** el usuario está en la sección de presupuestos,  
-- **When** selecciona un plan de presupuesto,  
-- **Then** debe poder ver un gráfico que muestre los gastos mensuales en periodos anteriores del plan.
-
----
-
-## US32 - Cambiar el Idioma de la Landing Page
-**Como** visitante, **quiero** cambiar el idioma de la landing page **para** poder entender mejor la información presentada.
-
-**Escenario 1:**  
-- **Given** el visitante está en la landing page,  
-- **When** selecciona un idioma diferente en el menú de idiomas,  
-- **Then** la página debe cambiar al idioma seleccionado.
-
----
-
-## TS40 - Integración con Sistema Externo
-**Como** desarrollador, **quiero** integrar el sistema con un servicio externo **para** mejorar la funcionalidad y la experiencia del usuario.
-
-**Escenario 1:**  
-- **Given** el sistema tiene una API disponible,  
-- **When** se establece la conexión con el servicio externo,  
-- **Then** el sistema puede acceder a los datos y funcionalidades del servicio externo.
-
----
-
-## TS41 - Creación de Transacciones en Billetera
-**Como** desarrollador, **quiero** implementar una API que permita crear una transacción en una billetera seleccionada **para** que el usuario pueda registrar sus ingresos y gastos.
-
-**Escenario 1:**  
-- **Given** el endpoint (/api/v1/transactions) está disponible,  
-- **When** se envía una solicitud POST con los datos de la transacción al endpoint,  
-- **Then** se recibe una señal de confirmación (201) **and** el sistema registra la transacción en la billetera seleccionada.
-
----
-
-## TS-42 - Creación de Plan de Presupuesto en Billetera
-**Como** desarrollador, **quiero** implementar una API que permita crear un plan de presupuesto en una billetera seleccionada **para** que el usuario pueda establecer límites de gastos y controlar sus finanzas.
-
-**Escenario 1:**  
-- **Given** el endpoint (/api/v1/budgets) está disponible,  
-- **When** se envía una solicitud POST con los datos del plan de presupuesto al endpoint,  
-- **Then** se recibe una señal de confirmación (201) **and** el sistema registra el plan de presupuesto en la billetera seleccionada.
-
----
-
-## TS43 - Creación de Plan de Ahorro en Billetera
-**Como** desarrollador, **quiero** implementar una API que permita crear un plan de ahorro en una billetera seleccionada **para** que el usuario pueda establecer metas financieras y ahorrar dinero de manera sistemática.
-
-**Escenario 1:**  
-- **Given** el endpoint (/api/v1/savings) está disponible,  
-- **When** se envía una solicitud POST con los datos del plan de ahorro al endpoint,  
-- **Then** se recibe una señal de confirmación (201) **and** el sistema registra el plan de ahorro en la billetera seleccionada.
-
-## TS-37 - Registrar Usuarios por una API
-**Como** desarrollador, **quiero** implementar una API que permita registrar nuevos usuarios al sistema.
-
-**Escenario 1:**  
-- **Given** el endpoint (/api/v1/auth/sign-up) está disponible,  
-- **When** se envía una solicitud POST con los datos del usuario ingresados al endpoint,  
-- **Then** se recibe una señal de confirmación (201) **and** el sistema registra al usuario.
+<table>
+  <tr>
+    <th>Epic / Story ID</th>
+    <th>Título</th>
+    <th>Criterios de Aceptación</th>
+  </tr>
+  <tr>
+    <td>US06</td>
+    <td>Cambiar el Idioma de la Aplicación</td>
+    <td>Escenario 1: Given el usuario está en la sección de configuración, when selecciona la opción de cambiar el idioma, then debe poder seleccionar un idioma de la lista de opciones disponibles.</td>
+  </tr>
+  <tr>
+    <td>US14</td>
+    <td>Ingreso de Transacciones</td>
+    <td>Escenario 1: Given el usuario está en la sección de una billetera, when selecciona la opción de registrar una transacción, then debe poder ingresar los detalles de la transacción, como monto, categoría y nota.</td>
+  </tr>
+  <tr>
+    <td>US15</td>
+    <td>Categorizar Transacciones</td>
+    <td>Escenario 1: Given el usuario registra una transacción, when selecciona una categoría para la transacción, then la transacción se clasifica automáticamente en la categoría seleccionada.</td>
+  </tr>
+  <tr>
+    <td>US16</td>
+    <td>Crear Transacciones Recurrentes</td>
+    <td>Escenario 1: Given el usuario está en la sección de una billetera, when selecciona la opción de registrar una transacción and marca la opción de transacción recurrente configurando la frecuencia, then la transacción se registra automáticamente según la configuración.</td>
+  </tr>
+  <tr>
+    <td>US19</td>
+    <td>Realizar Transacciones a otra Billetera</td>
+    <td>Escenario 1: Given el usuario está en la sección de una billetera, when selecciona la opción de transferir dinero, then debe poder ingresar el monto and seleccionar la billetera de destino para completar la transferencia.</td>
+  </tr>
+  <tr>
+    <td>US23</td>
+    <td>Alerta de Límite de Presupuesto</td>
+    <td>Escenario 1: Given el usuario está en la sección de presupuestos, when el monto gastado se acerca al límite del plan, then debe recibir una notificación de alerta que le advierte sobre el exceso de gastos.</td>
+  </tr>
+  <tr>
+    <td>US24</td>
+    <td>Ver Periodos Anteriores de un Presupuesto</td>
+    <td>Escenario 1: Given el usuario está en la sección de presupuestos, when selecciona un plan de presupuesto, then debe poder ver los periodos anteriores con sus montos gastados.</td>
+  </tr>
+  <tr>
+    <td>US25</td>
+    <td>Ver Gráfico Anual de Gastos en Periodos Anteriores de un Presupuesto</td>
+    <td>Escenario 1: Given el usuario está en la sección de presupuestos, when selecciona un plan de presupuesto, then debe poder ver un gráfico que muestre los gastos mensuales en periodos anteriores del plan.</td>
+  </tr>
+  <tr>
+    <td>US32</td>
+    <td>Cambiar el Idioma de la Landing Page</td>
+    <td>Given el visitante está en la landing page, when selecciona un idioma diferente en el menú de idiomas, then la página debe cambiar al idioma seleccionado.</td>
+  </tr>
+  <tr>
+    <td>TS40</td>
+    <td>Integración con Sistema Externo</td>
+    <td>Given el sistema tiene una API disponible, when se establece la conexión con el servicio externo, then el sistema puede acceder a los datos y funcionalidades del servicio externo.</td>
+  </tr>
+  <tr>
+    <td>TS41</td>
+    <td>Creación de Transacciones en Billetera</td>
+    <td>Given el endpoint (/api/v1/transactions) esté disponible, when se envía una solicitud POST con los datos de la transacción al endpoint, then se recibe una señal de confirmación (201) and el sistema registra la transacción en la billetera seleccionada.</td>
+  </tr>
+  <tr>
+    <td>TS42</td>
+    <td>Creación de Plan de Presupuesto en Billetera</td>
+    <td>Given el endpoint (/api/v1/budgets) esté disponible, when se envía una solicitud POST con los datos del plan de presupuesto al endpoint, then se recibe una señal de confirmación (201) and el sistema registra el plan de presupuesto en la billetera seleccionada.</td>
+  </tr>
+  <tr>
+    <td>TS43</td>
+    <td>Creación de Plan de Ahorro en Billetera</td>
+    <td>Given el endpoint (/api/v1/savings) esté disponible, when se envía una solicitud POST con los datos del plan de ahorro al endpoint, then se recibe una señal de confirmación (201) and el sistema registra el plan de ahorro en la billetera seleccionada.</td>
+  </tr>
+  <tr>
+    <td>TS37</td>
+    <td>Registrar Usuarios por una API</td>
+    <td>Given el endpoint (/api/v1/auth/sign-up) esté disponible, when se envía una solicitud POST con los datos del usuario ingresados al endpoint, then se recibe una señal de confirmación (201) and el sistema registra al usuario.</td>
+  </tr>
+</table>
 
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review

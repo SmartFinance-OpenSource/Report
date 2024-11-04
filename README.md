@@ -2274,7 +2274,18 @@ A continuación se muestran los commits realizados durante el Sprint 3 para docu
 | SmartFinance-OpenSource/Backend-Finzar | feat/savings          | 337bbb85         | feat: added new saving query service list        | feat: added new saving query service list               | 2024-11-02          |
 | SmartFinance-OpenSource/Backend-Finzar | feat/savings          | 5fbfc17b         | feat: added list to find saving by user ID       | feat: added list to find saving by user ID              | 2024-11-02          |
 | SmartFinance-OpenSource/Backend-Finzar | feat/savings          | 2e338ccd         | feat: added new endpoint on controller           | feat: added new endpoint on controller                  | 2024-11-02          |
-
+| SmartFinance-OpenSource/Backend-Finzar | feat/transaction      | 00345442         | feat(transaction): added services implementation      | feat(transaction): added services implementation        | 2024-11-04          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/transaction      | 1cdd7a1d         | feat(transaction): added aggregate and entity repository | feat(transaction): added aggregate and entity repository | 2024-11-04          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/transaction      | 464e8a62         | feat(transaction): added commands                    | feat(transaction): added commands                       | 2024-11-04          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/transaction      | 279a39f1         | feat(transaction): added resources                   | feat(transaction): added resources                      | 2024-11-04          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/transaction      | 572b8770         | feat(transaction): added rest api calls for transaction aggregate | feat(transaction): added rest api calls for transaction aggregate | 2024-11-04 |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallet           | 3c7e06c1         | feat(wallet): added simplified wallet resource       | feat(wallet): added simplified wallet resource          | 2024-11-04          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallet           | 3c7e06c1         | feat(wallet): added simplified update wallet resource| feat(wallet): added simplified update wallet resource   | 2024-11-04          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/transactions     | a7f2fb52         | feat(transactions): added rest functionality         | feat(transactions): added rest functionality            | 2024-11-04          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/transations      | ebbe312c         | feat(transactions): added validators for expenses and earnings | feat(transactions): added validators for expenses and earnings | 2024-11-04 |
+| SmartFinance-OpenSource/Backend-Finzar | refactor/transaction  | b5e5ddf8         | refactor(transaction): changed transaction type      | refactor(transaction): changed transaction type from enum to entity | 2024-11-04 |
+| SmartFinance-OpenSource/Backend-Finzar | refactor/transaction  | f36d50f6         | refactor(transaction): changed period recurrence     | refactor(transaction): changed period recurrence from enum to entity | 2024-11-04 |
+| SmartFinance-OpenSource/Backend-Finzar | chore/documentation   | 2105d183         | chore: added documentation file                      | chore: added documentation file                         | 2024-11-04          |
 
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review
 

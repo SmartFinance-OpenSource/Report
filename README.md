@@ -90,10 +90,10 @@ TB2: Se han realizado todas las tareas asignadas para la entrega del TB2, las cu
 <img src="assets/tb2insights/finzarbackcontributors.png">
 
 **Distribución de commits de commits:**
-- Juan Diego Astonitas Díaz:  commits.
-- Gianluca Santino Pasquale Barrenechea:  commits.
-- Josue Gonzalo Paiva Quispe:  commits.
-- Sebastian Pacheco Astiguetta:  commits.
+- Juan Diego Astonitas Díaz: 69 commits.
+- Gianluca Santino Pasquale Barrenechea: 44 commits.
+- Josue Gonzalo Paiva Quispe: 12 commits.
+- Sebastian Pacheco Astiguetta: 18 commits.
 
 
 
@@ -2673,10 +2673,10 @@ En esta sección se presenta el desarrollo colaborativo del equipo en la impleme
 <img src="assets/tb2insights/finzarbackcontributors.png">
 
 **Distribución de commits de commits:**
-- Juan Diego Astonitas Díaz:  commits.
-- Gianluca Santino Pasquale Barrenechea:  commits.
-- Josue Gonzalo Paiva Quispe:  commits.
-- Sebastian Pacheco Astiguetta:  commits.
+- Juan Diego Astonitas Díaz: 69 commits.
+- Gianluca Santino Pasquale Barrenechea: 44 commits.
+- Josue Gonzalo Paiva Quispe: 12 commits.
+- Sebastian Pacheco Astiguetta: 18 commits.
 
 
 ### 5.3. Validation Interviews

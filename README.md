@@ -2252,8 +2252,7 @@ A continuación se muestran los commits realizados durante el Sprint 3 para docu
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
-En el tercer sprint identificamos 32 endpoints provenientes de 8 controladores diferentes. Utilizamos swagger para la presente documentacion.
-
+En el tercer sprint identificamos 34 endpoints provenientes de 8 controladores diferentes. Utilizamos swagger para la presente documentacion.
 
 **Saving Controller**
 <table>
@@ -2595,6 +2594,20 @@ EarningsController
     </tr>
     <tr>
         <td colspan="1"> Earnings </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/earnings/{userId} </td>
+        <td colspan="1"> Get all earnings by user id </td>
+        <td colspan="1"> Get all earnings in a system by its user id </td>
+        <td colspan="1"> GetEarningsByUserId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> userId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Earnings </td>
         <td colspan="1"> POST </td>
         <td colspan="1"> /api/v1/earnings</td>
         <td colspan="1"> Create new earning </td>
@@ -2644,6 +2657,20 @@ ExpensesController
     <tr>
         <td colspan="1"> Parameters </td>
         <td colspan="2">earningId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Expenses </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/expenses/{userId} </td>
+        <td colspan="1"> Get all expenses by user id </td>
+        <td colspan="1"> Get all expenses in a system by its user id </td>
+        <td colspan="1"> GetExpensesByUserId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> userId  </td>
         <td colspan="1"> Request body </td>
         <td colspan="2"> no </td>
     </tr>

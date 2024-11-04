@@ -1,4 +1,4 @@
-<div align = "center">
+![image](https://github.com/user-attachments/assets/286a74e9-16ad-4f72-ae1b-0ce538fb5ce3)<div align = "center">
   <h1>Universidad Peruana de Ciencias Aplicadas</h1>
   <img style="height: 200px" src=https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png>
   <h2 >Carrera: de Ingeniería de Software</h2>
@@ -2945,10 +2945,9 @@ En esta sección se presenta el desarrollo colaborativo del equipo en la impleme
 - Sebastian Pacheco Astiguetta: 18 commits.
 
 
-=======
-### 5.3 Validation Interviews
+### 5.3. Validation Interviews
 
-#### 5.3.1 Interview Design
+#### 5.3.1 Diseño de entrevistas
 
 ## Objetivo de la Entrevista
 Validar la usabilidad y efectividad de la landing page y de los flujos de usuario de la aplicación Finzar, asegurando que cada flujo sea claro, atractivo y fomente la interacción de los usuarios con las funcionalidades clave de la plataforma.
@@ -3005,10 +3004,8 @@ Validar la usabilidad y efectividad de la landing page y de los flujos de usuari
 - ¿Fue fácil entender la información en los reportes financieros?
 - ¿Qué mejorarías en la presentación de estos reportes?
 - ¿Te ayudó esta sección a comprender mejor tus hábitos financieros?
-  
 
-### 5.3. Validation Interviews
-##### 5.3.1. Diseño de entrevistas.
+
 ##### 5.3.2. Registro de entrevistas.
 
 |                                                           |                                                                                                                                                   |

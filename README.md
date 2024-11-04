@@ -2602,6 +2602,40 @@ RepeatPeriodController
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
+En esta sección se presenta el desarrollo colaborativo del equipo en la implementación del Sprint, mostrando analíticos de participación y commits en para la Landing Page, Aplicaciones Web y Servicios Web.
+
+**Landing Page**
+
+<img src="assets/tb2insights/finzarlandingpulse.png">
+<img src="assets/tb2insights/finzarlandingcontributors.png">
+
+**Distribución de commits de commits:**
+- Juan Diego Astonitas Díaz: 7 commits.
+- Gianluca Santino Pasquale Barrenechea: 6 commits.
+- Josue Gonzalo Paiva Quispe: 6 commits.
+- Sebastian Pacheco Astiguetta: 3 commits.
+  
+**Frontend**
+<img src="assets/tb2insights/finzarfrontpulse.png">
+<img src="assets/tb2insights/finzarfrontcontributors.png">
+
+**Distribución de commits de commits:**
+- Juan Diego Astonitas Díaz: 57 commits.
+- Gianluca Santino Pasquale Barrenechea: 9 commits.
+- Josue Gonzalo Paiva Quispe: 8 commits.
+- Sebastian Pacheco Astiguetta: 31 commits.
+
+**Backend**
+<img src="assets/tb2insights/finzarbackpulse.png">
+<img src="assets/tb2insights/finzarbackcontributors.png">
+
+**Distribución de commits de commits:**
+- Juan Diego Astonitas Díaz:  commits.
+- Gianluca Santino Pasquale Barrenechea:  commits.
+- Josue Gonzalo Paiva Quispe:  commits.
+- Sebastian Pacheco Astiguetta:  commits.
+
+
 ### 5.3. Validation Interviews
 ##### 5.3.1. Diseño de entrevistas.
 ##### 5.3.2. Registro de entrevistas.

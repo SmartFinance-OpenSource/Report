@@ -2089,6 +2089,8 @@ En esta entrega, no se realizaron cambios con relación al Landing Page. Por el 
 Se ha desarrollado un avance con respecto al Frontend, por el momento se dispone de un dashboard donde se muestra las billeteras y cards importantes. Esta página evidencia ello:
 ![Execution-Evidence-Frontend](assets/sprint-2-assets/execution-evidence.png)
 
+
+
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 En este sprint, hemos podido desplegar una Aplicación Web que consume json para mostrar información principal de la base de datos. A continuación, se muestra el código de la aplicación.
 
@@ -2292,6 +2294,40 @@ A continuación se muestran los commits realizados durante el Sprint 3 para docu
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review
+En esta entrega, no se realizaron cambios con relación al Landing Page. Por el momento, la Landing Page queda igual a la versión realizada en el Sprint 3.
+Se ha desarrollado un avance con respecto a la Landing Page, FrontEnd y BackEnd:
+
+###### Landing Page
+
+![execution-landing1](/assets/execution/landingfinzar1.png)
+![execution-landing2](/assets/execution/landingfinzar2.png)
+![execution-landing3](/assets/execution/landingfinzar3.png)
+![execution-landing4](/assets/execution/landingfinzar4.png)
+![execution-landing5](/assets/execution/landingfinzar5.png)
+![execution-landing6](/assets/execution/landingfinzar6.png)
+![execution-landing7](/assets/execution/landingfinzar7.png)
+
+###### FrontEnd
+
+![execution-front1](/assets/execution/frontfinzar1.png)
+![execution-front2](/assets/execution/frontfinzar2.png)
+![execution-front3](/assets/execution/frontfinzar3.png)
+![execution-front4](/assets/execution/frontfinzar4.png)
+![execution-front5](/assets/execution/frontfinzar5.png)
+![execution-front6](/assets/execution/frontfinzar6.png)
+![execution-front7](/assets/execution/frontfinzar7.png)
+![execution-front8](/assets/execution/frontfinzar8.png)
+![execution-front9](/assets/execution/frontfinzar9.png)
+![execution-front10](/assets/execution/frontfinzar10.png)
+
+###### BackEnd
+
+![execution-backend1](/assets/execution/backendfinzar1.png)
+![execution-backend1](/assets/execution/backendfinzar2.png)
+
+
+
+Enlace a video de demostración: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112078_upc_edu_pe/ETp1nBDu7vZEt9R3o_7CMVkBjkTQ24N6BXFe1RYHbR_umw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=HqUB5M">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112078_upc_edu_pe/ETp1nBDu7vZEt9R3o_7CMVkBjkTQ24N6BXFe1RYHbR_umw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=HqUB5M</a>
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review
 

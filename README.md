@@ -14,7 +14,6 @@
   <h2 >Integrantes:</h2>
   <ul style="list-style: none; padding: 0;">
       <li><h3>Juan Diego Astonitas Díaz</h3></li>
-      <li><h3>Sebastián Omar Real Calderón</h3></li>
       <li><h3>Sebastian Pacheco Astiguetta</h3></li>
       <li><h3>Gianluca Santino Pasquale Barrenechea</h3></li>
       <li><h3>Josue Gonzalo Paiva Quispe</h3></li>
@@ -23,13 +22,32 @@
   <h4>Septiembre del 2024</h4>
 </div>
 
+
 ## Registro de Versiones del Informe
 
-| Versión | Fecha      | Autor                 | Descripción de modificación |
-|---------|------------|-----------------------|-----------------------------|
-| TB1     | 08/09/2024 | Todos los integrantes | Desarrollo de la TB1        |
+| Versión | Fecha      | Autor                           | Descripción de modificación                                              |
+|---------|------------|---------------------------------|--------------------------------------------------------------------------|
+| 0.1     | 26/08/2024 | Juan Astonitas,Gialuca Pasquale | Desarrollo del capitulo 1 y 2                                            |
+| 0.2     | 06/09/2024 | Todos los integrantes           | Desarrollo del capitulo 3                                                |
+| 0.3     | 08/09/2024 | Juan Astonitas                  | Desarrollo del capitulo 4  y sprint 1                                    |
+| 1.0     | 09/09/2024 | Todos los integrantes           | Release TB1                                                              |
+| 1.1     | 12/09/2024 | Todos los integrantes           | Correcciones TB1                                                         |
+| 1.2     | 26/09/2024 | Sebastian pacheco               | Desarrollo sprint 2                                                      |
+| 2.0     | 26/09/2024 | Todos los integrantes           | Release TP                                                               |
+| 2.1     | 19/10/2024 | Josue Paiva,Gialuca Pasquale    | Correciones del sprint 1 y 2                                             |
+| 2.1     | 24/10/2024 | Todos los integrantes           | Desarrollo del sprint planning y backlong 3                              |
+| 2.1     | 02/11/2024 | Todos los integrantes           | Desarrollo de las Evidencias del Sprint 3 y evaluación según heurísticas |
+| 3.0     | 03/11/2024 | Todos los integrantes           | Release TB2                                                              |
+
 
 ## Project Report Collaboration Insights
+
+
+| URL de la organización del proyecto |                URL del repositorio del reporte                |
+|:-----------------------------------:|:-------------------------------------------------------------:|
+|   https://github.com/SmartFinance-OpenSource    | https://github.com/SmartFinance-OpenSource/Report |
+
+
 Se han realizado todas las tareas asignadas para la entrega de la TB1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el 
 enlace [https://github.com/SmartFinance-OpenSource.](https://github.com/SmartFinance-OpenSource) Para elaborar el informe, cada miembro ha redactado y creado gráficos en formato Markdown según los puntos asignados, realizando commits para registrar el avance en el repositorio. 
 
@@ -42,6 +60,42 @@ el trabajo sea equitativo entre todos.
 
 Como Se puede ver a continuacion, durate el desarrollo de la TB1 hemos tenido 70 branches a los que hemos hecho merge con develop, cada uno de estos corresponde a una seccion del trabajo (por ejemplo: Project Report Collaboration Insights). 
 ![insight2](assets/projectColaborationInsigths/insight2.png)
+
+
+TB2: Se han realizado todas las tareas asignadas para la entrega del TB2, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/SmartFinance-OpenSource. Para elaborar el informe cada miembro corrigio y añadio puntos que se  debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/SmartFinance-OpenSource/Report, de la misma manera para el desarrollo de la web application se trabajo en este repositorio: https://github.com/SmartFinance-OpenSource/Frontend-Finzar, por ultimo el desarrollo del backend se realizó en el siguiente enlace: https://github.com/SmartFinance-OpenSource/Backend-Finzar.
+
+**Landing Page**
+
+<img src="assets/tb2insights/finzarlandingpulse.png">
+<img src="assets/tb2insights/finzarlandingcontributors.png">
+
+**Distribución de commits de commits:**
+- Juan Diego Astonitas Díaz: 7 commits.
+- Gianluca Santino Pasquale Barrenechea: 6 commits.
+- Josue Gonzalo Paiva Quispe: 6 commits.
+- Sebastian Pacheco Astiguetta: 3 commits.
+  
+**Frontend**
+<img src="assets/tb2insights/finzarfrontpulse.png">
+<img src="assets/tb2insights/finzarfrontcontributors.png">
+
+**Distribución de commits de commits:**
+- Juan Diego Astonitas Díaz: 57 commits.
+- Gianluca Santino Pasquale Barrenechea: 9 commits.
+- Josue Gonzalo Paiva Quispe: 8 commits.
+- Sebastian Pacheco Astiguetta: 31 commits.
+
+**Backend**
+<img src="assets/tb2insights/finzarbackpulse.png">
+<img src="assets/tb2insights/finzarbackcontributors.png">
+
+**Distribución de commits de commits:**
+- Juan Diego Astonitas Díaz: 69 commits.
+- Gianluca Santino Pasquale Barrenechea: 44 commits.
+- Josue Gonzalo Paiva Quispe: 12 commits.
+- Sebastian Pacheco Astiguetta: 18 commits.
+
+
 
 ## Contenido
 
@@ -126,7 +180,7 @@ Como Se puede ver a continuacion, durate el desarrollo de la TB1 hemos tenido 70
             - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
             - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
             - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
-            - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+            - [5.2.1.4.  Suite Evidence for Sprint Review](#5214--suite-evidence-for-sprint-review)
             - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
             - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
             - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
@@ -140,6 +194,16 @@ Como Se puede ver a continuacion, durate el desarrollo de la TB1 hemos tenido 70
             - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
             - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
             - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+        - [5.2.3. Sprint 3](#523-sprint-3)
+            - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+            - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+            - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+            - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+            - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+            - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+            - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+            - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+
 
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
@@ -1315,9 +1379,8 @@ Los elementos presentes son:
 * Customer (Cliente): Accede a la aplicación web.
 * Administrator (Administrador): Accede a la aplicación web y supervisa su funcionamiento.
 * SmartFinance: Software que los usuarios utilizarán.
-<br>
 
-![SmartFinance-SystemContext](assets/dsl/structurizr-94856-SystemContext-001.png)
+![SmartFinance-SystemContext](assets/dsl/structurizr-82875-SystemContext.png)
 #### 4.6.2. Software Architecture Container Diagrams
 Los elementos presentes son:
 
@@ -1326,50 +1389,49 @@ Los elementos presentes son:
 * API: Conexión entre el frontend y backend.
 * Bounded Contexts: Las funcionalidades que el sistema proporciona a los usuarios.
 * Bases de datos: Almacenará datos como cuentas, billeteras, presupuestos, transacciones, entre otros.
-<br>
+![SmartFinance-Container](assets/dsl/structurizr-82875-Container.png)
 
-![SmartFinance-Container](assets/dsl/structurizr-94856-Container-001.png)
 #### 4.6.3. Software Architecture Components Diagrams
-**Bounded Context Account Creation and Management**
+**Bounded Context Account Management**
 
 Los elementos presentes son:
 * Controller: Controla un conjunto de funcionalidades.
 * Service: Partes de la aplicación que realizan una o varias tareas específicas.
 * Repository: Permite el acceso a una base de datos.
-![AccountCreationAndManagement-Component](assets/dsl/structurizr-94856-Component-001.png)
+![AccountCreationAndManagement-Component](assets/dsl/structurizr-82875-Bounded_Context-Users.png)
 
-**Bounded Context Visualization of Wallets and Flows**
+**Bounded Context User Wallets**
+
+Los elementos presentes son:
+* Controller: Controla un conjunto de funcionalidades.
+* Services: Partes de la aplicación que realizan una o varias tareas específicas.
+* Repository: Permite el acceso a una base de datos.
+![VisualizationOfWalletsAndFlows-Component](assets/dsl/structurizr-82875-Bounded_Context-Wallets.png)
+
+**Bounded Context Transactions and Flows**
+
+Los elementos presentes son:
+* Controllers: Controla un conjunto de funcionalidades.
+* Services: Partes de la aplicación que realizan una o varias tareas específicas.
+* Repositories: Permite el acceso a una base de datos.
+![TransactionRegisterAndCategorization-Component](assets/dsl/structurizr-82875-Bounded_Context-Transactions.png)
+
+**Bounded Context Wallet Savings**
 
 Los elementos presentes son:
 * Controller: Controla un conjunto de funcionalidades.
 * Service: Partes de la aplicación que realizan una o varias tareas específicas.
 * Repository: Permite el acceso a una base de datos.
-![VisualizationOfWalletsAndFlows-Component](assets/dsl/structurizr-94856-Component-002.png)
+![BudgetingCreationAndMonitoring-Component](assets/dsl/structurizr-82875-Bounded_Context-Savings.png)
 
-**Bounded Context Transaction Register and Categorization**
-
-Los elementos presentes son:
-* Controller: Controla un conjunto de funcionalidades.
-* Service: Partes de la aplicación que realizan una o varias tareas específicas.
-* Repository: Permite el acceso a una base de datos.
-![TransactionRegisterAndCategorization-Component](assets/dsl/structurizr-94856-Component-003.png)
-
-**Bounded Context Budgeting Creation and Monitoring**
-
-Los elementos presentes son:
-* Controller: Controla un conjunto de funcionalidades.
-* Service: Partes de la aplicación que realizan una o varias tareas específicas.
-* Observer: Notifica sobre algún cambio en un evento realizado por un componente.
-* Repository: Permite el acceso a una base de datos.
-![BudgetingCreationAndMonitoring-Component](assets/dsl/structurizr-94856-Component-004.png)
-
-**Bounded Context Savings Creation and Monitoring**
+**Bounded Context Wallets & Savings Graphics Providing**
 
 Los elementos presentes son:
 * Controller: Controla un conjunto de funcionalidades.
 * Service: Partes de la aplicación que realizan una o varias tareas específicas.
 * Repository: Permite el acceso a una base de datos.
-![SavingsCreationAndMonitoring-Component](assets/dsl/structurizr-94856-Component-005.png)
+* Context Facade: Proporciona una interface en la cual se puede acceder a los servicios del bounded context.
+![SavingsCreationAndMonitoring-Component](assets/dsl/structurizr-82875-Bounded_Context-Graphics.png)
 
 ### 4.7. Software Object-Oriented Design
 El diseño orientado a objetos del software será esencial para nuestro proyecto. Estructuramos nuestro software de acuerdo a nuestras reglas de negocio para poder crear componentes que puedan ser entendibles para su desarrollo en un sistema real, y sean fáciles de modificar para nosotros.
@@ -1418,7 +1480,7 @@ El diseño orientado a objetos del software será esencial para nuestro proyecto
 ### 4.8. Database Design
 El diseño de la base de datos será fundamental para nuestro proyecto, ya que proporcionará la estructura subyacente para almacenar y gestionar los datos de manera eficiente y segura. Esto nos permitirá organizar los datos de manera lógica y coherente, facilitando su recuperación y manipulación en respuesta a las solicitudes de los usuarios.
 #### 4.8.1. Database Diagram
-![Database](assets/software-architecture/finzarDatabaseDiagram.png)
+![Database](assets/diagrams/final-database-diagram.png)
 
 ## Capítulo V: Product Implementation, Validation & Deployment <a id="cap5"></a>
 
@@ -1476,7 +1538,9 @@ Para la organizacion del proyecto requerimos de un sistema de de asignación de 
 
 | Producto     | Repositorio         | URL                                                     |
 |--------------|---------------------|---------------------------------------------------------|
-| Landing Page | Finzar-landing-page | https://github.com/SmartFinance-OpenSource/Landing-Page |
+| Landing Page | Finzar-landing-page | |
+| Web Services | Finzar-Web Services |https://github.com/SmartFinance-OpenSource/Backend|
+| Front Web Application | Finzar-Frontend |https://github.com/SmartFinance-OpenSource/Frontend|
 
 Flujo de trabajo GitFlow
 
@@ -1656,9 +1720,18 @@ Con cada actualización e implementación del repositorio se harán pruebas que 
 #### 5.2.1. Sprint 1
 ##### 5.2.1.1. Sprint Planning 1
 
-| **Sprint #** | **Date**   | **Time** | **Location**          | **Prepared by** | **Attendees (to planning meeting)**                                               | **Sprint n – 1 Review Summary**                                                                                                                               | **Sprint n – 1 Retrospective Summary**         | **Sprint 1 Goal**                                                                                                                                                                                    | **Sprint 1 Velocity** | **Sum of Story Points**    |
-|--------------|------------|----------|-----------------------|-----------------|-----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|----------------------------|
-| 1            | 2024-09-02 | 1:00 PM  | Virtual - Google Meet | Juan Astonitas  | Juan Astonitas, Sebastián Real, Gianluca Pasquale, Josue Paiva, Sebastian Pacheco | Se realizó la landing page, implementada con css y html, con base en los mockups y wireframes del diseño realizado en figma y siguiendo los style guidelines. | Mejorar la organización y el trabajo en grupo. | Implementar la landing page y prepararla para presentar el producto adecuadamente a los visitantes. Esto ayudará a captar su atención e informarlos sobre las funcionalidades de nuestra aplicación. | 25 Story Points       | 18 Story Points atendidos. |
+| Sprint # | Sprint 1 |
+|-|-|
+| **Date** | 2024-09-02 |
+| **Time** | 1:00 PM |
+| **Location** | Virtual - Meet |
+| **Prepared By** | Juan Astonitas |
+| **Attendees (to planning meeting)** | Juan Astonitas, Sebastián Real, Gianluca Pasquale, Josue Paiva, Sebastian Pacheco |
+| **Sprint n - 1 Review Summary** | Este es el primer Sprint, por lo que ete campo no aplica. |
+| **Sprint n - 1 Retrospective Summary** | Este es el primer Sprint, por lo que este campo no aplica. |
+| **Sprint 1 Goal** | Nuestra prioridad en este sprint es implementar la landing page de nuestra aplicación. Creemos que esto brindará una presentación satisfactoria de nuestro producto a los posibles usuarios. Esto se confirmará cuando las visitas a nuestra landing page superen un cierto índice. |
+| **Sprint 1 Velocity** | Nuestro equipo puede aceptar hasta 20 story points |
+| **Sum of Story Points** | La suma de Story Points atendidos es de 19 story points |
 
 ##### 5.2.1.2. Sprint Backlog 1
 
@@ -1677,18 +1750,43 @@ Para el primer sprint, desarrollamos la estructura y las funcionalidades básica
 | US-33          | Contactar al equipo de soporte.       | T07                | Agregar un formulario en la landing page que permita enviar un mensaje al equipo de soporte.                       | 3                                                                                                            | Juan Astonitas      | Done            |
 
 ##### 5.2.1.3. Development Evidence for Sprint Review
-
+En esta sección presentamos el flujo de trabajo para la creación y actuallización de la landing page
 | Repository                           | Branch  | Commit ID | Commit Message                         | Commit Message Body | Commited on (Date) |
 |--------------------------------------|---------|-----------|----------------------------------------|---------------------|--------------------|
-| SmartFinance-OpenSource/Landing-Page | main    | 78a1dbb   | Initial Commit                         |                     | 19/08/2024         |
-| SmartFinance-OpenSource/Landing-Page | develop | 464433d   | feat: add landing page images          |                     | 09/09/2024         |
-| SmartFinance-OpenSource/Landing-Page | develop | 8bd63b6   | feat: added first version landing page |                     | 09/09/2024         |
-| SmartFinance-OpenSource/Landing-Page | develop | be2226e   | fix: fixed header redirectors          |                     | 09/09/2024         |
-
+| SmartFinance-OpenSource/Landing-Page | develop | 464433d   | feat: add landing page images          |                     | 08/09/2024         |
+| SmartFinance-OpenSource/Landing-Page | develop | 8bd63b6   | feat: added first version landing page |                     | 08/09/2024         |
+| SmartFinance-OpenSource/Landing-Page | develop | be2226e   | fix: fixed header redirectors          |                     | 08/09/2024         |
+| SmartFinance-OpenSource/Landing-Page | develop | 3ad4671   | chore: added landing page files        |                     | 07/09/2024         |
 ##### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
-Se omite esta sección, dado que aún no se tiene el conocimiento necesario para realizar pruebas automatizadas. Esto se llevara a cabo en futuros sprints.
-
+Sprint 1 TB1
+<table>
+  <tr>
+    <th>Epic / Story ID</th>
+        <th>Título</th>
+    <th>Criterios de Aceptación</th>
+  </tr>
+  <tr>
+    <td>US29</td>
+    <td>Navegación por el landing page</td>
+    <td>Given el visitante está en la landing page, when navega por las secciones y contenido, then debe encontrar información clara y relevante sobre las funcionalidades y beneficios del software.</td>
+  </tr>
+  <tr>
+    <td>US30</td>
+    <td>Ver Información del Startup</td>
+    <td>Given el visitante está en la landing page,, when navega por los perfiles de los miembros, then debería ver fotos, nombres y roles de cada miembro del equipo.</td>
+  </tr>
+  <tr>
+    <td>US31</td>
+    <td>Conocer la misión de la Startup</td>
+    <td>Given el visitante está en la landing page, when navega por la sección de misión, visión y valores, then debe encontrar información clara y concisa sobre los principios y objetivos de la startup.</td>
+   <tr>
+    <td>US33</td>
+    <td>Contactar al Equipo de Soporte</td>
+    <td>Given el visitante está en la landing page, when selecciona la opción de contacto, then debe poder enviar un mensaje al equipo de soporte con su consulta o solicitud.</td>
+  </tr>
+  </tr>
+</table>
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
 En esta entrega, nuestro equipo ha desplegado con éxito la landing page.
@@ -1701,45 +1799,116 @@ Enlace de la Landing Page: https://smartfinance-opensource.github.io/Landing-Pag
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-Se omite esta sección ya que aún no contamos con Web Application, la cual se desarrollará en Sprints futuros.
-
+Sprint 2 TP
+<table>
+  <tr>
+  <tr>
+    <th>Epic / Story ID</th>
+    <th>Título</th>
+    <th>Criterios de Aceptación</th>
+  </tr>
+  </tr>
+  <tr>
+    <td>US04</td>
+    <td>Billeteras por Defecto</td>
+    <td>Escenario 1: Given el usuario creó su cuenta, when accede a la sección de billeteras, then debería ver una billetera general y una billetera de emergencia por defecto. Escenario 2: Given el usuario creó su cuenta, when accede a la sección de billeteras, then podra renombrar y gestionar sus billeteras en base a sus necesidades.</td>
+  </tr>
+  <tr>
+    <td>US07</td>
+    <td>Creación de Billeteras Adicionales</td>
+    <td>Escenario 1:Given el usuario está en la sección de billeteras, when selecciona la opción de crear una nueva billetera, then debe poder ingresar un nombre y descripción para la nueva billetera. Escenario 2:Given el usuario está en la sección de billeteras, when selecciona una billetera ya creada, then podra renombrar dicha billetera.</td>
+  </tr>
+  <tr>
+    <td>US08</td>
+    <td>Visualizar el Estado de una Billetera</td>
+    <td>Escenario 1:Given el usuario está en la sección de billeteras, when selecciona una billetera, then debe ver el saldo actual y las transacciones más recientes de la billetera. Escenario 2:Given el usuario está en la sección de billeteras, when selecciona una billetera sin transacciones registradas, then se le indicara que la billetera no presenta un historial de transacciones.</td>
+   <tr>
+    <td>US09</td>
+    <td>Visualizar el Saldo en el mes</td>
+    <td>Escenario 1: Given el usuario está en la sección de una billetera, when accede a la vista de resumen mensual, then debe ver el saldo actual de la billetera en el mes. Escenario 2: Given el usuario está en la sección de una billetera, when accede a la vista de resumen mensual de una billetera reciente, then se le indicará que la billetera aun no ha completado un mes.</td>
+  </tr>
+   <tr>
+    <td>US10</td>
+    <td>Visualizar los Cambios de Balance en el mes</td>
+    <td>Escenario 1:Given el usuario está en la sección de una billetera, when accede a la vista de resumen mensual, then debe ver un gráfico que muestre los cambios de balance en la billetera a lo largo del mes. Escenario 2:Given el usuario está en la sección de una billetera, when elige un grafico de su preferencia, then podra elegir exportar el gráfico en el formato de su preferencia.</td>
+  <tr>
+    <td>US11</td>
+    <td>Visualizar los Porcentajes Categorizados de Ingresos en el mes</td>
+    <td>Escenario 1:Given el usuario está en la sección de una billetera, when accede a la vista de resumen mensual, then debe ver un gráfico que muestre los porcentajes de ingresos categorizados en la billetera en el mes. Escenario 2:Given el usuario está en la sección de una billetera, when accede al gráfico de porcentajes de ingresos, then podrá personalizarlo a su gusto.</td>
+  </tr>
+  <tr>
+    <td>US20</td>
+    <td>Crear Plan de Presupuesto</td>
+    <td>Escenario 1:Given el usuario está en la sección de presupuestos, when selecciona la opción de crear un nuevo plan, then debe poder ingresar un nombre, monto y fechas de inicio y fin para el plan de presupuesto. Escenario 2:Given el usuario ya tiene un presupuesto registrado, when accede al prespuesto de su preferencia, then podra modificar el nombre de su prespuesto para organizarse mas eficientemente.</td>
+  </tr>
+  <tr>
+    <td>US21</td>
+    <td>Editar Plan de Presupuesto</td>
+    <td>Escenario 1:Given el usuario está en la sección de presupuestos, when selecciona un plan de presupuesto existente, then debe poder modificar el nombre, monto y fechas del plan de presupuesto. Escenario 2:Given el usuario ya tiene un presupuesto registrado, when selecciona un plan de presupuesto existente, then podra borrar el prespuesto seleccionado.</td>
+  </tr>
+    <tr>
+    <td>US22</td>
+    <td>Ver Presupuesto Restante</td>
+    <td>Escenario 1:Given el usuario está en la sección de presupuestos, when selecciona un plan de presupuesto, then debe ver el monto restante del presupuesto y una barra de progreso que indica el porcentaje gastado. Escenario 2:Given el usuario desea actualizar un prespuesto, when selecciona un plan de presupuesto, then podra ampliarlo o reducirlo según sus necesidades.</td>
+  </tr>
+  <tr>
+    <td>US26</td>
+    <td>Crear Plan de Ahorro</td>
+    <td>Escenario 1:Given el usuario está en la sección de ahorros, when selecciona la opción de crear un nuevo plan, then debe poder ingresar un nombre, monto y fechas de inicio y fin para el plan de ahorro. Escenario 2:Given el usuario está en la sección de ahorros, when selecciona la opción de renombrar un nuevo plan, then podrá renombrar el plan elejido para ordenar sus planes de ahorro.</td>
+  </tr>
+  <tr>
+    <td>US27</td>
+    <td>Editar Plan de Ahorro</td>
+    <td>Escenario 1:Given el usuario está en la sección de ahorros, when selecciona un plan de ahorro existente, then debe poder modificar el nombre, monto y fechas del plan de ahorro. Escenario 2:Given el usuario está en la sección de ahorros, when selecciona un plan de ahorro existente, then podra eliminarlo de su lista de ahorros existentes.</td>
+  </tr>
+    <tr>
+    <td>US28</td>
+    <td>Ver Progreso del Ahorro</td>
+    <td>Escenario 1:Given el usuario está en la sección de ahorros, when selecciona un plan de ahorro, then debe ver el monto ahorrado, el monto restante y una barra de progreso que indica el porcentaje alcanzado de la meta. Escenario 2:Given el usuario logró su objetivo, when selecciona el plan de ahorro exitoso, then podrá reiniciar el plan de ahorro o se le ofrecera crear uno nuevo en su lugar.</td>
+  </tr>
+  <tr>
+    <td>TS34</td>
+    <td>Configurar Entorno de Desarrollo</td>
+    <td>Given el desarrollador tiene acceso al repositorio del proyecto, when sigue las instrucciones de configuración, then debería poder ejecutar la aplicación localmente.</td>
+  </tr>
+</table>
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 - **Design**
 Para realizar el diseño de los wireframes y mockups de la Landing Page para este Sprint, se hizo uso de la plataforma [Figma](https://www.figma.com/)
 
 - Para el uso de la plataforma, es necesario crear una cuenta, así que nos dirigimos a la página oficial de Figma y se siguen los siguientes pasos para registrarse:
-![](/assets/design-steps/design-step-1.jpg)
-![](/assets/design-steps/design-step-2.jpg)
+![Design-Login-1](/assets/design-steps/design-step-1.jpg)
+![Design-Login-2](/assets/design-steps/design-step-2.jpg)
 
 - Luego se crea un Draft que servirá como base para el proyecto colaborativo.
-![](/assets/design-steps/design-step-3.jpg)
+![Design-Draft-Creation](/assets/design-steps/design-step-3.jpg)
 
 - **Deployment**
 
 - Para la landing page, se utilizará [GitHub](https://github.com/) y [Github Pages]() para la creación del repositorio y el despliegue de la página.
 
-![](/assets/deployment-steps/deployment-step-1.jpg)
-![](/assets/deployment-steps/deployment-step-2.jpg)
+![Deployment-Login-1](/assets/deployment-steps/deployment-step-1.jpg)
+![Deployment-Login-2](/assets/deployment-steps/deployment-step-2.jpg)
 
 - Tras crear la cuenta, se procede a crear una organización.
 
-![](/assets/deployment-steps/deployment-step-3.jpg)
-![](/assets/deployment-steps/deployment-step-4.jpg)
-![](/assets/deployment-steps/deployment-step-5.jpg)
-![](/assets/deployment-steps/deployment-step-6.jpg)
-![](/assets/deployment-steps/deployment-step-7.jpg)
-![](/assets/deployment-steps/deployment-step-8.jpg)
+![Deployment-Organization-1](/assets/deployment-steps/deployment-step-3.jpg)
+![Deployment-Organization-2](/assets/deployment-steps/deployment-step-4.jpg)
+![Deployment-Organization-3](/assets/deployment-steps/deployment-step-5.jpg)
+![Deployment-Organization-4](/assets/deployment-steps/deployment-step-6.jpg)
+![Deployment-Organization-5](/assets/deployment-steps/deployment-step-7.jpg)
+![Deployment-Organization-6](/assets/deployment-steps/deployment-step-8.jpg)
 
 - Se agregan a los demás miembros del equipo a la organización.
 
-![](/assets/deployment-steps/deployment-step-9.jpg)
-![](/assets/deployment-steps/deployment-step-10.jpg)
+![Deployment-Members-1](/assets/deployment-steps/deployment-step-9.jpg)
+![Deployment-Members-2](/assets/deployment-steps/deployment-step-10.jpg)
 
 - Por último, se crean los repositorios necesarios para el trabajo.
 
-![](/assets/deployment-steps/deployment-step-11.jpg)
-![](/assets/deployment-steps/deployment-step-12.jpg)
+![Deployment-Repositories-1](/assets/deployment-steps/deployment-step-11.jpg)
+![Deployment-Repositories-2](/assets/deployment-steps/deployment-step-12.jpg)
 
 - Para nuestro proyecto se crearon 4 repositorios los cuales son:
     - **Report:** Este repositorio se usa para realizar el informe del proyecto de manera continua.
@@ -1760,6 +1929,8 @@ Para este sprint, las tareas de diseño, implementación y documentación de la 
 En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo para el Sprint 2.
 
 ##### 5.2.2.1. Sprint Planning 2
+En esta sección se resumen los puntos clave del Sprint Planning, incluyendo los objetivos, entregables y tareas asignadas para el sprint. A continuación, se presenta un cuadro con los detalles acordados.
+
 | Sprint #                           | Sprint 2                                                                                                                                                                                                                                                            |
 |------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Date**                           | 2024-09-26                                                                                                                                                                                                                                                          |
@@ -1769,26 +1940,74 @@ En esta sección se registra el avance del producto y las acciones colaborativas
 | Attendees (to planning meeting)    | Juan Astonitas, Sebastián Real, Sebastian Pacheco                                                                                                                                                                                                                   |
 | Sprint 2 - 1 Review Summary        | Se ha mejorado varios puntos con respecto al reporte con los cambios que el profesor sugirió, además de crear una primera versión y desarrollo de nuestra aplicación Front End, el cual se seguirá desarrollando en futuras entregas.                               |
 | Sprint 2 - 1 Retrospective Summary | Hubo un progreso aceptable con el sprint 2: aunque no tuvimos la cantidad de pantallas que esperábamos, el equipo pudo fortalecer la comunicación y la colaboración, de esta manera se logró un avance que consideramos adecuado en el desarrollo de la aplicación. |
-| Sprint 2 Goal                      | Mejoramiento de información del reporte e implementar la primera versión de la aplicación Front End, con las funcionalidades básicas y el diseño visual de la aplicación.                                                                                           |
-| Sprint 2 Velocity                  | 16 User Stories                                                                                                                                                                                                                                                     |
-| Sum of Story Points                | 10 Story Points Atendidos                                                                                                                                                                                                                                           |
-
+| Sprint 2 Goal                      | Nuestra prioridad en este sprint es el mejoramiento de la información del reporte e implementar la primera versión de la aplicación Front End. Creemos que esto brindará una presentación satisfactoria de las funcionalidades básicas y el diseño visual de la aplicación a los posibles usuarios. Esto se confirmará cuando los usuarios interactúen de manera efectiva con las funcionalidades implementadas y recibamos retroalimentación positiva sobre la experiencia de uso.                                                                                           |
+| Sprint 2 Velocity                  | Nuestro equipo puede aceptar hasta 16 story points                                                                                                                                                                                                                                                 |
+| Sum of Story Points                | La suma de Story Points atendidos es de 10 story points | 
+                                                                                                                                                                                                                                     
 ##### 5.2.2.2. Sprint Backlog 2
-En el Sprint 2 el equipo se ha enfocado en las correcciones del reporte y la implementación del Front End Application. Se presenta el backlog de tareas para las correcciones del reporte en el Sprint 2.
-![Sprint 2 Backlog](/assets/sprint-2-assets/sprint-backlog-2-trello.png)
+En esta sección se presenta un resumen del objetivo principal del sprint, destacando las metas a alcanzar y las funcionalidades a implementar. A continuación, se muestra un screenshot del Board del sprint en la herramienta de control seleccionada, Trello, junto con el enlace público correspondiente. Además, se incluye una tabla con las User Stories asignadas al sprint y los Work-items/Tasks derivados, así como las tareas adicionales necesarias para cumplir con los objetivos generales del sprint.
 
-| **Sprint #**   | **Sprint 2**                                                   |                    |                                                                           |                                                                                                                                                            |                     |                   |             |
-|----------------|----------------------------------------------------------------|--------------------|---------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|-------------|
-| **User Story** |                                                                | **Work-Item/task** |                                                                           |                                                                                                                                                            |                     |                   |             |
-| **ID**         | **Title**                                                      | **Id**             | **Title**                                                                 | **Description**                                                                                                                                            | **Estimation(Hrs)** | **Assigned To**   | **Status**  |
-| US-07          | Creación de Billeteras Adicionales                             | T01                | Crear un sistema que permita a los usuarios crear billeteras adicionales. | La página web debe permitir a los usuarios crear billeteras adicionales para organizar sus finanzas de manera más eficiente.                               | 2                   | Juan Astonitas    | Done        |
-| US-08          | Visualizar el Estado de una Billetera                          | T02                | Ver el estado actual de una billetera.                                    | La página web debe mostrar el estado actual de una billetera selecta en donde el usuario conoce el saldo de esa billetera.                                 | 3                   | Juan Astonitas    | Done        |
-| US-09          | Visualizar el Saldo en el mes                                  | T03                | Ver el saldo total de una billetera en un mes.                            | La página web debe mostrar el saldo total de una billetera en un mes específico, permitiendo al usuario conocer su estado financiero en ese periodo.       | 2                   | Sebastian Pacheco | Done        |
-| US-10          | Visualizar los Cambios de Balance en el mes                    | T04                | Ver los cambios de balance de una billetera en un mes.                    | La página web debe mostrar los cambios de balance de una billetera en un mes específico, permitiendo al usuario conocer sus ingresos y gastos.             | 3                   | Juan Astonitas    | In Progress |
-| US-11          | Visualizar los Porcentajes Categorizados de Ingresos en el mes | T05                | Ver los porcentajes de ingresos categorizados en un mes.                  | La página web debe mostrar los porcentajes de ingresos categorizados en un mes específico, permitiendo al usuario conocer la distribución de sus ingresos. | 3                   | Sebastian Pacheco | In Progress |
+Este es nuestro link de invitación a nuestro Trello: https://trello.com/invite/b/6703fc437ffe81d568259f04/ATTIf2bbf0d616f458ad5bcefb1e1be4b0861373D99A/si729-2402-ws53-grupo-2 
+
+
+![Sprint 2 Backlog](/assets/sprint-2-assets/trellosprint2.png)
+
+ **User Story ID** | **User Story**                               | **Work-Item / Task ID** | **Work-Item / Task Title**                                | **Description**                                                                         | **Estimation (Hours)**  | **Status** |
+ ----------------- | -------------------------------------------- | ----------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------  |------------|
+ US04             | Billeteras por Defecto                        | TS001                   | Implementación categories                                  | Implementación del componente categories                                               | 1                        | done       |
+ US04             | Billeteras por Defecto                        | TS002                   | Implementación buttons categories                         | Implementación de los buttons para las diferentes categorías                           | 1                        | done       |
+ US04             | Billeteras por Defecto                        | TS003                   | Implementación buttons wallet                             | Integración de los button categories en la creación de wallet                          | 1                        | done       |
+ US07             | Creación de billeteras adicionales            | TS004                   | Incluir billeteras en wallets component                   | Incluir las billeteras en el wallets component                                         | 0.5                      | done       |
+ US07             | Creación de billeteras adicionales            | TS005                   | Soporte para múltiples billeteras                         | Implementar soporte para creación de múltiples billeteras                              | 0.5                      | done       |
+ US07             | Creación de billeteras adicionales            | TS006                   | Funcionalidad para todas las billeteras                   | Implementar funcionalidad para todas las billeteras                                    | 1                        | done       |
+ US08             | Visualizar el Estado de una Billetera         | TS007                   | Creación de la entity wallet                              | Creación de la entity wallet                                                           | 0.5                      | done       |
+ US08             | Visualizar el Estado de una Billetera         | TS008                   | Conexión con el endpoint /wallets                         | Conexión con el endpoint /wallets                                                      | 0.5                      | done       |
+ US08             | Visualizar el Estado de una Billetera         | TS009                   | Consultar saldo actual                                    | Implementación de funcionalidad para consultar el saldo actual                         | 0.5                      | done       |
+ US08             | Visualizar el Estado de una Billetera         | TS010                   | Construcción de buttons                                   | Construcción de los buttons                                                            | 0.5                      | done       |
+ US09             | Visualizar el Saldo en el mes                 | TS011                   | Implementación buttons saldo                              | Implementación de los button                                                           | 0.5                      | done       |
+ US09             | Visualizar el Saldo en el mes                 | TS012                   | Creación de la interfaz de saldo                          | Creación de la interfaz de saldo                                                       | 1                        | done       |
+ US09             | Visualizar el Saldo en el mes                 | TS013                   | Funcionalidad resumen saldo                               | Implementar la funcionalidad de resumen                                                | 1                        | done       |
+ US10             | Visualizar Cambios de Balance en el mes       | TS014                   | Creación del componente gráfico                           | Creación del componente gráfico                                                        | 0.5                      | done       |
+ US10             | Visualizar Cambios de Balance en el mes       | TS015                   | Comunicación con wallet                                   | Implementar comunicación con wallet y sus atributos                                    | 0.5                      | done       |
+ US10             | Visualizar Cambios de Balance en el mes       | TS016                   | Creación de interfaz gráfica                              | Creación de la interfaz de la sección gráfica                                          | 1                        | done       |
+ US10             | Visualizar Cambios de Balance en el mes       | TS017                   | Funcionalidad en gráficos                                 | Implementar funcionalidad en los gráficos capturando los atributos de la wallet        | 1                        | done       |
+ US10             | Visualizar Cambios de Balance en el mes       | TS018                   | Implementación buttons gráficos                           | Implementación del button de gráficos                                                  | 0.5                      | done       |
+ US11             | Visualizar Porcentajes Categorizados Ingresos | TS019                   | Creación componente porcentajes                           | Creación del componente porcentajes                                                    | 1                        | done       |
+ US11             | Visualizar Porcentajes Categorizados Ingresos | TS020                   | Comunicación con wallet porcentajes                       | Implementar comunicación con wallet y sus atributos                                    | 0.5                      | done       |
+ US11             | Visualizar Porcentajes Categorizados Ingresos | TS021                   | Implementación buttons porcentajes                        | Implementación del button de porcentajes                                               | 0.5                      | done       |
+ US11             | Visualizar Porcentajes Categorizados Ingresos | TS022                   | Funcionalidad porcentajes                                 | Implementar funcionalidad en los porcentajes capturando los atributos de la wallet     | 1                        | done       |
+ US20             | Crear Plan de Presupuesto                     | TS023                   | Actualización service presupuestos                        | Actualizar el service para permitir la creación de nuevos elementos                    | 0.5                      | done       |
+ US20             | Crear Plan de Presupuesto                     | TS024                   | Creación entidad Plan Presupuesto                         | Creación de la entidad para el Plan de Presupuesto                                     | 0.2                      | done       |
+ US20             | Crear Plan de Presupuesto                     | TS025                   | Diseño interfaz Plan Presupuesto                          | Diseño de la interfaz para la creación del Plan de Presupuesto                         | 2                        | done       |
+ US20             | Crear Plan de Presupuesto                     | TS026                   | Validación campos formulario                             | Implementar validación de campos del formulario                                        | 0.7                      | done       |
+ US20             | Crear Plan de Presupuesto                     | TS027                   | Lógica creación Plan Presupuesto                          | Implementar la lógica de la creación del Plan de Presupuesto                           | 1                        | done       |
+ US21             | Editar Plan de Presupuesto                    | TS028                   | Creación button edit presupuestos                         | Creación del button edit en presupuestos                                               | 0.5                      | done       |
+ US21             | Editar Plan de Presupuesto                    | TS029                   | Comunicación con budgets                                  | Comunicación con la información registrada en budgets                                  | 0.5                      | done       |
+ US21             | Editar Plan de Presupuesto                    | TS030                   | Sobreescritura en el endpoint /wallets                    | Implementar sobreescritura en el endpoint /wallets                                     | 1                        | done       |
+ US21             | Editar Plan de Presupuesto                    | TS031                   | Construcción dialog button edit                           | Construcción del dialog button de edición                                              | 1                        | done       |
+ US22             | Ver Presupuesto Restante                      | TS032                   | Diseño interfaz presupuesto restante                      | Diseñar la interfaz para la visualización del presupuesto restante                     | 2                        | done       |
+ US22             | Ver Presupuesto Restante                      | TS033                   | Cálculo del presupuesto restante                          | Implementar la lógica para el cálculo del presupuesto restante                         | 1                        | done       |
+ US22             | Ver Presupuesto Restante                      | TS034                   | Implementación barra progreso                             | Implementar la barra de progreso                                                      | 0.5                      | done       |
+ US26             | Crear Plan de Ahorro                          | TS035                   | Creación entity plan ahorro                               | Creación de la entity de plan de ahorro                                                | 0.1                      | done       |
+ US26             | Crear Plan de Ahorro                          | TS036                   | Diseño interfaz Plan Ahorro                               | Diseñar la interfaz para la creación del plan de ahorro                                | 1                        | done       |
+ US26             | Crear Plan de Ahorro                          | TS037                   | Validación campos Plan Ahorro                             | Validación de los campos del formulario                                               | 0.5                      | done       |
+ US26             | Crear Plan de Ahorro                          | TS038                   | Lógica para guardar Plan Ahorro                           | Implementar la lógica para guardar el plan de ahorro                                   | 2                        | done       |
+ US27             | Editar Plan de Ahorro                         | TS039                   | Adaptar service para edición plan ahorro                  | Adaptar el service para permitir la subida o edición de datos                         | 0.5                      | done       |
+ US27             | Editar Plan de Ahorro                         | TS040                   | Diseño interfaz edición Plan Ahorro                       | Diseñar la interfaz para la edición del plan de ahorro                                 | 1                        | done       |
+ US27             | Editar Plan de Ahorro                         | TS041                   | Lógica de edición Plan Ahorro                             | Implementar la lógica de carga y edición de datos                                      | 2                        | done       |
+ US27             | Editar Plan de Ahorro                         | TS042                   | Validación cambios Plan Ahorro                            | Implementar validación de los cambios en el formulario                                 | 1                        | done       |
+ US28             | Ver Progreso del Ahorro                       | TS043                   | Diseño interfaz progreso ahorro                           | Diseñar la interfaz para visualizar el progreso del plan de ahorro                     | 2                        | done       |
+ US28             | Ver Progreso del Ahorro                       | TS044                   | Cálculo del progreso ahorro                               | Implementar lógica para el cálculo del progreso del ahorro                             | 1                        | done       |
+ US28             | Ver Progreso del Ahorro                       | TS045                   | Implementación barra progreso ahorro                      | Implementar la barra de progreso                                                      | 0.5                      | done       |
+ TS34             | Configurar Entorno de Desarrollo              | TS046                   | Clonar repositorio                                        | Clonar el repositorio                                                                 | 0.1                      | done       |
+ TS34             | Configurar Entorno de Desarrollo              | TS047                   | Configurar Variables de Entorno                           | Configurar Variables de Entorno                                                      | 0.3                      | done       |
+ TS34             | Configurar Entorno de Desarrollo              | TS048                   | Instalar Dependencias                                     | Instalar Dependencias                                                                | 0.2                      | done       |
+ TS34             | Configurar Entorno de Desarrollo              | TS049                   | Ejecutar Servidor Local                                   | Ejecutar Servidor Local                                                              | 0.2                      | done       |
+
 
 ##### 5.2.2.3. Development Evidence for Sprint Review
-En la tabla a continuación se muestran los commits realizados en el Sprint 2.
+En la tabla a continuación se muestran los commits realizados en el Sprint 2. 
+En este sprint nos concentramos en ampliar nuestras user stories, incluir elementos ausentes como el student profile, el diseño de los web applications, mejorar elementos como el C4 Model, la arquitectura de software y resolver problemas con la visualización de imagenes como la del Lean UX Canvas
 
 | Repository                     | Branch                                        | Commit ID | Commit Message                                   | Commit Message Body                                                                                                                                                | Commited on (Date) |
 |--------------------------------|-----------------------------------------------|-----------|--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
@@ -1805,12 +2024,88 @@ En la tabla a continuación se muestran los commits realizados en el Sprint 2.
 | SmartFinance-OpenSource/Report | fix/software-architecture-c4-model            | a5aa940   | Fix/software architecture c4 model               | No description provided.                                                                                                                                           | 2024-09-25         |
 
 ##### 5.2.2.4. Testing Suite Evidence for Sprint Review
-Se omite esta sección, dado que aún no se tiene el conocimiento necesario para realizar pruebas automatizadas. Esto se llevara a cabo en futuros sprints.
+Sprint 3 TB2
+
+<table>
+  <tr>
+    <th>Epic / Story ID</th>
+    <th>Título</th>
+    <th>Criterios de Aceptación</th>
+  </tr>
+  <tr>
+    <td>US06</td>
+    <td>Cambiar el Idioma de la Aplicación</td>
+    <td>Escenario 1: Given el usuario está en la sección de configuración, when selecciona la opción de cambiar el idioma, then debe poder seleccionar un idioma de la lista de opciones disponibles. Escenario 2: Given el usuario ya cambio el idioma por defecto de la aplicación, when selecciona la opción de cambiar el idioma, then debera poder regresar al idioma por defecto.</td>
+  </tr>
+  <tr>
+    <td>US14</td>
+    <td>Ingreso de Transacciones</td>
+    <td>Escenario 1:Given el usuario está en la sección de una billetera, when selecciona la opción de registrar una transacción, then debe poder ingresar los detalles de la transacción, como monto, categoría y nota. Escenario 2:Given el usuario está en la sección de una billetera, when selecciona la opción de registrar una transacción, then de haber cometido un error podra borrar dicha transacción tras el registro.</td>
+  </tr>
+  <tr>
+    <td>US15</td>
+    <td>Categorizar Transacciones</td>
+    <td>Escenario 1:Given el usuario registra una transacción, when selecciona una categoría para la transacción, then la transacción se clasifica automáticamente en la categoría seleccionada. Escenario 2:Given el usuario desea cambiar una categoría, when selecciona las categorías disponibles o elige sin categorias, then el sistema le mostrará las transacciones con la nueva categoría o se revertiran todas las categorías.</td>
+  </tr>
+    <tr>
+    <td>US16</td>
+    <td>Crear Transacciones Recurrentes</td>
+    <td>Escenario 1:Given el usuario está en la sección de una billetera, when selecciona la opción de registrar una transacción and marca la opción de transacción recurrente configurando la frecuencia, then la transacción se registra automáticamente según la configuración. Escenario 2:Given el usuario está en la sección de transacciones recurrentes, when selecciona la opción de modificar transacción then el usuario podrá cambiar el monto, el nombre o eliminar la transacción.</td>
+  </tr>
+  <tr>
+    <td>US19</td>
+    <td>Realizar Transacciones a otra Billetera</td>
+    <td>Escenario 1:Given el usuario está en la sección de una billetera, when selecciona la opción de transferir dinero, then debe poder ingresar el monto and seleccionar la billetera de destino para completar la transferencia. Escenario 2:Given el usuario desea transferir dinero de una billetera a otra, when solo existe una billetera registrada, then el sistema le ofrecerá la opción de crear la billetera de destino.</td>
+  </tr>
+  <tr>
+    <td>US23</td>
+    <td>Alerta de Límite de Presupuesto</td>
+    <td>Escenario 1:Given el usuario está en la sección de presupuestos, when el monto gastado se acerca al límite del plan, then debe recibir una notificación de alerta que le advierte sobre el exceso de gastos. Escenario 2:Given el usuario está en la sección de presupuestos, when desea ampliar o reducir un límite, then deberá modificar el monto límite para el presupuesto elegído.</td>
+  </tr>
+    <tr>
+    <td>US24</td>
+    <td>Ver Periodos Anteriores de un Presupuesto</td>
+    <td>Escenario 1:Given el usuario está en la sección de presupuestos, when selecciona un plan de presupuesto, then debe poder ver los periodos anteriores con sus montos gastados. Escenario 2:Given el usuario está en la sección de presupuestos, when selecciona un plan de presupuesto sin periodos previos, then se le indicará que no existe periodos previos para el presupuesto seleccionado.</td>
+  </tr>
+  <tr>
+    <td>US25</td>
+    <td>Ver Gráfico Anual de Gastos en Periodos Anteriores de un Presupuesto</td>
+    <td>Escenario 1:Given el usuario está en la sección de presupuestos, when selecciona un plan de presupuesto, then debe poder ver un gráfico que muestre los gastos mensuales en periodos anteriores del plan. Escenario 2:Given el usuario consulta un gráfico para un prespuesto, when el usuario elije la opción "exportar", then podra exportar el gráfico en diferentes formatos.</td>
+  </tr>
+  <tr>
+    <td>US32</td>
+    <td>Cambiar el Idioma de la Landing Page</td>
+    <td>Given el visitante está en la landing page, when selecciona un idioma diferente en el menú de idiomas, then la página debe cambiar al idioma seleccionado.</td>
+  </tr>
+    <tr>
+    <td>TS40</td>
+    <td>Integración con Sistema Externo</td>
+    <td>Given el sistema tiene una API disponible, when se establece la conexión con el servicio externo, then el sistema puede acceder a los datos y funcionalidades del servicio externo.</td>
+  </tr>
+  <tr>
+    <td>TS41</td>
+    <td>Creación de Transacciones en Billetera</td>
+    <td>Given el endpoint (/api/v1/transactions) esté disponible, when se envía una solicitud POST con los datos de la transacción al endpoint, then se recibe una señal de confirmación (201) and el sistema registra la transacción en la billetera seleccionada.</td>
+  </tr>
+  <tr>
+    <td>TS42</td>
+    <td>Creación de Plan de Presupuesto en Billetera</td>
+    <td>Given el endpoint (/api/v1/budgets) esté disponible, when se envía una solicitud POST con los datos del plan de presupuesto al endpoint, then se recibe una señal de confirmación (201) and el sistema registra el plan de presupuesto en la billetera seleccionada.</td>
+  </tr>
+    <tr>TS43</td>
+    <td>Creación de Plan de Ahorro en Billetera</td>
+    <td>Given el endpoint (/api/v1/savings) esté disponible, when se envía una solicitud POST con los datos del plan de ahorro al endpoint, then se recibe una señal de confirmación (201) and el sistema registra el plan de ahorro en la billetera seleccionada.</td>
+  </tr>
+</table>
+
+
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 En esta entrega, no se realizaron cambios con relación al Landing Page. Por el momento, la Landing Page queda igual a la versión realizada en el Sprint 2.
 Se ha desarrollado un avance con respecto al Frontend, por el momento se dispone de un dashboard donde se muestra las billeteras y cards importantes. Esta página evidencia ello:
 ![Execution-Evidence-Frontend](assets/sprint-2-assets/execution-evidence.png)
+
+
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 En este sprint, hemos podido desplegar una Aplicación Web que consume json para mostrar información principal de la base de datos. A continuación, se muestra el código de la aplicación.
@@ -1870,6 +2165,1199 @@ Además de capturas que muestran el contenido de db.json
 A continuación se muestra evidencia de la coolaboración del equipo mediante insights de GitHub.
 ![github-insights-1](/assets/sprint-2-assets/insights-1.png)
 ![github-insights-2](/assets/sprint-2-assets/insights-2.png)
+
+#### 5.2.3. Sprint 3
+
+##### 5.2.3.1. Sprint Planning 3
+
+| Sprint # | Sprint 3 |
+|-|-|
+| **Date**                           | 2024-14-26 |
+| **Time**                           | 4:00 PM |
+| **Location**                       | Virtual - Discord |
+| Prepared By                        | Juan Astonitas |
+| Attendees (to planning meeting)    | Juan Astonitas, Sebastián Real, Sebastian Pacheco, Gianluca Pasquale |
+| Sprint 3 - 1 Review Summary        | En el Sprint 2, logramos implementar una versión funcional de la interfaz de usuario con varias pantallas clave. Se corrigieron algunos problemas y se avanzó en el diseño visual y la estructura básica del frontend. |
+| Sprint 3 - 1 Retrospective Summary | Fortalecimos la comunicación en equipo al desarrollar diferentes pantallas siguiendo los bounded context del modelo de Domain Driven Design |
+| Sprint 3 Goal                      | Nuestra prioridad en este sprint es completar el frontend e implementar la primera versión del backend para la aplicación. Creemos que con esto estará lista una versión funcional de la aplciación con la que los usuarios podrán interactuar con las características principales del sistema. Esto se confirmará cuando consigamos la implementación existosa de las funcionalidades y estas pasen las pruebas necesarias. |
+| Sprint 3 Velocity                  | La Velocity calculada para este sprint es de 14 story points |
+| Sum of Story Points                | La suma de story points atendidos es de 18 story points |
+
+##### 5.2.3.2. Sprint Backlog 3
+En esta sección se presenta un resumen del objetivo principal del sprint, destacando las metas a alcanzar y las funcionalidades a implementar. A continuación, se muestra un screenshot del Board del sprint en la herramienta de control seleccionada, Trello, junto con el enlace público correspondiente. Además, se incluye una tabla con las User Stories asignadas al sprint y los Work-items/Tasks derivados, así como las tareas adicionales necesarias para cumplir con los objetivos generales del sprint.
+
+Este es nuestro link de invitación a nuestro Trello: https://trello.com/invite/b/6703fc437ffe81d568259f04/ATTIf2bbf0d616f458ad5bcefb1e1be4b0861373D99A/si729-2402-ws53-grupo-2
+
+![Sprint 3 Backlog](/assets/sprint-2-assets/trellosprint2.png)
+
+
+ **User Story ID** | **User Story**                                         | **Work-Item / Task ID** | **Work-Item / Task Title**                                   | **Description**                                                                                   | **Estimation (Hours)**  | **Status** |
+ ----------------- | ------------------------------------------------------ | ----------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ----------------------  |------------|
+ US06             | Cambiar el Idioma de la Aplicación                      | TS086                   | Crear componente de switch                                   | Crear un componente de switch                                                                       | 1                        | in-progress |
+ US06             | Cambiar el Idioma de la Aplicación                      | TS087                   | Funcionalidad para cambiar entre idiomas                     | Implementar funcionalidad al switch para cambiar entre idiomas                                      | 1                        | in-progress |
+ US06             | Cambiar el Idioma de la Aplicación                      | TS088                   | Configuración de idiomas                                     | Agregar la configuración de los idiomas a usar                                                      | 2                        | in-progress |
+ US06             | Cambiar el Idioma de la Aplicación                      | TS089                   | Aplicar traducciones en landing page                         | Aplicar las traducciones en los textos de la landing page                                            | 1                        | in-progress |
+ US06             | Cambiar el Idioma de la Aplicación                      | TS090                   | Probar funcionalidad                                         | Probar la funcionalidad                                                                             | 0.5                      | in-progress |
+ US14             | Ingreso de Transacciones                                | TS050                   | Crear componente de ingreso de transacciones                | Crear el componente de ingreso de transacciones en Angular                                         | 0.5                      | done       |
+ US14             | Ingreso de Transacciones                                | TS051                   | Servicio para almacenar categorías                           | Implementar un servicio para almacenar las categorías                                               | 1                        | done       |
+ US14             | Ingreso de Transacciones                                | TS052                   | Validaciones en formulario                                   | Implementar validaciones en el formulario de transacciones                                          | 1                        | done       |
+ US14             | Ingreso de Transacciones                                | TS053                   | Conectar formulario con backend                              | Conectar el formulario con el backend para registrar la transacción                                 | 1                        | done       |
+ US14             | Ingreso de Transacciones                                | TS054                   | Testear funcionalidad                                        | Testear la funcionalidad del registro                                                               | 1                        | done       |
+ US15             | Categorizar Transacciones                               | TS055                   | Creación de categorías                                       | Implementar la creación de categorías para clasificar transacciones                                 | 1                        | to-do      |
+ US15             | Categorizar Transacciones                               | TS056                   | Conectar sistema de categorías                               | Conectar el sistema de categorías con el backend                                                    | 2                        | to-do      |
+ US15             | Categorizar Transacciones                               | TS057                   | Actualizar interfaz de transacciones por categoría            | Actualizar la interfaz de visualización de transacciones por categoría                              | 2                        | to-do      |
+ US15             | Categorizar Transacciones                               | TS058                   | Testear funcionalidad                                        | Testear la funcionalidad                                                                            | 1                        | to-do      |
+ US16             | Crear Transacciones Recurrentes                         | TS059                   | Opción de transacción recurrente                             | Añadir opción de transacción recurrente en el componente de ingreso de transacciones                | 2                        | to-do      |
+ US16             | Crear Transacciones Recurrentes                         | TS060                   | Manejo de transacciones recurrentes                          | Implementar lógica de manejo de transacciones recurrentes en el frontend                            | 2                        | to-do      |
+ US16             | Crear Transacciones Recurrentes                         | TS061                   | Actualizar backend para transacciones recurrentes            | Actualizar el backend para manejar transacciones recurrentes                                        | 3                        | to-do      |
+ US16             | Crear Transacciones Recurrentes                         | TS062                   | Mostrar transacciones recurrentes                            | Mostrar transacciones recurrentes en la lista de transacciones de la billetera                      | 1                        | to-do      |
+ US16             | Crear Transacciones Recurrentes                         | TS063                   | Opción para cancelar/modificar transacción recurrente         | Implementar una opción para cancelar o modificar una transacción recurrente                         | 2                        | to-do      |
+ US16             | Crear Transacciones Recurrentes                         | TS064                   | Testear funcionalidad                                        | Testear la funcionalidad                                                                            | 1                        | to-do      |
+ US19             | Realizar Transacciones a otra Billetera                 | TS065                   | Opción de transferencia                                      | Añadir opción de transferencia en el componente de billetera                                        | 1                        | to-do      |
+ US19             | Realizar Transacciones a otra Billetera                 | TS066                   | Formulario de transferencia                                  | Implementar formulario de transferencia                                                             | 1                        | to-do      |
+ US19             | Realizar Transacciones a otra Billetera                 | TS067                   | Modificar backend para transferencias                        | Modificar el backend para manejar transferencias entre billeteras                                   | 3                        | to-do      |
+ US19             | Realizar Transacciones a otra Billetera                 | TS068                   | Validaciones en transferencias                               | Implementar validaciones en las transferencias                                                      | 1                        | to-do      |
+ US19             | Realizar Transacciones a otra Billetera                 | TS069                   | Testear funcionalidad                                        | Testear la funcionalidad                                                                            | 1                        | to-do      |
+ US23             | Alerta de Límite de Presupuesto                         | TS070                   | Calcular porcentaje del límite                               | Añadir lógica para calcular el porcentaje del límite de presupuesto                                 | 2                        | to-do      |
+ US23             | Alerta de Límite de Presupuesto                         | TS071                   | Notificación de alerta                                       | Implementar notificación de alerta en el frontend                                                   | 2                        | to-do      |
+ US23             | Alerta de Límite de Presupuesto                         | TS072                   | Actualizar backend para alertas                              | Actualizar el backend para manejar la lógica de alertas de presupuesto                              | 3                        | to-do      |
+ US23             | Alerta de Límite de Presupuesto                         | TS073                   | Testear funcionalidad                                        | Testear la funcionalidad                                                                            | 1                        | to-do      |
+ US24             | Ver Periodos Anteriores de un Presupuesto               | TS074                   | Interfaz para visualizar periodos anteriores                 | Diseñar interfaz para visualizar periodos anteriores en el frontend                                 | 1                        | to-do      |
+ US24             | Ver Periodos Anteriores de un Presupuesto               | TS075                   | Lógica en backend para periodos anteriores                   | Implementar lógica en el backend para almacenar datos de periodos anteriores                        | 1                        | to-do      |
+ US24             | Ver Periodos Anteriores de un Presupuesto               | TS076                   | Conectar frontend con datos anteriores                       | Conectar el frontend con los datos de periodos anteriores                                           | 2                        | to-do      |
+ US24             | Ver Periodos Anteriores de un Presupuesto               | TS077                   | Paginación o scroll infinito                                 | Implementar paginación o scroll infinito si hay muchos periodos                                     | 2                        | to-do      |
+ US24             | Ver Periodos Anteriores de un Presupuesto               | TS078                   | Testear funcionalidad                                        | Testear la funcionalidad                                                                            | 1                        | to-do      |
+ US25             | Ver Gráfico Anual de Gastos en Periodos Anteriores      | TS079                   | Crear componente de visualización                            | Crear el componente de visualización del gráfico en Angular                                         | 1                        | to-do      |
+ US25             | Ver Gráfico Anual de Gastos en Periodos Anteriores      | TS080                   | Conexión con backend para datos anteriores                   | Implementar la conexión con el backend para obtener los datos de gastos anteriores                  | 2                        | to-do      |
+ US25             | Ver Gráfico Anual de Gastos en Periodos Anteriores      | TS081                   | Mostrar gráfico con datos                                    | Mostrar el gráfico con los datos de gastos                                                         | 1                        | to-do      |
+ US25             | Ver Gráfico Anual de Gastos en Periodos Anteriores      | TS082                   | Opciones de visualización al gráfico                         | Añadir opciones de visualización al gráfico                                                        | 1                        | to-do      |
+ US25             | Ver Gráfico Anual de Gastos en Periodos Anteriores      | TS083                   | Testear funcionalidad                                        | Testear la funcionalidad                                                                            | 1                        | to-do      |
+ US32             | Cambiar el Idioma de la Landing Page                    | TS084                   | Crear componente de switch                                   | Crear un componente de switch                                                                       | 1                        | done       |
+ US32             | Cambiar el Idioma de la Landing Page                    | TS085                   | Probar funcionalidad                                         | Probar la funcionalidad                                                                             | 0.5                      | done       |
+ TS40             | Integración con Sistema Externo                         | TS091                   | Conexión con servicio externo                                | Implementar la conexión del sistema con el servicio externo                                         | 1                        | to-do      |
+ TS40             | Integración con Sistema Externo                         | TS092                   | Definir llamadas a la API                                    | Definir las llamadas a la API necesarias                                                            | 1                        | to-do      |
+ TS40             | Integración con Sistema Externo                         | TS093                   | Manejo de errores y excepciones                              | Elaborar el manejo de errores y excepciones                                                        | 0.5                      | to-do      |
+ TS40             | Integración con Sistema Externo                         | TS094                   | Parseo de datos recibidos de servicios externos              | Desarrollar el parseo de datos recibidos de servicios externos                                      | 1                        | to-do      |
+ TS41             | Creación de Transacciones en Billetera                  | TS095                   | Definir modelo de datos para transacción                     | Definir el modelo de datos para la transacción                                                     | 0.5                      | to-do      |
+ TS41             | Creación de Transacciones en Billetera                  | TS096                   | Reglas de validación                                         | Establecer reglas de validación de los datos                                                       | 1                        | to-do      |
+ TS41             | Creación de Transacciones en Billetera                  | TS097                   | Crear endpoint en backend                                    | Crear el endpoint en el backend                                                                    | 1                        | to-do      |
+ TS41             | Creación de Transacciones en Billetera                  | TS098                   | Implementar lógica de transacción                            | Implementar lógica y creación de transacción                                                       | 1                        | to-do      |
+ TS41             | Creación de Transacciones en Billetera                  | TS099                   | Probar señal de confirmación 201                             | Probar que devuelve una señal de confirmación 201                                                  | 0.5                      | to-do      |
+ TS41             | Creación de Transacciones en Billetera                  | TS100                   | Probar registro de transacción                               | Probar que registra la transacción                                                                 | 0.5                      | to-do      |
+ TS42             | Creación de Plan de Presupuesto en Billetera            | TS101                   | Definir modelo de datos para plan de presupuesto             | Definir el modelo de datos para el plan de presupuesto                                              | 0.5                      | to-do      |
+ TS42             | Creación de Plan de Presupuesto en Billetera            | TS102                   | Reglas de validación de datos                                | Establecer reglas de validación de los datos                                                       | 1                        | to-do      |
+ TS42             | Creación de Plan de Presupuesto en Billetera            | TS103                   | Crear endpoint en backend                                    | Crear el endpoint en el backend                                                                    | 1                        | to-do      |
+ TS42             | Creación de Plan de Presupuesto en Billetera            | TS104                   | Implementar lógica de plan de presupuesto                    | Implementar lógica y creación de plan de presupuesto                                               | 1                        | to-do      |
+ TS42             | Creación de Plan de Presupuesto en Billetera            | TS105                   | Probar señal de confirmación 201                             | Probar que devuelve una señal de confirmación 201                                                  | 0.5                      | to-do      |
+ TS42             | Creación de Plan de Presupuesto en Billetera            | TS106                   | Probar registro de nuevo plan de presupuesto                 | Probar que registra el nuevo plan de presupuesto                                                   | 0.5                      | to-do      |
+ TS43             | Creación de Plan de Ahorro en Billetera                 | TS107                   | Definir modelo de datos para plan de ahorro                  | Definir el modelo de datos para el plan de ahorro                                                   | 0.5                      | to-do      |
+ TS43             | Creación de Plan de Ahorro en Billetera                 | TS108                   | Reglas de validación de datos                                | Establecer reglas de validación de los datos                                                       | 1                        | to-do      |
+ TS43             | Creación de Plan de Ahorro en Billetera                 | TS109                   | Crear endpoint en backend                                    | Crear el endpoint en el backend                                                                    | 1                        | to-do      |
+ TS43             | Creación de Plan de Ahorro en Billetera                 | TS110                   | Implementar lógica de plan de ahorro                         | Implementar lógica y creación de plan de ahorro                                                    | 1                        | to-do      |
+ TS43             | Creación de Plan de Ahorro en Billetera                 | TS111                   | Probar señal de confirmación 201                             | Probar que devuelve una señal de confirmación 201                                                  | 0.5                      | to-do      |
+ TS43             | Creación de Plan de Ahorro en Billetera                 | TS112                   | Probar registro de nuevo plan de ahorro                      | Probar que registra el nuevo plan de ahorro                                                        | 0.5                      | to-do      |
+
+##### 5.2.3.3. Development Evidence for Sprint Review
+
+A continuación se muestran los commits realizados durante el Sprint 3 para documentar el desarrollo y los cambios implementados en las distintas funcionalidades de la aplicación. Estos commits incluyen correcciones, nuevas características y ajustes de diseño realizados tanto en la página de inicio como en la Landing Page, FrontEnd y BackEnd.
+
+###### Tabla de Landing Page 
+
+| Repository                     | Branch                 | Commit ID | Commit Message                                   | Commit Message Body                                     | Commited on (Date) |
+|--------------------------------|------------------------|-----------|--------------------------------------------------|---------------------------------------------------------|--------------------|
+| SmartFinance-OpenSource/Landing-Page | feat/landing    | 68d94b3f | fix: fixed structure for new section             | fix: fixed structure for new section                                 | 2024-11-02         |
+| SmartFinance-OpenSource/Landing-Page | feat/landing     | d0124984 | feat: added styles for new section               | feat: added styles for new section                                | 2024-11-02         |
+| SmartFinance-OpenSource/Landing-Page | feat/landing   | 26a8689a | feat: added new section for about the product and team | feat: added new section for about the product and team                               | 2024-11-02         |
+| SmartFinance-OpenSource/Landing-Page | feat/landing   | 2ad92f6f | feat: added new styles for about the product and team sections | feat: added new styles for about the product and team sections                                | 2024-11-02         |
+
+###### Tabla FrontEnd
+
+| Repository                            | Branch                      | Commit ID | Commit Message                                                     | Commit Message Body                  | Commited on (Date) |
+|---------------------------------------|-----------------------------|-----------|--------------------------------------------------------------------|--------------------------------------|---------------------|
+| SmartFinance-OpenSource/Frontend-Finzar | feat/budget-dashboard      | c4cbddea | feat(budget-dashboard): new desc.                                  | No description provided.             | 2024-10-15         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/saving-api            | 88bb3a2c | fix: bad call to services, balance now displays.                   | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/saving-api            | 7916aeb6 | fix: bounded context removed from project                          | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/saving-api            | 68e87f92 | feat(saving-api): added delete saving function.                    | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/saving-edit           | 1179d0e2 | fix: saving delete button                                          | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/balance-card-design   | 6d4d10a2 | feat: added design to difference balances                          | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/balance-card-design   | 46a923c9 | feat: added balance card formatting.                               | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-filter         | 11aff7d9 | chore: added wallet filter component.                              | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/dashboard-filters     | 01e4be86 | refactor: renamed dashboard filters selector to the correct naming | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-filters        | bf15255d | fix: replaced component usage to the correct one                   | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-filter         | 8096eb06 | feat: c                           | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-filter         | 78db55d5 | feat: added wallet filter to wallet view page.                     | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-dialog         | 0660758e | feat: added dialog to delete button                                | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-category       | 07be651d | fix: called category api service from wallet-view                  | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-category       | cab7d19f | feat: added table designing                                        | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-category       | a9b4856a | fix: removed id from the table and modified category               | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/saving-edit           | b90f1599 | chore: created saving edit component                               | No description provided.             | 2024-10-24         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/saving-edit           | fab0fa5f | feat: added saving edit component functionality                    | No description provided.             | 2024-10-24         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/saving-edit           | 8bc5fc24 | feat: added card forum for editing savings                         | No description provided.             | 2024-10-24         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/saving-edit           | bafb3ee7 | feat: added saving edit functions to saving detail component       | No description provided.             | 2024-10-24         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/saving-edit           | b9476003 | feat: implemented edit dialog in saving detail                     | No description provided.             | 2024-10-24         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/balance-card-styling  | 57a8991d | fix: added margin between Add Transaction button and filter card   | No description provided.             | 2024-10-24         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/balance-card-styling  | 326bbbd6 | fix: fixed wallet balance not displaying                           | No description provided.             | 2024-10-24         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/balance-card-styling  | 4239c3e0 | fix: redesigned balance card background                            | No description provided.             | 2024-10-24         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/header-fix            | 79839c8f | fix: styled the header to stay on top all the time                 | No description provided.             | 2024-10-28         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/header-margin         | b370fdda | fix: added margin to router view to avoid conflicts                | No description provided.             | 2024-10-28         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/transaction-service   | ee1d09ab | feat: added transaction entity values                              | No description provided.             | 2024-10-29         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/transaction-service   | 3108d0c3 | feat: added create transaction service method                      | No description provided.             | 2024-10-29         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/transaction-dialog    | bea09677 | chore: added create transaction dialog components                  | No description provided.             | 2024-10-29         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/transaction-table     | b189e3cb | fix: removed unnecessary table values, changed column positioning and fixed certain columns showing number instead of their corresponding string value.         | No description provided.             | 2024-10-29         |
+
+###### Tabla BackEnd
+
+| Repository                          | Branch                 | Commit ID | Commit Message                                   | Commit Message Body                                     | Commited on (Date) |
+|-------------------------------------|------------------------|-----------|--------------------------------------------------|---------------------------------------------------------|---------------------|
+| SmartFinance-OpenSource/Backend-Finzar | feat/jpa              | 55a2c3ee         | feat(jpa): added model for jpa auditing          | feat(jpa): added model for jpa auditing                 | 2024-10-23          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/open-api         | 24d04955         | feat(open-api): added open api documentation     | feat(open-api): added open api documentation            | 2024-10-23          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/shared           | a839a60c         | feat(shared): add MessageResource                | feat(shared): add MessageResource                       | 2024-10-23          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallets          | 5a6bfe59         | feat(rest): added wallet controller              | feat(rest): added wallet controller                     | 2024-10-29          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallets          | bfb85ad3         | feat(services): added wallet query service       | feat(services): added wallet query service              | 2024-10-29          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallets          | f06f2d5f         | feat(aggregates): added wallet aggregate         | feat(aggregates): added wallet aggregate                | 2024-10-29          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallets          | 1100f927        | feat(resources): added create wallet resource    | feat(resources): added create wallet resource           | 2024-10-29          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/resources        | c88360f0         | feat(resources): added wallet resource           | feat(resources): added wallet resource                  | 2024-10-29          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/savings          | 8c662706         | feat: add new attributes to Saving entity        | feat: add new attributes to Saving entity               | 2024-10-29          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/savings          | 8ed7b4ae         | feat: implement GetAllSavingsQuery               | feat: implement GetAllSavingsQuery                      | 2024-10-29          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/savings          | c886e07a         | feat: added new functions for money goals updates| feat: added new functions for money goals updates       | 2024-10-29          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/category         | 96ec5f8b         | feat(rest): added category controller methods    | feat(rest): added category controller methods           | 2024-11-01          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/category         | 900276dc         | feat(queries): added category queries            | feat(queries): added category queries                   | 2024-11-01          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/user             | 7bb4fe8d         | feat(commands): added user manipulation commands | feat(commands): added user manipulation commands        | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/user             | 3dbd451b         | feat(transform): added user commands assembler   | feat(transform): added user commands assembler          | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/user             | 0bb087a8         | feat(resources): added user repository search    | feat(resources): added user repository search           | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/user             | b4d4a30b         | feat(rest): added user controller functionality  | feat(rest): added user controller functionality         | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/saving-graphics  | 86a95330         | feat: implemented class controller for Saving Graphics  | feat: implemented class controller for Saving Graphics         | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/saving-graphics  | f48dc68c         | feat: implemented class facade for graphics      | feat: implemented class facade for graphics             | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallets          | 1f4657c7         | feat(wallets): added transaction types enum      | feat(wallets): added transaction types enum             | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallets          | 81eec0d6         | feat(wallets): added transaction type entity     | feat(wallets): added transaction type entity            | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallets          | 8583fff4         | feat(wallets): added resources for visualization | feat(wallets): added resources for visualization        | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallets          | 79eea283        | feat(wallets): added assemblers for wallet       | feat(wallets): added assemblers for wallet              | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallets          | 816a51c8         | feat(wallet): add wallet resource assembler      | feat(wallet): add wallet resource assembler             | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallet           | 9c0a416a         | feat(wallet): add wallet repository              | feat(wallet): add wallet repository                     | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallet           | e3c36eaa         | feat(wallet): implement wallet services          | feat(wallet): implement wallet services                 | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallet           | 5f41f6e3         | feat(wallet): added functions for api calls      | feat(wallet): added functions for api calls             | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallet           | 7b3825c1         | feat(wallet): added user validation              | feat(wallet): added user validation                     | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallet           | 3ee25337         | feat(wallet): added Transaction Aggregate        | feat(wallet): added Transaction Aggregate               | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallet           | 806c824b         | feat(wallet): added Expense Aggregate            | feat(wallet): added Expense Aggregate                   | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallet           | 73b2b019         | feat(wallet): added Earning Aggregate            | feat(wallet): added Earning Aggregate                   | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/savings          | c81cab7a         | feat: added new query to get saving by user ID   | feat: added new query to get saving by user ID          | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/savings          | 337bbb85         | feat: added new saving query service list        | feat: added new saving query service list               | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/savings          | 5fbfc17b         | feat: added list to find saving by user ID       | feat: added list to find saving by user ID              | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/savings          | 2e338ccd         | feat: added new endpoint on controller           | feat: added new endpoint on controller                  | 2024-11-02          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/transaction      | 00345442         | feat(transaction): added services implementation      | feat(transaction): added services implementation        | 2024-11-04          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/transaction      | 1cdd7a1d         | feat(transaction): added aggregate and entity repository | feat(transaction): added aggregate and entity repository | 2024-11-04          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/transaction      | 464e8a62         | feat(transaction): added commands                    | feat(transaction): added commands                       | 2024-11-04          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/transaction      | 279a39f1         | feat(transaction): added resources                   | feat(transaction): added resources                      | 2024-11-04          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/transaction      | 572b8770         | feat(transaction): added rest api calls for transaction aggregate | feat(transaction): added rest api calls for transaction aggregate | 2024-11-04 |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallet           | 3c7e06c1         | feat(wallet): added simplified wallet resource       | feat(wallet): added simplified wallet resource          | 2024-11-04          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/wallet           | 3c7e06c1         | feat(wallet): added simplified update wallet resource| feat(wallet): added simplified update wallet resource   | 2024-11-04          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/transactions     | a7f2fb52         | feat(transactions): added rest functionality         | feat(transactions): added rest functionality            | 2024-11-04          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/transations      | ebbe312c         | feat(transactions): added validators for expenses and earnings | feat(transactions): added validators for expenses and earnings | 2024-11-04 |
+| SmartFinance-OpenSource/Backend-Finzar | refactor/transaction  | b5e5ddf8         | refactor(transaction): changed transaction type      | refactor(transaction): changed transaction type from enum to entity | 2024-11-04 |
+| SmartFinance-OpenSource/Backend-Finzar | refactor/transaction  | f36d50f6         | refactor(transaction): changed period recurrence     | refactor(transaction): changed period recurrence from enum to entity | 2024-11-04 |
+| SmartFinance-OpenSource/Backend-Finzar | chore/documentation   | 2105d183         | chore: added documentation file                      | chore: added documentation file                         | 2024-11-04          |
+
+##### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+## US06 - Cambiar el Idioma de la Aplicación
+**Como** usuario, **quiero** cambiar el idioma de la aplicación **para** poder utilizarla en mi idioma preferido.
+
+**Escenario 1:**  
+- **Given** el usuario está en la sección de configuración,  
+- **When** selecciona la opción de cambiar el idioma,  
+- **Then** debe poder seleccionar un idioma de la lista de opciones disponibles.
+
+---
+
+## US14 - Ingreso de Transacciones
+**Como** usuario, **quiero** registrar un ingreso o gasto en una billetera seleccionada **para** llevar un control de mis finanzas.
+
+**Escenario 1:**  
+- **Given** el usuario está en la sección de una billetera,  
+- **When** selecciona la opción de registrar una transacción,  
+- **Then** debe poder ingresar los detalles de la transacción, como monto, categoría y nota.
+
+---
+
+## US15 - Categorizar Transacciones
+**Como** usuario, **quiero** categorizar mis transacciones **para** organizar y analizar mis gastos e ingresos.
+
+**Escenario 1:**  
+- **Given** el usuario registra una transacción,  
+- **When** selecciona una categoría para la transacción,  
+- **Then** la transacción se clasifica automáticamente en la categoría seleccionada.
+
+---
+
+## US16 - Crear Transacciones Recurrentes
+**Como** usuario, **quiero** crear transacciones recurrentes **para** automatizar el registro de gastos e ingresos periódicos.
+
+**Escenario 1:**  
+- **Given** el usuario está en la sección de una billetera,  
+- **When** selecciona la opción de registrar una transacción **and** marca la opción de transacción recurrente configurando la frecuencia,  
+- **Then** la transacción se registra automáticamente según la configuración.
+
+---
+
+## US19 - Realizar Transacciones a otra Billetera
+**Como** usuario, **quiero** transferir dinero de una billetera a otra **para** mover fondos entre mis cuentas.
+
+**Escenario 1:**  
+- **Given** el usuario está en la sección de una billetera,  
+- **When** selecciona la opción de transferir dinero,  
+- **Then** debe poder ingresar el monto **and** seleccionar la billetera de destino para completar la transferencia.
+
+---
+
+## US23 - Alerta de Límite de Presupuesto
+**Como** usuario, **quiero** recibir una alerta cuando esté cerca de exceder el límite de un plan de presupuesto **para** evitar gastos innecesarios.
+
+**Escenario 1:**  
+- **Given** el usuario está en la sección de presupuestos,  
+- **When** el monto gastado se acerca al límite del plan,  
+- **Then** debe recibir una notificación de alerta que le advierte sobre el exceso de gastos.
+
+---
+
+## US24 - Ver Periodos Anteriores de un Presupuesto
+**Como** usuario, **quiero** ver los periodos anteriores de un plan de presupuesto **para** comparar mis gastos y evaluar mi progreso financiero.
+
+**Escenario 1:**  
+- **Given** el usuario está en la sección de presupuestos,  
+- **When** selecciona un plan de presupuesto,  
+- **Then** debe poder ver los periodos anteriores con sus montos gastados.
+
+---
+
+## US25 - Ver Gráfico Anual de Gastos en Periodos Anteriores de un Presupuesto
+**Como** usuario, **quiero** ver un gráfico anual de gastos en periodos anteriores de un plan de presupuesto **para** visualizar mis hábitos de gasto a lo largo del tiempo.
+
+**Escenario 1:**  
+- **Given** el usuario está en la sección de presupuestos,  
+- **When** selecciona un plan de presupuesto,  
+- **Then** debe poder ver un gráfico que muestre los gastos mensuales en periodos anteriores del plan.
+
+---
+
+## US32 - Cambiar el Idioma de la Landing Page
+**Como** visitante, **quiero** cambiar el idioma de la landing page **para** poder entender mejor la información presentada.
+
+**Escenario 1:**  
+- **Given** el visitante está en la landing page,  
+- **When** selecciona un idioma diferente en el menú de idiomas,  
+- **Then** la página debe cambiar al idioma seleccionado.
+
+---
+
+## TS40 - Integración con Sistema Externo
+**Como** desarrollador, **quiero** integrar el sistema con un servicio externo **para** mejorar la funcionalidad y la experiencia del usuario.
+
+**Escenario 1:**  
+- **Given** el sistema tiene una API disponible,  
+- **When** se establece la conexión con el servicio externo,  
+- **Then** el sistema puede acceder a los datos y funcionalidades del servicio externo.
+
+---
+
+## TS41 - Creación de Transacciones en Billetera
+**Como** desarrollador, **quiero** implementar una API que permita crear una transacción en una billetera seleccionada **para** que el usuario pueda registrar sus ingresos y gastos.
+
+**Escenario 1:**  
+- **Given** el endpoint (/api/v1/transactions) está disponible,  
+- **When** se envía una solicitud POST con los datos de la transacción al endpoint,  
+- **Then** se recibe una señal de confirmación (201) **and** el sistema registra la transacción en la billetera seleccionada.
+
+---
+
+## TS-42 - Creación de Plan de Presupuesto en Billetera
+**Como** desarrollador, **quiero** implementar una API que permita crear un plan de presupuesto en una billetera seleccionada **para** que el usuario pueda establecer límites de gastos y controlar sus finanzas.
+
+**Escenario 1:**  
+- **Given** el endpoint (/api/v1/budgets) está disponible,  
+- **When** se envía una solicitud POST con los datos del plan de presupuesto al endpoint,  
+- **Then** se recibe una señal de confirmación (201) **and** el sistema registra el plan de presupuesto en la billetera seleccionada.
+
+---
+
+## TS43 - Creación de Plan de Ahorro en Billetera
+**Como** desarrollador, **quiero** implementar una API que permita crear un plan de ahorro en una billetera seleccionada **para** que el usuario pueda establecer metas financieras y ahorrar dinero de manera sistemática.
+
+**Escenario 1:**  
+- **Given** el endpoint (/api/v1/savings) está disponible,  
+- **When** se envía una solicitud POST con los datos del plan de ahorro al endpoint,  
+- **Then** se recibe una señal de confirmación (201) **and** el sistema registra el plan de ahorro en la billetera seleccionada.
+
+## TS-37 - Registrar Usuarios por una API
+**Como** desarrollador, **quiero** implementar una API que permita registrar nuevos usuarios al sistema.
+
+**Escenario 1:**  
+- **Given** el endpoint (/api/v1/auth/sign-up) está disponible,  
+- **When** se envía una solicitud POST con los datos del usuario ingresados al endpoint,  
+- **Then** se recibe una señal de confirmación (201) **and** el sistema registra al usuario.
+
+
+##### 5.2.3.5. Execution Evidence for Sprint Review
+En esta entrega, no se realizaron cambios con relación al Landing Page. Por el momento, la Landing Page queda igual a la versión realizada en el Sprint 3.
+Se ha desarrollado un avance con respecto a la Landing Page, FrontEnd y BackEnd:
+
+###### Landing Page
+
+![execution-landing1](/assets/execution/landingfinzar1.png)
+![execution-landing2](/assets/execution/landingfinzar2.png)
+![execution-landing3](/assets/execution/landingfinzar3.png)
+![execution-landing4](/assets/execution/landingfinzar4.png)
+![execution-landing5](/assets/execution/landingfinzar5.png)
+![execution-landing6](/assets/execution/landingfinzar6.png)
+![execution-landing7](/assets/execution/landingfinzar7.png)
+
+###### FrontEnd
+
+![execution-front1](/assets/execution/frontfinzar1.png)
+![execution-front2](/assets/execution/frontfinzar2.png)
+![execution-front3](/assets/execution/frontfinzar3.png)
+![execution-front4](/assets/execution/frontfinzar4.png)
+![execution-front5](/assets/execution/frontfinzar5.png)
+![execution-front6](/assets/execution/frontfinzar6.png)
+![execution-front7](/assets/execution/frontfinzar7.png)
+![execution-front8](/assets/execution/frontfinzar8.png)
+![execution-front9](/assets/execution/frontfinzar9.png)
+![execution-front10](/assets/execution/frontfinzar10.png)
+
+###### BackEnd
+
+![execution-backend1](/assets/execution/backendfinzar1.png)
+![execution-backend1](/assets/execution/backendfinzar2.png)
+
+
+
+Enlace a video de demostración: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112078_upc_edu_pe/ETp1nBDu7vZEt9R3o_7CMVkBjkTQ24N6BXFe1RYHbR_umw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=HqUB5M">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112078_upc_edu_pe/ETp1nBDu7vZEt9R3o_7CMVkBjkTQ24N6BXFe1RYHbR_umw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=HqUB5M</a>
+
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+En el tercer sprint identificamos 34 endpoints provenientes de 8 controladores diferentes. Utilizamos swagger para la presente documentacion.
+
+**Saving Controller**
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Savings </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/savings/{userId} </td>
+        <td colspan="1"> Get savings by user id </td>
+        <td colspan="1"> Get savings of user </td>
+        <td colspan="1"> GetSavingsByUserId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> userId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Savings </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/savings/{savingsId} </td>
+        <td colspan="1"> Get savings by id </td>
+        <td colspan="1"> Get savings in a system by its id </td>
+        <td colspan="1"> GetSavingsById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> savingsId</td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Savings </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/savings </td>
+        <td colspan="1"> Get all savings </td>
+        <td colspan="1"> Get all savings in the system </td>
+        <td colspan="1"> GetAllSavings </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> - </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Savings </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/savings</td>
+        <td colspan="1"> Create new savings</td>
+        <td colspan="1"> Create new savings in system </td>
+        <td colspan="1"> CreateSavings </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Savings </td>
+        <td colspan="1"> PUT </td>
+        <td colspan="1"> /api/v1/savings/{savingsId}</td>
+        <td colspan="1"> Update existing savings </td>
+        <td colspan="1"> Update existing savings by id </td>
+        <td colspan="1"> UpdateSavings </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> savingsId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Savings </td>
+        <td colspan="1"> DELETE </td>
+        <td colspan="1"> /api/v1/savings/{savingsId}</td>
+        <td colspan="1"> Delete savings </td>
+        <td colspan="1"> Delete savings by id </td>
+        <td colspan="1"> DeleteSavings </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> savingsId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+</table>
+
+**Wallet Controller**
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Wallet </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/wallets/{userId} </td>
+        <td colspan="1"> Get a wallet by user id </td>
+        <td colspan="1"> Get a wallet of user </td>
+        <td colspan="1"> GetWalletByUserId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> userId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Wallet </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/wallets/{walletId} </td>
+        <td colspan="1"> Get a wallet by id </td>
+        <td colspan="1"> Get a wallet in a system by its id </td>
+        <td colspan="1"> GetWalletById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> walletId</td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Wallet </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/wallets </td>
+        <td colspan="1"> Get all wallets </td>
+        <td colspan="1"> Get all wallets in the system </td>
+        <td colspan="1"> GetAllWallets </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> - </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Wallet </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/wallets</td>
+        <td colspan="1"> Create a new wallet</td>
+        <td colspan="1"> Create a new wallet in system </td>
+        <td colspan="1"> CreateWallet </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Wallet </td>
+        <td colspan="1"> PUT </td>
+        <td colspan="1"> /api/v1/wallets/{walletId}</td>
+        <td colspan="1"> Update existing wallet </td>
+        <td colspan="1"> Update existing wallet by id </td>
+        <td colspan="1"> UpdateWallet </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> walletId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Wallet </td>
+        <td colspan="1"> DELETE </td>
+        <td colspan="1"> /api/v1/wallets/{walletId}</td>
+        <td colspan="1"> Delete a wallet </td>
+        <td colspan="1"> Delete a wallet by id </td>
+        <td colspan="1"> DeleteWallet </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> walletId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+</table>
+
+CategoryController
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Category </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/category/{cateogryId} </td>
+        <td colspan="1"> Get a category by id </td>
+        <td colspan="1"> Get a category in a system by its id </td>
+        <td colspan="1"> GetCategoryById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> categoryId</td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Category </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/category</td>
+        <td colspan="1"> Get all categories</td>
+        <td colspan="1"> Get all categories in system </td>
+        <td colspan="1"> GetAllCategories </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Category </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/category</td>
+        <td colspan="1"> Create new category </td>
+        <td colspan="1">Create new category</td>
+        <td colspan="1"> CreateCategory </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+</table>
+
+TransactionsController
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Transaction </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/transactions/{userId} </td>
+        <td colspan="1"> Get a transaction by user id </td>
+        <td colspan="1"> Get a transaction in a system by its user id </td>
+        <td colspan="1"> GetTransactionByUserId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> userId</td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Transaction </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/transactions/{walletId}</td>
+        <td colspan="1">  Get a transaction by wallet id</td>
+        <td colspan="1"> Get a transaction by wallet id in system </td>
+        <td colspan="1"> GetTransactionByWalletId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2">walletId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Transaction </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/transactions</td>
+        <td colspan="1"> Create new transaction </td>
+        <td colspan="1">Create new transaction</td>
+        <td colspan="1"> CreateCategory </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+</table>
+
+EarningsController
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Earnings </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/earnings/{walletId} </td>
+        <td colspan="1"> Get all earnings by wallet id </td>
+        <td colspan="1"> Get all earning in a system by its wallet id </td>
+        <td colspan="1"> GetEarningsByWalletId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> walletId</td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Earnings </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/earnings/{expenseId}</td>
+        <td colspan="1">  Get a earning by id</td>
+        <td colspan="1"> Get a earning by wallet id in system </td>
+        <td colspan="1"> GetEarningById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2">earningId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Earnings </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/earnings/{userId} </td>
+        <td colspan="1"> Get all earnings by user id </td>
+        <td colspan="1"> Get all earnings in a system by its user id </td>
+        <td colspan="1"> GetEarningsByUserId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> userId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Earnings </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/earnings</td>
+        <td colspan="1"> Create new earning </td>
+        <td colspan="1">Create new earning</td>
+        <td colspan="1"> CreateEarning </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+</table>
+
+ExpensesController
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Expenses </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/expenses/{walletId} </td>
+        <td colspan="1"> Get all expenses by wallet id </td>
+        <td colspan="1"> Get all expenses in a system by its wallet id </td>
+        <td colspan="1"> GetExpensesByWalletId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> walletId</td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Expenses </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/expenses/{expenseId}</td>
+        <td colspan="1">  Get a earning by id</td>
+        <td colspan="1"> Get a earning by its id in system </td>
+        <td colspan="1"> GetEarningById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2">earningId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Expenses </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/expenses/{userId} </td>
+        <td colspan="1"> Get all expenses by user id </td>
+        <td colspan="1"> Get all expenses in a system by its user id </td>
+        <td colspan="1"> GetExpensesByUserId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> userId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Expenses </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/expenses</td>
+        <td colspan="1"> Create new expense </td>
+        <td colspan="1">Create new expense</td>
+        <td colspan="1"> CreateExpense </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+</table>
+
+UsersController
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Users </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/users/{userId} </td>
+        <td colspan="1"> Get all Users by its id </td>
+        <td colspan="1"> Get all Users in a system by its id </td>
+        <td colspan="1"> GetUserById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> walletId</td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Users </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/users</td>
+        <td colspan="1">  Get all Users</td>
+        <td colspan="1"> Get all Users in system </td>
+        <td colspan="1"> GetEarningById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Users </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/users</td>
+        <td colspan="1"> Create new user </td>
+        <td colspan="1">Create new user</td>
+        <td colspan="1"> CreateUser </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Users </td>
+        <td colspan="1"> PUT </td>
+        <td colspan="1"> /api/v1/users/{userId}</td>
+        <td colspan="1"> Update existing user </td>
+        <td colspan="1"> Update existing user by id </td>
+        <td colspan="1"> UpdateUser </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> userId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Users </td>
+        <td colspan="1"> DELETE </td>
+        <td colspan="1"> /api/v1/users/{userId}</td>
+        <td colspan="1"> Delete a user </td>
+        <td colspan="1"> Delete a user by id </td>
+        <td colspan="1"> DeleteUser </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> userId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+</table>
+
+RepeatPeriodController
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> repeatPeriod </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/repeatPeriod </td>
+        <td colspan="1"> Get all repeatPeriods </td>
+        <td colspan="1"> Get all repeatPeriod in system </td>
+        <td colspan="1"> GetAllRepeatPeriods </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -</td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> repeatPeriod </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/repeatPeriod</td>
+        <td colspan="1">  Get repeatPeriod by Id</td>
+        <td colspan="1"> Get Get repeatPeriod by Id in system </td>
+        <td colspan="1"> GetRepeatPeriodById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> repeatPeriod </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/repeatPeriod</td>
+        <td colspan="1"> Create new repeatPeriod </td>
+        <td colspan="1">Create new repeatPeriod</td>
+        <td colspan="1"> CreateRepeatPeriod </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+</table>
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+**Landing Page**
+Para la Landing Page, se utilizó [Vercel](https://vercel.com) para el despliegue de la página.
+
+- Primero nos dirigimos a Import Project, siendo la primera opción.
+![Sprint 3 Landing Deployment Evidence 1](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-1.png)
+- Luego seleccionamos el repositorio de GitHub donde se encuentra el código de la Landing Page. En este caso, Landing-Page.
+![Sprint 3 Landing Deployment Evidence 2](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-2.png)
+- Se nos presenta la siguiente pantalla, donde muestra las opciones por defecto en el despliegue de la página.
+![Sprint 3 Landing Deployment Evidence 3](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-3.png)
+- Como nuestro proyecto es con Vite como framework, ajustamos el Framework Preset, y seleccionamos deploy.
+![Sprint 3 Landing Deployment Evidence 4](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-4.png)
+- Esperamos unos segundos y la página debería desplegarse exitosamente.
+![Sprint 3 Landing Deployment Evidence 5](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-5.png)
+- Podemos apreciar que la página ha sido desplegada con éxito.
+![Sprint 3 Landing Deployment Evidence 6](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-6.png)
+- Con ello, se nos proporciona un link de la página desplegada, donde podemos acceder.
+![Sprint 3 Landing Deployment Evidence 7](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-7.png)
+- Al acceder al link, podemos ver la página desplegada.
+![Sprint 3 Landing Deployment Evidence 8](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-8.png)
+
+**FrontEnd**
+Para el FrontEnd, se utilizó [Vercel](https://vercel.com) para el despliegue de la página.
+
+- Antes del despliegue, debemos crear una cuenta, por lo que continuaremos con GitHub.
+![Sprint 3 FrontEnd Deployment Evidence 1](/assets/sprint-3-deployment/frontend-deploy/evidence-1.png)
+- Primero nos dirigimos a Import Project, siendo la primera opción.
+![Sprint 3 FrontEnd Deployment Evidence 2](/assets/sprint-3-deployment/frontend-deploy/evidence-2.png)
+- Luego seleccionamos el repositorio de GitHub donde se encuentra el código del FrontEnd. En este caso, Frontend-Finzar.
+![Sprint 3 FrontEnd Deployment Evidence 3](/assets/sprint-3-deployment/frontend-deploy/evidence-3.png)
+- Se nos presenta la siguiente pantalla, donde muestra las opciones por defecto en el despliegue de la página. Le damos a deploy.
+![Sprint 3 FrontEnd Deployment Evidence 4](/assets/sprint-3-deployment/frontend-deploy/evidence-4.png)
+- Podemos apreciar que la página ha sido desplegada con éxito.
+![Sprint 3 FrontEnd Deployment Evidence 5](/assets/sprint-3-deployment/frontend-deploy/evidence-5.png)
+- Con ello, se nos proporciona un link de la página desplegada, donde podemos acceder.
+![Sprint 3 FrontEnd Deployment Evidence 6](/assets/sprint-3-deployment/frontend-deploy/evidence-6.png)
+- Al acceder al link, podemos ver la página desplegada.
+![Sprint 3 FrontEnd Deployment Evidence 7](/assets/sprint-3-deployment/frontend-deploy/evidence-7.png)
+
+##### 5.2.3.8. Team Collaboration Insights during Sprint
+
+En esta sección se presenta el desarrollo colaborativo del equipo en la implementación del Sprint, mostrando analíticos de participación y commits en para la Landing Page, Aplicaciones Web y Servicios Web.
+
+**Landing Page**
+
+<img src="assets/tb2insights/finzarlandingpulse.png">
+<img src="assets/tb2insights/finzarlandingcontributors.png">
+
+**Distribución de commits de commits:**
+- Juan Diego Astonitas Díaz: 7 commits.
+- Gianluca Santino Pasquale Barrenechea: 6 commits.
+- Josue Gonzalo Paiva Quispe: 6 commits.
+- Sebastian Pacheco Astiguetta: 3 commits.
+  
+**Frontend**
+<img src="assets/tb2insights/finzarfrontpulse.png">
+<img src="assets/tb2insights/finzarfrontcontributors.png">
+
+**Distribución de commits de commits:**
+- Juan Diego Astonitas Díaz: 57 commits.
+- Gianluca Santino Pasquale Barrenechea: 9 commits.
+- Josue Gonzalo Paiva Quispe: 8 commits.
+- Sebastian Pacheco Astiguetta: 31 commits.
+
+**Backend**
+<img src="assets/tb2insights/finzarbackpulse.png">
+<img src="assets/tb2insights/finzarbackcontributors.png">
+
+**Distribución de commits de commits:**
+- Juan Diego Astonitas Díaz: 69 commits.
+- Gianluca Santino Pasquale Barrenechea: 44 commits.
+- Josue Gonzalo Paiva Quispe: 12 commits.
+- Sebastian Pacheco Astiguetta: 18 commits.
+
+
+### 5.3. Validation Interviews
+
+#### 5.3.1 Diseño de entrevistas
+
+## Objetivo de la Entrevista
+Validar la usabilidad y efectividad de la landing page y de los flujos de usuario de la aplicación Finzar, asegurando que cada flujo sea claro, atractivo y fomente la interacción de los usuarios con las funcionalidades clave de la plataforma.
+
+## Elementos de Validación
+- **Landing Page**: Se evaluará cómo los usuarios perciben la claridad del mensaje, el atractivo de las llamadas a la acción (CTA) y la estructura de la página para motivarlos a registrarse y explorar más sobre Finzar.
+- **Aplicación**: Se guiará a los usuarios a través de los flujos principales, como el registro de ingresos y gastos, la creación de metas de ahorro y la visualización de reportes financieros, para evaluar su facilidad de uso y efectividad.
+
+## User Flows a Validar
+
+### Para el Segmento Usuario
+
+1. **Landing Page**: 
+   - Evaluación de la claridad y atractivo de la Landing Page y su efectividad para captar el interés de los usuarios.
+
+2. **Registro de Ingresos y Gastos**:
+   - Evaluación de la facilidad para registrar ingresos y gastos diarios, asegurando que el proceso sea intuitivo y accesible.
+
+3. **Creación de Metas de Ahorro**:
+   - Evaluación de la claridad y utilidad de la funcionalidad de metas de ahorro, asegurando que los usuarios comprendan su propósito y valor para la gestión de finanzas personales.
+
+4. **Visualización de Reportes Financieros**:
+   - Evaluación de la presentación de los reportes financieros, garantizando que ofrezcan una visión clara y útil de los hábitos de gasto e ingresos.
+
+## Formato de Registro de la Entrevista
+1. **Datos del Entrevistado**:
+   - Nombre y apellidos
+   - Edad
+   - Ciudad de residencia
+   - Dispositivo utilizado (smartphone, tablet, laptop)
+
+### Preguntas para el Segmento Usuario
+#### Visualización de Overview
+- ¿Fue clara la información presentada en el panel tus habitos financieros?
+- ¿Algún momento te sentiste perdido al explorar el panel?
+- ¿Cómo describirías la información presentada?
+
+#### Creación de Billeteras
+- ¿Qué tan intuitivo fue el proceso de creaciópn de una billetera?
+- Describe el flujo para crear una billetera. ¿Algún paso generó dudas?
+- ¿El sistema brindó suficiente retroalimentación al crear una billetera?
+
+#### Visualización de Movimiento de billetera
+- ¿Fue fácil entender la información de los movimientos de tu billetera?
+- ¿Qué mejorarías en la presentación de estos movimientos?
+- ¿Te ayudó esta sección a comprender mejor tus gastos?
+
+#### Creación de Metas de Ahorro
+- ¿Fue claro el flujo para crear una meta de ahorro?
+- ¿Hubo algún paso en el proceso que causara confusión?
+- ¿Consideras útil esta funcionalidad para gestionar tus finanzas?
+
+#### Visualización de Reportes Financieros
+- ¿Fue fácil entender la información en los reportes financieros?
+- ¿Qué mejorarías en la presentación de estos reportes?
+- ¿Te ayudó esta sección a comprender mejor tus hábitos financieros?
+
+
+##### 5.3.2. Registro de entrevistas.
+
+|                                                           |                                                                                                                                                   |
+|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Link de video de entrevistas**                          | [URL de las entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119095_upc_edu_pe/ERvK2UaDUNRIuC_KFdFri6ABEsBPNnwUyCCxqnb7CsoJFw?e=znKUQz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)|
+
+A continuación se presentan los detalles clave de las entrevistas realizadas a los usuarios
+
+| Entrevista 1: Jovenes adultos |                                                                                                                                                                         |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                  | Flavio Gallardo                                                                                                                                           |
+| Edad                                                 | 20 Años                                                                                                                                                                |
+| Profesión                                            | Estudiante de Derecho                                                                                                                                             |
+| Departamento                                         | Lima, Perú                                                                                                                                                             |
+| Duración de la Entrevista                            | 03:20 min                                                                                                                                                              |
+| **Análisis de la Entrevista**                        |                                                                                                                                                                         |
+| Visualización de Overview                            | Comenta que la información es clara y útil, le permitió ver un resumen rápido de sus gastos e ingresos. Sugeriría incluir un pequeño tutorial inicial para los nuevos usuarios. |
+| Creación de Billeteras                               | El proceso es intuitivo, los botones y el flujo la guiaron bien. Sugiere un mensaje de confirmación más claro al finalizar la creación para mayor seguridad.             |
+| Visualización de Movimiento de billetera             | La categorización de movimientos es clara y el desglose le pareció adecuado. Propone agregar iconos para diferenciar mejor entre ingresos y gastos.                      |
+| Creación de Metas de Ahorro                          | Considera el flujo claro y útil, le gustó poder establecer una cantidad, categoría y plazo. No encontró confusión, pero le gustaría hacer seguimiento a sus metas.       |
+| Visualización de Reportes Financieros                | La información es fácil de entender con gráficos claros. Sugiere agregar filtros personalizados para visualizar datos por categorías o períodos específicos.              |
+| Navegación general                                   | Le pareció adecuada y útil, sin mayores observaciones.                                                                                                                  |
+
+| Entrevista 2: Jovenes adultos |                                                                                                                                                                         |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                  | Alvaro Alarcón                                                                                                                                       |
+| Edad                                                 | 20 Años                                                                                                                                                                |
+| Profesión                                            | Estudiante de Economía                                                                                                                                             |
+| Departamento                                         | Lima, Perú                                                                                                                                                             |
+| Duración de la Entrevista                            | 03:20 min                                                                                                                                                              |
+| **Análisis de la Entrevista**                        |                                                                                                                                                                         |
+| Visualización de Overview                            | Comenta que la información es clara y que cada sección está etiquetada de manera ordenada. Sin embargo, menciona que en algunos momentos se confundió al buscar ciertos detalles, como el acceso a las billeteras. Sugiere una vista simplificada para mostrar solo los puntos clave y expandir detalles según su interés. |
+| Creación de Billeteras                               | El proceso es intuitivo, con pasos lógicos, aunque tuvo que verificar dos veces para asegurarse de que ingresó correctamente el nombre y tipo de billetera. El sistema le mostró un cuadro para la creación, lo cual facilitó el proceso sin mayores problemas. |
+| Visualización de Movimiento de billetera             | La información de los movimientos es clara y ordenada, especialmente la sección de gastos, que está bien categorizada. Propone añadir un código de colores o etiquetas para distinguir ingresos y gastos rápidamente. |
+| Creación de Metas de Ahorro                          | Considera el flujo claro y directo, le agradó poder personalizar la categoría y asignar una fecha específica. Sugiere añadir un recordatorio visual para hacer seguimiento al progreso de la meta. |
+| Visualización de Reportes Financieros                | La información en los reportes es fácil de entender, aunque algunos gráficos parecen muy simples. Sugiere incluir una breve explicación en cada gráfico y permitir la personalización para comparar períodos o categorías. |
+| Navegación general                                   | Le pareció adecuada y útil, sin mayores observaciones.                                                                                                                  |
+
+| Entrevista 3: Jovenes adultos |                                                                                                                                                                         |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                  | Diego Paiva                                                                                                                                     |
+| Edad                                                 | 22 Años                                                                                                                                                                |
+| Profesión                                            | Estudiante de Ciencias de la comunicación                                                                                                                                             |
+| Departamento                                         | Lima, Perú                                                                                                                                                             |
+| Duración de la Entrevista                            | 03:37 min                                                                                                                                                              |
+| **Análisis de la Entrevista**                        |                                                                                                                                                                         |
+| Visualización de Overview                            | Le parece que la interfaz es clara y presenta correctamente los elementos importantes en pantalla, tanto la informacion como la funcionalidad de creacion de billeteras |
+| Creación de Billeteras                               | Le parece una funcion clara con un boton con icono pertinente, interfaz de creacion clara y simple |
+| Visualización de Movimiento de billetera             | Considera que cuenta con una interfaz funcional, se podria mejorar haciendola mas vistosa y que se diferencie de las demas. |
+| Creación de Metas de Ahorro                          | Al igual que la creacion de billeteras le parece una interfaz simple pero funcional y directa al punto |
+| Visualización de Reportes Financieros                | Si bien le parecen unos graficos agradables y funcionales, considera que añadirle variedad beneficiaria la experiencia del usuario |
+| Navegación general                                   | Interfaz clara y sencilla, no comenta sobre problemas en su navegacion.                                                                                                                  |
+##### 5.3.3. Evaluaciones según heurísticas.
+UX Heuristics & Principles Evaluation
+Usability - Inclusive Design - Information Architecture
+##### Informacion del proyecto
+- Carrera: Ingenieria de Software
+- Curso: Aplicaciones Open Source
+- Auditor: SmartFinance
+- Cliente: SmartFinance
+- Aplicacion: Finzar
+
+##### Tareas a evaluar
+En esta evaluacion revisaremos la funcionalidad de las siguientes caracteristicas:
+##### Para el segmento cliente:
+- Navegacion dentro de la pestaña Wallet
+- Navegacion dentro de la pestaña Savings
+- Creacion de una nueva Wallet
+- Añadir una nueva transaccion
+- Edicion de la informacion de una Wallet existente
+- Edicion de la informacion de un Saving existente
+
+#### Escala de Severidad
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir con más frecuencia o es más difícil de superar para el usuario. Debería tener una prioridad baja para resolverse en la próxima versión. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Debería tener alta prioridad para corregirse. |
+| 4     | Problema muy grave: error que impide al usuario continuar utilizando la herramienta. Debe corregirse antes del lanzamiento. |
+
+#### Tabla Resumen
+| #  | Problema                                                              | Escala de severidad | Heurística/Principio violado             | Tarea evaluada                                  |
+|----|-----------------------------------------------------------------------|--------------------|-----------------------------------------|-------------------------------------------------|
+| 1  | Datos de Wallet demasiado grandes y poco ordenados           | 2                | Eficiencia y satisfacción del usuario   |   Navegacion dentro de la pestaña Wallet          |
+| 2  | Diseño de la pestaña Savings simple y demasiado parecido a Wallet      | 2                  | Diseño estético y cohesivo     |Navegacion dentro de la pestaña Savings                          |
+| 3  | Cuadros de dialogo muy simples y poco intuitivos       | 2                  | Diseño estético y cohesivo     | Edicion de la informacion de una Wallet existente                            |
+| 4  | No existe una notificacion sobre la eliminacion de un saving       | 3                 | Visibilidad de informacion     | Edicion de la informacion de un Saving existente                            |
+
+##### Problema #1: Datos de Wallet demasiado grandes y poco ordenados
+- **Tarea Evaluada:** Navegacion dentro de la pestaña Wallet
+- **Recomendación:** Modificar el tamaño de la informacion de una Wallet, incluir diferentes colores para los datos mas y menos relevantes.
+
+##### Problema #2: Diseño de la pestaña Savings simple y demasiado parecido a Wallet
+- **Tarea Evaluada:** Navegacion dentro de la pestaña Savings
+- **Recomendación:** Incluir un diseño diferente cambiando algunos colores para permitir una distincion clara con la pestaña Wallet a simple vista.
+##### Problema #3: Cuadros de dialogo muy simples y poco intuitivos
+- **Tarea Evaluada:** Edicion de la informacion de una Wallet existente
+- **Recomendación:** Elegir un color diferente al de las pestañas y ordenar mejor los datos con sus respectivos titulos para facilitar la experiencia de usuario
+##### Problema #4: No existe una notificacion sobre la eliminacion de un saving
+- **Tarea Evaluada:** Edicion de la informacion de un Saving existente
+- **Recomendación:** Incluir una notificacion sobre la eliminacion exitosa de un saving
+
+#### Descripción de Problemas
+
+### 5.4. Video About-the-Product
+
+About the Product Video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110291_upc_edu_pe/EfCER3yQPs5AsO4Y715HfjkBMhXV68HWy-XOHCBIhGo6Fg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SaCgAm">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110291_upc_edu_pe/EfCER3yQPs5AsO4Y715HfjkBMhXV68HWy-XOHCBIhGo6Fg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SaCgAm</a>
+
+![about-the-product](/assets/AboutTheProduct/abouttheproduct.png)
+
+
 
 ## Conclusiones
 

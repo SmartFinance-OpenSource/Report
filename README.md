@@ -1320,9 +1320,8 @@ Los elementos presentes son:
 * Customer (Cliente): Accede a la aplicación web.
 * Administrator (Administrador): Accede a la aplicación web y supervisa su funcionamiento.
 * SmartFinance: Software que los usuarios utilizarán.
-<br>
 
-![SmartFinance-SystemContext](assets/dsl/structurizr-94856-SystemContext-001.png)
+![SmartFinance-SystemContext](assets/dsl/structurizr-82875-SystemContext.png)
 #### 4.6.2. Software Architecture Container Diagrams
 Los elementos presentes son:
 
@@ -1331,50 +1330,49 @@ Los elementos presentes son:
 * API: Conexión entre el frontend y backend.
 * Bounded Contexts: Las funcionalidades que el sistema proporciona a los usuarios.
 * Bases de datos: Almacenará datos como cuentas, billeteras, presupuestos, transacciones, entre otros.
-<br>
+![SmartFinance-Container](assets/dsl/structurizr-82875-Container.png)
 
-![SmartFinance-Container](assets/dsl/structurizr-94856-Container-001.png)
 #### 4.6.3. Software Architecture Components Diagrams
-**Bounded Context Account Creation and Management**
+**Bounded Context Account Management**
 
 Los elementos presentes son:
 * Controller: Controla un conjunto de funcionalidades.
 * Service: Partes de la aplicación que realizan una o varias tareas específicas.
 * Repository: Permite el acceso a una base de datos.
-![AccountCreationAndManagement-Component](assets/dsl/structurizr-94856-Component-001.png)
+![AccountCreationAndManagement-Component](assets/dsl/structurizr-82875-Bounded_Context-Users.png)
 
-**Bounded Context Visualization of Wallets and Flows**
+**Bounded Context User Wallets**
+
+Los elementos presentes son:
+* Controller: Controla un conjunto de funcionalidades.
+* Services: Partes de la aplicación que realizan una o varias tareas específicas.
+* Repository: Permite el acceso a una base de datos.
+![VisualizationOfWalletsAndFlows-Component](assets/dsl/structurizr-82875-Bounded_Context-Wallets.png)
+
+**Bounded Context Transactions and Flows**
+
+Los elementos presentes son:
+* Controllers: Controla un conjunto de funcionalidades.
+* Services: Partes de la aplicación que realizan una o varias tareas específicas.
+* Repositories: Permite el acceso a una base de datos.
+![TransactionRegisterAndCategorization-Component](assets/dsl/structurizr-82875-Bounded_Context-Transactions.png)
+
+**Bounded Context Wallet Savings**
 
 Los elementos presentes son:
 * Controller: Controla un conjunto de funcionalidades.
 * Service: Partes de la aplicación que realizan una o varias tareas específicas.
 * Repository: Permite el acceso a una base de datos.
-![VisualizationOfWalletsAndFlows-Component](assets/dsl/structurizr-94856-Component-002.png)
+![BudgetingCreationAndMonitoring-Component](assets/dsl/structurizr-82875-Bounded_Context-Savings.png)
 
-**Bounded Context Transaction Register and Categorization**
-
-Los elementos presentes son:
-* Controller: Controla un conjunto de funcionalidades.
-* Service: Partes de la aplicación que realizan una o varias tareas específicas.
-* Repository: Permite el acceso a una base de datos.
-![TransactionRegisterAndCategorization-Component](assets/dsl/structurizr-94856-Component-003.png)
-
-**Bounded Context Budgeting Creation and Monitoring**
-
-Los elementos presentes son:
-* Controller: Controla un conjunto de funcionalidades.
-* Service: Partes de la aplicación que realizan una o varias tareas específicas.
-* Observer: Notifica sobre algún cambio en un evento realizado por un componente.
-* Repository: Permite el acceso a una base de datos.
-![BudgetingCreationAndMonitoring-Component](assets/dsl/structurizr-94856-Component-004.png)
-
-**Bounded Context Savings Creation and Monitoring**
+**Bounded Context Wallets & Savings Graphics Providing**
 
 Los elementos presentes son:
 * Controller: Controla un conjunto de funcionalidades.
 * Service: Partes de la aplicación que realizan una o varias tareas específicas.
 * Repository: Permite el acceso a una base de datos.
-![SavingsCreationAndMonitoring-Component](assets/dsl/structurizr-94856-Component-005.png)
+* Context Facade: Proporciona una interface en la cual se puede acceder a los servicios del bounded context.
+![SavingsCreationAndMonitoring-Component](assets/dsl/structurizr-82875-Bounded_Context-Graphics.png)
 
 ### 4.7. Software Object-Oriented Design
 El diseño orientado a objetos del software será esencial para nuestro proyecto. Estructuramos nuestro software de acuerdo a nuestras reglas de negocio para poder crear componentes que puedan ser entendibles para su desarrollo en un sistema real, y sean fáciles de modificar para nosotros.

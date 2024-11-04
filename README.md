@@ -3307,6 +3307,11 @@ About the Product Video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/perso
 
 - El diseño y la ejecución de entrevistas han sido fundamentales para validar las necesidades y preferencias del segmento objetivo de Finzar. Esta metodología de acercarse a los usuarios reales ha permitido recopilar información valiosa que asegura que la herramienta esté alineada con las expectativas del mercado, fortaleciendo su propuesta de valor y guiando futuras mejoras en el desarrollo del producto.
 
+- La implementación de métodos ágiles en el desarrollo de Finzar ha permitido una adaptación rápida a los cambios y feedback recibidos durante el proceso. Esta metodología ha facilitado ajustes continuos, lo cual ha sido crucial para responder a las necesidades emergentes del usuario, asegurando que cada etapa del desarrollo agregue valor y mejore la funcionalidad de la aplicación.
+
+- Las entrevistas de validación y pruebas de usabilidad con usuarios han proporcionado información valiosa para mejorar la experiencia del usuario. A través de estas entrevistas, se identificaron puntos de fricción en cuanto a la funcionalidad y diseño de los servicios web, las cuales se realizarán cambios importantes de diseño en proximás entregas, facilitando una navegación mas intuitiva y una interacción más fluida para los usuarios finales.
+
+
 ## Bibliografía
 
 - INEI [Instituto Nacional de Estadística e Informática]. (2023, 11 mayo). *Pobreza monetaria afectó al 27,5% de la población del país en el año 2022*. Recuperado 23 de agosto de 2024, de [https://m.inei.gob.pe/prensa/noticias/pobreza-monetaria-afecto-al-275-de-la-poblacion-del-pais-en-el-ano-2022-14391/](https://m.inei.gob.pe/prensa/noticias/pobreza-monetaria-afecto-al-275-de-la-poblacion-del-pais-en-el-ano-2022-14391/)

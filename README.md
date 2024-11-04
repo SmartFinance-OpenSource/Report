@@ -3081,6 +3081,9 @@ Para el FrontEnd, se utilizó [Vercel](https://vercel.com) para el despliegue de
 - Al acceder al link, podemos ver la página desplegada.
 ![Sprint 3 FrontEnd Deployment Evidence 7](/assets/sprint-3-deployment/frontend-deploy/evidence-7.png)
 
+**DEPLOYMENT LINK**
+ingresar desde landing: https://landing-page-ashen-chi.vercel.app/
+
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
 En esta sección se presenta el desarrollo colaborativo del equipo en la implementación del Sprint, mostrando analíticos de participación y commits en para la Landing Page, Aplicaciones Web y Servicios Web.

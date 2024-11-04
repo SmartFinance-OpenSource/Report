@@ -2252,7 +2252,104 @@ A continuación se muestran los commits realizados durante el Sprint 3 para docu
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
-En el tercer sprint identificamos 22 endpoints provenientes de 7 controladores diferentes. Utilizamos swagger para la presente documentacion.
+En el tercer sprint identificamos 32 endpoints provenientes de 8 controladores diferentes. Utilizamos swagger para la presente documentacion.
+
+
+**Saving Controller**
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Savings </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/savings/{userId} </td>
+        <td colspan="1"> Get savings by user id </td>
+        <td colspan="1"> Get savings of user </td>
+        <td colspan="1"> GetSavingsByUserId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> userId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Savings </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/savings/{savingsId} </td>
+        <td colspan="1"> Get savings by id </td>
+        <td colspan="1"> Get savings in a system by its id </td>
+        <td colspan="1"> GetSavingsById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> savingsId</td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Savings </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/savings </td>
+        <td colspan="1"> Get all savings </td>
+        <td colspan="1"> Get all savings in the system </td>
+        <td colspan="1"> GetAllSavings </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> - </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Savings </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/savings</td>
+        <td colspan="1"> Create new savings</td>
+        <td colspan="1"> Create new savings in system </td>
+        <td colspan="1"> CreateSavings </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Savings </td>
+        <td colspan="1"> PUT </td>
+        <td colspan="1"> /api/v1/savings/{savingsId}</td>
+        <td colspan="1"> Update existing savings </td>
+        <td colspan="1"> Update existing savings by id </td>
+        <td colspan="1"> UpdateSavings </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> savingsId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Savings </td>
+        <td colspan="1"> DELETE </td>
+        <td colspan="1"> /api/v1/savings/{savingsId}</td>
+        <td colspan="1"> Delete savings </td>
+        <td colspan="1"> Delete savings by id </td>
+        <td colspan="1"> DeleteSavings </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> savingsId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+</table>
 
 **Wallet Controller**
 <table>
@@ -2293,7 +2390,21 @@ En el tercer sprint identificamos 22 endpoints provenientes de 7 controladores d
         <td colspan="2"> no </td>
     </tr>
     <tr>
-        <td colspan="1"> Walllet </td>
+        <td colspan="1"> Wallet </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/wallets </td>
+        <td colspan="1"> Get all wallets </td>
+        <td colspan="1"> Get all wallets in the system </td>
+        <td colspan="1"> GetAllWallets </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> - </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Wallet </td>
         <td colspan="1"> POST </td>
         <td colspan="1"> /api/v1/wallets</td>
         <td colspan="1"> Create a new wallet</td>
@@ -2307,12 +2418,26 @@ En el tercer sprint identificamos 22 endpoints provenientes de 7 controladores d
         <td colspan="2"> si </td>
     </tr>
     <tr>
-        <td colspan="1"> Walllet </td>
-        <td colspan="1"> GET </td>
+        <td colspan="1"> Wallet </td>
+        <td colspan="1"> PUT </td>
         <td colspan="1"> /api/v1/wallets/{walletId}</td>
         <td colspan="1"> Update existing wallet </td>
-        <td colspan="1">Update existing wallet by id</td>
+        <td colspan="1"> Update existing wallet by id </td>
         <td colspan="1"> UpdateWallet </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> walletId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Wallet </td>
+        <td colspan="1"> DELETE </td>
+        <td colspan="1"> /api/v1/wallets/{walletId}</td>
+        <td colspan="1"> Delete a wallet </td>
+        <td colspan="1"> Delete a wallet by id </td>
+        <td colspan="1"> DeleteWallet </td>
     </tr>
     <tr>
         <td colspan="1"> Parameters </td>
@@ -2321,6 +2446,7 @@ En el tercer sprint identificamos 22 endpoints provenientes de 7 controladores d
         <td colspan="2"> no </td>
     </tr>
 </table>
+
 CategoryController
 <table>
     <tr>
@@ -2589,6 +2715,34 @@ UsersController
         <td colspan="1"> Request body </td>
         <td colspan="2"> si </td>
     </tr>
+    <tr>
+        <td colspan="1"> Users </td>
+        <td colspan="1"> PUT </td>
+        <td colspan="1"> /api/v1/users/{userId}</td>
+        <td colspan="1"> Update existing user </td>
+        <td colspan="1"> Update existing user by id </td>
+        <td colspan="1"> UpdateUser </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> userId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Users </td>
+        <td colspan="1"> DELETE </td>
+        <td colspan="1"> /api/v1/users/{userId}</td>
+        <td colspan="1"> Delete a user </td>
+        <td colspan="1"> Delete a user by id </td>
+        <td colspan="1"> DeleteUser </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> userId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
 </table>
 
 RepeatPeriodController
@@ -2644,6 +2798,7 @@ RepeatPeriodController
         <td colspan="2"> si </td>
     </tr>
 </table>
+
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 **Landing Page**

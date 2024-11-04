@@ -221,50 +221,58 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
 del ABET – EAC - Student Outcome 3.
 
 <table>
-<tr>
+  <tr>
     <th>Criterio específico</th>
     <th>Acciones realizadas</th>
     <th>Conclusiones</th>
   </tr>
   <tr>
-    <td>Comunica oralmente con
-efectividad a diferentes rangos
-de audiencia.</td>
+    <td>Comunica oralmente con efectividad a diferentes rangos de audiencia.</td>
     <td>
-	Juan Astonitas<br>TB1<br>
-	A lo largo del desarrollo del proyecto Bliss, he participado activamente en la toma de decisiones estratégicas y en la definición de la dirección del equipo, promoviendo la comunicación abierta y la responsabilidad compartida para garantizar un liderazgo efectivo y colectivo.<br>
-	Sebastian Pacheco<br>TB1<br>
-	En el desarrollo del proyecto, he participado en la realización de actividades asignadas y promoviendo la participación de otros en las actividades de compañeros, permitiendo que haya un círculo de confianza y se logre afinar el producto gracias a la recepción del punto de vista del resto.<br>
-    Josue Paiva <br>TB1 <br>
-    En el entregable 1 he mantenido una comunicación constante con mis compañeros, pues se buscó un aporte constante por parte de todos los integrantes, en general tuvimos buena comunicación y buena aportación a partes iguales.<br>
-    Gianluca Pasquale<br>TB1<br>
-	He contribuido activamente en el liderazgo compartido, facilitando la toma de decisiones y promoviendo la responsabilidad colectiva.<br>
-    Sebastián Real <br>TB1 <br>
-    En el desarrollo de la primera etapa del proyecto, hubo una comunicación constante entre los integrantes del equipo, lo que llevo a que la realización de las actividades designadas fuera lo más fluida posible, y logrando eliminar cualquier posibilidad de malentendidos o fallas por falta de comunicación.
+      Juan Astonitas<br>TB1<br> Realizé entrevistas a los segmentos objetivos lo que me llevo a tener una comunicación efectiva con los usuarios para poder dar a entender el producto que se esta desarrollando.<br> TP <br> Fui líder para el diseño y funcionalidad del frontend del webapp, lo que me llevo a mejorar la manera de explicar mis ideas a mis compañeros.<br>TB2<br> Realize entrevistas de validacion lo que me llevo a expresar de manera mas simple las ideas de funcionalidad a una audiencia consumidora. <br>
+      Sebastian Pacheco<br>TB1<br>
+      En el desarrollo del proyecto, he participado en la realización de actividades asignadas y promoviendo la participación de otros en las actividades de compañeros, permitiendo que haya un círculo de confianza y se logre afinar el producto gracias a la recepción del punto de vista del resto.<br>
+      Josue Paiva<br>TB1<br>
+      En el entregable 1 he mantenido una comunicación constante con mis compañeros, pues se buscó un aporte constante por parte de todos los integrantes, en general tuvimos buena comunicación y buena aportación a partes iguales.<br>
+      <br>TB1<br>
+      En el entregable 2 me concentre en concluir mi bounded context designado para poder realizar los endpoints del backend que se me designo, fue crucial las reuniones en grupo, asi como consultar con mis compañeros cuando tenia dudas sobre la implementacion.<br>
+      Gianluca Pasquale<br>TB1<br>
+      He contribuido activamente en el liderazgo compartido, facilitando la toma de decisiones y promoviendo la responsabilidad colectiva.<br>
+	<br> TP1 <br>
+      Diseñe la interfaz gráfica y la page principal para la seccion de Savings, también añadí funcionalidades críticas como tener CRUD dentro de toda la sección. Implementé validaciones para el mostrado de tablas dentro de la page principal de Savings. <br>
+	<br> TB2 <br>
+      Implementé secciones especificas con CRUD en el area de Saving Progress, Saving Details y Saving Transactions para el mostrado de datos segun nuestra base de datos. Colabore con mis compañeros para el desarrollo completo del FrontEnd para tener un proyecto más pulido.	 <br>
+      Sebastián Real<br>TB1<br>
+      En el desarrollo de la primera etapa del proyecto, hubo una comunicación constante entre los integrantes del equipo, lo que llevó a que la realización de las actividades designadas fuera lo más fluida posible, y logrando eliminar cualquier posibilidad de malentendidos o fallas por falta de comunicación.
     </td>
-    <td> TB1<br>En el desarrollo de nuestro proyecto, cada uno ha participado en sus actividades asignadas, también dando su retroalimentación con experiencia como ingenieros. Todos han aportado de manera activa, siempre comunicando cualquier cambio que desarrollen, manteniendo una comunicación entre todos y de esa manera afinando la confianza mutua. Esto ha fortalecido el valor del trabajo en equipo, el cual es de vital importancia para proyectos colaborativos en donde todos son importantes y logran cumplir las responsabilidades propuestas eficientemente.</td>
+    <td>
+      TB1<br>
+      En el desarrollo de nuestro proyecto, cada uno ha participado en sus actividades asignadas, también dando su retroalimentación con experiencia como ingenieros. Todos han aportado de manera activa, siempre comunicando cualquier cambio que desarrollen, manteniendo una comunicación entre todos y de esa manera afinando la confianza mutua. Esto ha fortalecido el valor del trabajo en equipo, el cual es de vital importancia para proyectos colaborativos en donde todos son importantes y logran cumplir las responsabilidades propuestas eficientemente.
+    </td>
   </tr>
   <tr>
-    <td>Comunica por escrito con
-efectividad a diferentes rangos
-de audiencia</td>
+    <td>Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
     <td>
-	Juan Astonitas<br>TB1<br>
-	Durante el proyecto, he contribuido a la creación de un entorno inclusivo y colaborativo, fomentando la participación de todos los miembros del equipo. He trabajado en la definición de metas claras, la planificación de tareas detalladas, y el seguimiento del cumplimiento de los objetivos, asegurando que cada miembro se sienta valorado y comprometido con los resultados.<br>
-	Sebastian Pacheco<br>TB1<br>
-	Para promover la participación de otros en un trabajo colaborativo, he desarrollado las actividades asignadas y he buscado la experiencia de mis compañeros para poder mejorar el producto, así como dando ideas propias hacia las actividades de otros y asistiendo en ello.<br>
-    Josue Paiva <br>TB1 <br>
-    Durante las semanas de plazo he completado las tareas delegadas, asi como las que surgían inesperadamente siempre que pude, las mismas se pueden ver reflejadas en mis commits, ademas de aportar con mis compañeros siempre que se necesito.
-    <br>Gianluca Pasquale<br>TB1<br>
-	He fomentado un entorno inclusivo, definiendo metas claras, planificando tareas, y asegurando el cumplimiento de los objetivos del proyecto.<br>
-    Sebastián Real <br>TB1<br>
-    Durante las semanas de trabajo, he completado las tareas que se me encomendaron, y busqué oportunidades para aportar en el desarrollo del producto con ideas o al cumplir tareas específicas. Me comuniqué con el resto de mi grupo, y entre todos documentamos nuestros avances para garantizar un seguimiento efectivo del progreso del proyecto.
+      Juan Astonitas<br>TB1<br> Realize el diseño de las entrevistas lo que me llevo a escribir las ideas de desarrollo y funcionalidad del producto de una menra clara y concisa <br> TP <br> Corregi las historias de usuario lo que me llevo a entender que ideas erroneas tenia acerca de los <br> TB2<br> Tuve la direccion y liderazgo del backend lo que me llevo a coordinar las actividades por distintos medios escritos como discord y whatsapp, lo que lleva a expresar las indicaciones, idea y review de desrrollo de manera clara y consica. <br>
+      Sebastian Pacheco<br>TB1<br>
+      Para promover la participación de otros en un trabajo colaborativo, he desarrollado las actividades asignadas y he buscado la experiencia de mis compañeros para poder mejorar el producto, así como dando ideas propias hacia las actividades de otros y asistiendo en ello.<br>
+      Josue Paiva<br>TB1<br>
+      Durante las semanas de plazo he completado las tareas delegadas, así como las que surgían inesperadamente siempre que pude, las mismas se pueden ver reflejadas en mis commits, además de aportar con mis compañeros siempre que se necesitó.<br>
+      <br>TB2<br>
+      Ademas de concluir la retroalimentacion del TP, tambien aporte con la documentacion en el report, asi como la planficiacion de los sprints pasados y futuros en el trello para ordenar de manera mas eficiente el flujo de trabajo <br>
+      Gianluca Pasquale<br>TB1<br>
+      He fomentado un entorno inclusivo, definiendo metas claras, planificando tareas, y asegurando el cumplimiento de los objetivos del proyecto.<br>
+      <br> TB2: <br>
+      Desarrolle los endpoints de backend de mi bounded context llamado Savings, la cual fue lograda a travez de las reuniones asistidas formadas por nuestro líder de grupo.	    <br>
+      Sebastián Real<br>TB1<br>
+      Durante las semanas de trabajo, he completado las tareas que se me encomendaron, y busqué oportunidades para aportar en el desarrollo del producto con ideas o al cumplir tareas específicas. Me comuniqué con el resto de mi grupo, y entre todos documentamos nuestros avances para garantizar un seguimiento efectivo del progreso del proyecto.
     </td>
-    <td> TB1<br>En el desarrollo de nuestro proyecto, todos han participado sin falta y asistido en actividades en donde otros tenían complicaciones. Se han establecido responsabilidades y planificado entregas en donde cada uno formó parte, logrando un progreso efectivo y cumpliendo los objetivos dados. El hecho de que exista una participación activa de todos los miembros fomenta valores de trabajo en equipo, el cual es punto clave para el progreso y cumplimiento de los objetivos propuestos.  </td>
+    <td>
+      TB1<br>
+      En el desarrollo de nuestro proyecto, todos han participado sin falta y asistido en actividades en donde otros tenían complicaciones. Se han establecido responsabilidades y planificado entregas en donde cada uno formó parte, logrando un progreso efectivo y cumpliendo los objetivos dados. El hecho de que exista una participación activa de todos los miembros fomenta valores de trabajo en equipo, el cual es punto clave para el progreso y cumplimiento de los objetivos propuestos.
+    </td>
   </tr>
-
 </table>
-
 
 ## Capítulo I: Introducción <a id="cap1"></a>
 
@@ -314,16 +322,6 @@ en la creación de soluciones financieras accesibles y prácticas para los perua
     <td> <img src="assets/teampics/SebastianPacheco.jpg" style="width:300px"> </td>
     <td> Soy Sebastian Pacheco, tengo 21 años y soy alumno de Ingeniería de Software en la UPC. Me considero una persona trabajadora y activa, priorizando las responsabilidades ante todo, pero también destaco en trabajo en equipo, permitiendo a todos que participen. Tengo conocimiento de C++ y Python, los cuales pongo en práctica mediante proyectos personales. </td>
   </tr>
-<tr>
-    <th colspan="2"> Sebastián Omar Real Calderón </th>
-  </tr>
-  <tr>
-    <td>
-        <img src="assets/teampics/SebastianReal.jpg" style="width:300px">
-    </td>
-    <td> Soy Sebastián Real Calderón, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software. Tengo conocimientos sobre lenguajes de programación como C++, C# y Java. Principalmente me dedico al desarrollo de proyectos que me permitan desarrollar mis habilidades de programación, tales como videojuegos o programas sencillos, ya que apunto a volverme desarrollador. </td>
-  </tr>
-<tr>
     <th colspan="2">Josue Paiva</th>
   </tr>
   <tr>

@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/286a74e9-16ad-4f72-ae1b-0ce538fb5ce3)<div align = "center">
   <h1>Universidad Peruana de Ciencias Aplicadas</h1>
   <img style="height: 200px" src=https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png>
   <h2 >Carrera: de Ingeniería de Software</h2>

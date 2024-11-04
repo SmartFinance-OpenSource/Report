@@ -41,6 +41,13 @@
 
 
 ## Project Report Collaboration Insights
+
+
+| URL de la organización del proyecto |                URL del repositorio del reporte                |
+|:-----------------------------------:|:-------------------------------------------------------------:|
+|   https://github.com/SmartFinance-OpenSource    | https://github.com/SmartFinance-OpenSource/Report |
+
+
 Se han realizado todas las tareas asignadas para la entrega de la TB1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el 
 enlace [https://github.com/SmartFinance-OpenSource.](https://github.com/SmartFinance-OpenSource) Para elaborar el informe, cada miembro ha redactado y creado gráficos en formato Markdown según los puntos asignados, realizando commits para registrar el avance en el repositorio. 
 
@@ -53,6 +60,42 @@ el trabajo sea equitativo entre todos.
 
 Como Se puede ver a continuacion, durate el desarrollo de la TB1 hemos tenido 70 branches a los que hemos hecho merge con develop, cada uno de estos corresponde a una seccion del trabajo (por ejemplo: Project Report Collaboration Insights). 
 ![insight2](assets/projectColaborationInsigths/insight2.png)
+
+
+TB2: Se han realizado todas las tareas asignadas para la entrega del TB2, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/SmartFinance-OpenSource. Para elaborar el informe cada miembro corrigio y añadio puntos que se  debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/SmartFinance-OpenSource/Report, de la misma manera para el desarrollo de la web application se trabajo en este repositorio: https://github.com/SmartFinance-OpenSource/Frontend-Finzar, por ultimo el desarrollo del backend se realizó en el siguiente enlace: https://github.com/SmartFinance-OpenSource/Backend-Finzar.
+
+**Landing Page**
+
+<img src="assets/tb2insights/finzarlandingpulse.png">
+<img src="assets/tb2insights/finzarlandingcontributors.png">
+
+**Distribución de commits de commits:**
+- Juan Diego Astonitas Díaz: 7 commits.
+- Gianluca Santino Pasquale Barrenechea: 6 commits.
+- Josue Gonzalo Paiva Quispe: 6 commits.
+- Sebastian Pacheco Astiguetta: 3 commits.
+  
+**Frontend**
+<img src="assets/tb2insights/finzarfrontpulse.png">
+<img src="assets/tb2insights/finzarfrontcontributors.png">
+
+**Distribución de commits de commits:**
+- Juan Diego Astonitas Díaz: 57 commits.
+- Gianluca Santino Pasquale Barrenechea: 9 commits.
+- Josue Gonzalo Paiva Quispe: 8 commits.
+- Sebastian Pacheco Astiguetta: 31 commits.
+
+**Backend**
+<img src="assets/tb2insights/finzarbackpulse.png">
+<img src="assets/tb2insights/finzarbackcontributors.png">
+
+**Distribución de commits de commits:**
+- Juan Diego Astonitas Díaz: 69 commits.
+- Gianluca Santino Pasquale Barrenechea: 44 commits.
+- Josue Gonzalo Paiva Quispe: 12 commits.
+- Sebastian Pacheco Astiguetta: 18 commits.
+
+
 
 ## Contenido
 
@@ -2868,6 +2911,41 @@ Para el FrontEnd, se utilizó [Vercel](https://vercel.com) para el despliegue de
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
+En esta sección se presenta el desarrollo colaborativo del equipo en la implementación del Sprint, mostrando analíticos de participación y commits en para la Landing Page, Aplicaciones Web y Servicios Web.
+
+**Landing Page**
+
+<img src="assets/tb2insights/finzarlandingpulse.png">
+<img src="assets/tb2insights/finzarlandingcontributors.png">
+
+**Distribución de commits de commits:**
+- Juan Diego Astonitas Díaz: 7 commits.
+- Gianluca Santino Pasquale Barrenechea: 6 commits.
+- Josue Gonzalo Paiva Quispe: 6 commits.
+- Sebastian Pacheco Astiguetta: 3 commits.
+  
+**Frontend**
+<img src="assets/tb2insights/finzarfrontpulse.png">
+<img src="assets/tb2insights/finzarfrontcontributors.png">
+
+**Distribución de commits de commits:**
+- Juan Diego Astonitas Díaz: 57 commits.
+- Gianluca Santino Pasquale Barrenechea: 9 commits.
+- Josue Gonzalo Paiva Quispe: 8 commits.
+- Sebastian Pacheco Astiguetta: 31 commits.
+
+**Backend**
+<img src="assets/tb2insights/finzarbackpulse.png">
+<img src="assets/tb2insights/finzarbackcontributors.png">
+
+**Distribución de commits de commits:**
+- Juan Diego Astonitas Díaz: 69 commits.
+- Gianluca Santino Pasquale Barrenechea: 44 commits.
+- Josue Gonzalo Paiva Quispe: 12 commits.
+- Sebastian Pacheco Astiguetta: 18 commits.
+
+
+=======
 ### 5.3 Validation Interviews
 
 #### 5.3.1 Interview Design
@@ -2928,7 +3006,7 @@ Validar la usabilidad y efectividad de la landing page y de los flujos de usuari
 - ¿Qué mejorarías en la presentación de estos reportes?
 - ¿Te ayudó esta sección a comprender mejor tus hábitos financieros?
   
-=======
+
 ### 5.3. Validation Interviews
 ##### 5.3.1. Diseño de entrevistas.
 ##### 5.3.2. Registro de entrevistas.

@@ -2868,6 +2868,67 @@ Para el FrontEnd, se utilizó [Vercel](https://vercel.com) para el despliegue de
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
+### 5.3 Validation Interviews
+
+#### 5.3.1 Interview Design
+
+## Objetivo de la Entrevista
+Validar la usabilidad y efectividad de la landing page y de los flujos de usuario de la aplicación Finzar, asegurando que cada flujo sea claro, atractivo y fomente la interacción de los usuarios con las funcionalidades clave de la plataforma.
+
+## Elementos de Validación
+- **Landing Page**: Se evaluará cómo los usuarios perciben la claridad del mensaje, el atractivo de las llamadas a la acción (CTA) y la estructura de la página para motivarlos a registrarse y explorar más sobre Finzar.
+- **Aplicación**: Se guiará a los usuarios a través de los flujos principales, como el registro de ingresos y gastos, la creación de metas de ahorro y la visualización de reportes financieros, para evaluar su facilidad de uso y efectividad.
+
+## User Flows a Validar
+
+### Para el Segmento Usuario
+
+1. **Landing Page**: 
+   - Evaluación de la claridad y atractivo de la Landing Page y su efectividad para captar el interés de los usuarios.
+
+2. **Registro de Ingresos y Gastos**:
+   - Evaluación de la facilidad para registrar ingresos y gastos diarios, asegurando que el proceso sea intuitivo y accesible.
+
+3. **Creación de Metas de Ahorro**:
+   - Evaluación de la claridad y utilidad de la funcionalidad de metas de ahorro, asegurando que los usuarios comprendan su propósito y valor para la gestión de finanzas personales.
+
+4. **Visualización de Reportes Financieros**:
+   - Evaluación de la presentación de los reportes financieros, garantizando que ofrezcan una visión clara y útil de los hábitos de gasto e ingresos.
+
+## Formato de Registro de la Entrevista
+1. **Datos del Entrevistado**:
+   - Nombre y apellidos
+   - Edad
+   - Ciudad de residencia
+   - Dispositivo utilizado (smartphone, tablet, laptop)
+
+### Preguntas para el Segmento Usuario
+#### Visualización de Overview
+- ¿Fue clara la información presentada en el panel tus habitos financieros?
+- ¿Algún momento te sentiste perdido al explorar el panel?
+- ¿Cómo describirías la información presentada?
+
+#### Creación de Billeteras
+- ¿Qué tan intuitivo fue el proceso de creaciópn de una billetera?
+- Describe el flujo para crear una billetera. ¿Algún paso generó dudas?
+- ¿El sistema brindó suficiente retroalimentación al crear una billetera?
+
+#### Visualización de Movimiento de billetera
+- ¿Fue fácil entender la información de los movimientos de tu billetera?
+- ¿Qué mejorarías en la presentación de estos movimientos?
+- ¿Te ayudó esta sección a comprender mejor tus gastos?
+
+#### Creación de Metas de Ahorro
+- ¿Fue claro el flujo para crear una meta de ahorro?
+- ¿Hubo algún paso en el proceso que causara confusión?
+- ¿Consideras útil esta funcionalidad para gestionar tus finanzas?
+
+#### Visualización de Reportes Financieros
+- ¿Fue fácil entender la información en los reportes financieros?
+- ¿Qué mejorarías en la presentación de estos reportes?
+- ¿Te ayudó esta sección a comprender mejor tus hábitos financieros?
+  
+=======
 ### 5.3. Validation Interviews
 ##### 5.3.1. Diseño de entrevistas.
 ##### 5.3.2. Registro de entrevistas.
@@ -2981,6 +3042,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 About the Product Video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110291_upc_edu_pe/EfCER3yQPs5AsO4Y715HfjkBMhXV68HWy-XOHCBIhGo6Fg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SaCgAm">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110291_upc_edu_pe/EfCER3yQPs5AsO4Y715HfjkBMhXV68HWy-XOHCBIhGo6Fg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SaCgAm</a>
 
 ![about-the-product](/assets/AboutTheProduct/abouttheproduct.png)
+
 
 
 ## Conclusiones

@@ -229,59 +229,64 @@ del ABET – EAC - Student Outcome 3.
   <tr>
     <td>Comunica oralmente con efectividad a diferentes rangos de audiencia.</td>
     <td>
-      Juan Astonitas<br>TB1<br> Realizé entrevistas a los segmentos objetivos lo que me llevo a tener una comunicación efectiva con los usuarios para poder dar a entender el producto que se esta desarrollando.<br> TP <br> Fui líder para el diseño y funcionalidad del frontend del webapp, lo que me llevo a mejorar la manera de explicar mis ideas a mis compañeros.<br>TB2<br> Realize la dieccion del backend lo que me llevo a la comunicacion efectiva mediante lider y grupo. <br>
-      Sebastian Pacheco<br>
-      TB1<br>En el desarrollo del proyecto, he participado en la realización de actividades asignadas y promoviendo la participación de otros en las actividades de compañeros, permitiendo que haya un círculo de confianza y se logre afinar el producto gracias a la recepción del punto de vista del resto.<br>
-      TP<br>En este entregable, he coordinado con el grupo para poder avanzar el frontend, proporcionando y recibiendo sugerencias. Con ello, logré comprender el objetivo que se desea llegar de este proyecto y a qué publico objetivo apuntamos.<br>
-      TB2<br>Para este entregable he supervisado y comunicado posibles cambios y soluciones en la sección frontend y backend, además de apoyar a otros en el desarrollo de tasks, de esta manera ambos lados cooperamos y logramos establecer el trabajo en equipo mediante comunicación.<br>
-      Josue Paiva<br>TB1<br>
-      En el entregable 1 he mantenido una comunicación constante con mis compañeros, pues se buscó un aporte constante por parte de todos los integrantes, en general tuvimos buena comunicación y buena aportación a partes iguales.<br>
-      TP<br>En el entregable parcial contribui con ciertas observaciones del entregable anterior, como definir correctamente los criterios de aceptacion, ello me permitio desarrollar de manera mas eficiente mi bounded context en el frontend y ajustarme a los parametros de las user stories que tambien fueron mejoradas e incrementadas.<br>
-      <br>TB2<br>
-
-      En el entregable 2 me concentre en concluir mi bounded context designado para poder realizar los endpoints del backend que se me designo, fue crucial las reuniones en grupo, asi como consultar con mis compañeros cuando tenia dudas sobre la implementacion.<br>
-      Gianluca Pasquale<br>TB1<br>
-      He contribuido activamente en el liderazgo compartido, facilitando la toma de decisiones y promoviendo la responsabilidad colectiva.<br>
-	<br> TP1 <br>
-      Diseñe la interfaz gráfica y la page principal para la seccion de Savings, también añadí funcionalidades críticas como tener CRUD dentro de toda la sección. Implementé validaciones para el mostrado de tablas dentro de la page principal de Savings. <br>
-	<br> TB2 <br>
-      Implementé secciones especificas con CRUD en el area de Saving Progress, Saving Details y Saving Transactions para el mostrado de datos segun nuestra base de datos. Colabore con mis compañeros para el desarrollo completo del FrontEnd para tener un proyecto más pulido.	 <br>
-      Sebastián Real<br>TB1<br>
-      En el desarrollo de la primera etapa del proyecto, hubo una comunicación constante entre los integrantes del equipo, lo que llevó a que la realización de las actividades designadas fuera lo más fluida posible, y logrando eliminar cualquier posibilidad de malentendidos o fallas por falta de comunicación.
-    </td>
+      <strong>Juan Astonitas</strong><br>
+      <strong>TB1:</strong> Realicé entrevistas a los segmentos objetivos, lo que me llevó a tener una comunicación efectiva con los usuarios para poder dar a entender el producto en desarrollo.<br>
+      <strong>TP:</strong> Fui líder en el diseño y funcionalidad del frontend del webapp, mejorando así la manera de comunicar mis ideas a mis compañeros.<br>
+      <strong>TB2:</strong> Dirigí el backend, facilitando la comunicación efectiva entre el líder y el grupo.<br>
+<br>
+<br>
+      <strong>Sebastián Pacheco</strong> <br>
+      <strong>TB1:</strong> En el proyecto, participé en las actividades asignadas y promoví la colaboración, fomentando la confianza mutua y logrando mejoras en el producto.<br>
+      <strong>TP:</strong> Coordiné con el grupo para avanzar en el frontend, intercambiando sugerencias que me ayudaron a comprender los objetivos del proyecto y su público objetivo.<br>
+      <strong>TB2:</strong> Supervisé y comuniqué cambios en el frontend y backend, apoyando en tareas clave y fomentando el trabajo en equipo.<br><br>
+<br>
+      <strong>Josue Paiva</strong><br>
+      <strong>TB1:</strong> Mantuve comunicación constante con el equipo, promoviendo la participación activa y equitativa.<br>
+      <strong>TP:</strong> Contribuí con observaciones sobre criterios de aceptación, lo que me ayudó a mejorar el desarrollo de mi bounded context en el frontend.<br>
+      <strong>TB2:</strong> Finalicé el bounded context en el backend, aprovechando las reuniones en grupo y consultando dudas con el equipo.<br><br>
+<br>
+      <strong>Gianluca Pasquale</strong><br>
+      <strong>TB1:</strong> Contribuí en el liderazgo compartido, facilitando la toma de decisiones y promoviendo la responsabilidad colectiva.<br>
+      <strong>TP:</strong> Diseñé la interfaz gráfica para la sección de Savings, añadiendo funcionalidades de CRUD y validaciones.<br>
+      <strong>TB2:</strong> Implementé CRUD en Saving Progress, Saving Details y Saving Transactions, colaborando en el desarrollo del frontend.<br><br>
+<br>
     <td>
-      TB1<br>
-      En el desarrollo de nuestro proyecto, cada uno ha participado en sus actividades asignadas, también dando su retroalimentación con experiencia como ingenieros. Todos han aportado de manera activa, siempre comunicando cualquier cambio que desarrollen, manteniendo una comunicación entre todos y de esa manera afinando la confianza mutua. Esto ha fortalecido el valor del trabajo en equipo, el cual es de vital importancia para proyectos colaborativos en donde todos son importantes y logran cumplir las responsabilidades propuestas eficientemente.
-    </td>
+      <strong>TB1:</strong> Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos. <br> <br>
+      <strong>TP:</strong> Durante el TP, la comunicación en equipo fue fundamental para coordinar los avances en el diseño del frontend y los criterios de aceptación de historias de usuario. El intercambio constante de ideas permitió a cada miembro ajustar sus entregables según las metas del proyecto, fortaleciendo la visión compartida y facilitando un progreso efectivo.<br> <br>
+      <strong>TB2:</strong> La comunicación entre los integrantes del equipo durante esta etapa permitió una ejecución coordinada y eficaz de las tareas, logrando avances significativos en el proyecto. La participación activa y el intercambio constante de ideas fomentaron una cohesión sólida en el equipo, lo cual se reflejó en la calidad de los resultados y el fortalecimiento del trabajo en equipo.
+</td>
   </tr>
   <tr>
-    <td>Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
+    <td>Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
     <td>
-      Juan Astonitas<br>TB1<br> Realize el diseño de las entrevistas lo que me llevo a escribir las ideas de desarrollo y funcionalidad del producto de una menra clara y concisa <br> TP <br> Corregi las historias de usuario lo que me llevo a entender que ideas erroneas tenia acerca de los <br> TB2<br> Tuve la direccion y liderazgo del backend lo que me llevo a coordinar las actividades por distintos medios escritos como discord y whatsapp, lo que lleva a expresar las indicaciones, idea y review de desrrollo de manera clara y consica. <br>
-
-      Sebastian Pacheco<br>
-      TB1<br>Para promover la participación de otros en un trabajo colaborativo, he desarrollado las actividades asignadas y he buscado la experiencia de mis compañeros para poder mejorar el producto, así como dando ideas propias hacia las actividades de otros y asistiendo en ello.<br>
-      TP<br>En este entregable, realicé mejoras con respecto a las historias de usuario, además de desarrollar el frontend del proyecto.<br>
-      TB2<br>He realizado mejoras en el frontend, además de desarrollar la primera versión del backend perteneciente a mi bounded context.<br>
-      Josue Paiva<br>TB1<br>
-      Durante las semanas de plazo he completado las tareas delegadas, así como las que surgían inesperadamente siempre que pude, las mismas se pueden ver reflejadas en mis commits, además de aportar con mis compañeros siempre que se necesitó.<br>
-      TP<br>Colabore de manera uniforme con el equipo, asistiendo a las reuniones grupales y cumpliendo los objetivos de las mismas, ya sea sobre la construccion de mi bounded context del frontend o sobre el reporte y los items que faltaban como mejor analisis de entrevista, criterios de aceptacion, etc.<br>
-      <br>TB2<br>
-      Ademas de concluir la retroalimentacion del TP, tambien aporte con la documentacion en el report, asi como la planficiacion de los sprints pasados y futuros en el trello para ordenar de manera mas eficiente el flujo de trabajo <br>
-      Gianluca Pasquale<br>TB1<br>
-      He fomentado un entorno inclusivo, definiendo metas claras, planificando tareas, y asegurando el cumplimiento de los objetivos del proyecto.<br>
-      <br> TB2: <br>
-      Desarrolle los endpoints de backend de mi bounded context llamado Savings, la cual fue lograda a travez de las reuniones asistidas formadas por nuestro líder de grupo.	    <br>
-      Sebastián Real<br>TB1<br>
-      Durante las semanas de trabajo, he completado las tareas que se me encomendaron, y busqué oportunidades para aportar en el desarrollo del producto con ideas o al cumplir tareas específicas. Me comuniqué con el resto de mi grupo, y entre todos documentamos nuestros avances para garantizar un seguimiento efectivo del progreso del proyecto.
+      <strong>Juan Astonitas</strong><br>
+      <strong>TB1:</strong> Diseñé entrevistas, clarificando ideas de desarrollo y funcionalidad del producto de manera concisa.<br>
+      <strong>TP:</strong> Corregí historias de usuario, comprendiendo los errores en mis ideas.<br>
+      <strong>TB2:</strong> Coordiné el backend mediante herramientas escritas como Discord y WhatsApp, facilitando la expresión de ideas y revisiones.<br><br>
+<br>
+      <strong>Sebastián Pacheco</strong><br>
+      <strong>TB1:</strong> Promoví la participación en un trabajo colaborativo y busqué la experiencia de mis compañeros.<br>
+      <strong>TP:</strong> Mejoré las historias de usuario y trabajé en el frontend.<br>
+      <strong>TB2:</strong> Realicé mejoras en el frontend y desarrollé la primera versión del backend de mi bounded context.<br><br>
+<br>
+      <strong>Josue Paiva</strong><br>
+      <strong>TB1:</strong> Completé tareas delegadas y respondí a necesidades imprevistas.<br>
+      <strong>TP:</strong> Colaboré uniformemente, asistiendo a reuniones y cumpliendo los objetivos en frontend y documentando puntos clave como análisis y criterios de aceptación.<br>
+      <strong>TB2:</strong> Concluí la retroalimentación del TP y colaboré en la documentación del reporte y en la planificación de sprints en Trello.<br><br>
+<br>
+      <strong>Gianluca Pasquale</strong><br>
+      <strong>TB1:</strong> Fomenté un entorno inclusivo, estableciendo metas claras y asegurando el cumplimiento de objetivos.<br>
+      <strong>TP:</strong> Desarrolle la interración directa con nuestra base de datos para mi bounded context, además corregí secciones importantes del Frontend..<br>
+      <strong>TB2:</strong> Desarrollé los endpoints del backend de mi bounded context "Savings" en colaboración con el equipo.<br><br>
+<br>
     </td>
     <td>
-      TB1<br>
-      En el desarrollo de nuestro proyecto, todos han participado sin falta y asistido en actividades en donde otros tenían complicaciones. Se han establecido responsabilidades y planificado entregas en donde cada uno formó parte, logrando un progreso efectivo y cumpliendo los objetivos dados. El hecho de que exista una participación activa de todos los miembros fomenta valores de trabajo en equipo, el cual es punto clave para el progreso y cumplimiento de los objetivos propuestos.
-    </td>
+      <strong>TB1:</strong> Todos han colaborado activamente y asistido en tareas donde otros tenían dificultades. La planificación de entregas y responsabilidades ha permitido un progreso eficaz y el cumplimiento de objetivos. <br> <br>
+      <strong>TP:</strong> La documentación escrita en el TP ayudó a estandarizar criterios de aceptación y a detallar las especificaciones del frontend. Cada miembro se aseguró de documentar los avances y resolver dudas, creando una base sólida de comunicación escrita que facilitó el desarrollo colaborativo.<br><br>
+      <strong>TB2:</strong> La colaboración escrita ha sido fundamental para coordinar tareas y revisar avances. Cada miembro ha documentado sus aportes, permitiendo un seguimiento preciso y una organización eficiente del flujo de trabajo. La comunicación escrita clara y detallada contribuyó a mejorar el trabajo en equipo y facilitó la resolución de problemas a lo largo de esta fase del proyecto, al igual que la agilización para la primera implementación del backend..
+</td>
   </tr>
 </table>
-
 
 ## Capítulo I: Introducción <a id="cap1"></a>
 
@@ -1784,9 +1789,9 @@ En esta entrega, nuestro equipo ha desplegado con éxito la landing page.
 
 Enlace de la Landing Page: https://smartfinance-opensource.github.io/Landing-Page/
 
-![landing-page-1](/assets/landing-page-screenshots/1.jpg)
-![landing-page-2](/assets/landing-page-screenshots/2.jpg)
-![landing-page-3](/assets/landing-page-screenshots/3.jpg)
+![landing-page-1](assets/landing-page-screenshots/1.jpg)
+![landing-page-2](assets/landing-page-screenshots/2.jpg)
+![landing-page-3](assets/landing-page-screenshots/3.jpg)
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -1869,37 +1874,37 @@ Sprint 2 TP
 Para realizar el diseño de los wireframes y mockups de la Landing Page para este Sprint, se hizo uso de la plataforma [Figma](https://www.figma.com/)
 
 - Para el uso de la plataforma, es necesario crear una cuenta, así que nos dirigimos a la página oficial de Figma y se siguen los siguientes pasos para registrarse:
-![Design-Login-1](/assets/design-steps/design-step-1.jpg)
-![Design-Login-2](/assets/design-steps/design-step-2.jpg)
+![Design-Login-1](assets/design-steps/design-step-1.jpg)
+![Design-Login-2](assets/design-steps/design-step-2.jpg)
 
 - Luego se crea un Draft que servirá como base para el proyecto colaborativo.
-![Design-Draft-Creation](/assets/design-steps/design-step-3.jpg)
+![Design-Draft-Creation](assets/design-steps/design-step-3.jpg)
 
 - **Deployment**
 
 - Para la landing page, se utilizará [GitHub](https://github.com/) y [Github Pages]() para la creación del repositorio y el despliegue de la página.
 
-![Deployment-Login-1](/assets/deployment-steps/deployment-step-1.jpg)
-![Deployment-Login-2](/assets/deployment-steps/deployment-step-2.jpg)
+![Deployment-Login-1](assets/deployment-steps/deployment-step-1.jpg)
+![Deployment-Login-2](assets/deployment-steps/deployment-step-2.jpg)
 
 - Tras crear la cuenta, se procede a crear una organización.
 
-![Deployment-Organization-1](/assets/deployment-steps/deployment-step-3.jpg)
-![Deployment-Organization-2](/assets/deployment-steps/deployment-step-4.jpg)
-![Deployment-Organization-3](/assets/deployment-steps/deployment-step-5.jpg)
-![Deployment-Organization-4](/assets/deployment-steps/deployment-step-6.jpg)
-![Deployment-Organization-5](/assets/deployment-steps/deployment-step-7.jpg)
-![Deployment-Organization-6](/assets/deployment-steps/deployment-step-8.jpg)
+![Deployment-Organization-1](assets/deployment-steps/deployment-step-3.jpg)
+![Deployment-Organization-2](assets/deployment-steps/deployment-step-4.jpg)
+![Deployment-Organization-3](assets/deployment-steps/deployment-step-5.jpg)
+![Deployment-Organization-4](assets/deployment-steps/deployment-step-6.jpg)
+![Deployment-Organization-5](assets/deployment-steps/deployment-step-7.jpg)
+![Deployment-Organization-6](assets/deployment-steps/deployment-step-8.jpg)
 
 - Se agregan a los demás miembros del equipo a la organización.
 
-![Deployment-Members-1](/assets/deployment-steps/deployment-step-9.jpg)
-![Deployment-Members-2](/assets/deployment-steps/deployment-step-10.jpg)
+![Deployment-Members-1](assets/deployment-steps/deployment-step-9.jpg)
+![Deployment-Members-2](assets/deployment-steps/deployment-step-10.jpg)
 
 - Por último, se crean los repositorios necesarios para el trabajo.
 
-![Deployment-Repositories-1](/assets/deployment-steps/deployment-step-11.jpg)
-![Deployment-Repositories-2](/assets/deployment-steps/deployment-step-12.jpg)
+![Deployment-Repositories-1](assets/deployment-steps/deployment-step-11.jpg)
+![Deployment-Repositories-2](assets/deployment-steps/deployment-step-12.jpg)
 
 - Para nuestro proyecto se crearon 4 repositorios los cuales son:
     - **Report:** Este repositorio se usa para realizar el informe del proyecto de manera continua.
@@ -1913,8 +1918,8 @@ Con esto realizado, se puede dar inicio al trabajo del proyecto.
 
 Para este sprint, las tareas de diseño, implementación y documentación de la landing page se distribuyó entre los integrantes del equipo. La implementación y despliegue de la landing page fue llevado a cabo principalmente por Juan Astonitas.
 
-![github-insights](/assets/githubpics/insights_1.jpg)
-![github-networks](/assets/githubpics/networks_1.jpg)
+![github-insights](assets/githubpics/insights_1.jpg)
+![github-networks](assets/githubpics/networks_1.jpg)
 
 #### 5.2.2. Sprint 2
 En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo para el Sprint 2.
@@ -1941,7 +1946,7 @@ En esta sección se presenta un resumen del objetivo principal del sprint, desta
 Este es nuestro link de invitación a nuestro Trello: https://trello.com/invite/b/6703fc437ffe81d568259f04/ATTIf2bbf0d616f458ad5bcefb1e1be4b0861373D99A/si729-2402-ws53-grupo-2 
 
 
-![Sprint 2 Backlog](/assets/sprint-2-assets/trellosprint2.png)
+![Sprint 2 Backlog](assets/sprint-2-assets/trellosprint2.png)
 
  **User Story ID** | **User Story**                               | **Work-Item / Task ID** | **Work-Item / Task Title**                                | **Description**                                                                         | **Estimation (Hours)**  | **Status** |
  ----------------- | -------------------------------------------- | ----------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------  |------------|
@@ -2113,37 +2118,37 @@ Además de capturas que muestran el contenido de db.json
   Para realizar el diseño de los wireframes y mockups de la Landing Page para este Sprint, se hizo uso de la plataforma [Figma](https://www.figma.com/)
 
 - Para el uso de la plataforma, es necesario crear una cuenta, así que nos dirigimos a la página oficial de Figma y se siguen los siguientes pasos para registrarse:
-  ![](/assets/design-steps/design-step-1.jpg)
-  ![](/assets/design-steps/design-step-2.jpg)
+  ![](assets/design-steps/design-step-1.jpg)
+  ![](assets/design-steps/design-step-2.jpg)
 
 - Luego se crea un Draft que servirá como base para el proyecto colaborativo.
-  ![](/assets/design-steps/design-step-3.jpg)
+  ![](assets/design-steps/design-step-3.jpg)
 
 - **Deployment**
 
 - Para la landing page, se utilizará [GitHub](https://github.com/) y [Github Pages]() para la creación del repositorio y el despliegue de la página.
 
-![](/assets/deployment-steps/deployment-step-1.jpg)
-![](/assets/deployment-steps/deployment-step-2.jpg)
+![](assets/deployment-steps/deployment-step-1.jpg)
+![](assets/deployment-steps/deployment-step-2.jpg)
 
 - Tras crear la cuenta, se procede a crear una organización.
 
-![](/assets/deployment-steps/deployment-step-3.jpg)
-![](/assets/deployment-steps/deployment-step-4.jpg)
-![](/assets/deployment-steps/deployment-step-5.jpg)
-![](/assets/deployment-steps/deployment-step-6.jpg)
-![](/assets/deployment-steps/deployment-step-7.jpg)
-![](/assets/deployment-steps/deployment-step-8.jpg)
+![](assets/deployment-steps/deployment-step-3.jpg)
+![](assets/deployment-steps/deployment-step-4.jpg)
+![](assets/deployment-steps/deployment-step-5.jpg)
+![](assets/deployment-steps/deployment-step-6.jpg)
+![](assets/deployment-steps/deployment-step-7.jpg)
+![](assets/deployment-steps/deployment-step-8.jpg)
 
 - Se agregan a los demás miembros del equipo a la organización.
 
-![](/assets/deployment-steps/deployment-step-9.jpg)
-![](/assets/deployment-steps/deployment-step-10.jpg)
+![](assets/deployment-steps/deployment-step-9.jpg)
+![](assets/deployment-steps/deployment-step-10.jpg)
 
 - Por último, se crean los repositorios necesarios para el trabajo.
 
-![](/assets/deployment-steps/deployment-step-11.jpg)
-![](/assets/deployment-steps/deployment-step-12.jpg)
+![](assets/deployment-steps/deployment-step-11.jpg)
+![](assets/deployment-steps/deployment-step-12.jpg)
 
 - Para nuestro proyecto se crearon 4 repositorios los cuales son:
     - **Report:** Este repositorio se usa para realizar el informe del proyecto de manera continua.
@@ -2153,8 +2158,8 @@ Además de capturas que muestran el contenido de db.json
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 A continuación se muestra evidencia de la coolaboración del equipo mediante insights de GitHub.
-![github-insights-1](/assets/sprint-2-assets/insights-1.png)
-![github-insights-2](/assets/sprint-2-assets/insights-2.png)
+![github-insights-1](assets/sprint-2-assets/insights-1.png)
+![github-insights-2](assets/sprint-2-assets/insights-2.png)
 
 #### 5.2.3. Sprint 3
 
@@ -2178,7 +2183,7 @@ En esta sección se presenta un resumen del objetivo principal del sprint, desta
 
 Este es nuestro link de invitación a nuestro Trello: https://trello.com/invite/b/6703fc437ffe81d568259f04/ATTIf2bbf0d616f458ad5bcefb1e1be4b0861373D99A/si729-2402-ws53-grupo-2
 
-![Sprint 3 Backlog](/assets/sprint-2-assets/trellosprint2.png)
+![Sprint 3 Backlog](assets/sprint-2-assets/trellosprint2.png)
 
 
  **User Story ID** | **User Story**                                         | **Work-Item / Task ID** | **Work-Item / Task Title**                                   | **Description**                                                                                   | **Estimation (Hours)**  | **Status** |
@@ -2435,31 +2440,31 @@ Se ha desarrollado un avance con respecto a la Landing Page, FrontEnd y BackEnd:
 
 ###### Landing Page
 
-![execution-landing1](/assets/execution/landingfinzar1.png)
-![execution-landing2](/assets/execution/landingfinzar2.png)
-![execution-landing3](/assets/execution/landingfinzar3.png)
-![execution-landing4](/assets/execution/landingfinzar4.png)
-![execution-landing5](/assets/execution/landingfinzar5.png)
-![execution-landing6](/assets/execution/landingfinzar6.png)
-![execution-landing7](/assets/execution/landingfinzar7.png)
+![execution-landing1](assets/execution/landingfinzar1.png)
+![execution-landing2](assets/execution/landingfinzar2.png)
+![execution-landing3](assets/execution/landingfinzar3.png)
+![execution-landing4](assets/execution/landingfinzar4.png)
+![execution-landing5](assets/execution/landingfinzar5.png)
+![execution-landing6](assets/execution/landingfinzar6.png)
+![execution-landing7](assets/execution/landingfinzar7.png)
 
 ###### FrontEnd
 
-![execution-front1](/assets/execution/frontfinzar1.png)
-![execution-front2](/assets/execution/frontfinzar2.png)
-![execution-front3](/assets/execution/frontfinzar3.png)
-![execution-front4](/assets/execution/frontfinzar4.png)
-![execution-front5](/assets/execution/frontfinzar5.png)
-![execution-front6](/assets/execution/frontfinzar6.png)
-![execution-front7](/assets/execution/frontfinzar7.png)
-![execution-front8](/assets/execution/frontfinzar8.png)
-![execution-front9](/assets/execution/frontfinzar9.png)
-![execution-front10](/assets/execution/frontfinzar10.png)
+![execution-front1](assets/execution/frontfinzar1.png)
+![execution-front2](assets/execution/frontfinzar2.png)
+![execution-front3](assets/execution/frontfinzar3.png)
+![execution-front4](assets/execution/frontfinzar4.png)
+![execution-front5](assets/execution/frontfinzar5.png)
+![execution-front6](assets/execution/frontfinzar6.png)
+![execution-front7](assets/execution/frontfinzar7.png)
+![execution-front8](assets/execution/frontfinzar8.png)
+![execution-front9](assets/execution/frontfinzar9.png)
+![execution-front10](assets/execution/frontfinzar10.png)
 
 ###### BackEnd
 
-![execution-backend1](/assets/execution/backendfinzar1.png)
-![execution-backend1](/assets/execution/backendfinzar2.png)
+![execution-backend1](assets/execution/backendfinzar1.png)
+![execution-backend1](assets/execution/backendfinzar2.png)
 
 
 
@@ -3047,39 +3052,39 @@ RepeatPeriodController
 Para la Landing Page, se utilizó [Vercel](https://vercel.com) para el despliegue de la página.
 
 - Primero nos dirigimos a Import Project, siendo la primera opción.
-![Sprint 3 Landing Deployment Evidence 1](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-1.png)
+![Sprint 3 Landing Deployment Evidence 1](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-1.png)
 - Luego seleccionamos el repositorio de GitHub donde se encuentra el código de la Landing Page. En este caso, Landing-Page.
-![Sprint 3 Landing Deployment Evidence 2](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-2.png)
+![Sprint 3 Landing Deployment Evidence 2](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-2.png)
 - Se nos presenta la siguiente pantalla, donde muestra las opciones por defecto en el despliegue de la página.
-![Sprint 3 Landing Deployment Evidence 3](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-3.png)
+![Sprint 3 Landing Deployment Evidence 3](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-3.png)
 - Como nuestro proyecto es con Vite como framework, ajustamos el Framework Preset, y seleccionamos deploy.
-![Sprint 3 Landing Deployment Evidence 4](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-4.png)
+![Sprint 3 Landing Deployment Evidence 4](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-4.png)
 - Esperamos unos segundos y la página debería desplegarse exitosamente.
-![Sprint 3 Landing Deployment Evidence 5](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-5.png)
+![Sprint 3 Landing Deployment Evidence 5](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-5.png)
 - Podemos apreciar que la página ha sido desplegada con éxito.
-![Sprint 3 Landing Deployment Evidence 6](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-6.png)
+![Sprint 3 Landing Deployment Evidence 6](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-6.png)
 - Con ello, se nos proporciona un link de la página desplegada, donde podemos acceder.
-![Sprint 3 Landing Deployment Evidence 7](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-7.png)
+![Sprint 3 Landing Deployment Evidence 7](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-7.png)
 - Al acceder al link, podemos ver la página desplegada.
-![Sprint 3 Landing Deployment Evidence 8](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-8.png)
+![Sprint 3 Landing Deployment Evidence 8](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-8.png)
 
 **FrontEnd**
 Para el FrontEnd, se utilizó [Vercel](https://vercel.com) para el despliegue de la página.
 
 - Antes del despliegue, debemos crear una cuenta, por lo que continuaremos con GitHub.
-![Sprint 3 FrontEnd Deployment Evidence 1](/assets/sprint-3-deployment/frontend-deploy/evidence-1.png)
+![Sprint 3 FrontEnd Deployment Evidence 1](assets/sprint-3-deployment/frontend-deploy/evidence-1.png)
 - Primero nos dirigimos a Import Project, siendo la primera opción.
-![Sprint 3 FrontEnd Deployment Evidence 2](/assets/sprint-3-deployment/frontend-deploy/evidence-2.png)
+![Sprint 3 FrontEnd Deployment Evidence 2](assets/sprint-3-deployment/frontend-deploy/evidence-2.png)
 - Luego seleccionamos el repositorio de GitHub donde se encuentra el código del FrontEnd. En este caso, Frontend-Finzar.
-![Sprint 3 FrontEnd Deployment Evidence 3](/assets/sprint-3-deployment/frontend-deploy/evidence-3.png)
+![Sprint 3 FrontEnd Deployment Evidence 3](assets/sprint-3-deployment/frontend-deploy/evidence-3.png)
 - Se nos presenta la siguiente pantalla, donde muestra las opciones por defecto en el despliegue de la página. Le damos a deploy.
-![Sprint 3 FrontEnd Deployment Evidence 4](/assets/sprint-3-deployment/frontend-deploy/evidence-4.png)
+![Sprint 3 FrontEnd Deployment Evidence 4](assets/sprint-3-deployment/frontend-deploy/evidence-4.png)
 - Podemos apreciar que la página ha sido desplegada con éxito.
-![Sprint 3 FrontEnd Deployment Evidence 5](/assets/sprint-3-deployment/frontend-deploy/evidence-5.png)
+![Sprint 3 FrontEnd Deployment Evidence 5](assets/sprint-3-deployment/frontend-deploy/evidence-5.png)
 - Con ello, se nos proporciona un link de la página desplegada, donde podemos acceder.
-![Sprint 3 FrontEnd Deployment Evidence 6](/assets/sprint-3-deployment/frontend-deploy/evidence-6.png)
+![Sprint 3 FrontEnd Deployment Evidence 6](assets/sprint-3-deployment/frontend-deploy/evidence-6.png)
 - Al acceder al link, podemos ver la página desplegada.
-![Sprint 3 FrontEnd Deployment Evidence 7](/assets/sprint-3-deployment/frontend-deploy/evidence-7.png)
+![Sprint 3 FrontEnd Deployment Evidence 7](assets/sprint-3-deployment/frontend-deploy/evidence-7.png)
 
 **DEPLOYMENT LINK**
 ingresar desde landing: https://landing-page-ashen-chi.vercel.app/
@@ -3291,7 +3296,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 About the Product Video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110291_upc_edu_pe/EfCER3yQPs5AsO4Y715HfjkBMhXV68HWy-XOHCBIhGo6Fg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SaCgAm">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110291_upc_edu_pe/EfCER3yQPs5AsO4Y715HfjkBMhXV68HWy-XOHCBIhGo6Fg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SaCgAm</a>
 
-![about-the-product](/assets/AboutTheProduct/abouttheproduct.png)
+![about-the-product](assets/AboutTheProduct/abouttheproduct.png)
 
 
 
@@ -3304,6 +3309,11 @@ About the Product Video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/perso
 - A lo largo del proceso, se ha resaltado la importancia de adaptar Finzar a las condiciones y contextos peruanos, lo que incluye desde la integración con bancos locales hasta la alineación con los hábitos y retos financieros específicos de los jóvenes peruanos. Esta adaptación no solo mejora la usabilidad de la aplicación, sino que también la hace más relevante y efectiva para su audiencia objetivo.
 
 - El diseño y la ejecución de entrevistas han sido fundamentales para validar las necesidades y preferencias del segmento objetivo de Finzar. Esta metodología de acercarse a los usuarios reales ha permitido recopilar información valiosa que asegura que la herramienta esté alineada con las expectativas del mercado, fortaleciendo su propuesta de valor y guiando futuras mejoras en el desarrollo del producto.
+
+- La implementación de métodos ágiles en el desarrollo de Finzar ha permitido una adaptación rápida a los cambios y feedback recibidos durante el proceso. Esta metodología ha facilitado ajustes continuos, lo cual ha sido crucial para responder a las necesidades emergentes del usuario, asegurando que cada etapa del desarrollo agregue valor y mejore la funcionalidad de la aplicación.
+
+- Las entrevistas de validación y pruebas de usabilidad con usuarios han proporcionado información valiosa para mejorar la experiencia del usuario. A través de estas entrevistas, se identificaron puntos de fricción en cuanto a la funcionalidad y diseño de los servicios web, las cuales se realizarán cambios importantes de diseño en proximás entregas, facilitando una navegación mas intuitiva y una interacción más fluida para los usuarios finales.
+
 
 ## Bibliografía
 

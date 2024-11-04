@@ -41,6 +41,13 @@
 
 
 ## Project Report Collaboration Insights
+
+
+| URL de la organización del proyecto |                URL del repositorio del reporte                |
+|:-----------------------------------:|:-------------------------------------------------------------:|
+|   https://github.com/SmartFinance-OpenSource    | https://github.com/SmartFinance-OpenSource/Report |
+
+
 Se han realizado todas las tareas asignadas para la entrega de la TB1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el 
 enlace [https://github.com/SmartFinance-OpenSource.](https://github.com/SmartFinance-OpenSource) Para elaborar el informe, cada miembro ha redactado y creado gráficos en formato Markdown según los puntos asignados, realizando commits para registrar el avance en el repositorio. 
 
@@ -53,6 +60,42 @@ el trabajo sea equitativo entre todos.
 
 Como Se puede ver a continuacion, durate el desarrollo de la TB1 hemos tenido 70 branches a los que hemos hecho merge con develop, cada uno de estos corresponde a una seccion del trabajo (por ejemplo: Project Report Collaboration Insights). 
 ![insight2](assets/projectColaborationInsigths/insight2.png)
+
+
+TB2: Se han realizado todas las tareas asignadas para la entrega del TB2, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/SmartFinance-OpenSource. Para elaborar el informe cada miembro corrigio y añadio puntos que se  debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/SmartFinance-OpenSource/Report, de la misma manera para el desarrollo de la web application se trabajo en este repositorio: https://github.com/SmartFinance-OpenSource/Frontend-Finzar, por ultimo el desarrollo del backend se realizó en el siguiente enlace: https://github.com/SmartFinance-OpenSource/Backend-Finzar.
+
+**Landing Page**
+
+<img src="assets/tb2insights/finzarlandingpulse.png">
+<img src="assets/tb2insights/finzarlandingcontributors.png">
+
+**Distribución de commits de commits:**
+- Juan Diego Astonitas Díaz: 7 commits.
+- Gianluca Santino Pasquale Barrenechea: 6 commits.
+- Josue Gonzalo Paiva Quispe: 6 commits.
+- Sebastian Pacheco Astiguetta: 3 commits.
+  
+**Frontend**
+<img src="assets/tb2insights/finzarfrontpulse.png">
+<img src="assets/tb2insights/finzarfrontcontributors.png">
+
+**Distribución de commits de commits:**
+- Juan Diego Astonitas Díaz: 57 commits.
+- Gianluca Santino Pasquale Barrenechea: 9 commits.
+- Josue Gonzalo Paiva Quispe: 8 commits.
+- Sebastian Pacheco Astiguetta: 31 commits.
+
+**Backend**
+<img src="assets/tb2insights/finzarbackpulse.png">
+<img src="assets/tb2insights/finzarbackcontributors.png">
+
+**Distribución de commits de commits:**
+- Juan Diego Astonitas Díaz:  commits.
+- Gianluca Santino Pasquale Barrenechea:  commits.
+- Josue Gonzalo Paiva Quispe:  commits.
+- Sebastian Pacheco Astiguetta:  commits.
+
+
 
 ## Contenido
 

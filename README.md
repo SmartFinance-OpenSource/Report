@@ -2233,7 +2233,9 @@ Se ha desarrollado un avance con respecto a la Landing Page, FrontEnd y BackEnd:
 
 ###### BackEnd
 
-![execution-back1](/assets/execution/finzarback1.png)
+![execution-backend1](/assets/execution/backendfinzar1.png)
+![execution-backend1](/assets/execution/backendfinzar2.png)
+
 
 
 Enlace a video de demostración: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112078_upc_edu_pe/ETp1nBDu7vZEt9R3o_7CMVkBjkTQ24N6BXFe1RYHbR_umw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=HqUB5M">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112078_upc_edu_pe/ETp1nBDu7vZEt9R3o_7CMVkBjkTQ24N6BXFe1RYHbR_umw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=HqUB5M</a>

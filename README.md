@@ -1420,7 +1420,7 @@ Los elementos presentes son:
 ### 4.7. Software Object-Oriented Design
 El diseño orientado a objetos del software será esencial para nuestro proyecto. Estructuramos nuestro software de acuerdo a nuestras reglas de negocio para poder crear componentes que puedan ser entendibles para su desarrollo en un sistema real, y sean fáciles de modificar para nosotros.
 #### 4.7.1. Class Diagrams
-![ClassDiagram](assets/software-architecture/finzarClassDiagram.png)
+![ClassDiagram](assets/diagrams/class-diagram-tb2.png)
 #### 4.7.2. Class Dictionary
 | **Clase**       | **Nombre de Atributo** | **Descripción**                             | **Tipo de Dato** |
 |-----------------|------------------------|---------------------------------------------|------------------|

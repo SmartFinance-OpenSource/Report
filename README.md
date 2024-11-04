@@ -229,59 +229,64 @@ del ABET – EAC - Student Outcome 3.
   <tr>
     <td>Comunica oralmente con efectividad a diferentes rangos de audiencia.</td>
     <td>
-      Juan Astonitas<br>TB1<br> Realizé entrevistas a los segmentos objetivos lo que me llevo a tener una comunicación efectiva con los usuarios para poder dar a entender el producto que se esta desarrollando.<br> TP <br> Fui líder para el diseño y funcionalidad del frontend del webapp, lo que me llevo a mejorar la manera de explicar mis ideas a mis compañeros.<br>TB2<br> Realize la dieccion del backend lo que me llevo a la comunicacion efectiva mediante lider y grupo. <br>
-      Sebastian Pacheco<br>
-      TB1<br>En el desarrollo del proyecto, he participado en la realización de actividades asignadas y promoviendo la participación de otros en las actividades de compañeros, permitiendo que haya un círculo de confianza y se logre afinar el producto gracias a la recepción del punto de vista del resto.<br>
-      TP<br>En este entregable, he coordinado con el grupo para poder avanzar el frontend, proporcionando y recibiendo sugerencias. Con ello, logré comprender el objetivo que se desea llegar de este proyecto y a qué publico objetivo apuntamos.<br>
-      TB2<br>Para este entregable he supervisado y comunicado posibles cambios y soluciones en la sección frontend y backend, además de apoyar a otros en el desarrollo de tasks, de esta manera ambos lados cooperamos y logramos establecer el trabajo en equipo mediante comunicación.<br>
-      Josue Paiva<br>TB1<br>
-      En el entregable 1 he mantenido una comunicación constante con mis compañeros, pues se buscó un aporte constante por parte de todos los integrantes, en general tuvimos buena comunicación y buena aportación a partes iguales.<br>
-      TP<br>En el entregable parcial contribui con ciertas observaciones del entregable anterior, como definir correctamente los criterios de aceptacion, ello me permitio desarrollar de manera mas eficiente mi bounded context en el frontend y ajustarme a los parametros de las user stories que tambien fueron mejoradas e incrementadas.<br>
-      <br>TB2<br>
-
-      En el entregable 2 me concentre en concluir mi bounded context designado para poder realizar los endpoints del backend que se me designo, fue crucial las reuniones en grupo, asi como consultar con mis compañeros cuando tenia dudas sobre la implementacion.<br>
-      Gianluca Pasquale<br>TB1<br>
-      He contribuido activamente en el liderazgo compartido, facilitando la toma de decisiones y promoviendo la responsabilidad colectiva.<br>
-	<br> TP1 <br>
-      Diseñe la interfaz gráfica y la page principal para la seccion de Savings, también añadí funcionalidades críticas como tener CRUD dentro de toda la sección. Implementé validaciones para el mostrado de tablas dentro de la page principal de Savings. <br>
-	<br> TB2 <br>
-      Implementé secciones especificas con CRUD en el area de Saving Progress, Saving Details y Saving Transactions para el mostrado de datos segun nuestra base de datos. Colabore con mis compañeros para el desarrollo completo del FrontEnd para tener un proyecto más pulido.	 <br>
-      Sebastián Real<br>TB1<br>
-      En el desarrollo de la primera etapa del proyecto, hubo una comunicación constante entre los integrantes del equipo, lo que llevó a que la realización de las actividades designadas fuera lo más fluida posible, y logrando eliminar cualquier posibilidad de malentendidos o fallas por falta de comunicación.
-    </td>
+      <strong>Juan Astonitas</strong><br>
+      <strong>TB1:</strong> Realicé entrevistas a los segmentos objetivos, lo que me llevó a tener una comunicación efectiva con los usuarios para poder dar a entender el producto en desarrollo.<br>
+      <strong>TP:</strong> Fui líder en el diseño y funcionalidad del frontend del webapp, mejorando así la manera de comunicar mis ideas a mis compañeros.<br>
+      <strong>TB2:</strong> Dirigí el backend, facilitando la comunicación efectiva entre el líder y el grupo.<br>
+<br>
+<br>
+      <strong>Sebastián Pacheco</strong> <br>
+      <strong>TB1:</strong> En el proyecto, participé en las actividades asignadas y promoví la colaboración, fomentando la confianza mutua y logrando mejoras en el producto.<br>
+      <strong>TP:</strong> Coordiné con el grupo para avanzar en el frontend, intercambiando sugerencias que me ayudaron a comprender los objetivos del proyecto y su público objetivo.<br>
+      <strong>TB2:</strong> Supervisé y comuniqué cambios en el frontend y backend, apoyando en tareas clave y fomentando el trabajo en equipo.<br><br>
+<br>
+      <strong>Josue Paiva</strong><br>
+      <strong>TB1:</strong> Mantuve comunicación constante con el equipo, promoviendo la participación activa y equitativa.<br>
+      <strong>TP:</strong> Contribuí con observaciones sobre criterios de aceptación, lo que me ayudó a mejorar el desarrollo de mi bounded context en el frontend.<br>
+      <strong>TB2:</strong> Finalicé el bounded context en el backend, aprovechando las reuniones en grupo y consultando dudas con el equipo.<br><br>
+<br>
+      <strong>Gianluca Pasquale</strong><br>
+      <strong>TB1:</strong> Contribuí en el liderazgo compartido, facilitando la toma de decisiones y promoviendo la responsabilidad colectiva.<br>
+      <strong>TP:</strong> Diseñé la interfaz gráfica para la sección de Savings, añadiendo funcionalidades de CRUD y validaciones.<br>
+      <strong>TB2:</strong> Implementé CRUD en Saving Progress, Saving Details y Saving Transactions, colaborando en el desarrollo del frontend.<br><br>
+<br>
     <td>
-      TB1<br>
-      En el desarrollo de nuestro proyecto, cada uno ha participado en sus actividades asignadas, también dando su retroalimentación con experiencia como ingenieros. Todos han aportado de manera activa, siempre comunicando cualquier cambio que desarrollen, manteniendo una comunicación entre todos y de esa manera afinando la confianza mutua. Esto ha fortalecido el valor del trabajo en equipo, el cual es de vital importancia para proyectos colaborativos en donde todos son importantes y logran cumplir las responsabilidades propuestas eficientemente.
-    </td>
+      <strong>TB1:</strong> Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos. <br> <br>
+      <strong>TP:</strong> Durante el TP, la comunicación en equipo fue fundamental para coordinar los avances en el diseño del frontend y los criterios de aceptación de historias de usuario. El intercambio constante de ideas permitió a cada miembro ajustar sus entregables según las metas del proyecto, fortaleciendo la visión compartida y facilitando un progreso efectivo.<br> <br>
+      <strong>TB2:</strong> La comunicación entre los integrantes del equipo durante esta etapa permitió una ejecución coordinada y eficaz de las tareas, logrando avances significativos en el proyecto. La participación activa y el intercambio constante de ideas fomentaron una cohesión sólida en el equipo, lo cual se reflejó en la calidad de los resultados y el fortalecimiento del trabajo en equipo.
+</td>
   </tr>
   <tr>
-    <td>Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
+    <td>Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
     <td>
-      Juan Astonitas<br>TB1<br> Realize el diseño de las entrevistas lo que me llevo a escribir las ideas de desarrollo y funcionalidad del producto de una menra clara y concisa <br> TP <br> Corregi las historias de usuario lo que me llevo a entender que ideas erroneas tenia acerca de los <br> TB2<br> Tuve la direccion y liderazgo del backend lo que me llevo a coordinar las actividades por distintos medios escritos como discord y whatsapp, lo que lleva a expresar las indicaciones, idea y review de desrrollo de manera clara y consica. <br>
-
-      Sebastian Pacheco<br>
-      TB1<br>Para promover la participación de otros en un trabajo colaborativo, he desarrollado las actividades asignadas y he buscado la experiencia de mis compañeros para poder mejorar el producto, así como dando ideas propias hacia las actividades de otros y asistiendo en ello.<br>
-      TP<br>En este entregable, realicé mejoras con respecto a las historias de usuario, además de desarrollar el frontend del proyecto.<br>
-      TB2<br>He realizado mejoras en el frontend, además de desarrollar la primera versión del backend perteneciente a mi bounded context.<br>
-      Josue Paiva<br>TB1<br>
-      Durante las semanas de plazo he completado las tareas delegadas, así como las que surgían inesperadamente siempre que pude, las mismas se pueden ver reflejadas en mis commits, además de aportar con mis compañeros siempre que se necesitó.<br>
-      TP<br>Colabore de manera uniforme con el equipo, asistiendo a las reuniones grupales y cumpliendo los objetivos de las mismas, ya sea sobre la construccion de mi bounded context del frontend o sobre el reporte y los items que faltaban como mejor analisis de entrevista, criterios de aceptacion, etc.<br>
-      <br>TB2<br>
-      Ademas de concluir la retroalimentacion del TP, tambien aporte con la documentacion en el report, asi como la planficiacion de los sprints pasados y futuros en el trello para ordenar de manera mas eficiente el flujo de trabajo <br>
-      Gianluca Pasquale<br>TB1<br>
-      He fomentado un entorno inclusivo, definiendo metas claras, planificando tareas, y asegurando el cumplimiento de los objetivos del proyecto.<br>
-      <br> TB2: <br>
-      Desarrolle los endpoints de backend de mi bounded context llamado Savings, la cual fue lograda a travez de las reuniones asistidas formadas por nuestro líder de grupo.	    <br>
-      Sebastián Real<br>TB1<br>
-      Durante las semanas de trabajo, he completado las tareas que se me encomendaron, y busqué oportunidades para aportar en el desarrollo del producto con ideas o al cumplir tareas específicas. Me comuniqué con el resto de mi grupo, y entre todos documentamos nuestros avances para garantizar un seguimiento efectivo del progreso del proyecto.
+      <strong>Juan Astonitas</strong><br>
+      <strong>TB1:</strong> Diseñé entrevistas, clarificando ideas de desarrollo y funcionalidad del producto de manera concisa.<br>
+      <strong>TP:</strong> Corregí historias de usuario, comprendiendo los errores en mis ideas.<br>
+      <strong>TB2:</strong> Coordiné el backend mediante herramientas escritas como Discord y WhatsApp, facilitando la expresión de ideas y revisiones.<br><br>
+<br>
+      <strong>Sebastián Pacheco</strong><br>
+      <strong>TB1:</strong> Promoví la participación en un trabajo colaborativo y busqué la experiencia de mis compañeros.<br>
+      <strong>TP:</strong> Mejoré las historias de usuario y trabajé en el frontend.<br>
+      <strong>TB2:</strong> Realicé mejoras en el frontend y desarrollé la primera versión del backend de mi bounded context.<br><br>
+<br>
+      <strong>Josue Paiva</strong><br>
+      <strong>TB1:</strong> Completé tareas delegadas y respondí a necesidades imprevistas.<br>
+      <strong>TP:</strong> Colaboré uniformemente, asistiendo a reuniones y cumpliendo los objetivos en frontend y documentando puntos clave como análisis y criterios de aceptación.<br>
+      <strong>TB2:</strong> Concluí la retroalimentación del TP y colaboré en la documentación del reporte y en la planificación de sprints en Trello.<br><br>
+<br>
+      <strong>Gianluca Pasquale</strong><br>
+      <strong>TB1:</strong> Fomenté un entorno inclusivo, estableciendo metas claras y asegurando el cumplimiento de objetivos.<br>
+      <strong>TP:</strong> Desarrolle la interración directa con nuestra base de datos para mi bounded context, además corregí secciones importantes del Frontend..<br>
+      <strong>TB2:</strong> Desarrollé los endpoints del backend de mi bounded context "Savings" en colaboración con el equipo.<br><br>
+<br>
     </td>
     <td>
-      TB1<br>
-      En el desarrollo de nuestro proyecto, todos han participado sin falta y asistido en actividades en donde otros tenían complicaciones. Se han establecido responsabilidades y planificado entregas en donde cada uno formó parte, logrando un progreso efectivo y cumpliendo los objetivos dados. El hecho de que exista una participación activa de todos los miembros fomenta valores de trabajo en equipo, el cual es punto clave para el progreso y cumplimiento de los objetivos propuestos.
-    </td>
+      <strong>TB1:</strong> Todos han colaborado activamente y asistido en tareas donde otros tenían dificultades. La planificación de entregas y responsabilidades ha permitido un progreso eficaz y el cumplimiento de objetivos. <br> <br>
+      <strong>TP:</strong> La documentación escrita en el TP ayudó a estandarizar criterios de aceptación y a detallar las especificaciones del frontend. Cada miembro se aseguró de documentar los avances y resolver dudas, creando una base sólida de comunicación escrita que facilitó el desarrollo colaborativo.<br><br>
+      <strong>TB2:</strong> La colaboración escrita ha sido fundamental para coordinar tareas y revisar avances. Cada miembro ha documentado sus aportes, permitiendo un seguimiento preciso y una organización eficiente del flujo de trabajo. La comunicación escrita clara y detallada contribuyó a mejorar el trabajo en equipo y facilitó la resolución de problemas a lo largo de esta fase del proyecto, al igual que la agilización para la primera implementación del backend..
+</td>
   </tr>
 </table>
-
 
 ## Capítulo I: Introducción <a id="cap1"></a>
 

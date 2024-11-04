@@ -1,3 +1,4 @@
+<div align = "center">
   <h1>Universidad Peruana de Ciencias Aplicadas</h1>
   <img style="height: 200px" src=https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png>
   <h2 >Carrera: de Ingeniería de Software</h2>
@@ -13,7 +14,6 @@
   <h2 >Integrantes:</h2>
   <ul style="list-style: none; padding: 0;">
       <li><h3>Juan Diego Astonitas Díaz</h3></li>
-      <li><h3>Sebastián Omar Real Calderón</h3></li>
       <li><h3>Sebastian Pacheco Astiguetta</h3></li>
       <li><h3>Gianluca Santino Pasquale Barrenechea</h3></li>
       <li><h3>Josue Gonzalo Paiva Quispe</h3></li>
@@ -21,6 +21,7 @@
   <br>
   <h4>Septiembre del 2024</h4>
 </div>
+
 
 ## Registro de Versiones del Informe
 

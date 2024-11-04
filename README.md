@@ -180,7 +180,7 @@ TB2: Se han realizado todas las tareas asignadas para la entrega del TB2, las cu
             - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
             - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
             - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
-            - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+            - [5.2.1.4.  Suite Evidence for Sprint Review](#5214--suite-evidence-for-sprint-review)
             - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
             - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
             - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
@@ -2342,6 +2342,143 @@ A continuación se muestran los commits realizados durante el Sprint 3 para docu
 | SmartFinance-OpenSource/Backend-Finzar | chore/documentation   | 2105d183         | chore: added documentation file                      | chore: added documentation file                         | 2024-11-04          |
 
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+## US06 - Cambiar el Idioma de la Aplicación
+**Como** usuario, **quiero** cambiar el idioma de la aplicación **para** poder utilizarla en mi idioma preferido.
+
+**Escenario 1:**  
+- **Given** el usuario está en la sección de configuración,  
+- **When** selecciona la opción de cambiar el idioma,  
+- **Then** debe poder seleccionar un idioma de la lista de opciones disponibles.
+
+---
+
+## US14 - Ingreso de Transacciones
+**Como** usuario, **quiero** registrar un ingreso o gasto en una billetera seleccionada **para** llevar un control de mis finanzas.
+
+**Escenario 1:**  
+- **Given** el usuario está en la sección de una billetera,  
+- **When** selecciona la opción de registrar una transacción,  
+- **Then** debe poder ingresar los detalles de la transacción, como monto, categoría y nota.
+
+---
+
+## US15 - Categorizar Transacciones
+**Como** usuario, **quiero** categorizar mis transacciones **para** organizar y analizar mis gastos e ingresos.
+
+**Escenario 1:**  
+- **Given** el usuario registra una transacción,  
+- **When** selecciona una categoría para la transacción,  
+- **Then** la transacción se clasifica automáticamente en la categoría seleccionada.
+
+---
+
+## US16 - Crear Transacciones Recurrentes
+**Como** usuario, **quiero** crear transacciones recurrentes **para** automatizar el registro de gastos e ingresos periódicos.
+
+**Escenario 1:**  
+- **Given** el usuario está en la sección de una billetera,  
+- **When** selecciona la opción de registrar una transacción **and** marca la opción de transacción recurrente configurando la frecuencia,  
+- **Then** la transacción se registra automáticamente según la configuración.
+
+---
+
+## US19 - Realizar Transacciones a otra Billetera
+**Como** usuario, **quiero** transferir dinero de una billetera a otra **para** mover fondos entre mis cuentas.
+
+**Escenario 1:**  
+- **Given** el usuario está en la sección de una billetera,  
+- **When** selecciona la opción de transferir dinero,  
+- **Then** debe poder ingresar el monto **and** seleccionar la billetera de destino para completar la transferencia.
+
+---
+
+## US23 - Alerta de Límite de Presupuesto
+**Como** usuario, **quiero** recibir una alerta cuando esté cerca de exceder el límite de un plan de presupuesto **para** evitar gastos innecesarios.
+
+**Escenario 1:**  
+- **Given** el usuario está en la sección de presupuestos,  
+- **When** el monto gastado se acerca al límite del plan,  
+- **Then** debe recibir una notificación de alerta que le advierte sobre el exceso de gastos.
+
+---
+
+## US24 - Ver Periodos Anteriores de un Presupuesto
+**Como** usuario, **quiero** ver los periodos anteriores de un plan de presupuesto **para** comparar mis gastos y evaluar mi progreso financiero.
+
+**Escenario 1:**  
+- **Given** el usuario está en la sección de presupuestos,  
+- **When** selecciona un plan de presupuesto,  
+- **Then** debe poder ver los periodos anteriores con sus montos gastados.
+
+---
+
+## US25 - Ver Gráfico Anual de Gastos en Periodos Anteriores de un Presupuesto
+**Como** usuario, **quiero** ver un gráfico anual de gastos en periodos anteriores de un plan de presupuesto **para** visualizar mis hábitos de gasto a lo largo del tiempo.
+
+**Escenario 1:**  
+- **Given** el usuario está en la sección de presupuestos,  
+- **When** selecciona un plan de presupuesto,  
+- **Then** debe poder ver un gráfico que muestre los gastos mensuales en periodos anteriores del plan.
+
+---
+
+## US32 - Cambiar el Idioma de la Landing Page
+**Como** visitante, **quiero** cambiar el idioma de la landing page **para** poder entender mejor la información presentada.
+
+**Escenario 1:**  
+- **Given** el visitante está en la landing page,  
+- **When** selecciona un idioma diferente en el menú de idiomas,  
+- **Then** la página debe cambiar al idioma seleccionado.
+
+---
+
+## TS40 - Integración con Sistema Externo
+**Como** desarrollador, **quiero** integrar el sistema con un servicio externo **para** mejorar la funcionalidad y la experiencia del usuario.
+
+**Escenario 1:**  
+- **Given** el sistema tiene una API disponible,  
+- **When** se establece la conexión con el servicio externo,  
+- **Then** el sistema puede acceder a los datos y funcionalidades del servicio externo.
+
+---
+
+## TS41 - Creación de Transacciones en Billetera
+**Como** desarrollador, **quiero** implementar una API que permita crear una transacción en una billetera seleccionada **para** que el usuario pueda registrar sus ingresos y gastos.
+
+**Escenario 1:**  
+- **Given** el endpoint (/api/v1/transactions) está disponible,  
+- **When** se envía una solicitud POST con los datos de la transacción al endpoint,  
+- **Then** se recibe una señal de confirmación (201) **and** el sistema registra la transacción en la billetera seleccionada.
+
+---
+
+## TS-42 - Creación de Plan de Presupuesto en Billetera
+**Como** desarrollador, **quiero** implementar una API que permita crear un plan de presupuesto en una billetera seleccionada **para** que el usuario pueda establecer límites de gastos y controlar sus finanzas.
+
+**Escenario 1:**  
+- **Given** el endpoint (/api/v1/budgets) está disponible,  
+- **When** se envía una solicitud POST con los datos del plan de presupuesto al endpoint,  
+- **Then** se recibe una señal de confirmación (201) **and** el sistema registra el plan de presupuesto en la billetera seleccionada.
+
+---
+
+## TS43 - Creación de Plan de Ahorro en Billetera
+**Como** desarrollador, **quiero** implementar una API que permita crear un plan de ahorro en una billetera seleccionada **para** que el usuario pueda establecer metas financieras y ahorrar dinero de manera sistemática.
+
+**Escenario 1:**  
+- **Given** el endpoint (/api/v1/savings) está disponible,  
+- **When** se envía una solicitud POST con los datos del plan de ahorro al endpoint,  
+- **Then** se recibe una señal de confirmación (201) **and** el sistema registra el plan de ahorro en la billetera seleccionada.
+
+## TS-37 - Registrar Usuarios por una API
+**Como** desarrollador, **quiero** implementar una API que permita registrar nuevos usuarios al sistema.
+
+**Escenario 1:**  
+- **Given** el endpoint (/api/v1/auth/sign-up) está disponible,  
+- **When** se envía una solicitud POST con los datos del usuario ingresados al endpoint,  
+- **Then** se recibe una señal de confirmación (201) **and** el sistema registra al usuario.
+
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review
 En esta entrega, no se realizaron cambios con relación al Landing Page. Por el momento, la Landing Page queda igual a la versión realizada en el Sprint 3.

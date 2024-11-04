@@ -25,9 +25,20 @@
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha      | Autor                 | Descripción de modificación |
-|---------|------------|-----------------------|-----------------------------|
-| TB1     | 08/09/2024 | Todos los integrantes | Desarrollo de la TB1        |
+| Versión | Fecha      | Autor                           | Descripción de modificación                                              |
+|---------|------------|---------------------------------|--------------------------------------------------------------------------|
+| 0.1     | 26/08/2024 | Juan Astonitas,Gialuca Pasquale | Desarrollo del capitulo 1 y 2                                            |
+| 0.2     | 06/09/2024 | Todos los integrantes           | Desarrollo del capitulo 3                                                |
+| 0.3     | 08/09/2024 | Juan Astonitas                  | Desarrollo del capitulo 4  y sprint 1                                    |
+| 1.0     | 09/09/2024 | Todos los integrantes           | Release TB1                                                              |
+| 1.1     | 12/09/2024 | Todos los integrantes           | Correcciones TB1                                                         |
+| 1.2     | 26/09/2024 | Sebastian pacheco               | Desarrollo sprint 2                                                      |
+| 2.0     | 26/09/2024 | Todos los integrantes           | Release TP                                                               |
+| 2.1     | 19/10/2024 | Josue Paiva,Gialuca Pasquale    | Correciones del sprint 1 y 2                                             |
+| 2.1     | 24/10/2024 | Todos los integrantes           | Desarrollo del sprint planning y backlong 3                              |
+| 2.1     | 02/11/2024 | Todos los integrantes           | Desarrollo de las Evidencias del Sprint 3 y evaluación según heurísticas |
+| 3.0     | 03/11/2024 | Todos los integrantes           | Release TB2                                                              |
+
 
 ## Project Report Collaboration Insights
 Se han realizado todas las tareas asignadas para la entrega de la TB1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el 
@@ -140,6 +151,16 @@ Como Se puede ver a continuacion, durate el desarrollo de la TB1 hemos tenido 70
             - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
             - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
             - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+        - [5.2.3. Sprint 3](#523-sprint-3)
+            - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+            - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+            - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+            - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+            - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+            - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+            - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+            - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+
 
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
@@ -1299,9 +1320,8 @@ Los elementos presentes son:
 * Customer (Cliente): Accede a la aplicación web.
 * Administrator (Administrador): Accede a la aplicación web y supervisa su funcionamiento.
 * SmartFinance: Software que los usuarios utilizarán.
-<br>
 
-![SmartFinance-SystemContext](assets/dsl/structurizr-94856-SystemContext-001.png)
+![SmartFinance-SystemContext](assets/dsl/structurizr-82875-SystemContext.png)
 #### 4.6.2. Software Architecture Container Diagrams
 Los elementos presentes son:
 
@@ -1310,50 +1330,49 @@ Los elementos presentes son:
 * API: Conexión entre el frontend y backend.
 * Bounded Contexts: Las funcionalidades que el sistema proporciona a los usuarios.
 * Bases de datos: Almacenará datos como cuentas, billeteras, presupuestos, transacciones, entre otros.
-<br>
+![SmartFinance-Container](assets/dsl/structurizr-82875-Container.png)
 
-![SmartFinance-Container](assets/dsl/structurizr-94856-Container-001.png)
 #### 4.6.3. Software Architecture Components Diagrams
-**Bounded Context Account Creation and Management**
+**Bounded Context Account Management**
 
 Los elementos presentes son:
 * Controller: Controla un conjunto de funcionalidades.
 * Service: Partes de la aplicación que realizan una o varias tareas específicas.
 * Repository: Permite el acceso a una base de datos.
-![AccountCreationAndManagement-Component](assets/dsl/structurizr-94856-Component-001.png)
+![AccountCreationAndManagement-Component](assets/dsl/structurizr-82875-Bounded_Context-Users.png)
 
-**Bounded Context Visualization of Wallets and Flows**
+**Bounded Context User Wallets**
+
+Los elementos presentes son:
+* Controller: Controla un conjunto de funcionalidades.
+* Services: Partes de la aplicación que realizan una o varias tareas específicas.
+* Repository: Permite el acceso a una base de datos.
+![VisualizationOfWalletsAndFlows-Component](assets/dsl/structurizr-82875-Bounded_Context-Wallets.png)
+
+**Bounded Context Transactions and Flows**
+
+Los elementos presentes son:
+* Controllers: Controla un conjunto de funcionalidades.
+* Services: Partes de la aplicación que realizan una o varias tareas específicas.
+* Repositories: Permite el acceso a una base de datos.
+![TransactionRegisterAndCategorization-Component](assets/dsl/structurizr-82875-Bounded_Context-Transactions.png)
+
+**Bounded Context Wallet Savings**
 
 Los elementos presentes son:
 * Controller: Controla un conjunto de funcionalidades.
 * Service: Partes de la aplicación que realizan una o varias tareas específicas.
 * Repository: Permite el acceso a una base de datos.
-![VisualizationOfWalletsAndFlows-Component](assets/dsl/structurizr-94856-Component-002.png)
+![BudgetingCreationAndMonitoring-Component](assets/dsl/structurizr-82875-Bounded_Context-Savings.png)
 
-**Bounded Context Transaction Register and Categorization**
-
-Los elementos presentes son:
-* Controller: Controla un conjunto de funcionalidades.
-* Service: Partes de la aplicación que realizan una o varias tareas específicas.
-* Repository: Permite el acceso a una base de datos.
-![TransactionRegisterAndCategorization-Component](assets/dsl/structurizr-94856-Component-003.png)
-
-**Bounded Context Budgeting Creation and Monitoring**
-
-Los elementos presentes son:
-* Controller: Controla un conjunto de funcionalidades.
-* Service: Partes de la aplicación que realizan una o varias tareas específicas.
-* Observer: Notifica sobre algún cambio en un evento realizado por un componente.
-* Repository: Permite el acceso a una base de datos.
-![BudgetingCreationAndMonitoring-Component](assets/dsl/structurizr-94856-Component-004.png)
-
-**Bounded Context Savings Creation and Monitoring**
+**Bounded Context Wallets & Savings Graphics Providing**
 
 Los elementos presentes son:
 * Controller: Controla un conjunto de funcionalidades.
 * Service: Partes de la aplicación que realizan una o varias tareas específicas.
 * Repository: Permite el acceso a una base de datos.
-![SavingsCreationAndMonitoring-Component](assets/dsl/structurizr-94856-Component-005.png)
+* Context Facade: Proporciona una interface en la cual se puede acceder a los servicios del bounded context.
+![SavingsCreationAndMonitoring-Component](assets/dsl/structurizr-82875-Bounded_Context-Graphics.png)
 
 ### 4.7. Software Object-Oriented Design
 El diseño orientado a objetos del software será esencial para nuestro proyecto. Estructuramos nuestro software de acuerdo a nuestras reglas de negocio para poder crear componentes que puedan ser entendibles para su desarrollo en un sistema real, y sean fáciles de modificar para nosotros.
@@ -2179,13 +2198,673 @@ Este es nuestro link de invitación a nuestro Trello: https://trello.com/invite/
 
 ##### 5.2.3.3. Development Evidence for Sprint Review
 
+A continuación se muestran los commits realizados durante el Sprint 3 para documentar el desarrollo y los cambios implementados en las distintas funcionalidades de la aplicación. Estos commits incluyen correcciones, nuevas características y ajustes de diseño realizados tanto en la página de inicio como en la Landing Page, FrontEnd y BackEnd.
+
+###### Tabla de Landing Page 
+
+| Repository                     | Branch                 | Commit ID | Commit Message                                   | Commit Message Body                                     | Commited on (Date) |
+|--------------------------------|------------------------|-----------|--------------------------------------------------|---------------------------------------------------------|--------------------|
+| SmartFinance-OpenSource/Landing-Page | feat/landing    | 68d94b3f | fix: fixed structure for new section             | fix: fixed structure for new section                                 | 2024-11-02         |
+| SmartFinance-OpenSource/Landing-Page | feat/landing     | d0124984 | feat: added styles for new section               | feat: added styles for new section                                | 2024-11-02         |
+| SmartFinance-OpenSource/Landing-Page | feat/landing   | 26a8689a | feat: added new section for about the product and team | feat: added new section for about the product and team                               | 2024-11-02         |
+| SmartFinance-OpenSource/Landing-Page | feat/landing   | 2ad92f6f | feat: added new styles for about the product and team sections | feat: added new styles for about the product and team sections                                | 2024-11-02         |
+
+###### Tabla FrontEnd
+
+| Repository                            | Branch                      | Commit ID | Commit Message                                                     | Commit Message Body                  | Commited on (Date) |
+|---------------------------------------|-----------------------------|-----------|--------------------------------------------------------------------|--------------------------------------|---------------------|
+| SmartFinance-OpenSource/Frontend-Finzar | feat/budget-dashboard      | c4cbddea | feat(budget-dashboard): new desc.                                  | No description provided.             | 2024-10-15         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/saving-api            | 88bb3a2c | fix: bad call to services, balance now displays.                   | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/saving-api            | 7916aeb6 | fix: bounded context removed from project                          | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/saving-api            | 68e87f92 | feat(saving-api): added delete saving function.                    | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/saving-edit           | 1179d0e2 | fix: saving delete button                                          | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/balance-card-design   | 6d4d10a2 | feat: added design to difference balances                          | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/balance-card-design   | 46a923c9 | feat: added balance card formatting.                               | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-filter         | 11aff7d9 | chore: added wallet filter component.                              | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/dashboard-filters     | 01e4be86 | refactor: renamed dashboard filters selector to the correct naming | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-filters        | bf15255d | fix: replaced component usage to the correct one                   | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-filter         | 8096eb06 | feat: c                           | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-filter         | 78db55d5 | feat: added wallet filter to wallet view page.                     | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-dialog         | 0660758e | feat: added dialog to delete button                                | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-category       | 07be651d | fix: called category api service from wallet-view                  | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-category       | cab7d19f | feat: added table designing                                        | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-category       | a9b4856a | fix: removed id from the table and modified category               | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/saving-edit           | b90f1599 | chore: created saving edit component                               | No description provided.             | 2024-10-24         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/saving-edit           | fab0fa5f | feat: added saving edit component functionality                    | No description provided.             | 2024-10-24         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/saving-edit           | 8bc5fc24 | feat: added card forum for editing savings                         | No description provided.             | 2024-10-24         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/saving-edit           | bafb3ee7 | feat: added saving edit functions to saving detail component       | No description provided.             | 2024-10-24         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/saving-edit           | b9476003 | feat: implemented edit dialog in saving detail                     | No description provided.             | 2024-10-24         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/balance-card-styling  | 57a8991d | fix: added margin between Add Transaction button and filter card   | No description provided.             | 2024-10-24         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/balance-card-styling  | 326bbbd6 | fix: fixed wallet balance not displaying                           | No description provided.             | 2024-10-24         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/balance-card-styling  | 4239c3e0 | fix: redesigned balance card background                            | No description provided.             | 2024-10-24         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/header-fix            | 79839c8f | fix: styled the header to stay on top all the time                 | No description provided.             | 2024-10-28         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/header-margin         | b370fdda | fix: added margin to router view to avoid conflicts                | No description provided.             | 2024-10-28         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/transaction-service   | ee1d09ab | feat: added transaction entity values                              | No description provided.             | 2024-10-29         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/transaction-service   | 3108d0c3 | feat: added create transaction service method                      | No description provided.             | 2024-10-29         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/transaction-dialog    | bea09677 | chore: added create transaction dialog components                  | No description provided.             | 2024-10-29         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/transaction-table     | b189e3cb | fix: c and adjusted columns         | No description provided.             | 2024-10-29         |
+
+###### Tabla BackEnd
+
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
+En el tercer sprint identificamos 34 endpoints provenientes de 8 controladores diferentes. Utilizamos swagger para la presente documentacion.
+
+**Saving Controller**
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Savings </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/savings/{userId} </td>
+        <td colspan="1"> Get savings by user id </td>
+        <td colspan="1"> Get savings of user </td>
+        <td colspan="1"> GetSavingsByUserId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> userId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Savings </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/savings/{savingsId} </td>
+        <td colspan="1"> Get savings by id </td>
+        <td colspan="1"> Get savings in a system by its id </td>
+        <td colspan="1"> GetSavingsById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> savingsId</td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Savings </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/savings </td>
+        <td colspan="1"> Get all savings </td>
+        <td colspan="1"> Get all savings in the system </td>
+        <td colspan="1"> GetAllSavings </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> - </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Savings </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/savings</td>
+        <td colspan="1"> Create new savings</td>
+        <td colspan="1"> Create new savings in system </td>
+        <td colspan="1"> CreateSavings </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Savings </td>
+        <td colspan="1"> PUT </td>
+        <td colspan="1"> /api/v1/savings/{savingsId}</td>
+        <td colspan="1"> Update existing savings </td>
+        <td colspan="1"> Update existing savings by id </td>
+        <td colspan="1"> UpdateSavings </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> savingsId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Savings </td>
+        <td colspan="1"> DELETE </td>
+        <td colspan="1"> /api/v1/savings/{savingsId}</td>
+        <td colspan="1"> Delete savings </td>
+        <td colspan="1"> Delete savings by id </td>
+        <td colspan="1"> DeleteSavings </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> savingsId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+</table>
+
+**Wallet Controller**
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Wallet </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/wallets/{userId} </td>
+        <td colspan="1"> Get a wallet by user id </td>
+        <td colspan="1"> Get a wallet of user </td>
+        <td colspan="1"> GetWalletByUserId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> userId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Wallet </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/wallets/{walletId} </td>
+        <td colspan="1"> Get a wallet by id </td>
+        <td colspan="1"> Get a wallet in a system by its id </td>
+        <td colspan="1"> GetWalletById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> walletId</td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Wallet </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/wallets </td>
+        <td colspan="1"> Get all wallets </td>
+        <td colspan="1"> Get all wallets in the system </td>
+        <td colspan="1"> GetAllWallets </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> - </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Wallet </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/wallets</td>
+        <td colspan="1"> Create a new wallet</td>
+        <td colspan="1"> Create a new wallet in system </td>
+        <td colspan="1"> CreateWallet </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Wallet </td>
+        <td colspan="1"> PUT </td>
+        <td colspan="1"> /api/v1/wallets/{walletId}</td>
+        <td colspan="1"> Update existing wallet </td>
+        <td colspan="1"> Update existing wallet by id </td>
+        <td colspan="1"> UpdateWallet </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> walletId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Wallet </td>
+        <td colspan="1"> DELETE </td>
+        <td colspan="1"> /api/v1/wallets/{walletId}</td>
+        <td colspan="1"> Delete a wallet </td>
+        <td colspan="1"> Delete a wallet by id </td>
+        <td colspan="1"> DeleteWallet </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> walletId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+</table>
+
+CategoryController
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Category </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/category/{cateogryId} </td>
+        <td colspan="1"> Get a category by id </td>
+        <td colspan="1"> Get a category in a system by its id </td>
+        <td colspan="1"> GetCategoryById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> categoryId</td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Category </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/category</td>
+        <td colspan="1"> Get all categories</td>
+        <td colspan="1"> Get all categories in system </td>
+        <td colspan="1"> GetAllCategories </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Category </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/category</td>
+        <td colspan="1"> Create new category </td>
+        <td colspan="1">Create new category</td>
+        <td colspan="1"> CreateCategory </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+</table>
+
+TransactionsController
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Transaction </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/transactions/{userId} </td>
+        <td colspan="1"> Get a transaction by user id </td>
+        <td colspan="1"> Get a transaction in a system by its user id </td>
+        <td colspan="1"> GetTransactionByUserId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> userId</td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Transaction </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/transactions/{walletId}</td>
+        <td colspan="1">  Get a transaction by wallet id</td>
+        <td colspan="1"> Get a transaction by wallet id in system </td>
+        <td colspan="1"> GetTransactionByWalletId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2">walletId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Transaction </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/transactions</td>
+        <td colspan="1"> Create new transaction </td>
+        <td colspan="1">Create new transaction</td>
+        <td colspan="1"> CreateCategory </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+</table>
+
+EarningsController
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Earnings </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/earnings/{walletId} </td>
+        <td colspan="1"> Get all earnings by wallet id </td>
+        <td colspan="1"> Get all earning in a system by its wallet id </td>
+        <td colspan="1"> GetEarningsByWalletId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> walletId</td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Earnings </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/earnings/{expenseId}</td>
+        <td colspan="1">  Get a earning by id</td>
+        <td colspan="1"> Get a earning by wallet id in system </td>
+        <td colspan="1"> GetEarningById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2">earningId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Earnings </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/earnings/{userId} </td>
+        <td colspan="1"> Get all earnings by user id </td>
+        <td colspan="1"> Get all earnings in a system by its user id </td>
+        <td colspan="1"> GetEarningsByUserId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> userId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Earnings </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/earnings</td>
+        <td colspan="1"> Create new earning </td>
+        <td colspan="1">Create new earning</td>
+        <td colspan="1"> CreateEarning </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+</table>
+
+ExpensesController
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Expenses </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/expenses/{walletId} </td>
+        <td colspan="1"> Get all expenses by wallet id </td>
+        <td colspan="1"> Get all expenses in a system by its wallet id </td>
+        <td colspan="1"> GetExpensesByWalletId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> walletId</td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Expenses </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/expenses/{expenseId}</td>
+        <td colspan="1">  Get a earning by id</td>
+        <td colspan="1"> Get a earning by its id in system </td>
+        <td colspan="1"> GetEarningById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2">earningId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Expenses </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/expenses/{userId} </td>
+        <td colspan="1"> Get all expenses by user id </td>
+        <td colspan="1"> Get all expenses in a system by its user id </td>
+        <td colspan="1"> GetExpensesByUserId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> userId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Expenses </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/expenses</td>
+        <td colspan="1"> Create new expense </td>
+        <td colspan="1">Create new expense</td>
+        <td colspan="1"> CreateExpense </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+</table>
+
+UsersController
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Users </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/users/{userId} </td>
+        <td colspan="1"> Get all Users by its id </td>
+        <td colspan="1"> Get all Users in a system by its id </td>
+        <td colspan="1"> GetUserById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> walletId</td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Users </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/users</td>
+        <td colspan="1">  Get all Users</td>
+        <td colspan="1"> Get all Users in system </td>
+        <td colspan="1"> GetEarningById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Users </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/users</td>
+        <td colspan="1"> Create new user </td>
+        <td colspan="1">Create new user</td>
+        <td colspan="1"> CreateUser </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Users </td>
+        <td colspan="1"> PUT </td>
+        <td colspan="1"> /api/v1/users/{userId}</td>
+        <td colspan="1"> Update existing user </td>
+        <td colspan="1"> Update existing user by id </td>
+        <td colspan="1"> UpdateUser </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> userId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Users </td>
+        <td colspan="1"> DELETE </td>
+        <td colspan="1"> /api/v1/users/{userId}</td>
+        <td colspan="1"> Delete a user </td>
+        <td colspan="1"> Delete a user by id </td>
+        <td colspan="1"> DeleteUser </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> userId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+</table>
+
+RepeatPeriodController
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> repeatPeriod </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/repeatPeriod </td>
+        <td colspan="1"> Get all repeatPeriods </td>
+        <td colspan="1"> Get all repeatPeriod in system </td>
+        <td colspan="1"> GetAllRepeatPeriods </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -</td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> repeatPeriod </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/repeatPeriod</td>
+        <td colspan="1">  Get repeatPeriod by Id</td>
+        <td colspan="1"> Get Get repeatPeriod by Id in system </td>
+        <td colspan="1"> GetRepeatPeriodById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> repeatPeriod </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/repeatPeriod</td>
+        <td colspan="1"> Create new repeatPeriod </td>
+        <td colspan="1">Create new repeatPeriod</td>
+        <td colspan="1"> CreateRepeatPeriod </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> -  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+</table>
+
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+**Landing Page**
+Para la Landing Page, se utilizó [Vercel](https://vercel.com) para el despliegue de la página.
+
+- Primero nos dirigimos a Import Project, siendo la primera opción.
+![Sprint 3 Landing Deployment Evidence 1](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-1.png)
+- Luego seleccionamos el repositorio de GitHub donde se encuentra el código de la Landing Page. En este caso, Landing-Page.
+![Sprint 3 Landing Deployment Evidence 2](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-2.png)
+- Se nos presenta la siguiente pantalla, donde muestra las opciones por defecto en el despliegue de la página.
+![Sprint 3 Landing Deployment Evidence 3](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-3.png)
+- Como nuestro proyecto es con Vite como framework, ajustamos el Framework Preset, y seleccionamos deploy.
+![Sprint 3 Landing Deployment Evidence 4](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-4.png)
+- Esperamos unos segundos y la página debería desplegarse exitosamente.
+![Sprint 3 Landing Deployment Evidence 5](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-5.png)
+- Podemos apreciar que la página ha sido desplegada con éxito.
+![Sprint 3 Landing Deployment Evidence 6](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-6.png)
+- Con ello, se nos proporciona un link de la página desplegada, donde podemos acceder.
+![Sprint 3 Landing Deployment Evidence 7](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-7.png)
+- Al acceder al link, podemos ver la página desplegada.
+![Sprint 3 Landing Deployment Evidence 8](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-8.png)
+
+**FrontEnd**
+Para el FrontEnd, se utilizó [Vercel](https://vercel.com) para el despliegue de la página.
+
+- Antes del despliegue, debemos crear una cuenta, por lo que continuaremos con GitHub.
+![Sprint 3 FrontEnd Deployment Evidence 1](/assets/sprint-3-deployment/frontend-deploy/evidence-1.png)
+- Primero nos dirigimos a Import Project, siendo la primera opción.
+![Sprint 3 FrontEnd Deployment Evidence 2](/assets/sprint-3-deployment/frontend-deploy/evidence-2.png)
+- Luego seleccionamos el repositorio de GitHub donde se encuentra el código del FrontEnd. En este caso, Frontend-Finzar.
+![Sprint 3 FrontEnd Deployment Evidence 3](/assets/sprint-3-deployment/frontend-deploy/evidence-3.png)
+- Se nos presenta la siguiente pantalla, donde muestra las opciones por defecto en el despliegue de la página. Le damos a deploy.
+![Sprint 3 FrontEnd Deployment Evidence 4](/assets/sprint-3-deployment/frontend-deploy/evidence-4.png)
+- Podemos apreciar que la página ha sido desplegada con éxito.
+![Sprint 3 FrontEnd Deployment Evidence 5](/assets/sprint-3-deployment/frontend-deploy/evidence-5.png)
+- Con ello, se nos proporciona un link de la página desplegada, donde podemos acceder.
+![Sprint 3 FrontEnd Deployment Evidence 6](/assets/sprint-3-deployment/frontend-deploy/evidence-6.png)
+- Al acceder al link, podemos ver la página desplegada.
+![Sprint 3 FrontEnd Deployment Evidence 7](/assets/sprint-3-deployment/frontend-deploy/evidence-7.png)
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
@@ -2249,6 +2928,123 @@ Validar la usabilidad y efectividad de la landing page y de los flujos de usuari
 - ¿Qué mejorarías en la presentación de estos reportes?
 - ¿Te ayudó esta sección a comprender mejor tus hábitos financieros?
   
+=======
+### 5.3. Validation Interviews
+##### 5.3.1. Diseño de entrevistas.
+##### 5.3.2. Registro de entrevistas.
+
+|                                                           |                                                                                                                                                   |
+|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Link de video de entrevistas**                          | [URL de las entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119095_upc_edu_pe/ERvK2UaDUNRIuC_KFdFri6ABEsBPNnwUyCCxqnb7CsoJFw?e=znKUQz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)|
+
+A continuación se presentan los detalles clave de las entrevistas realizadas a los usuarios
+
+| Entrevista 1: Jovenes adultos |                                                                                                                                                                         |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                  | Flavio Gallardo                                                                                                                                           |
+| Edad                                                 | 20 Años                                                                                                                                                                |
+| Profesión                                            | Estudiante de Derecho                                                                                                                                             |
+| Departamento                                         | Lima, Perú                                                                                                                                                             |
+| Duración de la Entrevista                            | 03:20 min                                                                                                                                                              |
+| **Análisis de la Entrevista**                        |                                                                                                                                                                         |
+| Visualización de Overview                            | Comenta que la información es clara y útil, le permitió ver un resumen rápido de sus gastos e ingresos. Sugeriría incluir un pequeño tutorial inicial para los nuevos usuarios. |
+| Creación de Billeteras                               | El proceso es intuitivo, los botones y el flujo la guiaron bien. Sugiere un mensaje de confirmación más claro al finalizar la creación para mayor seguridad.             |
+| Visualización de Movimiento de billetera             | La categorización de movimientos es clara y el desglose le pareció adecuado. Propone agregar iconos para diferenciar mejor entre ingresos y gastos.                      |
+| Creación de Metas de Ahorro                          | Considera el flujo claro y útil, le gustó poder establecer una cantidad, categoría y plazo. No encontró confusión, pero le gustaría hacer seguimiento a sus metas.       |
+| Visualización de Reportes Financieros                | La información es fácil de entender con gráficos claros. Sugiere agregar filtros personalizados para visualizar datos por categorías o períodos específicos.              |
+| Navegación general                                   | Le pareció adecuada y útil, sin mayores observaciones.                                                                                                                  |
+
+| Entrevista 2: Jovenes adultos |                                                                                                                                                                         |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                  | Alvaro Alarcón                                                                                                                                       |
+| Edad                                                 | 20 Años                                                                                                                                                                |
+| Profesión                                            | Estudiante de Economía                                                                                                                                             |
+| Departamento                                         | Lima, Perú                                                                                                                                                             |
+| Duración de la Entrevista                            | 03:20 min                                                                                                                                                              |
+| **Análisis de la Entrevista**                        |                                                                                                                                                                         |
+| Visualización de Overview                            | Comenta que la información es clara y que cada sección está etiquetada de manera ordenada. Sin embargo, menciona que en algunos momentos se confundió al buscar ciertos detalles, como el acceso a las billeteras. Sugiere una vista simplificada para mostrar solo los puntos clave y expandir detalles según su interés. |
+| Creación de Billeteras                               | El proceso es intuitivo, con pasos lógicos, aunque tuvo que verificar dos veces para asegurarse de que ingresó correctamente el nombre y tipo de billetera. El sistema le mostró un cuadro para la creación, lo cual facilitó el proceso sin mayores problemas. |
+| Visualización de Movimiento de billetera             | La información de los movimientos es clara y ordenada, especialmente la sección de gastos, que está bien categorizada. Propone añadir un código de colores o etiquetas para distinguir ingresos y gastos rápidamente. |
+| Creación de Metas de Ahorro                          | Considera el flujo claro y directo, le agradó poder personalizar la categoría y asignar una fecha específica. Sugiere añadir un recordatorio visual para hacer seguimiento al progreso de la meta. |
+| Visualización de Reportes Financieros                | La información en los reportes es fácil de entender, aunque algunos gráficos parecen muy simples. Sugiere incluir una breve explicación en cada gráfico y permitir la personalización para comparar períodos o categorías. |
+| Navegación general                                   | Le pareció adecuada y útil, sin mayores observaciones.                                                                                                                  |
+
+| Entrevista 3: Jovenes adultos |                                                                                                                                                                         |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                  | Diego Paiva                                                                                                                                     |
+| Edad                                                 | 22 Años                                                                                                                                                                |
+| Profesión                                            | Estudiante de Ciencias de la comunicación                                                                                                                                             |
+| Departamento                                         | Lima, Perú                                                                                                                                                             |
+| Duración de la Entrevista                            | 03:37 min                                                                                                                                                              |
+| **Análisis de la Entrevista**                        |                                                                                                                                                                         |
+| Visualización de Overview                            | Le parece que la interfaz es clara y presenta correctamente los elementos importantes en pantalla, tanto la informacion como la funcionalidad de creacion de billeteras |
+| Creación de Billeteras                               | Le parece una funcion clara con un boton con icono pertinente, interfaz de creacion clara y simple |
+| Visualización de Movimiento de billetera             | Considera que cuenta con una interfaz funcional, se podria mejorar haciendola mas vistosa y que se diferencie de las demas. |
+| Creación de Metas de Ahorro                          | Al igual que la creacion de billeteras le parece una interfaz simple pero funcional y directa al punto |
+| Visualización de Reportes Financieros                | Si bien le parecen unos graficos agradables y funcionales, considera que añadirle variedad beneficiaria la experiencia del usuario |
+| Navegación general                                   | Interfaz clara y sencilla, no comenta sobre problemas en su navegacion.                                                                                                                  |
+##### 5.3.3. Evaluaciones según heurísticas.
+UX Heuristics & Principles Evaluation
+Usability - Inclusive Design - Information Architecture
+##### Informacion del proyecto
+- Carrera: Ingenieria de Software
+- Curso: Aplicaciones Open Source
+- Auditor: SmartFinance
+- Cliente: SmartFinance
+- Aplicacion: Finzar
+
+##### Tareas a evaluar
+En esta evaluacion revisaremos la funcionalidad de las siguientes caracteristicas:
+##### Para el segmento cliente:
+- Navegacion dentro de la pestaña Wallet
+- Navegacion dentro de la pestaña Savings
+- Creacion de una nueva Wallet
+- Añadir una nueva transaccion
+- Edicion de la informacion de una Wallet existente
+- Edicion de la informacion de un Saving existente
+
+#### Escala de Severidad
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir con más frecuencia o es más difícil de superar para el usuario. Debería tener una prioridad baja para resolverse en la próxima versión. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Debería tener alta prioridad para corregirse. |
+| 4     | Problema muy grave: error que impide al usuario continuar utilizando la herramienta. Debe corregirse antes del lanzamiento. |
+
+#### Tabla Resumen
+| #  | Problema                                                              | Escala de severidad | Heurística/Principio violado             | Tarea evaluada                                  |
+|----|-----------------------------------------------------------------------|--------------------|-----------------------------------------|-------------------------------------------------|
+| 1  | Datos de Wallet demasiado grandes y poco ordenados           | 2                | Eficiencia y satisfacción del usuario   |   Navegacion dentro de la pestaña Wallet          |
+| 2  | Diseño de la pestaña Savings simple y demasiado parecido a Wallet      | 2                  | Diseño estético y cohesivo     |Navegacion dentro de la pestaña Savings                          |
+| 3  | Cuadros de dialogo muy simples y poco intuitivos       | 2                  | Diseño estético y cohesivo     | Edicion de la informacion de una Wallet existente                            |
+| 4  | No existe una notificacion sobre la eliminacion de un saving       | 3                 | Visibilidad de informacion     | Edicion de la informacion de un Saving existente                            |
+
+##### Problema #1: Datos de Wallet demasiado grandes y poco ordenados
+- **Tarea Evaluada:** Navegacion dentro de la pestaña Wallet
+- **Recomendación:** Modificar el tamaño de la informacion de una Wallet, incluir diferentes colores para los datos mas y menos relevantes.
+
+##### Problema #2: Diseño de la pestaña Savings simple y demasiado parecido a Wallet
+- **Tarea Evaluada:** Navegacion dentro de la pestaña Savings
+- **Recomendación:** Incluir un diseño diferente cambiando algunos colores para permitir una distincion clara con la pestaña Wallet a simple vista.
+##### Problema #3: Cuadros de dialogo muy simples y poco intuitivos
+- **Tarea Evaluada:** Edicion de la informacion de una Wallet existente
+- **Recomendación:** Elegir un color diferente al de las pestañas y ordenar mejor los datos con sus respectivos titulos para facilitar la experiencia de usuario
+##### Problema #4: No existe una notificacion sobre la eliminacion de un saving
+- **Tarea Evaluada:** Edicion de la informacion de un Saving existente
+- **Recomendación:** Incluir una notificacion sobre la eliminacion exitosa de un saving
+
+#### Descripción de Problemas
+
+### 5.4. Video About-the-Product
+
+About the Product Video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110291_upc_edu_pe/EfCER3yQPs5AsO4Y715HfjkBMhXV68HWy-XOHCBIhGo6Fg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SaCgAm">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110291_upc_edu_pe/EfCER3yQPs5AsO4Y715HfjkBMhXV68HWy-XOHCBIhGo6Fg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SaCgAm</a>
+
+![about-the-product](/assets/AboutTheProduct/abouttheproduct.png)
+
+
+
 ## Conclusiones
 
 - A lo largo del desarrollo de Finzar, se ha identificado y comprendido a fondo a su segmento objetivo: jóvenes adultos peruanos, incluyendo estudiantes universitarios y jóvenes profesionales. Esta comprensión ha permitido adaptar la herramienta para abordar problemas específicos como el sobreendeudamiento y la falta de ahorro, ofreciendo soluciones prácticas y accesibles que mejoran la estabilidad económica y promueven buenos hábitos financieros desde edades tempranas.

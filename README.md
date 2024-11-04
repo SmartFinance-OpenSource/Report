@@ -2224,15 +2224,20 @@ Validar la usabilidad y efectividad de la landing page y de los flujos de usuari
    - Dispositivo utilizado (smartphone, tablet, laptop)
 
 ### Preguntas para el Segmento Usuario
-#### Landing Page
-- ¿Fue clara la información presentada en la Landing Page?
-- ¿Te pareció atractiva y te motivó a registrarte?
-- ¿Alguna parte de la Landing Page generó dudas?
+#### Visualización de Overview
+- ¿Fue clara la información presentada en el panel tus habitos financieros?
+- ¿Algún momento te sentiste perdido al explorar el panel?
+- ¿Cómo describirías la información presentada?
 
-#### Registro de Ingresos y Gastos
-- ¿Qué tan intuitivo fue el proceso de registro de ingresos/gastos?
-- Describe si algún paso fue confuso o podría mejorar.
-- ¿El sistema brindó suficiente retroalimentación al registrar un ingreso o gasto?
+#### Creación de Billeteras
+- ¿Qué tan intuitivo fue el proceso de creaciópn de una billetera?
+- Describe el flujo para crear una billetera. ¿Algún paso generó dudas?
+- ¿El sistema brindó suficiente retroalimentación al crear una billetera?
+
+#### Visualización de Movimiento de billetera
+- ¿Fue fácil entender la información de los movimientos de tu billetera?
+- ¿Qué mejorarías en la presentación de estos movimientos?
+- ¿Te ayudó esta sección a comprender mejor tus gastos?
 
 #### Creación de Metas de Ahorro
 - ¿Fue claro el flujo para crear una meta de ahorro?

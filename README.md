@@ -2608,7 +2608,7 @@ RepeatPeriodController
 
 |                                                           |                                                                                                                                                   |
 |-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Link de video de entrevistas**                          | []() |
+| **Link de video de entrevistas**                          | [URL de las entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119095_upc_edu_pe/ERvK2UaDUNRIuC_KFdFri6ABEsBPNnwUyCCxqnb7CsoJFw?e=znKUQz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)|
 
 A continuación se presentan los detalles clave de las entrevistas realizadas a los usuarios
 
@@ -2618,7 +2618,7 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Edad                                                 | 20 Años                                                                                                                                                                |
 | Profesión                                            | Estudiante de Derecho                                                                                                                                             |
 | Departamento                                         | Lima, Perú                                                                                                                                                             |
-| Duración de la Entrevista                            | 00:00 min                                                                                                                                                              |
+| Duración de la Entrevista                            | 03:20 min                                                                                                                                                              |
 | **Análisis de la Entrevista**                        |                                                                                                                                                                         |
 | Visualización de Overview                            | Comenta que la información es clara y útil, le permitió ver un resumen rápido de sus gastos e ingresos. Sugeriría incluir un pequeño tutorial inicial para los nuevos usuarios. |
 | Creación de Billeteras                               | El proceso es intuitivo, los botones y el flujo la guiaron bien. Sugiere un mensaje de confirmación más claro al finalizar la creación para mayor seguridad.             |
@@ -2633,7 +2633,7 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Edad                                                 | 20 Años                                                                                                                                                                |
 | Profesión                                            | Estudiante de Economía                                                                                                                                             |
 | Departamento                                         | Lima, Perú                                                                                                                                                             |
-| Duración de la Entrevista                            | 00:00 min                                                                                                                                                              |
+| Duración de la Entrevista                            | 03:20 min                                                                                                                                                              |
 | **Análisis de la Entrevista**                        |                                                                                                                                                                         |
 | Visualización de Overview                            | Comenta que la información es clara y que cada sección está etiquetada de manera ordenada. Sin embargo, menciona que en algunos momentos se confundió al buscar ciertos detalles, como el acceso a las billeteras. Sugiere una vista simplificada para mostrar solo los puntos clave y expandir detalles según su interés. |
 | Creación de Billeteras                               | El proceso es intuitivo, con pasos lógicos, aunque tuvo que verificar dos veces para asegurarse de que ingresó correctamente el nombre y tipo de billetera. El sistema le mostró un cuadro para la creación, lo cual facilitó el proceso sin mayores problemas. |
@@ -2642,7 +2642,20 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Visualización de Reportes Financieros                | La información en los reportes es fácil de entender, aunque algunos gráficos parecen muy simples. Sugiere incluir una breve explicación en cada gráfico y permitir la personalización para comparar períodos o categorías. |
 | Navegación general                                   | Le pareció adecuada y útil, sin mayores observaciones.                                                                                                                  |
 
-
+| Entrevista 3: Jovenes adultos |                                                                                                                                                                         |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                  | Diego Paiva                                                                                                                                     |
+| Edad                                                 | 22 Años                                                                                                                                                                |
+| Profesión                                            | Estudiante de Ciencias de la comunicación                                                                                                                                             |
+| Departamento                                         | Lima, Perú                                                                                                                                                             |
+| Duración de la Entrevista                            | 03:37 min                                                                                                                                                              |
+| **Análisis de la Entrevista**                        |                                                                                                                                                                         |
+| Visualización de Overview                            | Le parece que la interfaz es clara y presenta correctamente los elementos importantes en pantalla, tanto la informacion como la funcionalidad de creacion de billeteras |
+| Creación de Billeteras                               | Le parece una funcion clara con un boton con icono pertinente, interfaz de creacion clara y simple |
+| Visualización de Movimiento de billetera             | Considera que cuenta con una interfaz funcional, se podria mejorar haciendola mas vistosa y que se diferencie de las demas. |
+| Creación de Metas de Ahorro                          | Al igual que la creacion de billeteras le parece una interfaz simple pero funcional y directa al punto |
+| Visualización de Reportes Financieros                | Si bien le parecen unos graficos agradables y funcionales, considera que añadirle variedad beneficiaria la experiencia del usuario |
+| Navegación general                                   | Interfaz clara y sencilla, no comenta sobre problemas en su navegacion.                                                                                                                  |
 ##### 5.3.3. Evaluaciones según heurísticas.
 UX Heuristics & Principles Evaluation
 Usability - Inclusive Design - Information Architecture

@@ -2612,7 +2612,7 @@ RepeatPeriodController
 
 A continuación se presentan los detalles clave de las entrevistas realizadas a los usuarios
 
-| Entrevista 1: Usuario de gestión financiera personal |                                                                                                                                                                         |
+| Entrevista 1: Jovenes adultos |                                                                                                                                                                         |
 |------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Nombre Entrevistado                                  | Flavio Gallardo                                                                                                                                           |
 | Edad                                                 | 20 Años                                                                                                                                                                |
@@ -2627,7 +2627,7 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Visualización de Reportes Financieros                | La información es fácil de entender con gráficos claros. Sugiere agregar filtros personalizados para visualizar datos por categorías o períodos específicos.              |
 | Navegación general                                   | Le pareció adecuada y útil, sin mayores observaciones.                                                                                                                  |
 
-| Entrevista 2: Usuario de gestión financiera personal |                                                                                                                                                                         |
+| Entrevista 2: Jovenes adultos |                                                                                                                                                                         |
 |------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Nombre Entrevistado                                  | Alvaro Alarcón                                                                                                                                       |
 | Edad                                                 | 20 Años                                                                                                                                                                |

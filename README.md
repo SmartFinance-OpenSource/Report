@@ -172,7 +172,8 @@ del ABET – EAC - Student Outcome 3.
       TB2<br>Para este entregable he supervisado y comunicado posibles cambios y soluciones en la sección frontend y backend, además de apoyar a otros en el desarrollo de tasks, de esta manera ambos lados cooperamos y logramos establecer el trabajo en equipo mediante comunicación.<br>
       Josue Paiva<br>TB1<br>
       En el entregable 1 he mantenido una comunicación constante con mis compañeros, pues se buscó un aporte constante por parte de todos los integrantes, en general tuvimos buena comunicación y buena aportación a partes iguales.<br>
-      <br>TB1<br>
+      TP<br>En el entregable parcial contribui con ciertas observaciones del entregable anterior, como definir correctamente los criterios de aceptacion, ello me permitio desarrollar de manera mas eficiente mi bounded context en el frontend y ajustarme a los parametros de las user stories que tambien fueron mejoradas e incrementadas.<br>
+      <br>TB2<br>
       En el entregable 2 me concentre en concluir mi bounded context designado para poder realizar los endpoints del backend que se me designo, fue crucial las reuniones en grupo, asi como consultar con mis compañeros cuando tenia dudas sobre la implementacion.<br>
       Gianluca Pasquale<br>TB1<br>
       He contribuido activamente en el liderazgo compartido, facilitando la toma de decisiones y promoviendo la responsabilidad colectiva.<br>
@@ -198,6 +199,7 @@ del ABET – EAC - Student Outcome 3.
       TB2<br>He realizado mejoras en el frontend, además de desarrollar la primera versión del backend perteneciente a mi bounded context.<br>
       Josue Paiva<br>TB1<br>
       Durante las semanas de plazo he completado las tareas delegadas, así como las que surgían inesperadamente siempre que pude, las mismas se pueden ver reflejadas en mis commits, además de aportar con mis compañeros siempre que se necesitó.<br>
+      TP<br>Colabore de manera uniforme con el equipo, asistiendo a las reuniones grupales y cumpliendo los objetivos de las mismas, ya sea sobre la construccion de mi bounded context del frontend o sobre el reporte y los items que faltaban como mejor analisis de entrevista, criterios de aceptacion, etc.<br>
       <br>TB2<br>
       Ademas de concluir la retroalimentacion del TP, tambien aporte con la documentacion en el report, asi como la planficiacion de los sprints pasados y futuros en el trello para ordenar de manera mas eficiente el flujo de trabajo <br>
       Gianluca Pasquale<br>TB1<br>

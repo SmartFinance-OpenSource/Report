@@ -2605,6 +2605,30 @@ RepeatPeriodController
 ### 5.3. Validation Interviews
 ##### 5.3.1. Diseño de entrevistas.
 ##### 5.3.2. Registro de entrevistas.
+
+|                                                           |                                                                                                                                                   |
+|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Link de video de entrevistas**                          | []() |
+
+A continuación se presentan los detalles clave de las entrevistas realizadas a los usuarios
+
+| Entrevista 1: Usuario de gestión financiera personal |                                                                                                                                                                         |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                  | Flavio Gallardo                                                                                                                                           |
+| Edad                                                 | 20 Años                                                                                                                                                                |
+| Profesión                                            | Estudiante de Derecho                                                                                                                                             |
+| Departamento                                         | Lima, Perú                                                                                                                                                             |
+| Duración de la Entrevista                            | 00:00 min                                                                                                                                                              |
+| **Análisis de la Entrevista**                        |                                                                                                                                                                         |
+| Visualización de Overview                            | Comenta que la información es clara y útil, le permitió ver un resumen rápido de sus gastos e ingresos. Sugeriría incluir un pequeño tutorial inicial para los nuevos usuarios. |
+| Creación de Billeteras                               | El proceso es intuitivo, los botones y el flujo la guiaron bien. Sugiere un mensaje de confirmación más claro al finalizar la creación para mayor seguridad.             |
+| Visualización de Movimiento de billetera             | La categorización de movimientos es clara y el desglose le pareció adecuado. Propone agregar iconos para diferenciar mejor entre ingresos y gastos.                      |
+| Creación de Metas de Ahorro                          | Considera el flujo claro y útil, le gustó poder establecer una cantidad, categoría y plazo. No encontró confusión, pero le gustaría hacer seguimiento a sus metas.       |
+| Visualización de Reportes Financieros                | La información es fácil de entender con gráficos claros. Sugiere agregar filtros personalizados para visualizar datos por categorías o períodos específicos.              |
+| Navegación general                                   | Le pareció adecuada y útil, sin mayores observaciones.                                                                                                                  |
+
+
+
 ##### 5.3.3. Evaluaciones según heurísticas.
 UX Heuristics & Principles Evaluation
 Usability - Inclusive Design - Information Architecture

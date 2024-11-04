@@ -2200,6 +2200,54 @@ Este es nuestro link de invitación a nuestro Trello: https://trello.com/invite/
 
 ##### 5.2.3.3. Development Evidence for Sprint Review
 
+A continuación se muestran los commits realizados durante el Sprint 3 para documentar el desarrollo y los cambios implementados en las distintas funcionalidades de la aplicación. Estos commits incluyen correcciones, nuevas características y ajustes de diseño realizados tanto en la página de inicio como en la Landing Page, FrontEnd y BackEnd.
+
+###### Tabla de Landing Page 
+
+| Repository                     | Branch                 | Commit ID | Commit Message                                   | Commit Message Body                                     | Commited on (Date) |
+|--------------------------------|------------------------|-----------|--------------------------------------------------|---------------------------------------------------------|--------------------|
+| SmartFinance-OpenSource/Landing-Page | feat/landing    | 68d94b3f | fix: fixed structure for new section             | fix: fixed structure for new section                                 | 2024-11-02         |
+| SmartFinance-OpenSource/Landing-Page | feat/landing     | d0124984 | feat: added styles for new section               | feat: added styles for new section                                | 2024-11-02         |
+| SmartFinance-OpenSource/Landing-Page | feat/landing   | 26a8689a | feat: added new section for about the product and team | feat: added new section for about the product and team                               | 2024-11-02         |
+| SmartFinance-OpenSource/Landing-Page | feat/landing   | 2ad92f6f | feat: added new styles for about the product and team sections | feat: added new styles for about the product and team sections                                | 2024-11-02         |
+
+###### Tabla FrontEnd
+
+| Repository                            | Branch                      | Commit ID | Commit Message                                                     | Commit Message Body                  | Commited on (Date) |
+|---------------------------------------|-----------------------------|-----------|--------------------------------------------------------------------|--------------------------------------|---------------------|
+| SmartFinance-OpenSource/Frontend-Finzar | feat/budget-dashboard      | c4cbddea | feat(budget-dashboard): new desc.                                  | No description provided.             | 2024-10-15         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/saving-api            | 88bb3a2c | fix: bad call to services, balance now displays.                   | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/saving-api            | 7916aeb6 | fix: bounded context removed from project                          | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/saving-api            | 68e87f92 | feat(saving-api): added delete saving function.                    | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/saving-edit           | 1179d0e2 | fix: saving delete button                                          | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/balance-card-design   | 6d4d10a2 | feat: added design to difference balances                          | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/balance-card-design   | 46a923c9 | feat: added balance card formatting.                               | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-filter         | 11aff7d9 | chore: added wallet filter component.                              | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/dashboard-filters     | 01e4be86 | refactor: renamed dashboard filters selector to the correct naming | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-filters        | bf15255d | fix: replaced component usage to the correct one                   | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-filter         | 8096eb06 | feat: c                           | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-filter         | 78db55d5 | feat: added wallet filter to wallet view page.                     | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-dialog         | 0660758e | feat: added dialog to delete button                                | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-category       | 07be651d | fix: called category api service from wallet-view                  | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-category       | cab7d19f | feat: added table designing                                        | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-category       | a9b4856a | fix: removed id from the table and modified category               | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/saving-edit           | b90f1599 | chore: created saving edit component                               | No description provided.             | 2024-10-24         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/saving-edit           | fab0fa5f | feat: added saving edit component functionality                    | No description provided.             | 2024-10-24         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/saving-edit           | 8bc5fc24 | feat: added card forum for editing savings                         | No description provided.             | 2024-10-24         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/saving-edit           | bafb3ee7 | feat: added saving edit functions to saving detail component       | No description provided.             | 2024-10-24         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/saving-edit           | b9476003 | feat: implemented edit dialog in saving detail                     | No description provided.             | 2024-10-24         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/balance-card-styling  | 57a8991d | fix: added margin between Add Transaction button and filter card   | No description provided.             | 2024-10-24         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/balance-card-styling  | 326bbbd6 | fix: fixed wallet balance not displaying                           | No description provided.             | 2024-10-24         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/balance-card-styling  | 4239c3e0 | fix: redesigned balance card background                            | No description provided.             | 2024-10-24         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/header-fix            | 79839c8f | fix: styled the header to stay on top all the time                 | No description provided.             | 2024-10-28         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/header-margin         | b370fdda | fix: added margin to router view to avoid conflicts                | No description provided.             | 2024-10-28         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/transaction-service   | ee1d09ab | feat: added transaction entity values                              | No description provided.             | 2024-10-29         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/transaction-service   | 3108d0c3 | feat: added create transaction service method                      | No description provided.             | 2024-10-29         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/transaction-dialog    | bea09677 | chore: added create transaction dialog components                  | No description provided.             | 2024-10-29         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/transaction-table     | b189e3cb | fix: c and adjusted columns         | No description provided.             | 2024-10-29         |
+
+###### Tabla BackEnd
+
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review
@@ -2599,6 +2647,44 @@ RepeatPeriodController
     </tr>
 </table>
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+**Landing Page**
+Para la Landing Page, se utilizó [Vercel](https://vercel.com) para el despliegue de la página.
+
+- Primero nos dirigimos a Import Project, siendo la primera opción.
+![Sprint 3 Landing Deployment Evidence 1](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-1.png)
+- Luego seleccionamos el repositorio de GitHub donde se encuentra el código de la Landing Page. En este caso, Landing-Page.
+![Sprint 3 Landing Deployment Evidence 2](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-2.png)
+- Se nos presenta la siguiente pantalla, donde muestra las opciones por defecto en el despliegue de la página.
+![Sprint 3 Landing Deployment Evidence 3](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-3.png)
+- Como nuestro proyecto es con Vite como framework, ajustamos el Framework Preset, y seleccionamos deploy.
+![Sprint 3 Landing Deployment Evidence 4](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-4.png)
+- Esperamos unos segundos y la página debería desplegarse exitosamente.
+![Sprint 3 Landing Deployment Evidence 5](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-5.png)
+- Podemos apreciar que la página ha sido desplegada con éxito.
+![Sprint 3 Landing Deployment Evidence 6](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-6.png)
+- Con ello, se nos proporciona un link de la página desplegada, donde podemos acceder.
+![Sprint 3 Landing Deployment Evidence 7](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-7.png)
+- Al acceder al link, podemos ver la página desplegada.
+![Sprint 3 Landing Deployment Evidence 8](/assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-8.png)
+
+**FrontEnd**
+Para el FrontEnd, se utilizó [Vercel](https://vercel.com) para el despliegue de la página.
+
+- Antes del despliegue, debemos crear una cuenta, por lo que continuaremos con GitHub.
+![Sprint 3 FrontEnd Deployment Evidence 1](/assets/sprint-3-deployment/frontend-deploy/evidence-1.png)
+- Primero nos dirigimos a Import Project, siendo la primera opción.
+![Sprint 3 FrontEnd Deployment Evidence 2](/assets/sprint-3-deployment/frontend-deploy/evidence-2.png)
+- Luego seleccionamos el repositorio de GitHub donde se encuentra el código del FrontEnd. En este caso, Frontend-Finzar.
+![Sprint 3 FrontEnd Deployment Evidence 3](/assets/sprint-3-deployment/frontend-deploy/evidence-3.png)
+- Se nos presenta la siguiente pantalla, donde muestra las opciones por defecto en el despliegue de la página. Le damos a deploy.
+![Sprint 3 FrontEnd Deployment Evidence 4](/assets/sprint-3-deployment/frontend-deploy/evidence-4.png)
+- Podemos apreciar que la página ha sido desplegada con éxito.
+![Sprint 3 FrontEnd Deployment Evidence 5](/assets/sprint-3-deployment/frontend-deploy/evidence-5.png)
+- Con ello, se nos proporciona un link de la página desplegada, donde podemos acceder.
+![Sprint 3 FrontEnd Deployment Evidence 6](/assets/sprint-3-deployment/frontend-deploy/evidence-6.png)
+- Al acceder al link, podemos ver la página desplegada.
+![Sprint 3 FrontEnd Deployment Evidence 7](/assets/sprint-3-deployment/frontend-deploy/evidence-7.png)
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 

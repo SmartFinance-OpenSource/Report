@@ -2627,6 +2627,20 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Visualización de Reportes Financieros                | La información es fácil de entender con gráficos claros. Sugiere agregar filtros personalizados para visualizar datos por categorías o períodos específicos.              |
 | Navegación general                                   | Le pareció adecuada y útil, sin mayores observaciones.                                                                                                                  |
 
+| Entrevista 2: Usuario de gestión financiera personal |                                                                                                                                                                         |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                  | Alvaro Alarcón                                                                                                                                       |
+| Edad                                                 | 20 Años                                                                                                                                                                |
+| Profesión                                            | Estudiante de Economía                                                                                                                                             |
+| Departamento                                         | Lima, Perú                                                                                                                                                             |
+| Duración de la Entrevista                            | 00:00 min                                                                                                                                                              |
+| **Análisis de la Entrevista**                        |                                                                                                                                                                         |
+| Visualización de Overview                            | Comenta que la información es clara y que cada sección está etiquetada de manera ordenada. Sin embargo, menciona que en algunos momentos se confundió al buscar ciertos detalles, como el acceso a las billeteras. Sugiere una vista simplificada para mostrar solo los puntos clave y expandir detalles según su interés. |
+| Creación de Billeteras                               | El proceso es intuitivo, con pasos lógicos, aunque tuvo que verificar dos veces para asegurarse de que ingresó correctamente el nombre y tipo de billetera. El sistema le mostró un cuadro para la creación, lo cual facilitó el proceso sin mayores problemas. |
+| Visualización de Movimiento de billetera             | La información de los movimientos es clara y ordenada, especialmente la sección de gastos, que está bien categorizada. Propone añadir un código de colores o etiquetas para distinguir ingresos y gastos rápidamente. |
+| Creación de Metas de Ahorro                          | Considera el flujo claro y directo, le agradó poder personalizar la categoría y asignar una fecha específica. Sugiere añadir un recordatorio visual para hacer seguimiento al progreso de la meta. |
+| Visualización de Reportes Financieros                | La información en los reportes es fácil de entender, aunque algunos gráficos parecen muy simples. Sugiere incluir una breve explicación en cada gráfico y permitir la personalización para comparar períodos o categorías. |
+| Navegación general                                   | Le pareció adecuada y útil, sin mayores observaciones.                                                                                                                  |
 
 
 ##### 5.3.3. Evaluaciones según heurísticas.

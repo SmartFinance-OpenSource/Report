@@ -215,6 +215,7 @@ TB2: Se han realizado todas las tareas asignadas para la entrega del TB2, las cu
 
 
 - [Conclusiones](#conclusiones)
+- [About-The-Team](#abouttheteam)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
@@ -3338,6 +3339,12 @@ About the Product Video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/perso
 - La implementación de métodos ágiles en el desarrollo de Finzar ha permitido una adaptación rápida a los cambios y feedback recibidos durante el proceso. Esta metodología ha facilitado ajustes continuos, lo cual ha sido crucial para responder a las necesidades emergentes del usuario, asegurando que cada etapa del desarrollo agregue valor y mejore la funcionalidad de la aplicación.
 
 - Las entrevistas de validación y pruebas de usabilidad con usuarios han proporcionado información valiosa para mejorar la experiencia del usuario. A través de estas entrevistas, se identificaron puntos de fricción en cuanto a la funcionalidad y diseño de los servicios web, las cuales se realizarán cambios importantes de diseño en proximás entregas, facilitando una navegación mas intuitiva y una interacción más fluida para los usuarios finales.
+
+## Video About-The-Team
+
+About the Team Video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112078_upc_edu_pe/ER2EmCuj4tNBoD3oowoL0kcBCFpTebeetPVy_cj49JDISQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UEMHV6">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112078_upc_edu_pe/ER2EmCuj4tNBoD3oowoL0kcBCFpTebeetPVy_cj49JDISQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UEMHV6</a>
+
+![about-the-team](assets/AboutTheTeam/abouttheteam.png)
 
 
 ## Bibliografía

@@ -1883,6 +1883,7 @@ Sprint 2 TP
     <td>Given el desarrollador tiene acceso al repositorio del proyecto, when sigue las instrucciones de configuración, then debería poder ejecutar la aplicación localmente.</td>
   </tr>
 </table>
+
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 - **Design**

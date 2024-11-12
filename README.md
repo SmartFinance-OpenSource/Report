@@ -2188,6 +2188,25 @@ La pagina cargara en algunos minutos y se podra acceder a ella a través del lin
 ![landingdeployment6](assets/deploymentsprint2/landing-deploy-6.png)
 
 
+**FrontEnd**
+Para el FrontEnd, se utilizó [Vercel](https://vercel.com) para el despliegue de la página.
+
+- Antes del despliegue, debemos crear una cuenta, por lo que continuaremos con GitHub.
+  ![Sprint 3 FrontEnd Deployment Evidence 1](assets/sprint-3-deployment/frontend-deploy/evidence-1.png)
+- Primero nos dirigimos a Import Project, siendo la primera opción.
+  ![Sprint 3 FrontEnd Deployment Evidence 2](assets/sprint-3-deployment/frontend-deploy/evidence-2.png)
+- Luego seleccionamos el repositorio de GitHub donde se encuentra el código del FrontEnd. En este caso, Frontend-Finzar.
+  ![Sprint 3 FrontEnd Deployment Evidence 3](assets/sprint-3-deployment/frontend-deploy/evidence-3.png)
+- Se nos presenta la siguiente pantalla, donde muestra las opciones por defecto en el despliegue de la página. Le damos a deploy.
+  ![Sprint 3 FrontEnd Deployment Evidence 4](assets/sprint-3-deployment/frontend-deploy/evidence-4.png)
+- Podemos apreciar que la página ha sido desplegada con éxito.
+  ![Sprint 3 FrontEnd Deployment Evidence 5](assets/sprint-3-deployment/frontend-deploy/evidence-5.png)
+- Con ello, se nos proporciona un link de la página desplegada, donde podemos acceder.
+  ![Sprint 3 FrontEnd Deployment Evidence 6](assets/sprint-3-deployment/frontend-deploy/evidence-6.png)
+- Al acceder al link, podemos ver la página desplegada.
+  ![Sprint 3 FrontEnd Deployment Evidence 7](assets/sprint-3-deployment/frontend-deploy/evidence-7.png)
+
+
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 A continuación se muestra evidencia de la coolaboración del equipo mediante insights de GitHub.
 ![github-insights-1](assets/sprint-2-assets/insights-1.png)

@@ -3160,6 +3160,77 @@ Explicaremos los objetivos y alcances del sprint 4, además de analizar los punt
 ##### 5.2.4.3 Development Evidence for Sprint Review
 
 ##### 5.2.4.4 Testing Suite Evidence for Sprint Review
+<table>
+  <tr>
+    <th>Epic / Story ID</th>
+    <th>Título</th>
+    <th>Criterios de Aceptación</th>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Registro de Usuario</td>
+    <td>Escenario 1:
+Given el visitante está en la página de registro, when completa los campos obligatorios y hace clic en "Registrarse", then el sistema debe crear una cuenta.</td>
+  </tr>
+  <tr>
+    <td>US02</td>
+    <td>Inicio de Sesión</td>
+    <td>Escenario 1:
+Given el usuario está registrado, when ingresa sus credenciales correctas, then debe poder acceder a su cuenta.</td>
+  </tr>
+  <tr>
+    <td>US05</td>
+    <td>Personalizar Interfaz</td>
+    <td>Escenario 1:
+Escenario 1:
+Given el usuario está en la sección de configuración, when selecciona la opción de personalizar la interfaz, then debe poder cambiar el el idioma de la aplicación.  </tr>
+  <tr>
+    <td>US12</td>
+    <td>Visualizar los Porcentajes Categorizados de Gastos en el mes</td>
+    <td>Escenario 1:
+Given el usuario está en la sección de una billetera, when accede a la vista de resumen mensual, then debe ver un gráfico que muestre los porcentajes de gastos categorizados en la billetera en el mes.</td>
+  </tr>
+  <tr>
+    <td>US13</td>
+    <td>Visualizar las transferencias de billetera a billetera en el mes</td>
+    <td>Escenario 1:
+Given el usuario está en la sección de una billetera, when accede a la vista de resumen mensual, then debe ver una lista de las transferencias de dinero realizadas entre billeteras en el mes.</td>
+  </tr>
+  <tr>
+    <td>US17</td>
+    <td>Ver Futuras Transacciones</td>
+    <td>Escenario 1:
+Given el usuario está en la sección de una billetera, when accede a la lista de transacciones futuras, then debe ver las transacciones programadas con sus detalles y fechas.</td>
+  </tr>
+  <tr>
+    <td>US18</td>
+    <td>Filtrar Transacciones por Nota</td>
+    <td>Escenario 1:
+Given el usuario está en la sección de una billetera, when ingresa una nota en el campo de búsqueda, then el sistema debe mostrar solo las transacciones que contienen la nota ingresada.</td>
+  </tr>
+    <tr>
+    <td>TS35</td>
+    <td>Solucionar Errores Reportados</td>
+    <td>Escenario 1:
+Given el desarrollador recibe un reporte de error, when identifica y soluciona el problema, then debe confirmar la corrección con el equipo de QA.</td>
+  </tr>
+    <tr>
+    <td>TS36</td>
+    <td>Implementar Notificaciones como Funcionalidad</td>
+    <td>Escenario 1:
+Given el desarrollador tiene acceso al código fuente, when implementa la funcionalidad de notificaciones, then el sistema envía notificaciones al usuario quien recibe las alertas en tiempo real.</td>
+  </tr>
+    <tr>
+    <td>TS38</td>
+    <td>Autenticación de Usuarios</td>
+    <td>Given el endpoint (/api/v1/auth/log-in) esté disponible, when se envía una solicitud POST con las credenciales del usuario al endpoint, then se recibe una señal de confirmación (200) and el sistema permite el acceso al usuario.</td>
+  </tr>
+    <tr>
+    <td>TS39</td>
+    <td>Mantenimiento del Software</td>
+    <td>Escenario 1:
+Given la plataforma tiene un mantenimiento pendiente o nuevas funcionalidades, when realiza el mantenimiento correspondiente mediante las actualizaciones, then el sistema se mantiene seguro y actualizado.  </tr>
+  </table>
 
 ##### 5.2.4.5 Execution Evidence for Sprint Review
 

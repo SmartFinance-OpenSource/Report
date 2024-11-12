@@ -1797,6 +1797,7 @@ Sprint 1 TB1
   </tr>
   </tr>
 </table>
+
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
 En esta entrega, nuestro equipo ha desplegado con éxito la landing page.

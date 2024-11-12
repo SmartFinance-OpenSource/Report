@@ -1314,7 +1314,25 @@ Meta Author: SmartFinance
 Para facilitar la navegación cuando se accede a una pestaña que no cuente con la barra de navegación o en caso el usuario la haya desactivado, el usuario cuenta con un botón de búsqueda rápida que ofrece la posibilidad de regresar a home, about,premium y log in. 
 
 #### 4.2.5. Navigation Systems
-Para navegar por la aplicación el usuario cuenta con una barra de navegación con todas las secciones clave de nuestro producto: home, about us, premium y log in.
+El sistema de navegación permite a los usuarios desplazarse por nuestros productos de manera sencilla y rápida, accediendo a las diferentes secciones de la landing page y de la aplicación frontend. Para ello, implementamos un toolbar en la parte superior y que se encuentra fijada para facilitar su acceso en cualquier momento.
+**Estructura de Navegación Landing Page**: La landing page consta de las siguientes secciones principales:
+
+| Sección           | Descripción                                                           |
+|-------------------|-----------------------------------------------------------------------|
+| Our Services      | Presentación de los servicios ofrecidos por la startup                |
+| Features          | Descripción de las características y funcionalidades de la aplicación |
+| About Us          | Información sobre la startup y el equipo de desarrollo                |
+| Our Mission       | Misión y visión de la startup                                         |
+| About the Product | Videos del producto y cómo nos desarrollamos como equipo              |
+| Contact Us        | Información de contacto y formulario para consultas y soporte         |
+
+**Estructura de Navegación Web App**: La aplicación web consta de las siguientes secciones principales:
+
+| Sección | Descripción                                                                                                      |
+|---------|------------------------------------------------------------------------------------------------------------------|
+| Wallets | Sección de billeteras, sus movimientos y transacciones en general y billetera individual, y la creación de éstas |
+| Savings | Sección de ahorrors, el progreso y estadísticas detalladas                                                       |
+
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
 ![landing-page-wireframe](assets/LandingPageDesign/finzarLandingPageWireframe.png)

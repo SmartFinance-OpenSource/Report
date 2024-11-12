@@ -718,6 +718,7 @@ todo dentro de una plataforma flexible y adaptable.
 		</tr>
 	</tbody>
 </table>
+
 #### 2.1.2. Estrategias y tácticas frente a competidores.
 ### 2.2. Entrevistas.
 #### 2.2.1. Diseño de entrevistas

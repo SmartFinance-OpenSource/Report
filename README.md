@@ -3326,7 +3326,6 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 ### 5.4. Video About-the-Product
 
-#### Introducción
 Este video proporciona una visión completa sobre el producto, destacando sus características principales, beneficios y el impacto que puede tener en los usuarios.
 
 | Título            | Descripción                                                   | Duración | Link de Acceso                                                                                                                                                                                                                                                                                                                                                                                                       |
@@ -3352,7 +3351,6 @@ Este video proporciona una visión completa sobre el producto, destacando sus ca
 
 ## Video About-The-Team
 
-#### Introducción
 Este video presenta al equipo detrás del producto, mostrando sus roles, valores y cómo trabajan en conjunto para lograr los objetivos de la empresa.
 
 | Título           | Descripción                                                | Duración | Link de Acceso                                                                                                                                                                                                                                                                                                                                                                                                      |

@@ -1410,6 +1410,8 @@ Tambien se podran crear metas de ahorro y presupuestos
 
 
 #### 4.4.4. Web Applications User Flow Diagrams
+![UserFlowDiagrams](assets/mockups/UserFlow.png)
+
 ### 4.5. Web Applications Prototyping
 
 Esta sección presenta los prototipos de interfaz de usuario , los cuales incluyen simulaciones de interacción y navegación. Las decisiones de interacción se fundamentan en criterios clave, como la facilidad de uso, la accesibilidad y la optimización para distintos dispositivos. 

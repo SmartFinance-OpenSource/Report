@@ -1304,13 +1304,12 @@ Los sistemas de etiquetado seran los mismos que presentamos en organization syst
 </table>
 
 #### 4.2.3. SEO Tags and Meta Tags
-Para mejorar la visibilidad de la aplicación contamos con SEO tags:
+Página de Aterrizaje (Landing Page)
+Title: Finzar - Finanzas Personales, Na Mas Description: Finzar es una plataforma orienta al seguimiento de las finanzas personales del usuario, brindándole herramientas de creación de billeteras y metas de ahorro. Meta Keywords: finanzas personales, gestión financiera, ahorro, metas de ahorro, Finzar Meta Author: SmartFinance
 
-Title: Finzar-Gestiona tus finanzas
+Aplicacion Open Source
 
-Meta Description: Finzar te permitira gestionar tus finanzas personales de manera rapida y eficiente, registra tus gastos, ponte límites y cumple tus objetivos.
-
-Meta Keyowords: finanzas personales. registro de gastos, ahorro, objetivos financieros
+Title: Finzar – Finanzas Personales, Na Mas Description Con la app de Finzar, gestiona tus finanzas personales en cualquier momento y lugar. Crea y administra billeteras, establece metas de ahorro, controla tus gastos y visualiza tu progreso financiero de forma fácil y personalizada. Meta Keywords: finanzas personales, gestión financiera, ahorro, metas de ahorro Finzar Meta Author: SmartFinance
 
 Meta Author: SmartFinance
 #### 4.2.4. Searching Systems

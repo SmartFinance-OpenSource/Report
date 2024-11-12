@@ -1310,8 +1310,26 @@ Meta Description: Finzar te permitira gestionar tus finanzas personales de maner
 Meta Keyowords: finanzas personales. registro de gastos, ahorro, objetivos financieros
 
 Meta Author: SmartFinance
+
 #### 4.2.4. Searching Systems
-Para facilitar la navegación cuando se accede a una pestaña que no cuente con la barra de navegación o en caso el usuario la haya desactivado, el usuario cuenta con un botón de búsqueda rápida que ofrece la posibilidad de regresar a home, about,premium y log in. 
+
+Estas decisiones están diseñadas para evitar que los usuarios se sientan abrumados por grandes volúmenes de información, facilitando una navegación eficiente y una búsqueda precisa. A continuación, se detallan las opciones de búsqueda y los filtros disponibles, así como la presentación de los datos después de la búsqueda.
+
+#### Opciones de Búsqueda
+
+**Overview**
+
+En la sección de Overview, los usuarios pueden utilizar dos filtros principales para refinar su búsqueda:
+
+- **Filtro por Wallets**: Permite seleccionar entre las diferentes wallets que el usuario ha creado, facilitando la visualización de transacciones específicas de cada wallet.
+- **Filtro por Rango de Fechas**: Permite definir un rango de fechas para visualizar las transacciones realizadas en un periodo específico, ayudando a los usuarios a analizar sus finanzas en intervalos de tiempo determinados.
+
+**Cash Wallet**
+
+En la sección de Cash Wallet, los usuarios disponen de dos filtros adicionales para una búsqueda más detallada:
+
+- **Filtro por Categorías**: Los usuarios pueden seleccionar entre diferentes categorías de transacciones, tales como "Salary", "Freelance", "Investment", "Gift", "Other", "Food", "Services", "Transport", "Health", "Entertainment", y "Education". Esto permite una clasificación precisa de los ingresos y gastos.
+- **Filtro por Rango de Fechas**: Similar al filtro en Overview, este permite definir un rango de fechas para visualizar las transacciones realizadas en un periodo específico dentro de la Cash Wallet.
 
 #### 4.2.5. Navigation Systems
 El sistema de navegación permite a los usuarios desplazarse por nuestros productos de manera sencilla y rápida, accediendo a las diferentes secciones de la landing page y de la aplicación frontend. Para ello, implementamos un toolbar en la parte superior y que se encuentra fijada para facilitar su acceso en cualquier momento.

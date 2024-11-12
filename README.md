@@ -1304,7 +1304,7 @@ Los sistemas de etiquetado seran los mismos que presentamos en organization syst
 </table>
 
 #### 4.2.3. SEO Tags and Meta Tags
-Página de Aterrizaje (Landing Page)
+Landing Page <br>
 Title: Finzar - Finanzas Personales, Na Mas Description: Finzar es una plataforma orienta al seguimiento de las finanzas personales del usuario, brindándole herramientas de creación de billeteras y metas de ahorro. Meta Keywords: finanzas personales, gestión financiera, ahorro, metas de ahorro, Finzar Meta Author: SmartFinance
 
 Aplicacion Open Source

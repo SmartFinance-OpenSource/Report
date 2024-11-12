@@ -808,9 +808,8 @@ Nombre y apellido: Elvia Rodriguez
 Edad: 23
 Distrito: Comas
 ![int1](https://github.com/JosuePaiva02/files/blob/main/Entrevista%201%20Finzar%20-%20YouTube%20-%20Google%20Chrome%208_09_2024%2016_09_50.png?raw=true)
-Inicio de la entrevista: 0:26s
-[URL de la entrevista](https://www.youtube.com/watch?v=zLULHrg971A
-)
+Inicio de la entrevista: 0:00
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110291_upc_edu_pe/ESmgZrMR6dlIvTZqr_g-pVABW9afMTDG7grFKh49FmpSRw?e=4msGDj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 ##### Entrevista #2
@@ -818,9 +817,8 @@ Nombre y apellido: Bruno Martinez
 Edad: 19
 Distrito: Comas
 ![int1](https://github.com/JosuePaiva02/files/blob/main/Entrevista%201%20Finzar%20-%20YouTube%20-%20Google%20Chrome%208_09_2024%2016_10_10.png?raw=true)
-Inicio de la entrevista: 0:34s
-[URL de la entrevista](https://www.youtube.com/watch?v=H7TcCMm1-CU
-)
+Inicio de la entrevista: 4:00
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110291_upc_edu_pe/ESmgZrMR6dlIvTZqr_g-pVABW9afMTDG7grFKh49FmpSRw?e=fbAUBM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjQwLjIyfX0%3D)
 
 
 ##### Entrevista #3
@@ -828,9 +826,8 @@ Nombre y apellido: Flavio Gallardo
 Edad: 20
 Distrito: Breña
 ![int3](https://github.com/JosuePaiva02/files/blob/main/Entrevista%201%20Finzar%20-%20YouTube%20-%20Google%20Chrome%208_09_2024%2016_23_23.png?raw=true)
-Inicio de la entrevista: 0.20s
-[URL de la entrevista](https://drive.google.com/file/d/1bQi7SGnlGwXWfvCi3nJE4HDy3oBC6-vp/view
-)
+Inicio de la entrevista: 10:03
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110291_upc_edu_pe/ESmgZrMR6dlIvTZqr_g-pVABEUwjBHqxOstj4xa7no-ZiA?e=d92UG5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NjAzLjQ4fX0%3D)
 
 
 #### 2.2.3. Análisis de entrevistas

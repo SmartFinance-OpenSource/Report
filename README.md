@@ -38,6 +38,7 @@
 | 2.1     | 24/10/2024 | Todos los integrantes           | Desarrollo del sprint planning y backlong 3                              |
 | 2.1     | 02/11/2024 | Todos los integrantes           | Desarrollo de las Evidencias del Sprint 3 y evaluación según heurísticas |
 | 3.0     | 03/11/2024 | Todos los integrantes           | Release TB2                                                              |
+| 3.1     | 11/11/2024 | Todos los integrantes           | Desarrollo del sprint planning y sprint backlog 4                        |
 
 
 ## Project Report Collaboration Insights
@@ -203,9 +204,19 @@ TB2: Se han realizado todas las tareas asignadas para la entrega del TB2, las cu
             - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
             - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
             - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+      	- [5.2.4. Sprint 4](#524-sprint-4)
+            - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+            - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
+            - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+            - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+            - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+            - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+            - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+            - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)  
 
 
 - [Conclusiones](#conclusiones)
+- [About-The-Team](#abouttheteam)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
@@ -756,6 +767,7 @@ Para afrontar las fortalezas y aprovechar las debilidades de nuestros competidor
 
 5. **Actualizaciones Frecuentes**  
    Realizar actualizaciones frecuentes de la aplicación para introducir nuevas funcionalidades y mejoras basadas en las necesidades y sugerencias de los usuarios.
+
 
 
 ### 2.2. Entrevistas.
@@ -1823,6 +1835,7 @@ Sprint 1 TB1
   </tr>
   </tr>
 </table>
+
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
 En esta entrega, nuestro equipo ha desplegado con éxito la landing page.
@@ -1908,6 +1921,7 @@ Sprint 2 TP
     <td>Given el desarrollador tiene acceso al repositorio del proyecto, when sigue las instrucciones de configuración, then debería poder ejecutar la aplicación localmente.</td>
   </tr>
 </table>
+
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 - **Design**
@@ -3164,6 +3178,78 @@ En esta sección se presenta el desarrollo colaborativo del equipo en la impleme
 - Josue Gonzalo Paiva Quispe: 12 commits.
 - Sebastian Pacheco Astiguetta: 18 commits.
 
+#### 5.2.4. Sprint 4
+
+##### 5.2.4.1 Sprint Planning 4
+Explicaremos los objetivos y alcances del sprint 4, además de analizar los puntos de mejora del sprint anterior, todo esto mediante una reunión. El objetivo principal es, mediante un sprint planning, identificar las tareas a desarrollar y los story points que ayudarán a definir nuestra estrategia para el cumplimiento de ésta. A continuación, presentaremos un resumen del Sprint planning meeting.
+
+| Sprint #                        | Sprint 4                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Date**                        | 2024-11-11                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Time**                        | 4:00 PM                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Location**                    | Virtual - Discord                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Prepared By                     | Juan Astonitas                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Attendees (to planning meeting) | Juan Astonitas, Sebastian Pacheco, Gianluca Pasquale                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Sprint 3 Review Summary         | Se desplegó una versión actualizada de la aplicación web, además de desarrollar la primera versión de nuestro backend junto a su base de datos.                                                                                                                                                                                                                                                                                                                                       |
+| Sprint 3 Retrospective Summary  | Se vio una mejora considerable gracias a la colaboración en equipo y la participación constante en el trabajo. Con ello, hemos logrado un avance eficaz.                                                                                                                                                                                                                                                                                                                              |
+| Sprint 4 Goal                   | Nuestro enfoque es refinar servicios y optimizar la funcionalidad de la aplicación, además de implementar el registro de perfiles para los usuarios. Creemos que esto proporcionará una experience más completa similar a una aplicación real para los usuarios. Esto se confirmará cuando los clientes puedan crear su cuenta y por tanto sus billeteras y ahorros personales, además de que los desarrolladores puedan implementar las funcionalidades restantes por medio del API. |
+| Sprint 4 Velocity               | Para este sprint nuestro equipo puede aceptar hasta 51 story points.                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                             |
+| Sum of Story Points             | La suma de story points a atender es de 51 story points.                                                                                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                 |
+
+##### 5.2.4.2 Sprint Backlog 4
+
+| **User Story ID** | **User Story**                                      | **Work-Item / Task ID** | **Work-Item / Task Title**                                   | **Description**                                                                                          | **Estimation (Hours)** | **Status** |
+|-------------------|-----------------------------------------------------|--------------------------|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|-------------------------|------------|
+| US01              | Registro de Usuario                                 | TS101                    | Crear un formulario de registro                              | Crear el formulario de registro para que el visitante se registre en la aplicación                        | 1                       | to-do      |
+| US01              | Registro de Usuario                                 | TS102                    | Implementar validaciones en el formulario                    | Implementar validaciones para los datos ingresados en el registro                                        | 1                       | to-do      |
+| US01              | Registro de Usuario                                 | TS103                    | Configurar lógica para crear cuenta en backend               | Configurar la lógica en el backend para crear la cuenta del usuario                                      | 2                       | to-do      |
+| US01              | Registro de Usuario                                 | TS104                    | Conectar el formulario con el backend                        | Asegurar que el formulario envíe los datos al backend y reciba una respuesta                             | 1                       | to-do      |
+| US02              | Inicio de Sesión                                    | TS201                    | Crear formulario de inicio de sesión                         | Crear el formulario de inicio de sesión para que el usuario acceda a su cuenta                           | 1                       | to-do      |
+| US02              | Inicio de Sesión                                    | TS202                    | Implementar validaciones en el formulario                    | Validar que los campos no estén vacíos y cumplan con el formato adecuado                                 | 1                       | to-do      |
+| US02              | Inicio de Sesión                                    | TS203                    | Conectar el formulario con el backend                        | Conectar el formulario de inicio de sesión con el backend para autenticar al usuario                     | 1                       | to-do      |
+| US03              | Recuperación de Contraseña                          | TS301                    | Crear formulario de recuperación de contraseña               | Crear formulario para que el usuario pueda recuperar su contraseña                                       | 1                       | to-do      |
+| US03              | Recuperación de Contraseña                          | TS302                    | Implementar lógica para enlace de restablecimiento           | Implementar lógica en el backend para generar un enlace de restablecimiento                              | 2                       | to-do      |
+| US03              | Recuperación de Contraseña                          | TS303                    | Crear pantalla de restablecimiento de contraseña             | Crear la pantalla donde el usuario podrá restablecer su contraseña                                       | 1                       | to-do      |
+| US05              | Personalizar Interfaz                               | TS501                    | Crear opciones de cambio de idioma                           | Crear opciones en la sección de configuración para que el usuario seleccione el idioma preferido          | 3                       | to-do      |
+| US05              | Personalizar Interfaz                               | TS502                    | Actualizar textos y elementos de la interfaz                 | Actualizar todos los textos y elementos visuales según el idioma seleccionado por el usuario             | 1                       | to-do      |
+| US05              | Personalizar Interfaz                               | TS503                    | Implementar funcionalidad de cambio de idioma                | Configurar la funcionalidad que permite cambiar el idioma en la aplicación                               | 1                       | to-do      |
+| US12              | Visualizar los Porcentajes Categorizados de Gastos  | TS1201                   | Implementar lógica para calcular porcentajes de gastos       | Implementar la lógica en el backend para calcular los porcentajes de gastos por categoría en el mes       | 2                       | to-do      |
+| US12              | Visualizar los Porcentajes Categorizados de Gastos  | TS1202                   | Conectar gráfico con datos de gastos del backend             | Conectar el gráfico con los datos de gastos por categoría obtenidos desde el backend                      | 1                       | to-do      |
+| US13              | Visualizar las transferencias de billetera          | TS1301                   | Crear lista de transferencias en la vista de resumen mensual | Crear una lista en el frontend que muestre las transferencias entre billeteras en la vista de resumen mensual | 1                    | to-do      |
+| US13              | Visualizar las transferencias de billetera          | TS1302                   | Implementar lógica en backend para transferencias mensuales  | Configurar la lógica en el backend para obtener las transferencias entre billeteras realizadas en el mes actual | 2                    | to-do      |
+| US13              | Visualizar las transferencias de billetera          | TS1303                   | Conectar lista de transferencias con el backend              | Asegurar que la lista de transferencias se alimente con los datos de transferencias obtenidos del backend | 1                       | to-do      |
+| US13              | Visualizar las transferencias de billetera          | TS1304                   | Diseñar vista de resumen mensual en la sección de billetera  | Crear la vista en la sección de billetera que incluya la lista de transferencias mensuales                | 1                       | to-do      |
+| US17              | Ver Futuras Transacciones                           | TS1701                   | Crear lista de transacciones futuras                         | Crear la lista de transacciones futuras en la sección de billetera                                      | 1                       | to-do      |
+| US17              | Ver Futuras Transacciones                           | TS1702                   | Implementar lógica en backend para transacciones futuras     | Implementar lógica en backend para obtener transacciones futuras programadas                            | 2                       | to-do      |
+| US17              | Ver Futuras Transacciones                           | TS1703                   | Conectar lista de transacciones futuras                      | Conectar la lista de transacciones futuras con los datos del backend                                    | 1                       | to-do      |
+| US17              | Ver Futuras Transacciones                           | TS1704                   | Diseñar vista de transacciones futuras                       | Diseñar vista para mostrar transacciones futuras en la sección de billetera                             | 1                       | to-do      |
+| US18              | Filtrar Transacciones por Nota                      | TS1801                   | Crear campo de búsqueda para notas                           | Crear campo de búsqueda para notas en la sección de billetera                                           | 1                       | to-do      |
+| US18              | Filtrar Transacciones por Nota                      | TS1802                   | Implementar lógica de filtrado de transacciones              | Implementar lógica de filtrado de transacciones por nota en backend                                     | 2                       | to-do      |
+| TS35              | Solucionar Errores Reportados                       | TS3501                   | Desarrollar un Plan de Corrección                            | Crear plan de corrección para los errores reportados                                                   | 1                       | to-do      |
+| TS35              | Solucionar Errores Reportados                       | TS3502                   | Implementar la Solución en el Código                         | Aplicar solución en el código para resolver los errores reportados                                     | 2                       | to-do      |
+| TS36              | Implementar Notificaciones como Funcionalidad       | TS3601                   | Diseñar el Modelo de Datos para Notificaciones               | Crear modelo de datos para almacenar notificaciones                                                    | 1                       | to-do      |
+| TS36              | Implementar Notificaciones como Funcionalidad       | TS3602                   | Desarrollar API para Crear y Enviar Notificaciones           | Crear API para gestionar la creación y envío de notificaciones                                         | 2                       | to-do      |
+| TS36              | Implementar Notificaciones como Funcionalidad       | TS3603                   | Integrar Notificaciones en el Frontend                        | Integrar funcionalidad de notificaciones en el frontend                                                | 2                       | to-do      |
+| TS36              | Implementar Notificaciones como Funcionalidad       | TS3604                   | Configurar Lógica para Notificaciones Automáticas             | Configurar lógica para notificaciones automáticas basadas en eventos                                   | 2                       | to-do      |
+| TS38              | Autenticación de Usuarios                           | TS3801                   | Implementar Lógica de Verificación de Credenciales           | Implementar lógica para verificar credenciales de usuario                                              | 2                       | to-do      |
+| TS38              | Autenticación de Usuarios                           | TS3802                   | Generar y Retornar Token de Autenticación                    | Crear y retornar un token de autenticación para el usuario                                             | 1                       | to-do      |
+| TS39              | Mantenimiento del Software                          | TS3901                   | Optimizar el Código y Refactorizar Componentes Clave         | Optimizar y refactorizar código en componentes clave                                                   | 3                       | to-do      |
+| TS39              | Mantenimiento del Software                          | TS3902                   | Realizar Copias de Seguridad y Restauración de Datos         | Crear y verificar copias de seguridad y restauración de datos                                         | 1                       | to-do      |
+| TS39              | Mantenimiento del Software                          | TS3903                   | Actualizar Dependencias y Librerías                          | Actualizar dependencias y librerías del software                                                      | 2                       | to-do      |
+
+##### 5.2.4.3 Development Evidence for Sprint Review
+
+##### 5.2.4.4 Testing Suite Evidence for Sprint Review
+
+##### 5.2.4.5 Execution Evidence for Sprint Review
+
+##### 5.2.4.6 Services Documentation Evidence for Sprint Review
+
+##### 5.2.4.7 Software Deployment Evidence for Sprint Review
+
+##### 5.2.4.8 Team Collaboration Insights during Sprint
+
+
 
 ### 5.3. Validation Interviews
 
@@ -3353,6 +3439,12 @@ About the Product Video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/perso
 - La implementación de métodos ágiles en el desarrollo de Finzar ha permitido una adaptación rápida a los cambios y feedback recibidos durante el proceso. Esta metodología ha facilitado ajustes continuos, lo cual ha sido crucial para responder a las necesidades emergentes del usuario, asegurando que cada etapa del desarrollo agregue valor y mejore la funcionalidad de la aplicación.
 
 - Las entrevistas de validación y pruebas de usabilidad con usuarios han proporcionado información valiosa para mejorar la experiencia del usuario. A través de estas entrevistas, se identificaron puntos de fricción en cuanto a la funcionalidad y diseño de los servicios web, las cuales se realizarán cambios importantes de diseño en proximás entregas, facilitando una navegación mas intuitiva y una interacción más fluida para los usuarios finales.
+
+## Video About-The-Team
+
+About the Team Video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112078_upc_edu_pe/ER2EmCuj4tNBoD3oowoL0kcBCFpTebeetPVy_cj49JDISQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UEMHV6">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112078_upc_edu_pe/ER2EmCuj4tNBoD3oowoL0kcBCFpTebeetPVy_cj49JDISQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UEMHV6</a>
+
+![about-the-team](assets/AboutTheTeam/abouttheteam.png)
 
 
 ## Bibliografía

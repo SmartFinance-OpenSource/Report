@@ -732,6 +732,44 @@ todo dentro de una plataforma flexible y adaptable.
 
 #### 2.1.2. Estrategias y tácticas frente a competidores.
 
+Para afrontar las fortalezas y aprovechar las debilidades de nuestros competidores, así como el contexto de oportunidades y amenazas, SmartFinance implementará las siguientes estrategias y tácticas:
+
+###### Estrategias
+
+1. **Diferenciación por Localización**  
+   Enfocar el desarrollo y marketing en las necesidades específicas de los jóvenes peruanos, ofreciendo soluciones adaptadas a su contexto económico y cultural.
+
+2. **Educación Financiera**  
+   Incluir módulos de educación financiera dentro de la aplicación para ayudar a los usuarios a mejorar sus conocimientos y habilidades en la gestión de sus finanzas personales.
+
+3. **Interfaz Intuitiva y Personalización**  
+   Mantener una interfaz limpia y fácil de usar, con opciones de personalización que permitan a los usuarios adaptar la aplicación a sus necesidades específicas.
+
+4. **Modelo Freemium**  
+   Ofrecer una versión gratuita con funcionalidades básicas y una versión premium con características avanzadas a un costo accesible, para atraer a una mayor base de usuarios.
+
+5. **Integración con Bancos Locales**  
+   Establecer alianzas con bancos locales para facilitar la sincronización de cuentas y ofrecer servicios financieros adicionales.
+
+###### Tácticas
+
+1. **Marketing Digital y Colaboraciones**  
+   Utilizar marketing digital en redes sociales y colaboraciones con influencers locales para aumentar la visibilidad y atraer a nuevos usuarios.
+
+2. **Feedback Continuo**  
+   Implementar un sistema de feedback continuo para recibir y analizar las opiniones de los usuarios, permitiendo mejoras constantes en la aplicación.
+
+3. **Promociones y Descuentos**  
+   Ofrecer promociones y descuentos en la suscripción premium para incentivar la conversión de usuarios gratuitos a usuarios de pago.
+
+4. **Soporte Multicanal**  
+   Proporcionar soporte técnico en español a través de múltiples canales (chat en vivo, correo electrónico, redes sociales) para mejorar la experiencia del usuario.
+
+5. **Actualizaciones Frecuentes**  
+   Realizar actualizaciones frecuentes de la aplicación para introducir nuevas funcionalidades y mejoras basadas en las necesidades y sugerencias de los usuarios.
+
+
+
 ### 2.2. Entrevistas.
 
 #### 2.2.1. Diseño de entrevistas
@@ -3101,6 +3139,9 @@ Para el FrontEnd, se utilizó [Vercel](https://vercel.com) para el despliegue de
 ![Sprint 3 FrontEnd Deployment Evidence 6](assets/sprint-3-deployment/frontend-deploy/evidence-6.png)
 - Al acceder al link, podemos ver la página desplegada.
 ![Sprint 3 FrontEnd Deployment Evidence 7](assets/sprint-3-deployment/frontend-deploy/evidence-7.png)
+
+**DEPLOYMENT LINK**
+ingresar desde landing: https://landing-page-ashen-chi.vercel.app/
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 

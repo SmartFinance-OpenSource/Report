@@ -3420,10 +3420,13 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 ### 5.4. Video About-the-Product
 
-About the Product Video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110291_upc_edu_pe/EfCER3yQPs5AsO4Y715HfjkBMhXV68HWy-XOHCBIhGo6Fg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SaCgAm">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110291_upc_edu_pe/EfCER3yQPs5AsO4Y715HfjkBMhXV68HWy-XOHCBIhGo6Fg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SaCgAm</a>
+Este video proporciona una visión completa sobre el producto, destacando sus características principales, beneficios y el impacto que puede tener en los usuarios.
+
+| Título            | Descripción                                                   | Duración | Link de Acceso                                                                                                                                                                                                                                                                                                                                                                                                       |
+|-------------------|---------------------------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| About the Product | Video explicativo sobre el producto, sus características, y cómo puede ser útil para el usuario final. | 0:45     | [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110291_upc_edu_pe/EfCER3yQPs5AsO4Y715HfjkBMhXV68HWy-XOHCBIhGo6Fg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SaCgAm) |
 
 ![about-the-product](assets/AboutTheProduct/abouttheproduct.png)
-
 
 
 ## Conclusiones
@@ -3442,10 +3445,13 @@ About the Product Video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/perso
 
 ## Video About-The-Team
 
-About the Team Video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112078_upc_edu_pe/ER2EmCuj4tNBoD3oowoL0kcBCFpTebeetPVy_cj49JDISQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UEMHV6">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112078_upc_edu_pe/ER2EmCuj4tNBoD3oowoL0kcBCFpTebeetPVy_cj49JDISQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UEMHV6</a>
+Este video presenta al equipo detrás del producto, mostrando sus roles, valores y cómo trabajan en conjunto para lograr los objetivos de la empresa.
+
+| Título           | Descripción                                                | Duración | Link de Acceso                                                                                                                                                                                                                                                                                                                                                                                                      |
+|------------------|------------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| About the Team   | Video introductorio sobre el equipo, su misión y cómo contribuyen al desarrollo y éxito del producto. | 13:07    | [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112078_upc_edu_pe/ER2EmCuj4tNBoD3oowoL0kcBCFpTebeetPVy_cj49JDISQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UEMHV6) |
 
 ![about-the-team](assets/AboutTheTeam/abouttheteam.png)
-
 
 ## Bibliografía
 

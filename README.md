@@ -1314,7 +1314,19 @@ Meta Author: SmartFinance
 Para facilitar la navegación cuando se accede a una pestaña que no cuente con la barra de navegación o en caso el usuario la haya desactivado, el usuario cuenta con un botón de búsqueda rápida que ofrece la posibilidad de regresar a home, about,premium y log in. 
 
 #### 4.2.5. Navigation Systems
-Para navegar por la aplicación el usuario cuenta con una barra de navegación con todas las secciones clave de nuestro producto: home, about us, premium y log in.
+El sistema de navegación permite a los usuarios desplazarse por nuestros productos de manera sencilla y rápida, accediendo a las diferentes secciones de la landing page y de la aplicación frontend.
+**Estructura de Navegación Landing Page**: La landing page consta de las siguientes secciones principales:
+- Our Services
+- Features
+- About Us
+- Our Mission
+- About the Product
+- Contact Us
+
+**Estructura de Navegación Web App**: La aplicación web consta de las siguientes secciones principales:
+- Wallets
+- Savings
+
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
 ![landing-page-wireframe](assets/LandingPageDesign/finzarLandingPageWireframe.png)

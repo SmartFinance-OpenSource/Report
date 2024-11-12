@@ -2165,47 +2165,44 @@ Además de capturas que muestran el contenido de db.json
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-- **Design**
-  Para realizar el diseño de los wireframes y mockups de la Landing Page para este Sprint, se hizo uso de la plataforma [Figma](https://www.figma.com/)
+**Landing Page**
+Para hacer el deployment de la landing page se utilizó Github Pages,
+una funcionalidad de Github que permite hacer el deployment de páginas web de forma rápida y pública.
+Dentro del repositorio, en el apartado de settings , se encuentra la opcion de Pages.
 
-- Para el uso de la plataforma, es necesario crear una cuenta, así que nos dirigimos a la página oficial de Figma y se siguen los siguientes pasos para registrarse:
-  ![](assets/design-steps/design-step-1.jpg)
-  ![](assets/design-steps/design-step-2.jpg)
+Escogemos la opcion de hacer el deploy a través de una rama.
+![landingdeployment2](assets/deploymentsprint2/landing-deploy-2.png)
 
-- Luego se crea un Draft que servirá como base para el proyecto colaborativo.
-  ![](assets/design-steps/design-step-3.jpg)
+Escogemos la rama de develop (para futuros cambios)
 
-- **Deployment**
+![landingdeployment3](assets/deploymentsprint2/landing-deploy-3.png)
 
-- Para la landing page, se utilizará [GitHub](https://github.com/) y [Github Pages]() para la creación del repositorio y el despliegue de la página.
+Guadrdamos la configuracion usando el boton save
+![landingdeployment5](assets/deploymentsprint2/landing-deploy-5.png)
 
-![](assets/deployment-steps/deployment-step-1.jpg)
-![](assets/deployment-steps/deployment-step-2.jpg)
+La pagina cargara en algunos minutos y se podra acceder a ella a través del link que se muestra en la parte superior.
 
-- Tras crear la cuenta, se procede a crear una organización.
+![landingdeployment6](assets/deploymentsprint2/landing-deploy-6.png)
 
-![](assets/deployment-steps/deployment-step-3.jpg)
-![](assets/deployment-steps/deployment-step-4.jpg)
-![](assets/deployment-steps/deployment-step-5.jpg)
-![](assets/deployment-steps/deployment-step-6.jpg)
-![](assets/deployment-steps/deployment-step-7.jpg)
-![](assets/deployment-steps/deployment-step-8.jpg)
 
-- Se agregan a los demás miembros del equipo a la organización.
+**FrontEnd**
+Para el FrontEnd, se utilizó [Vercel](https://vercel.com) para el despliegue de la página.
 
-![](assets/deployment-steps/deployment-step-9.jpg)
-![](assets/deployment-steps/deployment-step-10.jpg)
+- Antes del despliegue, debemos crear una cuenta, por lo que continuaremos con GitHub.
+  ![Sprint 3 FrontEnd Deployment Evidence 1](assets/sprint-3-deployment/frontend-deploy/evidence-1.png)
+- Primero nos dirigimos a Import Project, siendo la primera opción.
+  ![Sprint 3 FrontEnd Deployment Evidence 2](assets/sprint-3-deployment/frontend-deploy/evidence-2.png)
+- Luego seleccionamos el repositorio de GitHub donde se encuentra el código del FrontEnd. En este caso, Frontend-Finzar.
+  ![Sprint 3 FrontEnd Deployment Evidence 3](assets/sprint-3-deployment/frontend-deploy/evidence-3.png)
+- Se nos presenta la siguiente pantalla, donde muestra las opciones por defecto en el despliegue de la página. Le damos a deploy.
+  ![Sprint 3 FrontEnd Deployment Evidence 4](assets/sprint-3-deployment/frontend-deploy/evidence-4.png)
+- Podemos apreciar que la página ha sido desplegada con éxito.
+  ![Sprint 3 FrontEnd Deployment Evidence 5](assets/sprint-3-deployment/frontend-deploy/evidence-5.png)
+- Con ello, se nos proporciona un link de la página desplegada, donde podemos acceder.
+  ![Sprint 3 FrontEnd Deployment Evidence 6](assets/sprint-3-deployment/frontend-deploy/evidence-6.png)
+- Al acceder al link, podemos ver la página desplegada.
+  ![Sprint 3 FrontEnd Deployment Evidence 7](assets/sprint-3-deployment/frontend-deploy/evidence-7.png)
 
-- Por último, se crean los repositorios necesarios para el trabajo.
-
-![](assets/deployment-steps/deployment-step-11.jpg)
-![](assets/deployment-steps/deployment-step-12.jpg)
-
-- Para nuestro proyecto se crearon 4 repositorios los cuales son:
-    - **Report:** Este repositorio se usa para realizar el informe del proyecto de manera continua.
-    - **Landing-Page:** Este repositorio se usa para codificar y desplegar la landingpage del proyecto.
-    - **Frontend:** Este repositorio se usará para contener el código de la parte frontend del projecto.
-    - **Backend:** Este repositorio se usará para contener el código de la parte backend del projecto.
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 A continuación se muestra evidencia de la coolaboración del equipo mediante insights de GitHub.

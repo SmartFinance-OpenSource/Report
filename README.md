@@ -2527,7 +2527,6 @@ A continuación se muestran los commits realizados durante el Sprint 3 para docu
   </tr>
 </table>
 
-
 ##### 5.2.3.5. Execution Evidence for Sprint Review
 En esta entrega, no se realizaron cambios con relación al Landing Page. Por el momento, la Landing Page queda igual a la versión realizada en el Sprint 3.
 Se ha desarrollado un avance con respecto a la Landing Page, FrontEnd y BackEnd:
@@ -3386,6 +3385,117 @@ En este item se presentan las evidencias de la ejecución de las tareas y user s
 ![execution-back3](assets/sprint4/back3.png)
 
 ##### 5.2.4.6 Services Documentation Evidence for Sprint Review
+
+En el tercer sprint identificamos 5 endpoints provenientes de 3 controladores diferentes. Utilizamos swagger para la presente documentacion.
+
+**Roles Controller**
+
+<table>
+  <tr>
+    <th colspan="1">Tag</th>
+    <th colspan="1">Verbo http</th>
+    <th colspan="1">Endpoint</th>
+    <th colspan="1">Summary</th>
+    <th colspan="1">Description</th>
+    <th colspan="1">OperationId</th>
+  </tr>
+  <tr>
+    <td colspan="1">Roles</td>
+    <td colspan="1">GET</td>
+    <td colspan="1">/ap/v1/roles</td>
+    <td colspan="1">Get all roles</td>
+    <td colspan="1">Retrieve a list of all roles</td>
+    <td colspan="1">GetAllRoles</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">-</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+</table>
+
+**Authentication Controller**
+
+<table>
+  <tr>
+    <th colspan="1">Tag</th>
+    <th colspan="1">Verbo http</th>
+    <th colspan="1">Endpoint</th>
+    <th colspan="1">Summary</th>
+    <th colspan="1">Description</th>
+    <th colspan="1">OperationId</th>
+  </tr>
+  <tr>
+    <td colspan="1">Authentication</td>
+    <td colspan="1">POST</td>
+    <td colspan="1">/api/v1/authentication/sign-up</td>
+    <td colspan="1">Sign up</td>
+    <td colspan="1">Register a new user</td>
+    <td colspan="1">SignUp</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">-</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">sí</td>
+  </tr>
+  <tr>
+    <td colspan="1">Authentication</td>
+    <td colspan="1">POST</td>
+    <td colspan="1">/api/v1/authentication/sign-in</td>
+    <td colspan="1">Sign in</td>
+    <td colspan="1">Authenticate an existing user</td>
+    <td colspan="1">SignIn</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">-</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">sí</td>
+  </tr>
+</table>
+
+**User Controller**
+
+<table>
+  <tr>
+    <th colspan="1">Tag</th>
+    <th colspan="1">Verbo http</th>
+    <th colspan="1">Endpoint</th>
+    <th colspan="1">Summary</th>
+    <th colspan="1">Description</th>
+    <th colspan="1">OperationId</th>
+  </tr>
+  <tr>
+    <td colspan="1">Users</td>
+    <td colspan="1">GET</td>
+    <td colspan="1">/api/v1/users</td>
+    <td colspan="1">Get all users</td>
+    <td colspan="1">Retrieve all users from the system</td>
+    <td colspan="1">GetAllUsers</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">-</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td colspan="1">Users</td>
+    <td colspan="1">GET</td>
+    <td colspan="1">/api/v1/users/{userId}</td>
+    <td colspan="1">Get user by ID</td>
+    <td colspan="1">Retrieve a specific user by ID</td>
+    <td colspan="1">GetUserById</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">userId</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+</table>
 
 ##### 5.2.4.7 Software Deployment Evidence for Sprint Review
 

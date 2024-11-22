@@ -3764,6 +3764,10 @@ Este video proporciona una visión completa sobre el producto, destacando sus ca
 
 - Las entrevistas de validación y pruebas de usabilidad con usuarios han proporcionado información valiosa para mejorar la experiencia del usuario. A través de estas entrevistas, se identificaron puntos de fricción en cuanto a la funcionalidad y diseño de los servicios web, las cuales se realizarán cambios importantes de diseño en proximás entregas, facilitando una navegación mas intuitiva y una interacción más fluida para los usuarios finales.
 
+- Implementar Domain-Driven Design (DDD) en Finzar ha sido una decisión estratégica, ya que permite estructurar la aplicación en bounded contexts claros como Savings, Budget y Wallet, facilitando la evolución y escalabilidad del sistema. Este enfoque asegura una alineación constante con las necesidades del negocio, promoviendo un lenguaje compartido entre desarrolladores y stakeholders. Además, DDD refuerza la modularidad y reduce la complejidad, lo que resulta en un desarrollo más eficiente y sostenible a largo plazo.
+
+- Finzar tiene el potencial de transformar la manera en que las personas, especialmente jóvenes adultos, manejan sus finanzas personales, brindándoles herramientas accesibles y prácticas para gestionar gastos, ahorros y deudas. Al fomentar hábitos financieros saludables, Finzar no solo mejora la estabilidad económica individual, sino que también contribuye a una mayor conciencia sobre la importancia del bienestar financiero, empoderando a sus usuarios para tomar decisiones más informadas y seguras.
+
 ## Video About-The-Team
 
 Este video presenta al equipo detrás del producto, mostrando sus roles, valores y cómo trabajan en conjunto para lograr los objetivos de la empresa.

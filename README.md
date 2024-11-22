@@ -2373,7 +2373,7 @@ A continuación se muestran los commits realizados durante el Sprint 3 para docu
 | SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-filter         | 11aff7d9 | chore: added wallet filter component.                              | No description provided.             | 2024-10-23         |
 | SmartFinance-OpenSource/Frontend-Finzar | feat/dashboard-filters     | 01e4be86 | refactor: renamed dashboard filters selector to the correct naming | No description provided.             | 2024-10-23         |
 | SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-filters        | bf15255d | fix: replaced component usage to the correct one                   | No description provided.             | 2024-10-23         |
-| SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-filter         | 8096eb06 | feat: c                           | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-filter         | 8096eb06 | feat: added wallet filter functionality.                          | No description provided.             | 2024-10-23         |
 | SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-filter         | 78db55d5 | feat: added wallet filter to wallet view page.                     | No description provided.             | 2024-10-23         |
 | SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-dialog         | 0660758e | feat: added dialog to delete button                                | No description provided.             | 2024-10-23         |
 | SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-category       | 07be651d | fix: called category api service from wallet-view                  | No description provided.             | 2024-10-23         |
@@ -3277,6 +3277,472 @@ Explicaremos los objetivos y alcances del sprint 4, además de analizar los punt
 | TS39              | Mantenimiento del Software                          | TS3903                   | Actualizar Dependencias y Librerías                          | Actualizar dependencias y librerías del software                                                      | 2                       | to-do      |
 
 ##### 5.2.4.3 Development Evidence for Sprint Review
+
+###### Frontend
+
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>68a70748</td>
+    <td>feat(sign-up): added sign-up component.</td>
+    <td>feat(sign-up): added sign-up component.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>1d0c035a</td>
+    <td>feat(sign-in): added sign-in component.</td>
+    <td>feat(sign-in): added sign-in component.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>da9aa3e8</td>
+    <td>fix: fixed wallets router link to non-existent page.</td>
+    <td>fix: fixed wallets router link to non-existent page.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>08198e2a</td>
+    <td>feat: added sign-in and sign-up components to routing as well as fixing redirections to sign-in.</td>
+    <td>feat: added sign-in and sign-up components to routing as well as fixing redirections to sign-in.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>6b8ae969</td>
+    <td>feat: added background image asset.</td>
+    <td>feat: added background image asset.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>2ffd72f2</td>
+    <td>fix: fixed field for saving transaction entity.</td>
+    <td>fix: fixed field for saving transaction entity.</td>
+    <td>21/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>bf3d6ac0</td>
+    <td>feat: updated structure for saving detail.</td>
+    <td>feat: updated structure for saving detail.</td>
+    <td>21/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>36dcde02</td>
+    <td>fix(sign-up): fixed account creation.</td>
+    <td>fix(sign-up): fixed account creation.</td>
+    <td>21/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>39b05d1a</td>
+    <td>fix(wallet-view): fixed transaction obtaining by wallet id instead of hardcoded value.</td>
+    <td>fix(wallet-view): fixed transaction obtaining by wallet id instead of hardcoded value.</td>
+    <td>21/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>1dced9e3</td>
+    <td>feat(models): added sign-in and sign-up requests and responses.</td>
+    <td>feat(models): added sign-in and sign-up requests and responses.</td>
+    <td>21/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>45e7fe8e</td>
+    <td>fix(sign-in): fixed sign-in component to work properly with new authentication.</td>
+    <td>fix(sign-in): fixed sign-in component to work properly with new authentication.</td>
+    <td>21/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>417b7e60</td>
+    <td>fix(header): fixed finzar header to only display when logged in.</td>
+    <td>fix(header): fixed finzar header to only display when logged in.</td>
+    <td>21/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>513afdeb</td>
+    <td>fix(environment): fixed environment server base path.</td>
+    <td>fix(environment): fixed environment server base path.</td>
+    <td>21/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>5419c5a1</td>
+    <td>fix(dashboard): fixed wallet obtaining by user id input.</td>
+    <td>fix(dashboard): fixed wallet obtaining by user id input.</td>
+    <td>21/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>9af0deba</td>
+    <td>feat: added connection with backend.</td>
+    <td>feat: added connection with backend.</td>
+    <td>21/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>6c97c70f</td>
+    <td>fix(dashboard): fixed new userId parsing to dashboard analytics.</td>
+    <td>fix(dashboard): fixed new userId parsing to dashboard analytics.</td>
+    <td>21/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>c42a6eb6</td>
+    <td>feat(form): added base form component.</td>
+    <td>feat(form): added base form component.</td>
+    <td>21/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>518c5423</td>
+    <td>fix(services): fixed base path.</td>
+    <td>fix(services): fixed base path.</td>
+    <td>21/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>7ebffadd</td>
+    <td>feat(services): added authentication services.</td>
+    <td>feat(services): added authentication services.</td>
+    <td>21/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>c472bdb3</td>
+    <td>feat(app-routes): added app routes authentication guard.</td>
+    <td>feat(app-routes): added app routes authentication guard.</td>
+    <td>21/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>f291ce5e</td>
+    <td>feat(app-config): added app config authentication interceptor.</td>
+    <td>feat(app-config): added app config authentication interceptor.</td>
+    <td>21/11/2024</td>
+  </tr>
+</table>
+
+###### Backend
+
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>165f258d</td>
+    <td>feat(acl): added iam context facade.</td>
+    <td>feat(acl): added iam context facade.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>c1475bf5</td>
+    <td>feat(configuration): added web security sfs configuration.</td>
+    <td>feat(configuration): added web security sfs configuration.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>1024d3fa</td>
+    <td>feat(tokens): added token service for outbound services.</td>
+    <td>feat(tokens): added token service for outbound services.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>2ecdd3fb</td>
+    <td>feat(services): added user details service implementation for sfs services.</td>
+    <td>feat(services): added user details service implementation for sfs services.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>5efcbd5e</td>
+    <td>feat(model): added user details implementation for sfs modelling.</td>
+    <td>feat(model): added user details implementation for sfs modelling.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>e66d7fe3</td>
+    <td>feat(pipeline): added unauthorized request handler entry point pipeline.</td>
+    <td>feat(pipeline): added unauthorized request handler entry point pipeline.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>d52c0982</td>
+    <td>feat(model): added username and password authentication sfs token builder.</td>
+    <td>feat(model): added username and password authentication sfs token builder.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>de156939</td>
+    <td>feat(query-services): added user and role query service implementation.</td>
+    <td>feat(query-services): added user and role query service implementation.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>c45939bb</td>
+    <td>feat(jwt): added bearer token service to jwt.</td>
+    <td>feat(jwt): added bearer token service to jwt.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>4b1b156d</td>
+    <td>feat(hashing): added outbound hashing service.</td>
+    <td>feat(hashing): added outbound hashing service.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>d87c658e</td>
+    <td>feat(services): added hashing bcrypt service implementation.</td>
+    <td>feat(services): added hashing bcrypt service implementation.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>62c9830e</td>
+    <td>feat(repositories): added user and role jpa repositories.</td>
+    <td>feat(repositories): added user and role jpa repositories.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>c6d35978</td>
+    <td>feat(services): added token service implementation.</td>
+    <td>feat(services): added token service implementation.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>e0c78467</td>
+    <td>feat(pipeline): added bearer authorization request filter.</td>
+    <td>feat(pipeline): added bearer authorization request filter.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>1c4b8ef1</td>
+    <td>feat(bcrypt): added bcrypt hashing service.</td>
+    <td>feat(bcrypt): added bcrypt hashing service.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>8b4ec67f</td>
+    <td>feat(command-services): added role and user command service implementations.</td>
+    <td>feat(command-services): added role and user command service implementations.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>ed271ce0</td>
+    <td>feat(services): added user and role command/query domain services.</td>
+    <td>feat(services): added user and role command/query domain services.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>6e3bdba1</td>
+    <td>feat(resources): added user rest resource.</td>
+    <td>feat(resources): added user rest resource.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>ffe95ba5</td>
+    <td>fix(query-services): fixed iam import in wallet query service implementation.</td>
+    <td>fix(query-services): fixed iam import in wallet query service implementation.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>0b599144</td>
+    <td>fix(command-services): fixed iam import in wallet command service implementation.</td>
+    <td>fix(command-services): fixed iam import in wallet command service implementation.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>a6480c0a</td>
+    <td>fix(aggregates): fixed iam import in wallet model aggregate.</td>
+    <td>fix(aggregates): fixed iam import in wallet model aggregate.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>bcf3b85a</td>
+    <td>feat(value-objects): added role model value object.</td>
+    <td>feat(value-objects): added role model value object.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>99802412</td>
+    <td>fix(transform): fixed iam import in simplified user resource from entity assembler.</td>
+    <td>fix(transform): fixed iam import in simplified user resource from entity assembler.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>c47037bd</td>
+    <td>feat(resources): added signing and authentication rest resources.</td>
+    <td>feat(resources): added signing and authentication rest resources.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>e1bba0ca</td>
+    <td>feat(commands): added signing model commands.</td>
+    <td>feat(commands): added signing model commands.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>fe8021d0</td>
+    <td>feat(aggregates): added user model aggregate.</td>
+    <td>feat(aggregates): added user model aggregate.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>e396109d</td>
+    <td>feat(entities): added role model entity.</td>
+    <td>feat(entities): added role model entity.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>f00e2106</td>
+    <td>feat(queries): added model queries for user and roles.</td>
+    <td>feat(queries): added model queries for user and roles.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>5fb6c849</td>
+    <td>feat(transform): added resources from entity assemblers for user and authentication.</td>
+    <td>feat(transform): added resources from entity assemblers for user and authentication.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>232ae9eb</td>
+    <td>feat(rest): added user, role and authentication controllers.</td>
+    <td>feat(rest): added user, role and authentication controllers.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>38ec36fb</td>
+    <td>feat(configuration): added security scheme for open api configuration.</td>
+    <td>feat(configuration): added security scheme for open api configuration.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>bb020eed</td>
+    <td>feat(properties): added jwt authorization.</td>
+    <td>feat(properties): added jwt authorization.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>291d82f9</td>
+    <td>feat(dependencies): added security dependencies.</td>
+    <td>feat(dependencies): added security dependencies.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>3a551999</td>
+    <td>refactor(commands): removed old user integration.</td>
+    <td>refactor(commands): removed old user integration.</td>
+    <td>20/11/2024</td>
+  </tr>
+</table>
 
 ##### 5.2.4.4 Testing Suite Evidence for Sprint Review
 <table>

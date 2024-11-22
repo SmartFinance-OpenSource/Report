@@ -3809,14 +3809,16 @@ Este video proporciona una visión completa sobre el producto, destacando sus ca
 
 Este video presenta al equipo detrás del producto, mostrando sus roles, valores y cómo trabajan en conjunto para lograr los objetivos de la empresa.
 
-| Título           | Descripción                                                | Duración | Link de Acceso                                                                                                                                                                                                                                                                                                                                                                                                      |
-|------------------|------------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| About the Team   | Video introductorio sobre el equipo, su misión y cómo contribuyen al desarrollo y éxito del producto. | 13:07    | [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112078_upc_edu_pe/ER2EmCuj4tNBoD3oowoL0kcBCFpTebeetPVy_cj49JDISQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UEMHV6) |
+| Título           | Descripción                                                                                           | Duración | Link de Acceso                                                                                                                                                                                                                                                                                                                        |
+|------------------|-------------------------------------------------------------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| About the Team   | Video introductorio sobre el equipo, su misión y cómo contribuyen al desarrollo y éxito del producto. | 7:39     | [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110237_upc_edu_pe/EeZcnOUdDPJIr76pfxy3lk8B2k324AwROzLMUQCPwqkafA?e=cRqaX1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)   |
 
-![about-the-team](assets/AboutTheTeam/abouttheteam.png)
+![new-about-the-team](assets/AboutTheTeam/abouttheteamnew.png)
 
 ## Bibliografía
 
 - INEI [Instituto Nacional de Estadística e Informática]. (2023, 11 mayo). *Pobreza monetaria afectó al 27,5% de la población del país en el año 2022*. Recuperado 23 de agosto de 2024, de [https://m.inei.gob.pe/prensa/noticias/pobreza-monetaria-afecto-al-275-de-la-poblacion-del-pais-en-el-ano-2022-14391/](https://m.inei.gob.pe/prensa/noticias/pobreza-monetaria-afecto-al-275-de-la-poblacion-del-pais-en-el-ano-2022-14391/)
 
 ## Anexos
+
+- **Deployment Backend**: [Backend Deployment Swagger UI](https://backend-finzar-production.up.railway.app/swagger-ui/index.html#/)

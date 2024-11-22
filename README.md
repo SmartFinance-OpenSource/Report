@@ -39,6 +39,7 @@
 | 2.1     | 02/11/2024 | Todos los integrantes           | Desarrollo de las Evidencias del Sprint 3 y evaluación según heurísticas |
 | 3.0     | 03/11/2024 | Todos los integrantes           | Release TB2                                                              |
 | 3.1     | 11/11/2024 | Todos los integrantes           | Desarrollo del sprint planning y sprint backlog 4                        |
+| 3.1     | 22/11/2024 | Todos los integrantes           | Release TF                                                               |
 
 
 ## Project Report Collaboration Insights

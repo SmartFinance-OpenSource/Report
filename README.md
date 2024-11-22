@@ -2445,6 +2445,11 @@ A continuación se muestran los commits realizados durante el Sprint 3 para docu
 | SmartFinance-OpenSource/Backend-Finzar | refactor/transaction  | b5e5ddf8         | refactor(transaction): changed transaction type      | refactor(transaction): changed transaction type from enum to entity | 2024-11-04 |
 | SmartFinance-OpenSource/Backend-Finzar | refactor/transaction  | f36d50f6         | refactor(transaction): changed period recurrence     | refactor(transaction): changed period recurrence from enum to entity | 2024-11-04 |
 | SmartFinance-OpenSource/Backend-Finzar | chore/documentation   | 2105d183         | chore: added documentation file                      | chore: added documentation file                         | 2024-11-04          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/iam   | c1475bf | feat(configuration): added web security sfs configuration. | feat(configuration): added web security sfs configuration.  | 2024-20-04          |
+| SmartFinance-OpenSource/Backend-Finzar | feat/transaction-event | db53cbc   | feat(cashflow): add event handler for create period recurrences table on app run. | feat(cashflow): add event handler for create period recurrences table on app run.    | 2024-21-04          |
+| SmartFinance-OpenSource/Backend-Finzar | develop               | 10b3c47        | fix(transactions): cashflow transaction now uses income or expense ammount.  | fix(transactions): cashflow transaction now uses income or expense ammount. | 2024-21-04          |
+| SmartFinance-OpenSource/Backend-Finzar | main                  | 4226531          | feat: add dockerfile.e                               | feat: add dockerfile.                                   | 2024-22-04          |
+
 
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review
 <h2>Sprint 3 TB2</h2>

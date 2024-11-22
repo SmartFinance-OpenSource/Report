@@ -38,6 +38,9 @@
 | 2.1     | 24/10/2024 | Todos los integrantes           | Desarrollo del sprint planning y backlong 3                              |
 | 2.1     | 02/11/2024 | Todos los integrantes           | Desarrollo de las Evidencias del Sprint 3 y evaluación según heurísticas |
 | 3.0     | 03/11/2024 | Todos los integrantes           | Release TB2                                                              |
+| 3.1     | 11/11/2024 | Todos los integrantes           | Desarrollo del sprint planning y sprint backlog 4                        |
+| 4.0     | 22/11/2024 | Todos los integrantes           | Release TF                                                               |
+
 
 
 ## Project Report Collaboration Insights
@@ -96,6 +99,15 @@ TB2: Se han realizado todas las tareas asignadas para la entrega del TB2, las cu
 - Sebastian Pacheco Astiguetta: 18 commits.
 
 
+
+TB2: Se han realizado todas las tareas asignadas para la entrega del TB2, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/SmartFinance-OpenSource. Para elaborar el informe cada miembro corrigio y añadio puntos que se  debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/SmartFinance-OpenSource/Report, de la misma manera para el desarrollo de la web application se trabajo en este repositorio: https://github.com/SmartFinance-OpenSource/Frontend-Finzar, por ultimo el desarrollo del backend se realizó en el siguiente enlace: https://github.com/SmartFinance-OpenSource/Backend-Finzar.
+
+![insight3](assets/projectColaborationInsigths/insight3.png)
+
+**Distribución de commits de commits:**
+- Juan Diego Astonitas Díaz: 17 commits.
+- Gianluca Santino Pasquale Barrenechea: 66 commits.
+- Sebastian Pacheco Astiguetta: 10 commits.
 
 ## Contenido
 
@@ -203,6 +215,20 @@ TB2: Se han realizado todas las tareas asignadas para la entrega del TB2, las cu
             - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
             - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
             - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+      	- [5.2.4. Sprint 4](#524-sprint-4)
+            - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+            - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
+            - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+            - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+            - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+            - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+            - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+            - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)  
+    - [5.3. Validation Interviews](#53-validation-interviews)
+        - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
+        - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+        - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+    - [5.4. Video About-the-Product](#54-video-about-the-product)
 
 
 - [Conclusiones](#conclusiones)
@@ -233,27 +259,27 @@ del ABET – EAC - Student Outcome 3.
       <strong>TB1:</strong> Realicé entrevistas a los segmentos objetivos, lo que me llevó a tener una comunicación efectiva con los usuarios para poder dar a entender el producto en desarrollo.<br>
       <strong>TP:</strong> Fui líder en el diseño y funcionalidad del frontend del webapp, mejorando así la manera de comunicar mis ideas a mis compañeros.<br>
       <strong>TB2:</strong> Dirigí el backend, facilitando la comunicación efectiva entre el líder y el grupo.<br>
+      <strong>TF1:</strong> Dirigi y termine la implementacion del backend comunicandome activalente con mis compañeros para una la integracion del back con el front <br>
 <br>
 <br>
       <strong>Sebastián Pacheco</strong> <br>
       <strong>TB1:</strong> En el proyecto, participé en las actividades asignadas y promoví la colaboración, fomentando la confianza mutua y logrando mejoras en el producto.<br>
       <strong>TP:</strong> Coordiné con el grupo para avanzar en el frontend, intercambiando sugerencias que me ayudaron a comprender los objetivos del proyecto y su público objetivo.<br>
-      <strong>TB2:</strong> Supervisé y comuniqué cambios en el frontend y backend, apoyando en tareas clave y fomentando el trabajo en equipo.<br><br>
-<br>
-      <strong>Josue Paiva</strong><br>
-      <strong>TB1:</strong> Mantuve comunicación constante con el equipo, promoviendo la participación activa y equitativa.<br>
-      <strong>TP:</strong> Contribuí con observaciones sobre criterios de aceptación, lo que me ayudó a mejorar el desarrollo de mi bounded context en el frontend.<br>
-      <strong>TB2:</strong> Finalicé el bounded context en el backend, aprovechando las reuniones en grupo y consultando dudas con el equipo.<br><br>
+      <strong>TB2:</strong> Supervisé y comuniqué cambios en el frontend y backend, apoyando en tareas clave y fomentando el trabajo en equipo.<br><br> 
+      <strong>TF1:</strong> Dirigi todo el apartado de IAM dentro del front y back asegurandome de que su implementacion sea correcta y con buenas practicas. <br>
 <br>
       <strong>Gianluca Pasquale</strong><br>
       <strong>TB1:</strong> Contribuí en el liderazgo compartido, facilitando la toma de decisiones y promoviendo la responsabilidad colectiva.<br>
       <strong>TP:</strong> Diseñé la interfaz gráfica para la sección de Savings, añadiendo funcionalidades de CRUD y validaciones.<br>
       <strong>TB2:</strong> Implementé CRUD en Saving Progress, Saving Details y Saving Transactions, colaborando en el desarrollo del frontend.<br><br>
+      <strong>TF1:</strong> Liderae la implementacion del back con el front pues el json server que utiliamos para construir la aplicacion era deficiente, comunique esto am i compañeros para corregirlo y conseguir la conexion entre las 2 partes. <br>
 <br>
     <td>
       <strong>TB1:</strong> Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos. <br> <br>
       <strong>TP:</strong> Durante el TP, la comunicación en equipo fue fundamental para coordinar los avances en el diseño del frontend y los criterios de aceptación de historias de usuario. El intercambio constante de ideas permitió a cada miembro ajustar sus entregables según las metas del proyecto, fortaleciendo la visión compartida y facilitando un progreso efectivo.<br> <br>
       <strong>TB2:</strong> La comunicación entre los integrantes del equipo durante esta etapa permitió una ejecución coordinada y eficaz de las tareas, logrando avances significativos en el proyecto. La participación activa y el intercambio constante de ideas fomentaron una cohesión sólida en el equipo, lo cual se reflejó en la calidad de los resultados y el fortalecimiento del trabajo en equipo.
+      <strong>TF1:</strong>  La comnicacion activa permitio una correcta implementacion de todos los requisitos planteador para el sprint 4<br>
+
 </td>
   </tr>
   <tr>
@@ -263,27 +289,26 @@ del ABET – EAC - Student Outcome 3.
       <strong>TB1:</strong> Diseñé entrevistas, clarificando ideas de desarrollo y funcionalidad del producto de manera concisa.<br>
       <strong>TP:</strong> Corregí historias de usuario, comprendiendo los errores en mis ideas.<br>
       <strong>TB2:</strong> Coordiné el backend mediante herramientas escritas como Discord y WhatsApp, facilitando la expresión de ideas y revisiones.<br><br>
+      <strong>TF1:</strong> Tuve que coumunicar la nueva funcionalidad de los enpoints creador a partir de la conexion de todos los bounded context. <br>
 <br>
       <strong>Sebastián Pacheco</strong><br>
       <strong>TB1:</strong> Promoví la participación en un trabajo colaborativo y busqué la experiencia de mis compañeros.<br>
       <strong>TP:</strong> Mejoré las historias de usuario y trabajé en el frontend.<br>
       <strong>TB2:</strong> Realicé mejoras en el frontend y desarrollé la primera versión del backend de mi bounded context.<br><br>
-<br>
-      <strong>Josue Paiva</strong><br>
-      <strong>TB1:</strong> Completé tareas delegadas y respondí a necesidades imprevistas.<br>
-      <strong>TP:</strong> Colaboré uniformemente, asistiendo a reuniones y cumpliendo los objetivos en frontend y documentando puntos clave como análisis y criterios de aceptación.<br>
-      <strong>TB2:</strong> Concluí la retroalimentación del TP y colaboré en la documentación del reporte y en la planificación de sprints en Trello.<br><br>
+      <strong>TF1:</strong> Coordine la implemenacion del IAM tanto den el font como en el back. <br>
 <br>
       <strong>Gianluca Pasquale</strong><br>
       <strong>TB1:</strong> Fomenté un entorno inclusivo, estableciendo metas claras y asegurando el cumplimiento de objetivos.<br>
       <strong>TP:</strong> Desarrolle la interración directa con nuestra base de datos para mi bounded context, además corregí secciones importantes del Frontend..<br>
       <strong>TB2:</strong> Desarrollé los endpoints del backend de mi bounded context "Savings" en colaboración con el equipo.<br><br>
+      <strong>TF1:</strong> Consegui comunicar todos los errores que habia en la implementecion del front para poder intergrar el front con el back. <br>
 <br>
     </td>
     <td>
       <strong>TB1:</strong> Todos han colaborado activamente y asistido en tareas donde otros tenían dificultades. La planificación de entregas y responsabilidades ha permitido un progreso eficaz y el cumplimiento de objetivos. <br> <br>
       <strong>TP:</strong> La documentación escrita en el TP ayudó a estandarizar criterios de aceptación y a detallar las especificaciones del frontend. Cada miembro se aseguró de documentar los avances y resolver dudas, creando una base sólida de comunicación escrita que facilitó el desarrollo colaborativo.<br><br>
-      <strong>TB2:</strong> La colaboración escrita ha sido fundamental para coordinar tareas y revisar avances. Cada miembro ha documentado sus aportes, permitiendo un seguimiento preciso y una organización eficiente del flujo de trabajo. La comunicación escrita clara y detallada contribuyó a mejorar el trabajo en equipo y facilitó la resolución de problemas a lo largo de esta fase del proyecto, al igual que la agilización para la primera implementación del backend..
+      <strong>TB2:</strong> La colaboración escrita ha sido fundamental para coordinar tareas y revisar avances. Cada miembro ha documentado sus aportes, permitiendo un seguimiento preciso y una organización eficiente del flujo de trabajo. La comunicación escrita clara y detallada contribuyó a mejorar el trabajo en equipo y facilitó la resolución de problemas a lo largo de esta fase del proyecto, al igual que la agilización para la primera implementación del backend.
+      <strong>TF1:</strong> la colaboracion mediante la comunicacion efectiva hizo que todos apoyaran en la implementacion de los requisitos para el TF por lo que se concreto un trabajo que demuestra la union y solidaridad con los demas.<br>
 </td>
   </tr>
 </table>
@@ -757,9 +782,8 @@ Nombre y apellido: Elvia Rodriguez
 Edad: 23
 Distrito: Comas
 ![int1](https://github.com/JosuePaiva02/files/blob/main/Entrevista%201%20Finzar%20-%20YouTube%20-%20Google%20Chrome%208_09_2024%2016_09_50.png?raw=true)
-Inicio de la entrevista: 0:26s
-[URL de la entrevista](https://www.youtube.com/watch?v=zLULHrg971A
-)
+Inicio de la entrevista: 0:00
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110291_upc_edu_pe/ESmgZrMR6dlIvTZqr_g-pVABW9afMTDG7grFKh49FmpSRw?e=4msGDj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 ##### Entrevista #2
@@ -767,9 +791,8 @@ Nombre y apellido: Bruno Martinez
 Edad: 19
 Distrito: Comas
 ![int1](https://github.com/JosuePaiva02/files/blob/main/Entrevista%201%20Finzar%20-%20YouTube%20-%20Google%20Chrome%208_09_2024%2016_10_10.png?raw=true)
-Inicio de la entrevista: 0:34s
-[URL de la entrevista](https://www.youtube.com/watch?v=H7TcCMm1-CU
-)
+Inicio de la entrevista: 4:00
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110291_upc_edu_pe/ESmgZrMR6dlIvTZqr_g-pVABW9afMTDG7grFKh49FmpSRw?e=fbAUBM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjQwLjIyfX0%3D)
 
 
 ##### Entrevista #3
@@ -777,9 +800,8 @@ Nombre y apellido: Flavio Gallardo
 Edad: 20
 Distrito: Breña
 ![int3](https://github.com/JosuePaiva02/files/blob/main/Entrevista%201%20Finzar%20-%20YouTube%20-%20Google%20Chrome%208_09_2024%2016_23_23.png?raw=true)
-Inicio de la entrevista: 0.20s
-[URL de la entrevista](https://drive.google.com/file/d/1bQi7SGnlGwXWfvCi3nJE4HDy3oBC6-vp/view
-)
+Inicio de la entrevista: 10:03
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110291_upc_edu_pe/ESmgZrMR6dlIvTZqr_g-pVABEUwjBHqxOstj4xa7no-ZiA?e=d92UG5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NjAzLjQ4fX0%3D)
 
 
 #### 2.2.3. Análisis de entrevistas
@@ -1253,20 +1275,65 @@ Los sistemas de etiquetado seran los mismos que presentamos en organization syst
 </table>
 
 #### 4.2.3. SEO Tags and Meta Tags
-Para mejorar la visibilidad de la aplicación contamos con SEO tags:
 
-Title: Finzar-Gestiona tus finanzas
+Landing Page <br>
+Title: Finzar - Finanzas Personales, Mas Na <br>
+Description: Finzar es una plataforma orienta al seguimiento de las finanzas personales del usuario, brindándole herramientas de creación de billeteras y metas de ahorro. <br> 
+Meta Keywords: finanzas personales, gestión financiera, ahorro, metas de ahorro. <br> 
+Finzar Meta Author: SmartFinance
+
 
 Meta Description: Finzar te permitira gestionar tus finanzas personales de manera rapida y eficiente, registra tus gastos, ponte límites y cumple tus objetivos.
 
-Meta Keyowords: finanzas personales. registro de gastos, ahorro, objetivos financieros
+
+Title: Finzar – Finanzas Personales, Mas Na <br>
+Description Con la app de Finzar, gestiona tus finanzas personales en cualquier momento y lugar. Crea y administra billeteras, establece metas de ahorro, controla tus gastos y visualiza tu progreso financiero de forma fácil y personalizada. <br> 
+Meta Keywords: finanzas personales, gestión financiera, ahorro, metas de ahorro. <br> 
+Finzar Meta Author: SmartFinance
+
 
 Meta Author: SmartFinance
+
 #### 4.2.4. Searching Systems
-Para facilitar la navegación cuando se accede a una pestaña que no cuente con la barra de navegación o en caso el usuario la haya desactivado, el usuario cuenta con un botón de búsqueda rápida que ofrece la posibilidad de regresar a home, about,premium y log in. 
+
+Estas decisiones están diseñadas para evitar que los usuarios se sientan abrumados por grandes volúmenes de información, facilitando una navegación eficiente y una búsqueda precisa. A continuación, se detallan las opciones de búsqueda y los filtros disponibles, así como la presentación de los datos después de la búsqueda.
+
+#### Opciones de Búsqueda
+
+**Overview**
+
+En la sección de Overview, los usuarios pueden utilizar dos filtros principales para refinar su búsqueda:
+
+- **Filtro por Wallets**: Permite seleccionar entre las diferentes wallets que el usuario ha creado, facilitando la visualización de transacciones específicas de cada wallet.
+- **Filtro por Rango de Fechas**: Permite definir un rango de fechas para visualizar las transacciones realizadas en un periodo específico, ayudando a los usuarios a analizar sus finanzas en intervalos de tiempo determinados.
+
+**Cash Wallet**
+
+En la sección de Cash Wallet, los usuarios disponen de dos filtros adicionales para una búsqueda más detallada:
+
+- **Filtro por Categorías**: Los usuarios pueden seleccionar entre diferentes categorías de transacciones, tales como "Salary", "Freelance", "Investment", "Gift", "Other", "Food", "Services", "Transport", "Health", "Entertainment", y "Education". Esto permite una clasificación precisa de los ingresos y gastos.
+- **Filtro por Rango de Fechas**: Similar al filtro en Overview, este permite definir un rango de fechas para visualizar las transacciones realizadas en un periodo específico dentro de la Cash Wallet.
 
 #### 4.2.5. Navigation Systems
-Para navegar por la aplicación el usuario cuenta con una barra de navegación con todas las secciones clave de nuestro producto: home, about us, premium y log in.
+El sistema de navegación permite a los usuarios desplazarse por nuestros productos de manera sencilla y rápida, accediendo a las diferentes secciones de la landing page y de la aplicación frontend. Para ello, implementamos un toolbar en la parte superior y que se encuentra fijada para facilitar su acceso en cualquier momento.
+**Estructura de Navegación Landing Page**: La landing page consta de las siguientes secciones principales:
+
+| Sección           | Descripción                                                           |
+|-------------------|-----------------------------------------------------------------------|
+| Our Services      | Presentación de los servicios ofrecidos por la startup                |
+| Features          | Descripción de las características y funcionalidades de la aplicación |
+| About Us          | Información sobre la startup y el equipo de desarrollo                |
+| Our Mission       | Misión y visión de la startup                                         |
+| About the Product | Videos del producto y cómo nos desarrollamos como equipo              |
+| Contact Us        | Información de contacto y formulario para consultas y soporte         |
+
+**Estructura de Navegación Web App**: La aplicación web consta de las siguientes secciones principales:
+
+| Sección | Descripción                                                                                                      |
+|---------|------------------------------------------------------------------------------------------------------------------|
+| Wallets | Sección de billeteras, sus movimientos y transacciones en general y billetera individual, y la creación de éstas |
+| Savings | Sección de ahorrors, el progreso y estadísticas detalladas                                                       |
+
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
 ![landing-page-wireframe](assets/LandingPageDesign/finzarLandingPageWireframe.png)
@@ -1360,6 +1427,7 @@ Tambien se podran crear metas de ahorro y presupuestos
 
 
 #### 4.4.4. Web Applications User Flow Diagrams
+![UserFlowDiagrams](assets/mockups/UserFlow.png)
 ### 4.5. Web Applications Prototyping
 
 Esta sección presenta los prototipos de interfaz de usuario , los cuales incluyen simulaciones de interacción y navegación. Las decisiones de interacción se fundamentan en criterios clave, como la facilidad de uso, la accesibilidad y la optimización para distintos dispositivos. 
@@ -2115,47 +2183,44 @@ Además de capturas que muestran el contenido de db.json
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-- **Design**
-  Para realizar el diseño de los wireframes y mockups de la Landing Page para este Sprint, se hizo uso de la plataforma [Figma](https://www.figma.com/)
+**Landing Page**
+Para hacer el deployment de la landing page se utilizó Github Pages,
+una funcionalidad de Github que permite hacer el deployment de páginas web de forma rápida y pública.
+Dentro del repositorio, en el apartado de settings , se encuentra la opcion de Pages.
 
-- Para el uso de la plataforma, es necesario crear una cuenta, así que nos dirigimos a la página oficial de Figma y se siguen los siguientes pasos para registrarse:
-  ![](assets/design-steps/design-step-1.jpg)
-  ![](assets/design-steps/design-step-2.jpg)
+Escogemos la opcion de hacer el deploy a través de una rama.
+![landingdeployment2](assets/deploymentsprint2/landing-deploy-2.png)
 
-- Luego se crea un Draft que servirá como base para el proyecto colaborativo.
-  ![](assets/design-steps/design-step-3.jpg)
+Escogemos la rama de develop (para futuros cambios)
 
-- **Deployment**
+![landingdeployment3](assets/deploymentsprint2/landing-deploy-3.png)
 
-- Para la landing page, se utilizará [GitHub](https://github.com/) y [Github Pages]() para la creación del repositorio y el despliegue de la página.
+Guadrdamos la configuracion usando el boton save
+![landingdeployment5](assets/deploymentsprint2/landing-deploy-5.png)
 
-![](assets/deployment-steps/deployment-step-1.jpg)
-![](assets/deployment-steps/deployment-step-2.jpg)
+La pagina cargara en algunos minutos y se podra acceder a ella a través del link que se muestra en la parte superior.
 
-- Tras crear la cuenta, se procede a crear una organización.
+![landingdeployment6](assets/deploymentsprint2/landing-deploy-6.png)
 
-![](assets/deployment-steps/deployment-step-3.jpg)
-![](assets/deployment-steps/deployment-step-4.jpg)
-![](assets/deployment-steps/deployment-step-5.jpg)
-![](assets/deployment-steps/deployment-step-6.jpg)
-![](assets/deployment-steps/deployment-step-7.jpg)
-![](assets/deployment-steps/deployment-step-8.jpg)
 
-- Se agregan a los demás miembros del equipo a la organización.
+**FrontEnd**
+Para el FrontEnd, se utilizó [Vercel](https://vercel.com) para el despliegue de la página.
 
-![](assets/deployment-steps/deployment-step-9.jpg)
-![](assets/deployment-steps/deployment-step-10.jpg)
+- Antes del despliegue, debemos crear una cuenta, por lo que continuaremos con GitHub.
+  ![Sprint 3 FrontEnd Deployment Evidence 1](assets/sprint-3-deployment/frontend-deploy/evidence-1.png)
+- Primero nos dirigimos a Import Project, siendo la primera opción.
+  ![Sprint 3 FrontEnd Deployment Evidence 2](assets/sprint-3-deployment/frontend-deploy/evidence-2.png)
+- Luego seleccionamos el repositorio de GitHub donde se encuentra el código del FrontEnd. En este caso, Frontend-Finzar.
+  ![Sprint 3 FrontEnd Deployment Evidence 3](assets/sprint-3-deployment/frontend-deploy/evidence-3.png)
+- Se nos presenta la siguiente pantalla, donde muestra las opciones por defecto en el despliegue de la página. Le damos a deploy.
+  ![Sprint 3 FrontEnd Deployment Evidence 4](assets/sprint-3-deployment/frontend-deploy/evidence-4.png)
+- Podemos apreciar que la página ha sido desplegada con éxito.
+  ![Sprint 3 FrontEnd Deployment Evidence 5](assets/sprint-3-deployment/frontend-deploy/evidence-5.png)
+- Con ello, se nos proporciona un link de la página desplegada, donde podemos acceder.
+  ![Sprint 3 FrontEnd Deployment Evidence 6](assets/sprint-3-deployment/frontend-deploy/evidence-6.png)
+- Al acceder al link, podemos ver la página desplegada.
+  ![Sprint 3 FrontEnd Deployment Evidence 7](assets/sprint-3-deployment/frontend-deploy/evidence-7.png)
 
-- Por último, se crean los repositorios necesarios para el trabajo.
-
-![](assets/deployment-steps/deployment-step-11.jpg)
-![](assets/deployment-steps/deployment-step-12.jpg)
-
-- Para nuestro proyecto se crearon 4 repositorios los cuales son:
-    - **Report:** Este repositorio se usa para realizar el informe del proyecto de manera continua.
-    - **Landing-Page:** Este repositorio se usa para codificar y desplegar la landingpage del proyecto.
-    - **Frontend:** Este repositorio se usará para contener el código de la parte frontend del projecto.
-    - **Backend:** Este repositorio se usará para contener el código de la parte backend del projecto.
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 A continuación se muestra evidencia de la coolaboración del equipo mediante insights de GitHub.
@@ -2280,7 +2345,7 @@ A continuación se muestran los commits realizados durante el Sprint 3 para docu
 | SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-filter         | 11aff7d9 | chore: added wallet filter component.                              | No description provided.             | 2024-10-23         |
 | SmartFinance-OpenSource/Frontend-Finzar | feat/dashboard-filters     | 01e4be86 | refactor: renamed dashboard filters selector to the correct naming | No description provided.             | 2024-10-23         |
 | SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-filters        | bf15255d | fix: replaced component usage to the correct one                   | No description provided.             | 2024-10-23         |
-| SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-filter         | 8096eb06 | feat: c                           | No description provided.             | 2024-10-23         |
+| SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-filter         | 8096eb06 | feat: added wallet filter functionality.                          | No description provided.             | 2024-10-23         |
 | SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-filter         | 78db55d5 | feat: added wallet filter to wallet view page.                     | No description provided.             | 2024-10-23         |
 | SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-dialog         | 0660758e | feat: added dialog to delete button                                | No description provided.             | 2024-10-23         |
 | SmartFinance-OpenSource/Frontend-Finzar | feat/wallet-category       | 07be651d | fix: called category api service from wallet-view                  | No description provided.             | 2024-10-23         |
@@ -2352,6 +2417,8 @@ A continuación se muestran los commits realizados durante el Sprint 3 para docu
 | SmartFinance-OpenSource/Backend-Finzar | refactor/transaction  | b5e5ddf8         | refactor(transaction): changed transaction type      | refactor(transaction): changed transaction type from enum to entity | 2024-11-04 |
 | SmartFinance-OpenSource/Backend-Finzar | refactor/transaction  | f36d50f6         | refactor(transaction): changed period recurrence     | refactor(transaction): changed period recurrence from enum to entity | 2024-11-04 |
 | SmartFinance-OpenSource/Backend-Finzar | chore/documentation   | 2105d183         | chore: added documentation file                      | chore: added documentation file                         | 2024-11-04          |
+
+
 
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review
 <h2>Sprint 3 TB2</h2>
@@ -2433,7 +2500,6 @@ A continuación se muestran los commits realizados durante el Sprint 3 para docu
     <td>Given el endpoint (/api/v1/auth/sign-up) esté disponible, when se envía una solicitud POST con los datos del usuario ingresados al endpoint, then se recibe una señal de confirmación (201) and el sistema registra al usuario.</td>
   </tr>
 </table>
-
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review
 En esta entrega, no se realizaron cambios con relación al Landing Page. Por el momento, la Landing Page queda igual a la versión realizada en el Sprint 3.
@@ -3126,6 +3192,901 @@ En esta sección se presenta el desarrollo colaborativo del equipo en la impleme
 - Sebastian Pacheco Astiguetta: 18 commits.
 
 
+#### 5.2.4. Sprint 4
+
+##### 5.2.4.1 Sprint Planning 4
+Explicaremos los objetivos y alcances del sprint 4, además de analizar los puntos de mejora del sprint anterior, todo esto mediante una reunión. El objetivo principal es, mediante un sprint planning, identificar las tareas a desarrollar y los story points que ayudarán a definir nuestra estrategia para el cumplimiento de ésta. A continuación, presentaremos un resumen del Sprint planning meeting.
+
+| Sprint #                        | Sprint 4                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Date**                        | 2024-11-11                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Time**                        | 4:00 PM                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Location**                    | Virtual - Discord                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Prepared By                     | Juan Astonitas                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Attendees (to planning meeting) | Juan Astonitas, Sebastian Pacheco, Gianluca Pasquale                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Sprint 3 Review Summary         | Se desplegó una versión actualizada de la aplicación web, además de desarrollar la primera versión de nuestro backend junto a su base de datos.                                                                                                                                                                                                                                                                                                                                       |
+| Sprint 3 Retrospective Summary  | Se vio una mejora considerable gracias a la colaboración en equipo y la participación constante en el trabajo. Con ello, hemos logrado un avance eficaz.                                                                                                                                                                                                                                                                                                                              |
+| Sprint 4 Goal                   | Nuestro enfoque es refinar servicios y optimizar la funcionalidad de la aplicación, además de implementar el registro de perfiles para los usuarios. Creemos que esto proporcionará una experience más completa similar a una aplicación real para los usuarios. Esto se confirmará cuando los clientes puedan crear su cuenta y por tanto sus billeteras y ahorros personales, además de que los desarrolladores puedan implementar las funcionalidades restantes por medio del API. |
+| Sprint 4 Velocity               | Para este sprint nuestro equipo puede aceptar hasta 51 story points.                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                             |
+| Sum of Story Points             | La suma de story points a atender es de 51 story points.                                                                                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                 |
+
+##### 5.2.4.2 Sprint Backlog 4
+
+| **User Story ID** | **User Story**                                      | **Work-Item / Task ID** | **Work-Item / Task Title**                                   | **Description**                                                                                          | **Estimation (Hours)** | **Status** |
+|-------------------|-----------------------------------------------------|--------------------------|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|-------------------------|------------|
+| US01              | Registro de Usuario                                 | TS101                    | Crear un formulario de registro                              | Crear el formulario de registro para que el visitante se registre en la aplicación                        | 1                       | to-do      |
+| US01              | Registro de Usuario                                 | TS102                    | Implementar validaciones en el formulario                    | Implementar validaciones para los datos ingresados en el registro                                        | 1                       | to-do      |
+| US01              | Registro de Usuario                                 | TS103                    | Configurar lógica para crear cuenta en backend               | Configurar la lógica en el backend para crear la cuenta del usuario                                      | 2                       | to-do      |
+| US01              | Registro de Usuario                                 | TS104                    | Conectar el formulario con el backend                        | Asegurar que el formulario envíe los datos al backend y reciba una respuesta                             | 1                       | to-do      |
+| US02              | Inicio de Sesión                                    | TS201                    | Crear formulario de inicio de sesión                         | Crear el formulario de inicio de sesión para que el usuario acceda a su cuenta                           | 1                       | to-do      |
+| US02              | Inicio de Sesión                                    | TS202                    | Implementar validaciones en el formulario                    | Validar que los campos no estén vacíos y cumplan con el formato adecuado                                 | 1                       | to-do      |
+| US02              | Inicio de Sesión                                    | TS203                    | Conectar el formulario con el backend                        | Conectar el formulario de inicio de sesión con el backend para autenticar al usuario                     | 1                       | to-do      |
+| US03              | Recuperación de Contraseña                          | TS301                    | Crear formulario de recuperación de contraseña               | Crear formulario para que el usuario pueda recuperar su contraseña                                       | 1                       | to-do      |
+| US03              | Recuperación de Contraseña                          | TS302                    | Implementar lógica para enlace de restablecimiento           | Implementar lógica en el backend para generar un enlace de restablecimiento                              | 2                       | to-do      |
+| US03              | Recuperación de Contraseña                          | TS303                    | Crear pantalla de restablecimiento de contraseña             | Crear la pantalla donde el usuario podrá restablecer su contraseña                                       | 1                       | to-do      |
+| US05              | Personalizar Interfaz                               | TS501                    | Crear opciones de cambio de idioma                           | Crear opciones en la sección de configuración para que el usuario seleccione el idioma preferido          | 3                       | to-do      |
+| US05              | Personalizar Interfaz                               | TS502                    | Actualizar textos y elementos de la interfaz                 | Actualizar todos los textos y elementos visuales según el idioma seleccionado por el usuario             | 1                       | to-do      |
+| US05              | Personalizar Interfaz                               | TS503                    | Implementar funcionalidad de cambio de idioma                | Configurar la funcionalidad que permite cambiar el idioma en la aplicación                               | 1                       | to-do      |
+| US12              | Visualizar los Porcentajes Categorizados de Gastos  | TS1201                   | Implementar lógica para calcular porcentajes de gastos       | Implementar la lógica en el backend para calcular los porcentajes de gastos por categoría en el mes       | 2                       | to-do      |
+| US12              | Visualizar los Porcentajes Categorizados de Gastos  | TS1202                   | Conectar gráfico con datos de gastos del backend             | Conectar el gráfico con los datos de gastos por categoría obtenidos desde el backend                      | 1                       | to-do      |
+| US13              | Visualizar las transferencias de billetera          | TS1301                   | Crear lista de transferencias en la vista de resumen mensual | Crear una lista en el frontend que muestre las transferencias entre billeteras en la vista de resumen mensual | 1                    | to-do      |
+| US13              | Visualizar las transferencias de billetera          | TS1302                   | Implementar lógica en backend para transferencias mensuales  | Configurar la lógica en el backend para obtener las transferencias entre billeteras realizadas en el mes actual | 2                    | to-do      |
+| US13              | Visualizar las transferencias de billetera          | TS1303                   | Conectar lista de transferencias con el backend              | Asegurar que la lista de transferencias se alimente con los datos de transferencias obtenidos del backend | 1                       | to-do      |
+| US13              | Visualizar las transferencias de billetera          | TS1304                   | Diseñar vista de resumen mensual en la sección de billetera  | Crear la vista en la sección de billetera que incluya la lista de transferencias mensuales                | 1                       | to-do      |
+| US17              | Ver Futuras Transacciones                           | TS1701                   | Crear lista de transacciones futuras                         | Crear la lista de transacciones futuras en la sección de billetera                                      | 1                       | to-do      |
+| US17              | Ver Futuras Transacciones                           | TS1702                   | Implementar lógica en backend para transacciones futuras     | Implementar lógica en backend para obtener transacciones futuras programadas                            | 2                       | to-do      |
+| US17              | Ver Futuras Transacciones                           | TS1703                   | Conectar lista de transacciones futuras                      | Conectar la lista de transacciones futuras con los datos del backend                                    | 1                       | to-do      |
+| US17              | Ver Futuras Transacciones                           | TS1704                   | Diseñar vista de transacciones futuras                       | Diseñar vista para mostrar transacciones futuras en la sección de billetera                             | 1                       | to-do      |
+| US18              | Filtrar Transacciones por Nota                      | TS1801                   | Crear campo de búsqueda para notas                           | Crear campo de búsqueda para notas en la sección de billetera                                           | 1                       | to-do      |
+| US18              | Filtrar Transacciones por Nota                      | TS1802                   | Implementar lógica de filtrado de transacciones              | Implementar lógica de filtrado de transacciones por nota en backend                                     | 2                       | to-do      |
+| TS35              | Solucionar Errores Reportados                       | TS3501                   | Desarrollar un Plan de Corrección                            | Crear plan de corrección para los errores reportados                                                   | 1                       | to-do      |
+| TS35              | Solucionar Errores Reportados                       | TS3502                   | Implementar la Solución en el Código                         | Aplicar solución en el código para resolver los errores reportados                                     | 2                       | to-do      |
+| TS36              | Implementar Notificaciones como Funcionalidad       | TS3601                   | Diseñar el Modelo de Datos para Notificaciones               | Crear modelo de datos para almacenar notificaciones                                                    | 1                       | to-do      |
+| TS36              | Implementar Notificaciones como Funcionalidad       | TS3602                   | Desarrollar API para Crear y Enviar Notificaciones           | Crear API para gestionar la creación y envío de notificaciones                                         | 2                       | to-do      |
+| TS36              | Implementar Notificaciones como Funcionalidad       | TS3603                   | Integrar Notificaciones en el Frontend                        | Integrar funcionalidad de notificaciones en el frontend                                                | 2                       | to-do      |
+| TS36              | Implementar Notificaciones como Funcionalidad       | TS3604                   | Configurar Lógica para Notificaciones Automáticas             | Configurar lógica para notificaciones automáticas basadas en eventos                                   | 2                       | to-do      |
+| TS38              | Autenticación de Usuarios                           | TS3801                   | Implementar Lógica de Verificación de Credenciales           | Implementar lógica para verificar credenciales de usuario                                              | 2                       | to-do      |
+| TS38              | Autenticación de Usuarios                           | TS3802                   | Generar y Retornar Token de Autenticación                    | Crear y retornar un token de autenticación para el usuario                                             | 1                       | to-do      |
+| TS39              | Mantenimiento del Software                          | TS3901                   | Optimizar el Código y Refactorizar Componentes Clave         | Optimizar y refactorizar código en componentes clave                                                   | 3                       | to-do      |
+| TS39              | Mantenimiento del Software                          | TS3902                   | Realizar Copias de Seguridad y Restauración de Datos         | Crear y verificar copias de seguridad y restauración de datos                                         | 1                       | to-do      |
+| TS39              | Mantenimiento del Software                          | TS3903                   | Actualizar Dependencias y Librerías                          | Actualizar dependencias y librerías del software                                                      | 2                       | to-do      |
+
+##### 5.2.4.3 Development Evidence for Sprint Review
+
+###### Frontend
+
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>68a70748</td>
+    <td>feat(sign-up): added sign-up component.</td>
+    <td>feat(sign-up): added sign-up component.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>1d0c035a</td>
+    <td>feat(sign-in): added sign-in component.</td>
+    <td>feat(sign-in): added sign-in component.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>da9aa3e8</td>
+    <td>fix: fixed wallets router link to non-existent page.</td>
+    <td>fix: fixed wallets router link to non-existent page.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>08198e2a</td>
+    <td>feat: added sign-in and sign-up components to routing as well as fixing redirections to sign-in.</td>
+    <td>feat: added sign-in and sign-up components to routing as well as fixing redirections to sign-in.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>6b8ae969</td>
+    <td>feat: added background image asset.</td>
+    <td>feat: added background image asset.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>2ffd72f2</td>
+    <td>fix: fixed field for saving transaction entity.</td>
+    <td>fix: fixed field for saving transaction entity.</td>
+    <td>21/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>bf3d6ac0</td>
+    <td>feat: updated structure for saving detail.</td>
+    <td>feat: updated structure for saving detail.</td>
+    <td>21/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>36dcde02</td>
+    <td>fix(sign-up): fixed account creation.</td>
+    <td>fix(sign-up): fixed account creation.</td>
+    <td>21/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>39b05d1a</td>
+    <td>fix(wallet-view): fixed transaction obtaining by wallet id instead of hardcoded value.</td>
+    <td>fix(wallet-view): fixed transaction obtaining by wallet id instead of hardcoded value.</td>
+    <td>21/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>1dced9e3</td>
+    <td>feat(models): added sign-in and sign-up requests and responses.</td>
+    <td>feat(models): added sign-in and sign-up requests and responses.</td>
+    <td>21/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>45e7fe8e</td>
+    <td>fix(sign-in): fixed sign-in component to work properly with new authentication.</td>
+    <td>fix(sign-in): fixed sign-in component to work properly with new authentication.</td>
+    <td>21/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>417b7e60</td>
+    <td>fix(header): fixed finzar header to only display when logged in.</td>
+    <td>fix(header): fixed finzar header to only display when logged in.</td>
+    <td>21/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>513afdeb</td>
+    <td>fix(environment): fixed environment server base path.</td>
+    <td>fix(environment): fixed environment server base path.</td>
+    <td>21/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>5419c5a1</td>
+    <td>fix(dashboard): fixed wallet obtaining by user id input.</td>
+    <td>fix(dashboard): fixed wallet obtaining by user id input.</td>
+    <td>21/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>9af0deba</td>
+    <td>feat: added connection with backend.</td>
+    <td>feat: added connection with backend.</td>
+    <td>21/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>6c97c70f</td>
+    <td>fix(dashboard): fixed new userId parsing to dashboard analytics.</td>
+    <td>fix(dashboard): fixed new userId parsing to dashboard analytics.</td>
+    <td>21/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>c42a6eb6</td>
+    <td>feat(form): added base form component.</td>
+    <td>feat(form): added base form component.</td>
+    <td>21/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>518c5423</td>
+    <td>fix(services): fixed base path.</td>
+    <td>fix(services): fixed base path.</td>
+    <td>21/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>7ebffadd</td>
+    <td>feat(services): added authentication services.</td>
+    <td>feat(services): added authentication services.</td>
+    <td>21/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>c472bdb3</td>
+    <td>feat(app-routes): added app routes authentication guard.</td>
+    <td>feat(app-routes): added app routes authentication guard.</td>
+    <td>21/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam-authentication</td>
+    <td>f291ce5e</td>
+    <td>feat(app-config): added app config authentication interceptor.</td>
+    <td>feat(app-config): added app config authentication interceptor.</td>
+    <td>21/11/2024</td>
+  </tr>
+</table>
+
+###### Backend
+
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam</td>
+    <td>c1475bf</td>
+    <td>feat(configuration): added web security sfs configuration.</td>
+    <td>feat(configuration): added web security sfs configuration.</td>
+    <td>2024-20-04 </td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>ffeat/transaction-event</td>
+    <td>db53cbc</td>
+    <td>feat(cashflow): add event handler for create period recurrences table on app run.</td>
+    <td>feat(cashflow): add event handler for create period recurrences table on app run.</td>
+    <td>2024-21-04 </td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>develop</td>
+    <td>10b3c47</td>
+    <td>fix(transactions): cashflow transaction now uses income or expense ammount.</td>
+    <td>fix(transactions): cashflow transaction now uses income or expense ammount.</td>
+    <td>2024-22-04 </td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>main</td>
+    <td>4226531</td>
+    <td>feat: add dockerfile </td>
+    <td>feat: add dockerfile </td>
+    <td>2024-22-04 </td>
+  </tr>
+
+</table>
+
+
+###### Backend
+
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>165f258d</td>
+    <td>feat(acl): added iam context facade.</td>
+    <td>feat(acl): added iam context facade.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>c1475bf5</td>
+    <td>feat(configuration): added web security sfs configuration.</td>
+    <td>feat(configuration): added web security sfs configuration.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>1024d3fa</td>
+    <td>feat(tokens): added token service for outbound services.</td>
+    <td>feat(tokens): added token service for outbound services.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>2ecdd3fb</td>
+    <td>feat(services): added user details service implementation for sfs services.</td>
+    <td>feat(services): added user details service implementation for sfs services.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>5efcbd5e</td>
+    <td>feat(model): added user details implementation for sfs modelling.</td>
+    <td>feat(model): added user details implementation for sfs modelling.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>e66d7fe3</td>
+    <td>feat(pipeline): added unauthorized request handler entry point pipeline.</td>
+    <td>feat(pipeline): added unauthorized request handler entry point pipeline.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>d52c0982</td>
+    <td>feat(model): added username and password authentication sfs token builder.</td>
+    <td>feat(model): added username and password authentication sfs token builder.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>de156939</td>
+    <td>feat(query-services): added user and role query service implementation.</td>
+    <td>feat(query-services): added user and role query service implementation.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>c45939bb</td>
+    <td>feat(jwt): added bearer token service to jwt.</td>
+    <td>feat(jwt): added bearer token service to jwt.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>4b1b156d</td>
+    <td>feat(hashing): added outbound hashing service.</td>
+    <td>feat(hashing): added outbound hashing service.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>d87c658e</td>
+    <td>feat(services): added hashing bcrypt service implementation.</td>
+    <td>feat(services): added hashing bcrypt service implementation.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>62c9830e</td>
+    <td>feat(repositories): added user and role jpa repositories.</td>
+    <td>feat(repositories): added user and role jpa repositories.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>c6d35978</td>
+    <td>feat(services): added token service implementation.</td>
+    <td>feat(services): added token service implementation.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>e0c78467</td>
+    <td>feat(pipeline): added bearer authorization request filter.</td>
+    <td>feat(pipeline): added bearer authorization request filter.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>1c4b8ef1</td>
+    <td>feat(bcrypt): added bcrypt hashing service.</td>
+    <td>feat(bcrypt): added bcrypt hashing service.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>8b4ec67f</td>
+    <td>feat(command-services): added role and user command service implementations.</td>
+    <td>feat(command-services): added role and user command service implementations.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>ed271ce0</td>
+    <td>feat(services): added user and role command/query domain services.</td>
+    <td>feat(services): added user and role command/query domain services.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>6e3bdba1</td>
+    <td>feat(resources): added user rest resource.</td>
+    <td>feat(resources): added user rest resource.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>ffe95ba5</td>
+    <td>fix(query-services): fixed iam import in wallet query service implementation.</td>
+    <td>fix(query-services): fixed iam import in wallet query service implementation.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>0b599144</td>
+    <td>fix(command-services): fixed iam import in wallet command service implementation.</td>
+    <td>fix(command-services): fixed iam import in wallet command service implementation.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>a6480c0a</td>
+    <td>fix(aggregates): fixed iam import in wallet model aggregate.</td>
+    <td>fix(aggregates): fixed iam import in wallet model aggregate.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>bcf3b85a</td>
+    <td>feat(value-objects): added role model value object.</td>
+    <td>feat(value-objects): added role model value object.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>99802412</td>
+    <td>fix(transform): fixed iam import in simplified user resource from entity assembler.</td>
+    <td>fix(transform): fixed iam import in simplified user resource from entity assembler.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>c47037bd</td>
+    <td>feat(resources): added signing and authentication rest resources.</td>
+    <td>feat(resources): added signing and authentication rest resources.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>e1bba0ca</td>
+    <td>feat(commands): added signing model commands.</td>
+    <td>feat(commands): added signing model commands.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>fe8021d0</td>
+    <td>feat(aggregates): added user model aggregate.</td>
+    <td>feat(aggregates): added user model aggregate.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>e396109d</td>
+    <td>feat(entities): added role model entity.</td>
+    <td>feat(entities): added role model entity.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>f00e2106</td>
+    <td>feat(queries): added model queries for user and roles.</td>
+    <td>feat(queries): added model queries for user and roles.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>5fb6c849</td>
+    <td>feat(transform): added resources from entity assemblers for user and authentication.</td>
+    <td>feat(transform): added resources from entity assemblers for user and authentication.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>232ae9eb</td>
+    <td>feat(rest): added user, role and authentication controllers.</td>
+    <td>feat(rest): added user, role and authentication controllers.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>38ec36fb</td>
+    <td>feat(configuration): added security scheme for open api configuration.</td>
+    <td>feat(configuration): added security scheme for open api configuration.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>bb020eed</td>
+    <td>feat(properties): added jwt authorization.</td>
+    <td>feat(properties): added jwt authorization.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>291d82f9</td>
+    <td>feat(dependencies): added security dependencies.</td>
+    <td>feat(dependencies): added security dependencies.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
+    <td>feat/transactions-event</td>
+    <td>3a551999</td>
+    <td>refactor(commands): removed old user integration.</td>
+    <td>refactor(commands): removed old user integration.</td>
+    <td>20/11/2024</td>
+  </tr>
+</table>
+
+##### 5.2.4.4 Testing Suite Evidence for Sprint Review
+<table>
+  <tr>
+    <th>Epic / Story ID</th>
+    <th>Título</th>
+    <th>Criterios de Aceptación</th>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Registro de Usuario</td>
+    <td>Escenario 1:
+Given el visitante está en la página de registro, when completa los campos obligatorios y hace clic en "Registrarse", then el sistema debe crear una cuenta.</td>
+  </tr>
+  <tr>
+    <td>US02</td>
+    <td>Inicio de Sesión</td>
+    <td>Escenario 1:
+Given el usuario está registrado, when ingresa sus credenciales correctas, then debe poder acceder a su cuenta.</td>
+  </tr>
+  <tr>
+    <td>US05</td>
+    <td>Personalizar Interfaz</td>
+    <td>Escenario 1:
+Escenario 1:
+Given el usuario está en la sección de configuración, when selecciona la opción de personalizar la interfaz, then debe poder cambiar el el idioma de la aplicación.  </tr>
+  <tr>
+    <td>US12</td>
+    <td>Visualizar los Porcentajes Categorizados de Gastos en el mes</td>
+    <td>Escenario 1:
+Given el usuario está en la sección de una billetera, when accede a la vista de resumen mensual, then debe ver un gráfico que muestre los porcentajes de gastos categorizados en la billetera en el mes.</td>
+  </tr>
+  <tr>
+    <td>US13</td>
+    <td>Visualizar las transferencias de billetera a billetera en el mes</td>
+    <td>Escenario 1:
+Given el usuario está en la sección de una billetera, when accede a la vista de resumen mensual, then debe ver una lista de las transferencias de dinero realizadas entre billeteras en el mes.</td>
+  </tr>
+  <tr>
+    <td>US17</td>
+    <td>Ver Futuras Transacciones</td>
+    <td>Escenario 1:
+Given el usuario está en la sección de una billetera, when accede a la lista de transacciones futuras, then debe ver las transacciones programadas con sus detalles y fechas.</td>
+  </tr>
+  <tr>
+    <td>US18</td>
+    <td>Filtrar Transacciones por Nota</td>
+    <td>Escenario 1:
+Given el usuario está en la sección de una billetera, when ingresa una nota en el campo de búsqueda, then el sistema debe mostrar solo las transacciones que contienen la nota ingresada.</td>
+  </tr>
+    <tr>
+    <td>TS35</td>
+    <td>Solucionar Errores Reportados</td>
+    <td>Escenario 1:
+Given el desarrollador recibe un reporte de error, when identifica y soluciona el problema, then debe confirmar la corrección con el equipo de QA.</td>
+  </tr>
+    <tr>
+    <td>TS36</td>
+    <td>Implementar Notificaciones como Funcionalidad</td>
+    <td>Escenario 1:
+Given el desarrollador tiene acceso al código fuente, when implementa la funcionalidad de notificaciones, then el sistema envía notificaciones al usuario quien recibe las alertas en tiempo real.</td>
+  </tr>
+    <tr>
+    <td>TS38</td>
+    <td>Autenticación de Usuarios</td>
+    <td>Given el endpoint (/api/v1/auth/log-in) esté disponible, when se envía una solicitud POST con las credenciales del usuario al endpoint, then se recibe una señal de confirmación (200) and el sistema permite el acceso al usuario.</td>
+  </tr>
+    <tr>
+    <td>TS39</td>
+    <td>Mantenimiento del Software</td>
+    <td>Escenario 1:
+Given la plataforma tiene un mantenimiento pendiente o nuevas funcionalidades, when realiza el mantenimiento correspondiente mediante las actualizaciones, then el sistema se mantiene seguro y actualizado.  </tr>
+  </table>
+
+##### 5.2.4.5 Execution Evidence for Sprint Review
+En este item se presentan las evidencias de la ejecución de las tareas y user stories del Sprint 4, incluyendo el desarrollo de la Landing Page, FrontEnd y BackEnd.
+
+###### Landing Page
+
+![execution-landing1](assets/execution/landingfinzar1.png)
+![execution-landing2](assets/execution/landingfinzar2.png)
+![execution-landing3](assets/execution/landingfinzar3.png)
+![execution-landing4](assets/execution/landingfinzar4.png)
+![execution-landing5](assets/execution/landingfinzar5.png)
+![execution-landing6](assets/execution/landingfinzar6.png)
+![execution-landing7](assets/execution/landingfinzar7.png)
+
+###### FrontEnd
+![execution-frontIAM1](assets/execution/IAM1.png)
+![execution-frontIAM2](assets/execution/IAM2.png)
+![execution-front1](assets/execution/frontfinzar1.png)
+![execution-front2](assets/execution/frontfinzar2.png)
+![execution-front3](assets/execution/frontfinzar3.png)
+![execution-front4](assets/execution/frontfinzar4.png)
+![execution-front5](assets/execution/frontfinzar5.png)
+![execution-front6](assets/execution/frontfinzar6.png)
+![execution-front7](assets/execution/frontfinzar7.png)
+![execution-front8](assets/execution/frontfinzar8.png)
+![execution-front9](assets/execution/frontfinzar9.png)
+![execution-front10](assets/execution/frontfinzar10.png)
+
+###### BackEnd
+
+![execution-back1](assets/sprint4/back1.png)
+![execution-back2](assets/sprint4/back2.png)
+![execution-back3](assets/sprint4/back3.png)
+
+##### 5.2.4.6 Services Documentation Evidence for Sprint Review
+
+En el tercer sprint identificamos 5 endpoints provenientes de 3 controladores diferentes. Utilizamos swagger para la presente documentacion.
+
+**Roles Controller**
+
+<table>
+  <tr>
+    <th colspan="1">Tag</th>
+    <th colspan="1">Verbo http</th>
+    <th colspan="1">Endpoint</th>
+    <th colspan="1">Summary</th>
+    <th colspan="1">Description</th>
+    <th colspan="1">OperationId</th>
+  </tr>
+  <tr>
+    <td colspan="1">Roles</td>
+    <td colspan="1">GET</td>
+    <td colspan="1">/ap/v1/roles</td>
+    <td colspan="1">Get all roles</td>
+    <td colspan="1">Retrieve a list of all roles</td>
+    <td colspan="1">GetAllRoles</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">-</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+</table>
+
+**Authentication Controller**
+
+<table>
+  <tr>
+    <th colspan="1">Tag</th>
+    <th colspan="1">Verbo http</th>
+    <th colspan="1">Endpoint</th>
+    <th colspan="1">Summary</th>
+    <th colspan="1">Description</th>
+    <th colspan="1">OperationId</th>
+  </tr>
+  <tr>
+    <td colspan="1">Authentication</td>
+    <td colspan="1">POST</td>
+    <td colspan="1">/api/v1/authentication/sign-up</td>
+    <td colspan="1">Sign up</td>
+    <td colspan="1">Register a new user</td>
+    <td colspan="1">SignUp</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">-</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">sí</td>
+  </tr>
+  <tr>
+    <td colspan="1">Authentication</td>
+    <td colspan="1">POST</td>
+    <td colspan="1">/api/v1/authentication/sign-in</td>
+    <td colspan="1">Sign in</td>
+    <td colspan="1">Authenticate an existing user</td>
+    <td colspan="1">SignIn</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">-</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">sí</td>
+  </tr>
+</table>
+
+**User Controller**
+
+<table>
+  <tr>
+    <th colspan="1">Tag</th>
+    <th colspan="1">Verbo http</th>
+    <th colspan="1">Endpoint</th>
+    <th colspan="1">Summary</th>
+    <th colspan="1">Description</th>
+    <th colspan="1">OperationId</th>
+  </tr>
+  <tr>
+    <td colspan="1">Users</td>
+    <td colspan="1">GET</td>
+    <td colspan="1">/api/v1/users</td>
+    <td colspan="1">Get all users</td>
+    <td colspan="1">Retrieve all users from the system</td>
+    <td colspan="1">GetAllUsers</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">-</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td colspan="1">Users</td>
+    <td colspan="1">GET</td>
+    <td colspan="1">/api/v1/users/{userId}</td>
+    <td colspan="1">Get user by ID</td>
+    <td colspan="1">Retrieve a specific user by ID</td>
+    <td colspan="1">GetUserById</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">userId</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+</table>
+
+##### 5.2.4.7 Software Deployment Evidence for Sprint Review
+
+
+**Landing Page**
+Para la Landing Page, se utilizó [Vercel](https://vercel.com) para el despliegue de la página.
+
+- Primero nos dirigimos a Import Project, siendo la primera opción.
+![Sprint 4 Landing Deployment Evidence 1](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-1.png)
+- Luego seleccionamos el repositorio de GitHub donde se encuentra el código de la Landing Page. En este caso, Landing-Page.
+![Sprint 4 Landing Deployment Evidence 2](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-2.png)
+- Se nos presenta la siguiente pantalla, donde muestra las opciones por defecto en el despliegue de la página.
+![Sprint 4 Landing Deployment Evidence 3](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-3.png)
+- Como nuestro proyecto es con Vite como framework, ajustamos el Framework Preset, y seleccionamos deploy.
+![Sprint 4 Landing Deployment Evidence 4](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-4.png)
+- Esperamos unos segundos y la página debería desplegarse exitosamente.
+![Sprint 4 Landing Deployment Evidence 5](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-5.png)
+- Podemos apreciar que la página ha sido desplegada con éxito.
+![Sprint 4 Landing Deployment Evidence 6](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-6.png)
+- Con ello, se nos proporciona un link de la página desplegada, donde podemos acceder.
+![Sprint 4 Landing Deployment Evidence 7](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-7.png)
+- Al acceder al link, podemos ver la página desplegada.
+![Sprint 4 Landing Deployment Evidence 8](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-8.png)
+
+**Backend**
+Para el Backend, se utilizo [Railway](https://railway.app) para el despliegue de la API.
+
+- Primero configuramos nuestro dockerfile para que se genere el contenedor adecuado para nuestro proyecto.
+A partir de una imagen de maven genraremos el .jar que compilaremos mediante la imagen de openjdk.
+![Sprint 4 Backend Deployment Evidence 1](assets/BackendDeployment/backend-deployment-1.png)
+
+- Luego de esto, en railway, configuraremos nuestra base de datos postgre
+![Sprint 4 Backend Deployment Evidence 4](assets/BackendDeployment/backend-deployment-4.png)
+![Sprint 4 Backend Deployment Evidence 5](assets/BackendDeployment/backend-deployment-5.png)
+
+
+- Con nuestra base de datos creada, procedemos a configurar nuestro proyecto en railway mediante nuestro repositorio de github de la organizacion.
+![Sprint 4 Backend Deployment Evidence 6](assets/BackendDeployment/backend-deployment-6.png)
+![Sprint 4 Backend Deployment Evidence 7](assets/BackendDeployment/backend-deployment-7.png)
+![Sprint 4 Backend Deployment Evidence 8](assets/BackendDeployment/backend-deployment-8.png)
+
+- Configuramos nuestras variables de entorno correspondientes a la conexion con la base de datos
+![Sprint 4 Backend Deployment Evidence 9](assets/BackendDeployment/backend-deployment-9.png)
+![Sprint 4 Backend Deployment Evidence 10](assets/BackendDeployment/backend-deployment-10.png)
+![Sprint 4 Backend Deployment Evidence 11](assets/BackendDeployment/backend-deployment-11.png)
+
+- Finalmente procederemos a darle al boton de deploy para que nuestra aplicacion empieze a ejecutarse mediante un contenedor de docker.
+![Sprint 4 Backend Deployment Evidence 2](assets/BackendDeployment/backend-deployment-2.png)
+![Sprint 4 Backend Deployment Evidence 3](assets/BackendDeployment/backend-deployment-3.png)
+
+
+**FrontEnd**
+Para el FrontEnd, se utilizó [Vercel](https://vercel.com) para el despliegue de la página.
+
+- Antes del despliegue, debemos crear una cuenta, por lo que continuaremos con GitHub.
+![Sprint 4 FrontEnd Deployment Evidence 1](assets/sprint-3-deployment/frontend-deploy/evidence-1.png)
+- Primero nos dirigimos a Import Project, siendo la primera opción.
+![Sprint 4 FrontEnd Deployment Evidence 2](assets/sprint-3-deployment/frontend-deploy/evidence-2.png)
+- Luego seleccionamos el repositorio de GitHub donde se encuentra el código del FrontEnd. En este caso, Frontend-Finzar.
+![Sprint 4 FrontEnd Deployment Evidence 3](assets/sprint-3-deployment/frontend-deploy/evidence-3.png)
+- Se nos presenta la siguiente pantalla, donde muestra las opciones por defecto en el despliegue de la página. Le damos a deploy.
+![Sprint 4 FrontEnd Deployment Evidence 4](assets/sprint-3-deployment/frontend-deploy/evidence-4.png)
+- Podemos apreciar que la página ha sido desplegada con éxito.
+![Sprint 4 FrontEnd Deployment Evidence 5](assets/sprint-3-deployment/frontend-deploy/evidence-5.png)
+- Con ello, se nos proporciona un link de la página desplegada, donde podemos acceder.
+![Sprint 4 FrontEnd Deployment Evidence 6](assets/sprint-3-deployment/frontend-deploy/evidence-6.png)
+- Al acceder al link, podemos ver la página desplegada.
+![Sprint 4 FrontEnd Deployment Evidence 7](assets/sprint-3-deployment/frontend-deploy/evidence-7.png)
+
+
+##### 5.2.4.8 Team Collaboration Insights during Sprint
+
+Para este sprint se desarrollaron 3 productos siendo estos: landing page, web application y web services. Para la landing page hubo un solo encargado debido a que ya se encontraba en la etapa final de su desarrollo. Para los demas productos todo los integrantes participaron. La distribución de commit fue la siguiente:
+
+Landing Page:
+![team collaboration insight sprint 4 landing 1](assets/teamCollaborationInsightsSprint4/landing-1.png)
+![team collaboration insight sprint 4 landing 2](assets/teamCollaborationInsightsSprint4/landing-2.png)
+
+**Distribución de commits de commits:**
+- Juan Astonitas: 2 commits.
+- Gianluca Pasquale: 1 commits.
+- Sebastian Pacheco: 1 commits.
+
+Frontend:
+![team collaboration insight sprint 4 front 1](assets/teamCollaborationInsightsSprint4/frontend-1.png)
+![team collaboration insight sprint 4 front 2](assets/teamCollaborationInsightsSprint4/frontend-2.png)
+
+**Distribución de commits de commits:**
+- Juan Astonitas: 4 commits.
+- Gianluca Pasquale: 15 commits.
+- Sebastian Pacheco: 52 commits.
+
+Backend:
+![team collaboration insight sprint 4 back 1](assets/teamCollaborationInsightsSprint4/backend-1.png)
+![team collaboration insight sprint 4 back 2](assets/teamCollaborationInsightsSprint4/backend-2.png)
+
+**Distribución de commits de commits:**
+- Juan Astonitas: 113 commits.
+- Gianluca Pasquale: 44 commits.
+- Sebastian Pacheco: 52 commits.
+
+
+
 ### 5.3. Validation Interviews
 
 #### 5.3.1 Diseño de entrevistas
@@ -3316,8 +4277,27 @@ About the Product Video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/perso
 - Las entrevistas de validación y pruebas de usabilidad con usuarios han proporcionado información valiosa para mejorar la experiencia del usuario. A través de estas entrevistas, se identificaron puntos de fricción en cuanto a la funcionalidad y diseño de los servicios web, las cuales se realizarán cambios importantes de diseño en proximás entregas, facilitando una navegación mas intuitiva y una interacción más fluida para los usuarios finales.
 
 
+- Implementar Domain-Driven Design (DDD) en Finzar ha sido una decisión estratégica, ya que permite estructurar la aplicación en bounded contexts claros como Savings, Budget y Wallet, facilitando la evolución y escalabilidad del sistema. Este enfoque asegura una alineación constante con las necesidades del negocio, promoviendo un lenguaje compartido entre desarrolladores y stakeholders. Además, DDD refuerza la modularidad y reduce la complejidad, lo que resulta en un desarrollo más eficiente y sostenible a largo plazo.
+
+- Finzar tiene el potencial de transformar la manera en que las personas, especialmente jóvenes adultos, manejan sus finanzas personales, brindándoles herramientas accesibles y prácticas para gestionar gastos, ahorros y deudas. Al fomentar hábitos financieros saludables, Finzar no solo mejora la estabilidad económica individual, sino que también contribuye a una mayor conciencia sobre la importancia del bienestar financiero, empoderando a sus usuarios para tomar decisiones más informadas y seguras.
+
+## Video About-The-Team
+
+Este video presenta al equipo detrás del producto, mostrando sus roles, valores y cómo trabajan en conjunto para lograr los objetivos de la empresa.
+
+| Título           | Descripción                                                                                           | Duración | Link de Acceso                                                                                                                                                                                                                                                                                                                        |
+|------------------|-------------------------------------------------------------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| About the Team   | Video introductorio sobre el equipo, su misión y cómo contribuyen al desarrollo y éxito del producto. | 7:39     | [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110237_upc_edu_pe/EeZcnOUdDPJIr76pfxy3lk8B2k324AwROzLMUQCPwqkafA?e=cRqaX1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)   |
+
+![new-about-the-team](assets/AboutTheTeam/abouttheteamnew.png)
+
+
 ## Bibliografía
 
 - INEI [Instituto Nacional de Estadística e Informática]. (2023, 11 mayo). *Pobreza monetaria afectó al 27,5% de la población del país en el año 2022*. Recuperado 23 de agosto de 2024, de [https://m.inei.gob.pe/prensa/noticias/pobreza-monetaria-afecto-al-275-de-la-poblacion-del-pais-en-el-ano-2022-14391/](https://m.inei.gob.pe/prensa/noticias/pobreza-monetaria-afecto-al-275-de-la-poblacion-del-pais-en-el-ano-2022-14391/)
 
 ## Anexos
+
+- **Deployment Landing**: [Landing Deployment](https://smartfinance-landing.vercel.app/)
+- **Deployment Backend**: [Backend Deployment Swagger UI](https://backend-finzar-production.up.railway.app/swagger-ui/index.html#/)
+

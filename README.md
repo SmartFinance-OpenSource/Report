@@ -192,7 +192,7 @@ TB2: Se han realizado todas las tareas asignadas para la entrega del TB2, las cu
             - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
             - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
             - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
-            - [5.2.1.4.  Suite Evidence for Sprint Review](#5214--suite-evidence-for-sprint-review)
+            - [5.2.1.4.  Suite Evidence for Sprint Review](#5214-suite-evidence-for-sprint-review)
             - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
             - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
             - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
@@ -361,14 +361,7 @@ en la creación de soluciones financieras accesibles y prácticas para los perua
     <td> <img src="assets/teampics/SebastianPacheco.jpg" style="width:300px"> </td>
     <td> Soy Sebastian Pacheco, tengo 21 años y soy alumno de Ingeniería de Software en la UPC. Me considero una persona trabajadora y activa, priorizando las responsabilidades ante todo, pero también destaco en trabajo en equipo, permitiendo a todos que participen. Tengo conocimiento de C++ y Python, los cuales pongo en práctica mediante proyectos personales. </td>
   </tr>
-    <th colspan="2">Josue Paiva</th>
-  </tr>
-  <tr>
-    <td>
-    <img src="assets/teampics/JosuePaiva.jpeg" style="width:300px">
-    </td>
-    <td> Soy Josue Paiva, tengo 21 años y soy de la carrera de Ingenieria de Software, tengo conocimiento de C++, Python y SQL, me gusta mantener buena comunicación con mis commpañeros de equipo, cumplir con mis tareas y apoyar al resto cuando se requiera. </td>
-  </tr>
+   
 </table>
 
 

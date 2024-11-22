@@ -3366,7 +3366,8 @@ En este item se presentan las evidencias de la ejecución de las tareas y user s
 ![execution-landing7](assets/execution/landingfinzar7.png)
 
 ###### FrontEnd
-
+![execution-frontIAM1](assets/execution/IAM1.png)
+![execution-frontIAM2](assets/execution/IAM2.png)
 ![execution-front1](assets/execution/frontfinzar1.png)
 ![execution-front2](assets/execution/frontfinzar2.png)
 ![execution-front3](assets/execution/frontfinzar3.png)

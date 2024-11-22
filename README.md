@@ -3152,39 +3152,66 @@ En esta sección se presenta el desarrollo colaborativo del equipo en la impleme
 Para la Landing Page, se utilizó [Vercel](https://vercel.com) para el despliegue de la página.
 
 - Primero nos dirigimos a Import Project, siendo la primera opción.
-![Sprint 3 Landing Deployment Evidence 1](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-1.png)
+![Sprint 4 Landing Deployment Evidence 1](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-1.png)
 - Luego seleccionamos el repositorio de GitHub donde se encuentra el código de la Landing Page. En este caso, Landing-Page.
-![Sprint 3 Landing Deployment Evidence 2](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-2.png)
+![Sprint 4 Landing Deployment Evidence 2](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-2.png)
 - Se nos presenta la siguiente pantalla, donde muestra las opciones por defecto en el despliegue de la página.
-![Sprint 3 Landing Deployment Evidence 3](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-3.png)
+![Sprint 4 Landing Deployment Evidence 3](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-3.png)
 - Como nuestro proyecto es con Vite como framework, ajustamos el Framework Preset, y seleccionamos deploy.
-![Sprint 3 Landing Deployment Evidence 4](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-4.png)
+![Sprint 4 Landing Deployment Evidence 4](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-4.png)
 - Esperamos unos segundos y la página debería desplegarse exitosamente.
-![Sprint 3 Landing Deployment Evidence 5](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-5.png)
+![Sprint 4 Landing Deployment Evidence 5](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-5.png)
 - Podemos apreciar que la página ha sido desplegada con éxito.
-![Sprint 3 Landing Deployment Evidence 6](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-6.png)
+![Sprint 4 Landing Deployment Evidence 6](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-6.png)
 - Con ello, se nos proporciona un link de la página desplegada, donde podemos acceder.
-![Sprint 3 Landing Deployment Evidence 7](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-7.png)
+![Sprint 4 Landing Deployment Evidence 7](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-7.png)
 - Al acceder al link, podemos ver la página desplegada.
-![Sprint 3 Landing Deployment Evidence 8](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-8.png)
+![Sprint 4 Landing Deployment Evidence 8](assets/sprint-3-deployment/landing-deploy/newlanding-deployment-evidence-8.png)
+
+**Backend**
+Para el Backend, se utilizo [Railway](https://railway.app) para el despliegue de la API.
+
+- Primero configuramos nuestro dockerfile para que se genere el contenedor adecuado para nuestro proyecto.
+A partir de una imagen de maven genraremos el .jar que compilaremos mediante la imagen de openjdk.
+![Sprint 4 Backend Deployment Evidence 1](assets/BackendDeployment/backend-deployment-1.png)
+
+- Luego de esto, en railway, configuraremos nuestra base de datos postgre
+![Sprint 4 Backend Deployment Evidence 4](assets/BackendDeployment/backend-deployment-4.png)
+![Sprint 4 Backend Deployment Evidence 5](assets/BackendDeployment/backend-deployment-5.png)
+
+
+- Con nuestra base de datos creada, procedemos a configurar nuestro proyecto en railway mediante nuestro repositorio de github de la organizacion.
+![Sprint 4 Backend Deployment Evidence 6](assets/BackendDeployment/backend-deployment-6.png)
+![Sprint 4 Backend Deployment Evidence 7](assets/BackendDeployment/backend-deployment-7.png)
+![Sprint 4 Backend Deployment Evidence 8](assets/BackendDeployment/backend-deployment-8.png)
+
+- Configuramos nuestras variables de entorno correspondientes a la conexion con la base de datos
+![Sprint 4 Backend Deployment Evidence 9](assets/BackendDeployment/backend-deployment-9.png)
+![Sprint 4 Backend Deployment Evidence 10](assets/BackendDeployment/backend-deployment-10.png)
+![Sprint 4 Backend Deployment Evidence 11](assets/BackendDeployment/backend-deployment-11.png)
+
+- Finalmente procederemos a darle al boton de deploy para que nuestra aplicacion empieze a ejecutarse mediante un contenedor de docker.
+![Sprint 4 Backend Deployment Evidence 2](assets/BackendDeployment/backend-deployment-2.png)
+![Sprint 4 Backend Deployment Evidence 3](assets/BackendDeployment/backend-deployment-3.png)
+
 
 **FrontEnd**
 Para el FrontEnd, se utilizó [Vercel](https://vercel.com) para el despliegue de la página.
 
 - Antes del despliegue, debemos crear una cuenta, por lo que continuaremos con GitHub.
-![Sprint 3 FrontEnd Deployment Evidence 1](assets/sprint-3-deployment/frontend-deploy/evidence-1.png)
+![Sprint 4 FrontEnd Deployment Evidence 1](assets/sprint-3-deployment/frontend-deploy/evidence-1.png)
 - Primero nos dirigimos a Import Project, siendo la primera opción.
-![Sprint 3 FrontEnd Deployment Evidence 2](assets/sprint-3-deployment/frontend-deploy/evidence-2.png)
+![Sprint 4 FrontEnd Deployment Evidence 2](assets/sprint-3-deployment/frontend-deploy/evidence-2.png)
 - Luego seleccionamos el repositorio de GitHub donde se encuentra el código del FrontEnd. En este caso, Frontend-Finzar.
-![Sprint 3 FrontEnd Deployment Evidence 3](assets/sprint-3-deployment/frontend-deploy/evidence-3.png)
+![Sprint 4 FrontEnd Deployment Evidence 3](assets/sprint-3-deployment/frontend-deploy/evidence-3.png)
 - Se nos presenta la siguiente pantalla, donde muestra las opciones por defecto en el despliegue de la página. Le damos a deploy.
-![Sprint 3 FrontEnd Deployment Evidence 4](assets/sprint-3-deployment/frontend-deploy/evidence-4.png)
+![Sprint 4 FrontEnd Deployment Evidence 4](assets/sprint-3-deployment/frontend-deploy/evidence-4.png)
 - Podemos apreciar que la página ha sido desplegada con éxito.
-![Sprint 3 FrontEnd Deployment Evidence 5](assets/sprint-3-deployment/frontend-deploy/evidence-5.png)
+![Sprint 4 FrontEnd Deployment Evidence 5](assets/sprint-3-deployment/frontend-deploy/evidence-5.png)
 - Con ello, se nos proporciona un link de la página desplegada, donde podemos acceder.
-![Sprint 3 FrontEnd Deployment Evidence 6](assets/sprint-3-deployment/frontend-deploy/evidence-6.png)
+![Sprint 4 FrontEnd Deployment Evidence 6](assets/sprint-3-deployment/frontend-deploy/evidence-6.png)
 - Al acceder al link, podemos ver la página desplegada.
-![Sprint 3 FrontEnd Deployment Evidence 7](assets/sprint-3-deployment/frontend-deploy/evidence-7.png)
+![Sprint 4 FrontEnd Deployment Evidence 7](assets/sprint-3-deployment/frontend-deploy/evidence-7.png)
 
 
 ##### 5.2.4.8 Team Collaboration Insights during Sprint

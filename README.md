@@ -3473,6 +3473,53 @@ Explicaremos los objetivos y alcances del sprint 4, además de analizar los punt
     <td colspan="1">Commited on (Date)</td>
   </tr>
   <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>feat/iam</td>
+    <td>c1475bf</td>
+    <td>feat(configuration): added web security sfs configuration.</td>
+    <td>feat(configuration): added web security sfs configuration.</td>
+    <td>2024-20-04 </td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>ffeat/transaction-event</td>
+    <td>db53cbc</td>
+    <td>feat(cashflow): add event handler for create period recurrences table on app run.</td>
+    <td>feat(cashflow): add event handler for create period recurrences table on app run.</td>
+    <td>2024-21-04 </td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>develop</td>
+    <td>10b3c47</td>
+    <td>fix(transactions): cashflow transaction now uses income or expense ammount.</td>
+    <td>fix(transactions): cashflow transaction now uses income or expense ammount.</td>
+    <td>2024-22-04 </td>
+  </tr>
+  <tr>
+    <td>https://github.com/SmartFinance-OpenSource/Frontend-Finzar</td>
+    <td>main</td>
+    <td>4226531</td>
+    <td>feat: add dockerfile </td>
+    <td>feat: add dockerfile </td>
+    <td>2024-22-04 </td>
+  </tr>
+
+</table>
+
+
+###### Backend
+
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
     <td>https://github.com/SmartFinance-OpenSource/Backend-Finzar</td>
     <td>feat/transactions-event</td>
     <td>165f258d</td>

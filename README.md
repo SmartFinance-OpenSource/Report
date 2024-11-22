@@ -259,26 +259,26 @@ del ABET – EAC - Student Outcome 3.
       <strong>TB1:</strong> Realicé entrevistas a los segmentos objetivos, lo que me llevó a tener una comunicación efectiva con los usuarios para poder dar a entender el producto en desarrollo.<br>
       <strong>TP:</strong> Fui líder en el diseño y funcionalidad del frontend del webapp, mejorando así la manera de comunicar mis ideas a mis compañeros.<br>
       <strong>TB2:</strong> Dirigí el backend, facilitando la comunicación efectiva entre el líder y el grupo.<br>
-      <strong>TF1:</strong> <br><br>
+      <strong>TF1:</strong> Dirigi y termine la implementacion del backend comunicandome activalente con mis compañeros para una la integracion del back con el front <br>
 <br>
 <br>
       <strong>Sebastián Pacheco</strong> <br>
       <strong>TB1:</strong> En el proyecto, participé en las actividades asignadas y promoví la colaboración, fomentando la confianza mutua y logrando mejoras en el producto.<br>
       <strong>TP:</strong> Coordiné con el grupo para avanzar en el frontend, intercambiando sugerencias que me ayudaron a comprender los objetivos del proyecto y su público objetivo.<br>
       <strong>TB2:</strong> Supervisé y comuniqué cambios en el frontend y backend, apoyando en tareas clave y fomentando el trabajo en equipo.<br><br> 
-      <strong>TF1:</strong> <br><br>
+      <strong>TF1:</strong> Dirigi todo el apartado de IAM dentro del front y back asegurandome de que su implementacion sea correcta y con buenas practicas. <br>
 <br>
       <strong>Gianluca Pasquale</strong><br>
       <strong>TB1:</strong> Contribuí en el liderazgo compartido, facilitando la toma de decisiones y promoviendo la responsabilidad colectiva.<br>
       <strong>TP:</strong> Diseñé la interfaz gráfica para la sección de Savings, añadiendo funcionalidades de CRUD y validaciones.<br>
       <strong>TB2:</strong> Implementé CRUD en Saving Progress, Saving Details y Saving Transactions, colaborando en el desarrollo del frontend.<br><br>
-      <strong>TF1:</strong> <br><br>
+      <strong>TF1:</strong> Liderae la implementacion del back con el front pues el json server que utiliamos para construir la aplicacion era deficiente, comunique esto am i compañeros para corregirlo y conseguir la conexion entre las 2 partes. <br>
 <br>
     <td>
       <strong>TB1:</strong> Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos. <br> <br>
       <strong>TP:</strong> Durante el TP, la comunicación en equipo fue fundamental para coordinar los avances en el diseño del frontend y los criterios de aceptación de historias de usuario. El intercambio constante de ideas permitió a cada miembro ajustar sus entregables según las metas del proyecto, fortaleciendo la visión compartida y facilitando un progreso efectivo.<br> <br>
       <strong>TB2:</strong> La comunicación entre los integrantes del equipo durante esta etapa permitió una ejecución coordinada y eficaz de las tareas, logrando avances significativos en el proyecto. La participación activa y el intercambio constante de ideas fomentaron una cohesión sólida en el equipo, lo cual se reflejó en la calidad de los resultados y el fortalecimiento del trabajo en equipo.
-      <strong>TF1:</strong> <br><br>
+      <strong>TF1:</strong>  La comnicacion activa permitio una correcta implementacion de todos los requisitos planteador para el sprint 4<br>
 
 </td>
   </tr>
@@ -289,26 +289,26 @@ del ABET – EAC - Student Outcome 3.
       <strong>TB1:</strong> Diseñé entrevistas, clarificando ideas de desarrollo y funcionalidad del producto de manera concisa.<br>
       <strong>TP:</strong> Corregí historias de usuario, comprendiendo los errores en mis ideas.<br>
       <strong>TB2:</strong> Coordiné el backend mediante herramientas escritas como Discord y WhatsApp, facilitando la expresión de ideas y revisiones.<br><br>
-      <strong>TF1:</strong> <br><br>
+      <strong>TF1:</strong> Tuve que coumunicar la nueva funcionalidad de los enpoints creador a partir de la conexion de todos los bounded context. <br>
 <br>
       <strong>Sebastián Pacheco</strong><br>
       <strong>TB1:</strong> Promoví la participación en un trabajo colaborativo y busqué la experiencia de mis compañeros.<br>
       <strong>TP:</strong> Mejoré las historias de usuario y trabajé en el frontend.<br>
       <strong>TB2:</strong> Realicé mejoras en el frontend y desarrollé la primera versión del backend de mi bounded context.<br><br>
-      <strong>TF1:</strong> <br><br>
+      <strong>TF1:</strong> Coordine la implemenacion del IAM tanto den el font como en el back. <br>
 <br>
       <strong>Gianluca Pasquale</strong><br>
       <strong>TB1:</strong> Fomenté un entorno inclusivo, estableciendo metas claras y asegurando el cumplimiento de objetivos.<br>
       <strong>TP:</strong> Desarrolle la interración directa con nuestra base de datos para mi bounded context, además corregí secciones importantes del Frontend..<br>
       <strong>TB2:</strong> Desarrollé los endpoints del backend de mi bounded context "Savings" en colaboración con el equipo.<br><br>
-      <strong>TF1:</strong> <br><br>
+      <strong>TF1:</strong> Consegui comunicar todos los errores que habia en la implementecion del front para poder intergrar el front con el back. <br>
 <br>
     </td>
     <td>
       <strong>TB1:</strong> Todos han colaborado activamente y asistido en tareas donde otros tenían dificultades. La planificación de entregas y responsabilidades ha permitido un progreso eficaz y el cumplimiento de objetivos. <br> <br>
       <strong>TP:</strong> La documentación escrita en el TP ayudó a estandarizar criterios de aceptación y a detallar las especificaciones del frontend. Cada miembro se aseguró de documentar los avances y resolver dudas, creando una base sólida de comunicación escrita que facilitó el desarrollo colaborativo.<br><br>
       <strong>TB2:</strong> La colaboración escrita ha sido fundamental para coordinar tareas y revisar avances. Cada miembro ha documentado sus aportes, permitiendo un seguimiento preciso y una organización eficiente del flujo de trabajo. La comunicación escrita clara y detallada contribuyó a mejorar el trabajo en equipo y facilitó la resolución de problemas a lo largo de esta fase del proyecto, al igual que la agilización para la primera implementación del backend.
-      <strong>TF1:</strong> <br><br>
+      <strong>TF1:</strong> la colaboracion mediante la comunicacion efectiva hizo que todos apoyaran en la implementacion de los requisitos para el TF por lo que se concreto un trabajo que demuestra la union y solidaridad con los demas.<br>
 </td>
   </tr>
 </table>

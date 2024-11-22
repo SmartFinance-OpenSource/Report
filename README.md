@@ -4298,6 +4298,7 @@ Este video presenta al equipo detrás del producto, mostrando sus roles, valores
 
 ## Anexos
 
-- **Deployment Landing**: [Landing Deployment](https://smartfinance-landing.vercel.app/)
-- **Deployment Backend**: [Backend Deployment Swagger UI](https://backend-finzar-production.up.railway.app/swagger-ui/index.html#/)
+- **Deployment Landing:** [Landing Deployment](https://smartfinance-landing.vercel.app/)
+- **Deployment Fronend:** [Frontend Deployment](https://frontend-finzar-wzu1.vercel.app/)
+- **Deployment Backend:** [Backend Deployment Swagger UI](https://backend-finzar-production.up.railway.app/swagger-ui/index.html#/)
 

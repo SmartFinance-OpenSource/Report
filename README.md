@@ -3353,6 +3353,37 @@ Given la plataforma tiene un mantenimiento pendiente o nuevas funcionalidades, w
   </table>
 
 ##### 5.2.4.5 Execution Evidence for Sprint Review
+En este item se presentan las evidencias de la ejecución de las tareas y user stories del Sprint 4, incluyendo el desarrollo de la Landing Page, FrontEnd y BackEnd.
+
+###### Landing Page
+
+![execution-landing1](assets/execution/landingfinzar1.png)
+![execution-landing2](assets/execution/landingfinzar2.png)
+![execution-landing3](assets/execution/landingfinzar3.png)
+![execution-landing4](assets/execution/landingfinzar4.png)
+![execution-landing5](assets/execution/landingfinzar5.png)
+![execution-landing6](assets/execution/landingfinzar6.png)
+![execution-landing7](assets/execution/landingfinzar7.png)
+
+###### FrontEnd
+![execution-frontIAM1](assets/execution/IAM1.png)
+![execution-frontIAM2](assets/execution/IAM2.png)
+![execution-front1](assets/execution/frontfinzar1.png)
+![execution-front2](assets/execution/frontfinzar2.png)
+![execution-front3](assets/execution/frontfinzar3.png)
+![execution-front4](assets/execution/frontfinzar4.png)
+![execution-front5](assets/execution/frontfinzar5.png)
+![execution-front6](assets/execution/frontfinzar6.png)
+![execution-front7](assets/execution/frontfinzar7.png)
+![execution-front8](assets/execution/frontfinzar8.png)
+![execution-front9](assets/execution/frontfinzar9.png)
+![execution-front10](assets/execution/frontfinzar10.png)
+
+###### BackEnd
+
+![execution-back1](assets/sprint4/back1.png)
+![execution-back2](assets/sprint4/back2.png)
+![execution-back3](assets/sprint4/back3.png)
 
 ##### 5.2.4.6 Services Documentation Evidence for Sprint Review
 

@@ -39,7 +39,8 @@
 | 2.1     | 02/11/2024 | Todos los integrantes           | Desarrollo de las Evidencias del Sprint 3 y evaluación según heurísticas |
 | 3.0     | 03/11/2024 | Todos los integrantes           | Release TB2                                                              |
 | 3.1     | 11/11/2024 | Todos los integrantes           | Desarrollo del sprint planning y sprint backlog 4                        |
-| 3.1     | 22/11/2024 | Todos los integrantes           | Release TF                                                               |
+| 4.0     | 22/11/2024 | Todos los integrantes           | Release TF                                                               |
+
 
 
 ## Project Report Collaboration Insights
@@ -231,7 +232,6 @@ TB2: Se han realizado todas las tareas asignadas para la entrega del TB2, las cu
 
 
 - [Conclusiones](#conclusiones)
-- [About-The-Team](#abouttheteam)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
@@ -745,47 +745,7 @@ todo dentro de una plataforma flexible y adaptable.
 </table>
 
 #### 2.1.2. Estrategias y tácticas frente a competidores.
-
-Para afrontar las fortalezas y aprovechar las debilidades de nuestros competidores, así como el contexto de oportunidades y amenazas, SmartFinance implementará las siguientes estrategias y tácticas:
-
-###### Estrategias
-
-1. **Diferenciación por Localización**  
-   Enfocar el desarrollo y marketing en las necesidades específicas de los jóvenes peruanos, ofreciendo soluciones adaptadas a su contexto económico y cultural.
-
-2. **Educación Financiera**  
-   Incluir módulos de educación financiera dentro de la aplicación para ayudar a los usuarios a mejorar sus conocimientos y habilidades en la gestión de sus finanzas personales.
-
-3. **Interfaz Intuitiva y Personalización**  
-   Mantener una interfaz limpia y fácil de usar, con opciones de personalización que permitan a los usuarios adaptar la aplicación a sus necesidades específicas.
-
-4. **Modelo Freemium**  
-   Ofrecer una versión gratuita con funcionalidades básicas y una versión premium con características avanzadas a un costo accesible, para atraer a una mayor base de usuarios.
-
-5. **Integración con Bancos Locales**  
-   Establecer alianzas con bancos locales para facilitar la sincronización de cuentas y ofrecer servicios financieros adicionales.
-
-###### Tácticas
-
-1. **Marketing Digital y Colaboraciones**  
-   Utilizar marketing digital en redes sociales y colaboraciones con influencers locales para aumentar la visibilidad y atraer a nuevos usuarios.
-
-2. **Feedback Continuo**  
-   Implementar un sistema de feedback continuo para recibir y analizar las opiniones de los usuarios, permitiendo mejoras constantes en la aplicación.
-
-3. **Promociones y Descuentos**  
-   Ofrecer promociones y descuentos en la suscripción premium para incentivar la conversión de usuarios gratuitos a usuarios de pago.
-
-4. **Soporte Multicanal**  
-   Proporcionar soporte técnico en español a través de múltiples canales (chat en vivo, correo electrónico, redes sociales) para mejorar la experiencia del usuario.
-
-5. **Actualizaciones Frecuentes**  
-   Realizar actualizaciones frecuentes de la aplicación para introducir nuevas funcionalidades y mejoras basadas en las necesidades y sugerencias de los usuarios.
-
-
-
 ### 2.2. Entrevistas.
-
 #### 2.2.1. Diseño de entrevistas
 
 ##### Segmento 1:
@@ -1315,18 +1275,22 @@ Los sistemas de etiquetado seran los mismos que presentamos en organization syst
 </table>
 
 #### 4.2.3. SEO Tags and Meta Tags
+
 Landing Page <br>
 Title: Finzar - Finanzas Personales, Mas Na <br>
 Description: Finzar es una plataforma orienta al seguimiento de las finanzas personales del usuario, brindándole herramientas de creación de billeteras y metas de ahorro. <br> 
 Meta Keywords: finanzas personales, gestión financiera, ahorro, metas de ahorro. <br> 
 Finzar Meta Author: SmartFinance
 
-Aplicacion Open Source
+
+Meta Description: Finzar te permitira gestionar tus finanzas personales de manera rapida y eficiente, registra tus gastos, ponte límites y cumple tus objetivos.
+
 
 Title: Finzar – Finanzas Personales, Mas Na <br>
 Description Con la app de Finzar, gestiona tus finanzas personales en cualquier momento y lugar. Crea y administra billeteras, establece metas de ahorro, controla tus gastos y visualiza tu progreso financiero de forma fácil y personalizada. <br> 
 Meta Keywords: finanzas personales, gestión financiera, ahorro, metas de ahorro. <br> 
 Finzar Meta Author: SmartFinance
+
 
 Meta Author: SmartFinance
 
@@ -1888,7 +1852,6 @@ Sprint 1 TB1
   </tr>
   </tr>
 </table>
-
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
 En esta entrega, nuestro equipo ha desplegado con éxito la landing page.
@@ -1974,7 +1937,6 @@ Sprint 2 TP
     <td>Given el desarrollador tiene acceso al repositorio del proyecto, when sigue las instrucciones de configuración, then debería poder ejecutar la aplicación localmente.</td>
   </tr>
 </table>
-
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 - **Design**
@@ -3229,6 +3191,7 @@ En esta sección se presenta el desarrollo colaborativo del equipo en la impleme
 - Josue Gonzalo Paiva Quispe: 12 commits.
 - Sebastian Pacheco Astiguetta: 18 commits.
 
+
 #### 5.2.4. Sprint 4
 
 ##### 5.2.4.1 Sprint Planning 4
@@ -4123,6 +4086,7 @@ Backend:
 - Sebastian Pacheco: 52 commits.
 
 
+
 ### 5.3. Validation Interviews
 
 #### 5.3.1 Diseño de entrevistas
@@ -4192,51 +4156,50 @@ Validar la usabilidad y efectividad de la landing page y de los flujos de usuari
 
 A continuación se presentan los detalles clave de las entrevistas realizadas a los usuarios
 
-| Entrevista 1: Jovenes adultos            |                                                                                                                                                                                 |
-|------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistado                      | Flavio Gallardo                                                                                                                                                                 |
-| Edad                                     | 20 Años                                                                                                                                                                         |
-| Profesión                                | Estudiante de Derecho                                                                                                                                                           |
-| Departamento                             | Lima, Perú                                                                                                                                                                      |
-| Duración de la Entrevista                | 03:20 min                                                                                                                                                                       |
-| **Captura de la Entrevista**             | <img src="assets/FinzarValidation/capturaFlavio.png">                                                                                                                           |
-| Visualización de Overview                | Comenta que la información es clara y útil, le permitió ver un resumen rápido de sus gastos e ingresos. Sugeriría incluir un pequeño tutorial inicial para los nuevos usuarios. |
-| Creación de Billeteras                   | El proceso es intuitivo, los botones y el flujo la guiaron bien. Sugiere un mensaje de confirmación más claro al finalizar la creación para mayor seguridad.                    |
-| Visualización de Movimiento de billetera | La categorización de movimientos es clara y el desglose le pareció adecuado. Propone agregar iconos para diferenciar mejor entre ingresos y gastos.                             |
-| Creación de Metas de Ahorro              | Considera el flujo claro y útil, le gustó poder establecer una cantidad, categoría y plazo. No encontró confusión, pero le gustaría hacer seguimiento a sus metas.              |
-| Visualización de Reportes Financieros    | La información es fácil de entender con gráficos claros. Sugiere agregar filtros personalizados para visualizar datos por categorías o períodos específicos.                    |
-| Navegación general                       | Le pareció adecuada y útil, sin mayores observaciones.                                                                                                                          |
+| Entrevista 1: Jovenes adultos |                                                                                                                                                                         |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                  | Flavio Gallardo                                                                                                                                           |
+| Edad                                                 | 20 Años                                                                                                                                                                |
+| Profesión                                            | Estudiante de Derecho                                                                                                                                             |
+| Departamento                                         | Lima, Perú                                                                                                                                                             |
+| Duración de la Entrevista                            | 03:20 min                                                                                                                                                              |
+| **Análisis de la Entrevista**                        |                                                                                                                                                                         |
+| Visualización de Overview                            | Comenta que la información es clara y útil, le permitió ver un resumen rápido de sus gastos e ingresos. Sugeriría incluir un pequeño tutorial inicial para los nuevos usuarios. |
+| Creación de Billeteras                               | El proceso es intuitivo, los botones y el flujo la guiaron bien. Sugiere un mensaje de confirmación más claro al finalizar la creación para mayor seguridad.             |
+| Visualización de Movimiento de billetera             | La categorización de movimientos es clara y el desglose le pareció adecuado. Propone agregar iconos para diferenciar mejor entre ingresos y gastos.                      |
+| Creación de Metas de Ahorro                          | Considera el flujo claro y útil, le gustó poder establecer una cantidad, categoría y plazo. No encontró confusión, pero le gustaría hacer seguimiento a sus metas.       |
+| Visualización de Reportes Financieros                | La información es fácil de entender con gráficos claros. Sugiere agregar filtros personalizados para visualizar datos por categorías o períodos específicos.              |
+| Navegación general                                   | Le pareció adecuada y útil, sin mayores observaciones.                                                                                                                  |
 
-| Entrevista 2: Jovenes adultos            |                                                                                                                                                                                                                                                                                                                            |
-|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistado                      | Alvaro Alarcón                                                                                                                                                                                                                                                                                                             |
-| Edad                                     | 20 Años                                                                                                                                                                                                                                                                                                                    |
-| Profesión                                | Estudiante de Economía                                                                                                                                                                                                                                                                                                     |
-| Departamento                             | Lima, Perú                                                                                                                                                                                                                                                                                                                 |
-| Duración de la Entrevista                | 03:20 min                                                                                                                                                                                                                                                                                                                  |
-| **Captura de la Entrevista**             | <img src="assets/FinzarValidation/capturaAlvaro.png">                                                                                                                                                                                                                                                                      |
-| Visualización de Overview                | Comenta que la información es clara y que cada sección está etiquetada de manera ordenada. Sin embargo, menciona que en algunos momentos se confundió al buscar ciertos detalles, como el acceso a las billeteras. Sugiere una vista simplificada para mostrar solo los puntos clave y expandir detalles según su interés. |
-| Creación de Billeteras                   | El proceso es intuitivo, con pasos lógicos, aunque tuvo que verificar dos veces para asegurarse de que ingresó correctamente el nombre y tipo de billetera. El sistema le mostró un cuadro para la creación, lo cual facilitó el proceso sin mayores problemas.                                                            |
-| Visualización de Movimiento de billetera | La información de los movimientos es clara y ordenada, especialmente la sección de gastos, que está bien categorizada. Propone añadir un código de colores o etiquetas para distinguir ingresos y gastos rápidamente.                                                                                                      |
-| Creación de Metas de Ahorro              | Considera el flujo claro y directo, le agradó poder personalizar la categoría y asignar una fecha específica. Sugiere añadir un recordatorio visual para hacer seguimiento al progreso de la meta.                                                                                                                         |
-| Visualización de Reportes Financieros    | La información en los reportes es fácil de entender, aunque algunos gráficos parecen muy simples. Sugiere incluir una breve explicación en cada gráfico y permitir la personalización para comparar períodos o categorías.                                                                                                 |
-| Navegación general                       | Le pareció adecuada y útil, sin mayores observaciones.                                                                                                                                                                                                                                                                     |
+| Entrevista 2: Jovenes adultos |                                                                                                                                                                         |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                  | Alvaro Alarcón                                                                                                                                       |
+| Edad                                                 | 20 Años                                                                                                                                                                |
+| Profesión                                            | Estudiante de Economía                                                                                                                                             |
+| Departamento                                         | Lima, Perú                                                                                                                                                             |
+| Duración de la Entrevista                            | 03:20 min                                                                                                                                                              |
+| **Análisis de la Entrevista**                        |                                                                                                                                                                         |
+| Visualización de Overview                            | Comenta que la información es clara y que cada sección está etiquetada de manera ordenada. Sin embargo, menciona que en algunos momentos se confundió al buscar ciertos detalles, como el acceso a las billeteras. Sugiere una vista simplificada para mostrar solo los puntos clave y expandir detalles según su interés. |
+| Creación de Billeteras                               | El proceso es intuitivo, con pasos lógicos, aunque tuvo que verificar dos veces para asegurarse de que ingresó correctamente el nombre y tipo de billetera. El sistema le mostró un cuadro para la creación, lo cual facilitó el proceso sin mayores problemas. |
+| Visualización de Movimiento de billetera             | La información de los movimientos es clara y ordenada, especialmente la sección de gastos, que está bien categorizada. Propone añadir un código de colores o etiquetas para distinguir ingresos y gastos rápidamente. |
+| Creación de Metas de Ahorro                          | Considera el flujo claro y directo, le agradó poder personalizar la categoría y asignar una fecha específica. Sugiere añadir un recordatorio visual para hacer seguimiento al progreso de la meta. |
+| Visualización de Reportes Financieros                | La información en los reportes es fácil de entender, aunque algunos gráficos parecen muy simples. Sugiere incluir una breve explicación en cada gráfico y permitir la personalización para comparar períodos o categorías. |
+| Navegación general                                   | Le pareció adecuada y útil, sin mayores observaciones.                                                                                                                  |
 
-| Entrevista 3: Jovenes adultos            |                                                                                                                                                                         |
-|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistado                      | Diego Paiva                                                                                                                                                             |
-| Edad                                     | 22 Años                                                                                                                                                                 |
-| Profesión                                | Estudiante de Ciencias de la comunicación                                                                                                                               |
-| Departamento                             | Lima, Perú                                                                                                                                                              |
-| Duración de la Entrevista                | 03:37 min                                                                                                                                                               |
-| **Captura de la Entrevista**             | <img src="assets/FinzarValidation/capturaDiego.png">                                                                                                                    |
-| Visualización de Overview                | Le parece que la interfaz es clara y presenta correctamente los elementos importantes en pantalla, tanto la informacion como la funcionalidad de creacion de billeteras |
-| Creación de Billeteras                   | Le parece una funcion clara con un boton con icono pertinente, interfaz de creacion clara y simple                                                                      |
-| Visualización de Movimiento de billetera | Considera que cuenta con una interfaz funcional, se podria mejorar haciendola mas vistosa y que se diferencie de las demas.                                             |
-| Creación de Metas de Ahorro              | Al igual que la creacion de billeteras le parece una interfaz simple pero funcional y directa al punto                                                                  |
-| Visualización de Reportes Financieros    | Si bien le parecen unos graficos agradables y funcionales, considera que añadirle variedad beneficiaria la experiencia del usuario                                      |
-| Navegación general                       | Interfaz clara y sencilla, no comenta sobre problemas en su navegacion.                                                                                                 |
-
+| Entrevista 3: Jovenes adultos |                                                                                                                                                                         |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                  | Diego Paiva                                                                                                                                     |
+| Edad                                                 | 22 Años                                                                                                                                                                |
+| Profesión                                            | Estudiante de Ciencias de la comunicación                                                                                                                                             |
+| Departamento                                         | Lima, Perú                                                                                                                                                             |
+| Duración de la Entrevista                            | 03:37 min                                                                                                                                                              |
+| **Análisis de la Entrevista**                        |                                                                                                                                                                         |
+| Visualización de Overview                            | Le parece que la interfaz es clara y presenta correctamente los elementos importantes en pantalla, tanto la informacion como la funcionalidad de creacion de billeteras |
+| Creación de Billeteras                               | Le parece una funcion clara con un boton con icono pertinente, interfaz de creacion clara y simple |
+| Visualización de Movimiento de billetera             | Considera que cuenta con una interfaz funcional, se podria mejorar haciendola mas vistosa y que se diferencie de las demas. |
+| Creación de Metas de Ahorro                          | Al igual que la creacion de billeteras le parece una interfaz simple pero funcional y directa al punto |
+| Visualización de Reportes Financieros                | Si bien le parecen unos graficos agradables y funcionales, considera que añadirle variedad beneficiaria la experiencia del usuario |
+| Navegación general                                   | Interfaz clara y sencilla, no comenta sobre problemas en su navegacion.                                                                                                                  |
 ##### 5.3.3. Evaluaciones según heurísticas.
 UX Heuristics & Principles Evaluation
 Usability - Inclusive Design - Information Architecture
@@ -4293,13 +4256,10 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 ### 5.4. Video About-the-Product
 
-Este video proporciona una visión completa sobre el producto, destacando sus características principales, beneficios y el impacto que puede tener en los usuarios.
-
-| Título            | Descripción                                                   | Duración | Link de Acceso                                                                                                                                                                                                                                                                                                                                                                                                       |
-|-------------------|---------------------------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| About the Product | Video explicativo sobre el producto, sus características, y cómo puede ser útil para el usuario final. | 0:45     | [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110291_upc_edu_pe/EfCER3yQPs5AsO4Y715HfjkBMhXV68HWy-XOHCBIhGo6Fg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SaCgAm) |
+About the Product Video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110291_upc_edu_pe/EfCER3yQPs5AsO4Y715HfjkBMhXV68HWy-XOHCBIhGo6Fg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SaCgAm">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110291_upc_edu_pe/EfCER3yQPs5AsO4Y715HfjkBMhXV68HWy-XOHCBIhGo6Fg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SaCgAm</a>
 
 ![about-the-product](assets/AboutTheProduct/abouttheproduct.png)
+
 
 
 ## Conclusiones
@@ -4316,6 +4276,7 @@ Este video proporciona una visión completa sobre el producto, destacando sus ca
 
 - Las entrevistas de validación y pruebas de usabilidad con usuarios han proporcionado información valiosa para mejorar la experiencia del usuario. A través de estas entrevistas, se identificaron puntos de fricción en cuanto a la funcionalidad y diseño de los servicios web, las cuales se realizarán cambios importantes de diseño en proximás entregas, facilitando una navegación mas intuitiva y una interacción más fluida para los usuarios finales.
 
+
 - Implementar Domain-Driven Design (DDD) en Finzar ha sido una decisión estratégica, ya que permite estructurar la aplicación en bounded contexts claros como Savings, Budget y Wallet, facilitando la evolución y escalabilidad del sistema. Este enfoque asegura una alineación constante con las necesidades del negocio, promoviendo un lenguaje compartido entre desarrolladores y stakeholders. Además, DDD refuerza la modularidad y reduce la complejidad, lo que resulta en un desarrollo más eficiente y sostenible a largo plazo.
 
 - Finzar tiene el potencial de transformar la manera en que las personas, especialmente jóvenes adultos, manejan sus finanzas personales, brindándoles herramientas accesibles y prácticas para gestionar gastos, ahorros y deudas. Al fomentar hábitos financieros saludables, Finzar no solo mejora la estabilidad económica individual, sino que también contribuye a una mayor conciencia sobre la importancia del bienestar financiero, empoderando a sus usuarios para tomar decisiones más informadas y seguras.
@@ -4329,6 +4290,7 @@ Este video presenta al equipo detrás del producto, mostrando sus roles, valores
 | About the Team   | Video introductorio sobre el equipo, su misión y cómo contribuyen al desarrollo y éxito del producto. | 7:39     | [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110237_upc_edu_pe/EeZcnOUdDPJIr76pfxy3lk8B2k324AwROzLMUQCPwqkafA?e=cRqaX1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)   |
 
 ![new-about-the-team](assets/AboutTheTeam/abouttheteamnew.png)
+
 
 ## Bibliografía
 

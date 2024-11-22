@@ -3578,6 +3578,34 @@ Para el FrontEnd, se utilizó [Vercel](https://vercel.com) para el despliegue de
 
 ##### 5.2.4.8 Team Collaboration Insights during Sprint
 
+Para este sprint se desarrollaron 3 productos siendo estos: landing page, web application y web services. Para la landing page hubo un solo encargado debido a que ya se encontraba en la etapa final de su desarrollo. Para los demas productos todo los integrantes participaron. La distribución de commit fue la siguiente:
+
+Landing Page:
+![team collaboration insight sprint 4 landing 1](assets/teamCollaborationInsightsSprint4/landing-1.png)
+![team collaboration insight sprint 4 landing 2](assets/teamCollaborationInsightsSprint4/landing-2.png)
+
+**Distribución de commits de commits:**
+- Juan Astonitas: 2 commits.
+- Gianluca Pasquale: 1 commits.
+- Sebastian Pacheco: 1 commits.
+
+Frontend:
+![team collaboration insight sprint 4 front 1](assets/teamCollaborationInsightsSprint4/frontend-1.png)
+![team collaboration insight sprint 4 front 2](assets/teamCollaborationInsightsSprint4/frontend-2.png)
+
+**Distribución de commits de commits:**
+- Juan Astonitas: 4 commits.
+- Gianluca Pasquale: 15 commits.
+- Sebastian Pacheco: 52 commits.
+
+Backend:
+![team collaboration insight sprint 4 back 1](assets/teamCollaborationInsightsSprint4/backend-1.png)
+![team collaboration insight sprint 4 back 2](assets/teamCollaborationInsightsSprint4/backend-2.png)
+
+**Distribución de commits de commits:**
+- Juan Astonitas: 113 commits.
+- Gianluca Pasquale: 44 commits.
+- Sebastian Pacheco: 52 commits.
 
 
 ### 5.3. Validation Interviews

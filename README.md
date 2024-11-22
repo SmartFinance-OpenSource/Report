@@ -99,6 +99,15 @@ TB2: Se han realizado todas las tareas asignadas para la entrega del TB2, las cu
 
 
 
+TB2: Se han realizado todas las tareas asignadas para la entrega del TB2, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/SmartFinance-OpenSource. Para elaborar el informe cada miembro corrigio y añadio puntos que se  debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/SmartFinance-OpenSource/Report, de la misma manera para el desarrollo de la web application se trabajo en este repositorio: https://github.com/SmartFinance-OpenSource/Frontend-Finzar, por ultimo el desarrollo del backend se realizó en el siguiente enlace: https://github.com/SmartFinance-OpenSource/Backend-Finzar.
+
+![insight3](assets/projectColaborationInsigths/insight3.png)
+
+**Distribución de commits de commits:**
+- Juan Diego Astonitas Díaz: 17 commits.
+- Gianluca Santino Pasquale Barrenechea: 66 commits.
+- Sebastian Pacheco Astiguetta: 10 commits.
+
 ## Contenido
 
 - [Student Outcome](#student-outcome)
